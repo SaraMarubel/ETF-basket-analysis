@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T02:32:37.582164+00:00",
+  "generated_at": "2026-07-25T02:44:45.283083+00:00",
   "etfs": {
     "VOO": {
       "ticker": "VOO",
@@ -5130,7 +5130,7 @@
       "fund_family": "Vanguard",
       "price": 221.02,
       "change_1d_pct": 0.53,
-      "change_1y_pct": 24.9,
+      "change_1y_pct": 24.89,
       "change_ytd_pct": 15.83,
       "history": [
         {
