@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+"""
+Fetches recent news headlines relevant to each ETF (policy, politics, market
+moves affecting the fund's holdings/sector) via NewsAPI.org.
+
+Requires the NEWSAPI_KEY environment variable (free key from
+https://newsapi.org). If it isn't set, writes an empty result set instead of
+failing, so the rest of the pipeline still runs.
+
+Output: docs/data/news.json
+"""
+import json
+import os
+import sys
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+import requests
+
+ROOT = Path(__file__).resolve().parent.parent
+ETFS_FILE = ROOT / "etfs.json"
+OUT_FILE = ROOT / "docs" / "data" / "news.json"
+
+NEWSAPI_URL = "https://newsapi.org/v2/everything"
+ARTICLES_PER_ETF = 6
+
+
+def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
+    query = f'"{ticker}" OR "{name}"'
+    params = {
+        "q": query,
+        "language": "en",
+        "sortBy": "publishedAt",
+        "pageSize": ARTICLES_PER_ETF,
+        "apiKey": api_key,
+    }
+    try:
+        resp = requests.get(NEWSAPI_URL, params=params, timeout=15)
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception as e:
+        print(f"  news fetch failed for {ticker}: {e}", file=sys.stderr)
+        return []
+
+    articles = []
+    for a in data.get("articles", [])[:ARTICLES_PER_ETF]:
+        articles.append({
+            "title": a.get("title"),
+            "source": (a.get("source") or {}).get("name"),
+            "url": a.get("url"),
+            "published_at": a.get("publishedAt"),
+            "description": a.get("description"),
+        })
+    return articles
+
+
+def main():
+    api_key = os.environ.get("NEWSAPI_KEY")
+    etfs = json.loads(ETFS_FILE.read_text())
+
+    news = {}
+    if not api_key:
+        print("NEWSAPI_KEY not set - writing empty news set.", file=sys.stderr)
+    else:
+        for i, etf in enumerate(etfs, 1):
+            ticker = etf["ticker"]
+            print(f"[{i}/{len(etfs)}] fetching news for {ticker}...", file=sys.stderr)
+            news[ticker] = fetch_news_for(ticker, etf["name"], api_key)
+            time.sleep(1.1)  # stay under free-tier rate limits
+
+    output = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "has_key": bool(api_key),
+        "news": news,
+    }
+    OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    OUT_FILE.write_text(json.dumps(output, indent=2))
+    print(f"wrote {OUT_FILE}", file=sys.stderr)
+
+
+if __name__ == "__main__":
+    main()

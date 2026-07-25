@@ -1,0 +1,182 @@
+[
+  {
+    "ticker": "VOO",
+    "name": "Vanguard S&P 500 ETF",
+    "manager": "Vanguard",
+    "category": "US Large-Cap Equity",
+    "inception_date": "2010-09-07",
+    "currency": "USD",
+    "expense_ratio": 0.03
+  },
+  {
+    "ticker": "IVV",
+    "name": "iShares Core S&P 500 ETF",
+    "manager": "BlackRock",
+    "category": "US Large-Cap Equity",
+    "inception_date": "2000-05-15",
+    "currency": "USD",
+    "expense_ratio": 0.03
+  },
+  {
+    "ticker": "SPY",
+    "name": "SPDR S&P 500 ETF Trust",
+    "manager": "State Street",
+    "category": "US Large-Cap Equity",
+    "inception_date": "1993-01-22",
+    "currency": "USD",
+    "expense_ratio": 0.09
+  },
+  {
+    "ticker": "VTI",
+    "name": "Vanguard Total Stock Market ETF",
+    "manager": "Vanguard",
+    "category": "US Total Market Equity",
+    "inception_date": "2001-05-24",
+    "currency": "USD",
+    "expense_ratio": 0.03
+  },
+  {
+    "ticker": "QQQ",
+    "name": "Invesco QQQ Trust",
+    "manager": "Invesco",
+    "category": "US Large-Cap Growth (Nasdaq-100)",
+    "inception_date": "1999-03-10",
+    "currency": "USD",
+    "expense_ratio": 0.2
+  },
+  {
+    "ticker": "IEFA",
+    "name": "iShares Core MSCI EAFE ETF",
+    "manager": "BlackRock",
+    "category": "International Developed Equity",
+    "inception_date": "2012-10-18",
+    "currency": "USD",
+    "expense_ratio": 0.07
+  },
+  {
+    "ticker": "VEA",
+    "name": "Vanguard FTSE Developed Markets ETF",
+    "manager": "Vanguard",
+    "category": "International Developed Equity",
+    "inception_date": "2007-07-20",
+    "currency": "USD",
+    "expense_ratio": 0.05
+  },
+  {
+    "ticker": "VUG",
+    "name": "Vanguard Growth ETF",
+    "manager": "Vanguard",
+    "category": "US Large-Cap Growth",
+    "inception_date": "2004-01-26",
+    "currency": "USD",
+    "expense_ratio": 0.04
+  },
+  {
+    "ticker": "BND",
+    "name": "Vanguard Total Bond Market ETF",
+    "manager": "Vanguard",
+    "category": "US Aggregate Bond",
+    "inception_date": "2007-04-03",
+    "currency": "USD",
+    "expense_ratio": 0.03
+  },
+  {
+    "ticker": "SCHD",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "manager": "Charles Schwab",
+    "category": "US Dividend Equity",
+    "inception_date": "2011-10-20",
+    "currency": "USD",
+    "expense_ratio": 0.06
+  },
+  {
+    "ticker": "IEMG",
+    "name": "iShares Core MSCI Emerging Markets ETF",
+    "manager": "BlackRock",
+    "category": "Emerging Markets Equity",
+    "inception_date": "2012-10-18",
+    "currency": "USD",
+    "expense_ratio": 0.09
+  },
+  {
+    "ticker": "AGG",
+    "name": "iShares Core U.S. Aggregate Bond ETF",
+    "manager": "BlackRock",
+    "category": "US Aggregate Bond",
+    "inception_date": "2003-09-22",
+    "currency": "USD",
+    "expense_ratio": 0.03
+  },
+  {
+    "ticker": "VTV",
+    "name": "Vanguard Value ETF",
+    "manager": "Vanguard",
+    "category": "US Large-Cap Value",
+    "inception_date": "2004-01-26",
+    "currency": "USD",
+    "expense_ratio": 0.04
+  },
+  {
+    "ticker": "VXUS",
+    "name": "Vanguard Total International Stock ETF",
+    "manager": "Vanguard",
+    "category": "Total International Equity",
+    "inception_date": "2011-01-26",
+    "currency": "USD",
+    "expense_ratio": 0.05
+  },
+  {
+    "ticker": "VWO",
+    "name": "Vanguard FTSE Emerging Markets ETF",
+    "manager": "Vanguard",
+    "category": "Emerging Markets Equity",
+    "inception_date": "2005-03-04",
+    "currency": "USD",
+    "expense_ratio": 0.07
+  },
+  {
+    "ticker": "GLD",
+    "name": "SPDR Gold Shares",
+    "manager": "State Street",
+    "category": "Commodities (Gold)",
+    "inception_date": "2004-11-18",
+    "currency": "USD",
+    "expense_ratio": 0.4
+  },
+  {
+    "ticker": "IWF",
+    "name": "iShares Russell 1000 Growth ETF",
+    "manager": "BlackRock",
+    "category": "US Large-Cap Growth",
+    "inception_date": "2000-05-22",
+    "currency": "USD",
+    "expense_ratio": 0.19
+  },
+  {
+    "ticker": "IJH",
+    "name": "iShares Core S&P Mid-Cap ETF",
+    "manager": "BlackRock",
+    "category": "US Mid-Cap Equity",
+    "inception_date": "2000-05-22",
+    "currency": "USD",
+    "expense_ratio": 0.05
+  },
+  {
+    "ticker": "VIG",
+    "name": "Vanguard Dividend Appreciation ETF",
+    "manager": "Vanguard",
+    "category": "US Dividend Growth Equity",
+    "inception_date": "2006-04-21",
+    "currency": "USD",
+    "expense_ratio": 0.05
+  },
+  {
+    "ticker": "IJR",
+    "name": "iShares Core S&P Small-Cap ETF",
+    "manager": "BlackRock",
+    "category": "US Small-Cap Equity",
+    "inception_date": "2000-05-22",
+    "currency": "USD",
+    "expense_ratio": 0.06
+  }
+]

@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ETF Basket Analysis</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div>
+      <h1>ETF Basket Analysis</h1>
+      <p>Live-ish profiles of the 20 largest ETFs by assets under management: composition, performance, and the strongest/weakest holding inside each basket. All prices in the fund's native trading currency (badge on each card) &mdash; the majority below trade in <strong>USD</strong>.</p>
+    </div>
+    <div class="meta-line" id="meta-line">Loading data&hellip;</div>
+  </header>
+
+  <div class="stat-row" id="stat-row">
+    <!-- filled by JS -->
+  </div>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>1-Year performance by ETF</h2>
+        <div class="panel-sub">Percentage price change over the trailing 12 months</div>
+      </div>
+      <div style="display:flex; align-items:center; gap:14px;">
+        <div class="legend-note">
+          <span><span class="sw" style="background:var(--good-status)"></span>Gain</span>
+          <span><span class="sw" style="background:var(--critical)"></span>Loss</span>
+        </div>
+        <button class="table-toggle" id="perf-table-toggle">View as table</button>
+      </div>
+    </div>
+    <div id="perf-chart-wrap"><div id="perf-chart"></div></div>
+    <table class="data-table hidden" id="perf-table">
+      <thead><tr><th>Ticker</th><th>Name</th><th class="num">1D %</th><th class="num">1Y %</th><th class="num">YTD %</th></tr></thead>
+      <tbody id="perf-table-body"></tbody>
+    </table>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>All 20 ETFs</h2>
+        <div class="panel-sub">Hover a card for a quick profile &middot; click for composition, top holdings and news</div>
+      </div>
+    </div>
+    <div class="grid" id="etf-grid"></div>
+  </section>
+
+  <footer class="site">
+    Data: Yahoo Finance (prices, composition) &middot; NewsAPI.org (headlines), refreshed on a schedule &mdash; see the &ldquo;updated&rdquo; timestamp above.
+    Not investment advice. Fund selection is a static curated list of large, well-known ETFs, not a real-time AUM ranking.<br>
+    <a href="https://github.com/" id="repo-link" target="_blank" rel="noopener">Source on GitHub</a>
+  </footer>
+</div>
+
+<div class="hover-tip" id="hover-tip"></div>
+
+<div class="modal-backdrop hidden" id="modal-backdrop">
+  <div class="modal" id="modal-body"></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
