@@ -26,6 +26,12 @@ NEWSAPI_URL = "https://newsapi.org/v2/everything"
 ARTICLES_PER_ETF = 6
 
 
+class FetchFailed(Exception):
+    """Raised for any failed fetch (rate limit, network error, bad response) so
+    the caller can fall back to previously cached articles instead of wiping
+    them out with an empty result."""
+
+
 def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
     # Some tickers (SPY, VIG, ...) double as common English words, so a bare
     # ticker match pulls in unrelated results (spy movies, etc). Requiring the
@@ -45,11 +51,13 @@ def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
             body = resp.json()
             print(f"  news fetch failed for {ticker}: HTTP {resp.status_code} "
                   f"code={body.get('code')} message={body.get('message')}", file=sys.stderr)
-            return []
+            raise FetchFailed(body.get("code"))
         data = resp.json()
+    except FetchFailed:
+        raise
     except Exception as e:
         print(f"  news fetch failed for {ticker}: {e}", file=sys.stderr)
-        return []
+        raise FetchFailed(str(e))
 
     articles = []
     for a in data.get("articles", [])[:ARTICLES_PER_ETF]:
@@ -67,6 +75,13 @@ def main():
     api_key = (os.environ.get("NEWSAPI_KEY") or "").strip()
     etfs = json.loads(ETFS_FILE.read_text())
 
+    previous_news = {}
+    if OUT_FILE.exists():
+        try:
+            previous_news = json.loads(OUT_FILE.read_text()).get("news", {})
+        except Exception:
+            previous_news = {}
+
     news = {}
     if not api_key:
         print("NEWSAPI_KEY not set - writing empty news set.", file=sys.stderr)
@@ -74,7 +89,16 @@ def main():
         for i, etf in enumerate(etfs, 1):
             ticker = etf["ticker"]
             print(f"[{i}/{len(etfs)}] fetching news for {ticker}...", file=sys.stderr)
-            news[ticker] = fetch_news_for(ticker, etf["name"], api_key)
+            try:
+                news[ticker] = fetch_news_for(ticker, etf["name"], api_key)
+            except FetchFailed:
+                # Keep whatever we had before rather than blanking out good
+                # cached headlines because of a transient rate limit/error.
+                if ticker in previous_news:
+                    print(f"  falling back to previously cached articles for {ticker}", file=sys.stderr)
+                    news[ticker] = previous_news[ticker]
+                else:
+                    news[ticker] = []
             time.sleep(1.1)  # stay under free-tier rate limits
 
     output = {
