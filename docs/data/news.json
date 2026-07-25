@@ -1,26 +1,844 @@
 {
-  "generated_at": "2026-07-25T02:45:09.368094+00:00",
+  "generated_at": "2026-07-25T02:48:10.629609+00:00",
   "has_key": true,
   "news": {
-    "VOO": [],
-    "IVV": [],
-    "SPY": [],
-    "VTI": [],
-    "QQQ": [],
-    "IEFA": [],
-    "VEA": [],
-    "VUG": [],
-    "BND": [],
-    "SCHD": [],
-    "IEMG": [],
-    "AGG": [],
-    "VTV": [],
-    "VXUS": [],
-    "VWO": [],
-    "GLD": [],
-    "IWF": [],
-    "IJH": [],
-    "VIG": [],
-    "IJR": []
+    "VOO": [
+      {
+        "title": "3 Undervalued Vanguard ETFs to Buy Before the End of July",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7c5ea0cc412dcce2",
+        "published_at": "2026-07-23T13:03:35Z",
+        "description": "The post 3 Undervalued Vanguard ETFs to Buy Before the End of July appeared first on 24/7 Wall St..\nThe default Vanguard trade in 2026 has been simple: Buy Vanguard S&P 500 ETF (NYSEARCA:VOO) or Vanguard Total Stock Market ETF (NYSEARCA:VTI), ride the S&P 500\u2026"
+      },
+      {
+        "title": "Should You Invest $1,000 in VOO in 2026? (Hint: History Says Yes.)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a4dd17a66e04a020",
+        "published_at": "2026-07-22T12:42:53Z",
+        "description": "If you're looking to invest $1,000 in the stock market, it's hard not to like the Vanguard S&P 500 ETF (NYSEMKT: VOO). The exchange-traded fund (ETF) tracks the S&P 500, a bucket of 500 prominent U.S. companies. On top of that, you can invest as little as a d\u2026"
+      },
+      {
+        "title": "Should You Invest $1,000 in VOO in 2026? (Hint: History Says Yes.)",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5143bdc2-5e9a-45f3-94d6-04d678717d8e",
+        "published_at": "2026-07-22T12:24:00Z",
+        "description": null
+      },
+      {
+        "title": "A millennial retired early by investing in real estate and one index fund. He explains why he likes owning both assets",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a4c82bdbe09fd12c",
+        "published_at": "2026-07-22T09:52:30Z",
+        "description": "Todd Baldwin with his wife, Angela, and their two children.\nCourtesy of Todd Baldwin\nTodd Baldwin used house hacking to jump-start his real estate portfolio.\nHe later invested over $1 million in Vanguard's S&P 500 ETF, VOO.\nReal estate offered control and cas\u2026"
+      },
+      {
+        "title": "A millennial retired early by investing in real estate and one index fund. He explains why he likes owning both assets.",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/early-retirement-real-estate-investing-index-funds-build-wealth-fire-2026-7#article",
+        "published_at": "2026-07-22T09:35:01Z",
+        "description": "Investing in VOO \"almost feels like a loophole,\" said Todd Baldwin."
+      },
+      {
+        "title": "What Are You Really Paying For Inside VOO?",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ed3aad62-e5dd-4171-bf65-83523f91ffc8",
+        "published_at": "2026-07-21T22:16:19Z",
+        "description": null
+      }
+    ],
+    "IVV": [
+      {
+        "title": "Ondo Finance clears a major hurdle for tokenized stocks in U.S.",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/investing/ondo-finance-clears-a-major-hurdle-for-tokenized-stocks-in-u-s",
+        "published_at": "2026-07-23T18:16:40Z",
+        "description": "Ondo Finance, which designs institutional-grade platforms, assets, and infrastructure to bring financial markets onchain, said on July 23 that its brokerage..."
+      },
+      {
+        "title": "How Tax-Friendly ETFs Keep Getting Friendlier",
+        "source": "Thedailyupside.com",
+        "url": "https://www.thedailyupside.com/etf/industry-news-etf/how-tax-friendly-etfs-keep-getting-friendlier/",
+        "published_at": "2026-07-22T04:02:00Z",
+        "description": "Tax efficiency, rather than investment strategy, could be what helps new funds stand out from the crowd."
+      },
+      {
+        "title": "Trump Accounts Bring Windfall for Babies\u2014and Also This One Fund",
+        "source": "Wealthmanagement.com",
+        "url": "https://www.wealthmanagement.com/etfs/trump-accounts-bring-windfall-for-babies-and-also-this-one-fund",
+        "published_at": "2026-07-20T14:52:45Z",
+        "description": "A handful of exchange-traded funds are about to teach American kids about the magic of compound interest. One of them could become a blockbuster."
+      },
+      {
+        "title": "SPY\u2019s 0.0945% Fee Could Cost You Thousands Over Two Decades Against Its Own Sister Fund",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/17/spys-0-0945-fee-could-cost-you-thousands-over-two-decades-against-its-own-sister-fund/",
+        "published_at": "2026-07-17T23:30:42Z",
+        "description": "State Street sells the exact same 500 stocks as SPY under a different ticker at a fraction of the cost, and the structural reason SPY charges more has nothin..."
+      },
+      {
+        "title": "Daily ETF Flows: QQQ Notches Inflows of $2.4B",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-qqq-notches-inflows-24b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-17T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 16, 2026."
+      },
+      {
+        "title": "Daily ETF Flows: SEUS Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-seus-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-16T21:00:05Z",
+        "description": "Here are the daily ETF fund flows for July 15, 2026."
+      }
+    ],
+    "SPY": [
+      {
+        "title": "Major report finds flaws in Australia's spy laws",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-24/independent-national-security-legislation-monitor-review/106952702",
+        "published_at": "2026-07-24T02:46:14Z",
+        "description": "A major review warns parts of Australia's national security laws could undermine democracy and press freedom."
+      },
+      {
+        "title": "Brad Bird Thinks \u20181906\u2019 Would \u201cLend Itself\u201d To Multiple Episodes As TV Miniseries",
+        "source": "Deadline",
+        "url": "http://deadline.com/2026/07/brad-bird-1906-tv-series-comic-con-career-panel-1237002229/",
+        "published_at": "2026-07-24T02:38:12Z",
+        "description": "Ray Gunn director Brad Bird has made several lasting films in his day, but he has yet to venture into television. He hasn\u2019t ruled out the opportunity to make a miniseries with a project he has long pursued. \u201cActually yeah, I have a project that, it\u2019s hard to \u2026"
+      },
+      {
+        "title": "7 Years Later, Spy x Family Is About to Show The Biggest Twist Ever",
+        "source": "ComicBook.com",
+        "url": "http://comicbook.com/anime/feature/7-years-later-spy-x-family-is-about-to-show-the-biggest-twist-ever/",
+        "published_at": "2026-07-24T01:45:00Z",
+        "description": "Image Courtesy of CloverWorks\n\nWarning: This article contains spoilers from the Spy x Family manga!\u00a0The beloved spy action series,\u00a0Spy x Family,\u00a0wrapped up its latest Season 3 in December last year, as fans still await updates on a sequel season. While fans a\u2026"
+      },
+      {
+        "title": "7 Years Later, Spy x Family Is About to Show The Biggest Twist Ever",
+        "source": "ComicBook.com",
+        "url": "http://comicbook.com/uncategorized/feature/7-years-later-spy-x-family-is-about-to-show-the-biggest-twist-ever/",
+        "published_at": "2026-07-24T01:45:00Z",
+        "description": "Image Courtesy of CloverWorks\n\nWarning: This article contains spoilers from the Spy x Family manga!\u00a0The beloved spy action series,\u00a0Spy x Family,\u00a0wrapped up its latest Season 3 in December last year, as fans still await updates on a sequel season. While fans a\u2026"
+      },
+      {
+        "title": "Whack-a-drone",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/969725/fcc-drone-ban-odyssey-robot-galiview-etak-randolph-howard-eason",
+        "published_at": "2026-07-24T00:30:36Z",
+        "description": "In Pasadena, California, there's a cute red brick courtyard where one storefront isn't like the rest. The glass doors open onto a sparse industrial hallway, which leads to a sunlit foyer with a large spiral staircase. Go up, and you'll see a typical coworking\u2026"
+      },
+      {
+        "title": "reality check for extreme doomerism?",
+        "source": "Metafilter.com",
+        "url": "https://ask.metafilter.com/390275/reality-check-for-extreme-doomerism",
+        "published_at": "2026-07-23T22:43:56Z",
+        "description": "I'm too online and my algo is showing me increasingly upsetting content. Nothing violent, but of the \"American society is on the verge of collapse, the future is ruined, and it's too late to fix it or escape from it, either individually or collectively\" type.\u2026"
+      }
+    ],
+    "VTI": [
+      {
+        "title": "3 Undervalued Vanguard ETFs to Buy Before the End of July",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7c5ea0cc412dcce2",
+        "published_at": "2026-07-23T13:03:35Z",
+        "description": "The post 3 Undervalued Vanguard ETFs to Buy Before the End of July appeared first on 24/7 Wall St..\nThe default Vanguard trade in 2026 has been simple: Buy Vanguard S&P 500 ETF (NYSEARCA:VOO) or Vanguard Total Stock Market ETF (NYSEARCA:VTI), ride the S&P 500\u2026"
+      },
+      {
+        "title": "Thank Asia for International Stocks' Outperformance This Year",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/features/thank-asia-international-stocks-outperformance-year?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-23T01:20:18Z",
+        "description": "The region powered gains in VXUS this year."
+      },
+      {
+        "title": "The 1 ETF I'd Buy if I Could Only Own One",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fc6c542c6dda529d",
+        "published_at": "2026-07-22T15:14:52Z",
+        "description": "If I could only own one ETF right now, I'd buy the Vanguard Total Stock Market ETF (NYSEMKT: VTI). By owning roughly 3,500 U.S. stocks, it's one of the most diverse ETFs you'll find. It's the ideal foundation for building the rest of your portfolio. And with \u2026"
+      },
+      {
+        "title": "Jamie Dimon stock, bond dual warning: Market acted on one of his calls",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
+        "published_at": "2026-07-21T20:45:47Z",
+        "description": "JPMorgan CEO Jamie Dimon warned this week long-term treasuries are not a good buy, even if stocks fall. Many investors already acted on that message this year."
+      },
+      {
+        "title": "Trump Accounts Bring Windfall for Babies\u2014and Also This One Fund",
+        "source": "Wealthmanagement.com",
+        "url": "https://www.wealthmanagement.com/etfs/trump-accounts-bring-windfall-for-babies-and-also-this-one-fund",
+        "published_at": "2026-07-20T14:52:45Z",
+        "description": "A handful of exchange-traded funds are about to teach American kids about the magic of compound interest. One of them could become a blockbuster."
+      },
+      {
+        "title": "VTI Is Cheaper Than It Used to Be. So What's the Catch?",
+        "source": "Trefis",
+        "url": "https://www.trefis.com/articles/607746/vti-is-cheaper-than-it-used-to-be-so-whats-the-catch/2026-07-17",
+        "published_at": "2026-07-18T01:32:45Z",
+        "description": "The entire US stock market is trading at a discount to its recent past, but the safest alternative is paying you more to wait."
+      }
+    ],
+    "QQQ": [
+      {
+        "title": "Stocks Fall Sharply as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a4f3c0f23c00fe92",
+        "published_at": "2026-07-23T20:51:41Z",
+        "description": "The S&P 500 Index ($SPX) (SPY) on Thursday fell -1.49%, the Dow Jones Industrial Average ($DOWI) (DIA) fell -1.11%, and the Nasdaq 100 Index ($IUXX) (QQQ) fell -2.26%. September E-mini S&P futures (ESU26) fell -1.50%, and September E-mini Nasdaq futures (NQU2\u2026"
+      },
+      {
+        "title": "Stocks Fall Sharply as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/3436124/stocks-fall-sharply-as-crude-oil-prices-soar-and-alphabet-sparks-ai-spending-concerns",
+        "published_at": "2026-07-23T20:44:18Z",
+        "description": "The S&P 500 Index ($SPX ) (SPY ) on Thursday fell -1.49%, the Dow Jones Industrial Average ($DOWI ) (DIA ) fell -1.11%, and the Nasdaq 100 Index ($IUXX ) (QQ..."
+      },
+      {
+        "title": "Stocks Fall Sharply as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2c45441e4f449759",
+        "published_at": "2026-07-23T15:49:41Z",
+        "description": "The S&P 500 Index ($SPX) (SPY) today is down -1.34%, the Dow Jones Industrial Average ($DOWI) (DIA) is down -1.07%, and the Nasdaq 100 Index ($IUXX) (QQQ) is down -2.06%. September E-mini S&P futures (ESU26) are down -1.43%, and September E-mini Nasdaq future\u2026"
+      },
+      {
+        "title": "ETF Perpetual Futures Surpass $116 Billion in Seven Months \u2014 Binance Captures 74% Market Share",
+        "source": "Bitcoinfoundation.org",
+        "url": "https://bitcoinfoundation.org/news/crypto-exchanges-news/binance-report/",
+        "published_at": "2026-07-23T15:14:02Z",
+        "description": "From January to July 2026, total trading volume of perpetual contracts on ETFs exceeded $116 billion. We break down this rapidly growing crypto segment. In...\nThe post ETF Perpetual Futures Surpass $116 Billion in Seven Months \u2014 Binance Captures 74% Market Sh\u2026"
+      },
+      {
+        "title": "Stocks Fall as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cf68e557d3fae118",
+        "published_at": "2026-07-23T14:20:04Z",
+        "description": "The S&P 500 Index ($SPX) (SPY) today is down -0.80%, the Dow Jones Industrial Average ($DOWI) (DIA) is down -0.66%, and the Nasdaq 100 Index ($IUXX) (QQQ) is down -1.20%. September E-mini S&P futures (ESU26) are down -0.77%, and September E-mini Nasdaq future\u2026"
+      },
+      {
+        "title": "Stocks Fall as Crude Oil Prices Soar and Alphabet Sparks AI Spending Concerns",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/3428368/stocks-fall-as-crude-oil-prices-soar-and-alphabet-sparks-ai-spending-concerns",
+        "published_at": "2026-07-23T14:05:02Z",
+        "description": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.80%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.66%, and the Nasdaq 100 Index ($IUXX ) (QQ..."
+      }
+    ],
+    "IEFA": [
+      {
+        "title": "International ETFs: iShares EAFE ETF vs Vanguard Emerging Markets ETF",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f47a42970f96f118",
+        "published_at": "2026-07-20T00:20:44Z",
+        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides broad exposure to developed international markets, while the Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) focuses on higher-volatility emerging markets such as China, Taiwan, and Brazil.\nInvestors see\u2026"
+      },
+      {
+        "title": "Which iShares ETF Is Better for International Exposure in 2026: IXUS or IEFA?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c2cecfaae3a16c0d",
+        "published_at": "2026-07-16T16:01:39Z",
+        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) and iShares Core MSCI Total International Stock ETF (NASDAQ:IXUS) offer low-cost international exposure, but IEFA excludes emerging markets while IXUS provides total non-U.S. coverage.\nInvestors seeking to diversi\u2026"
+      },
+      {
+        "title": "Which iShares ETF Is Better for International Exposure in 2026: IXUS or IEFA?",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_85cb6969-5fca-4816-9365-9693db92739a",
+        "published_at": "2026-07-16T15:27:01Z",
+        "description": null
+      },
+      {
+        "title": "BlackRock\u2019s iShares Core MSCI EAFE ETF boosts Metaplanet stake by 299,300 shares",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/blackrock-iefa-etf-metaplanet-stake-increase/",
+        "published_at": "2026-07-09T11:20:50Z",
+        "description": "BlackRock's increased stake in Metaplanet could inadvertently expose traditional investors to Bitcoin volatility, impacting portfolio stability.\nThe post BlackRock\u2019s iShares Core MSCI EAFE ETF boosts Metaplanet stake by 299,300 shares appeared first on Crypto\u2026"
+      },
+      {
+        "title": "We Found 19 Well-Diversified ETFs That Pass the 5% Test",
+        "source": "NerdWallet",
+        "url": "https://www.nerdwallet.com/investing/learn/diversified-index-funds-five-percent-test#article",
+        "published_at": "2026-07-08T21:55:47Z",
+        "description": "Unlike the Dow Jones Industrial Average, S&P 500, Nasdaq 100 and Russell 3000, these well-diversified index funds have no more than 5% weight in any single stock."
+      }
+    ],
+    "VEA": [
+      {
+        "title": "Super Bowl winner who played with Tom Brady retires from the NFL after nine seasons",
+        "source": "Dailymail.com",
+        "url": "https://www.dailymail.com/sport/nfl/article-15998649/Super-Bowl-winner-Tom-Brady-retires-NFL.html",
+        "published_at": "2026-07-23T13:33:27Z",
+        "description": "The seventh-round NFL Draft pick who carved out an eight-year career while winning a Super Bowl with the Tampa Bay Buccaneers is ready to call it a career."
+      },
+      {
+        "title": "NFL Power Rankings: Lions, Ravens poised for huge rebounds as training camps heat up",
+        "source": "USA Today",
+        "url": "https://ftw.usatoday.com/story/sports/nfl/2026/07/23/nfl-power-rankings-training-camp-seahawks-rams-broncos/91016790007/",
+        "published_at": "2026-07-23T11:03:22Z",
+        "description": "Who can dethrone the Seahawks? Unpacking this question and more in FTW's first NFL Power Rankings of 2026."
+      },
+      {
+        "title": "Low-Cost Developed Markets or Emerging-Market Tech Exposure? VEA vs. IEMG",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f70711d1c0eedd07",
+        "published_at": "2026-07-23T04:02:23Z",
+        "description": "Vanguard FTSE Developed Markets ETF (NYSEMKT:VEA) provides exposure to established international economies at a lower cost, whereas iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) targets higher-growth developing markets with significant technology conc\u2026"
+      },
+      {
+        "title": "How One Nation's winning over the bush",
+        "source": "ABC News (AU)",
+        "url": "https://www.abc.net.au/news/2026-07-23/australia-wide-one-nation-regional-australia/106917258",
+        "published_at": "2026-07-22T18:41:45Z",
+        "description": "One Nation has some of its strongest support in outback Australia and recent polling shows it could win over 30 regional seats. So what's winning over regional Australians when it comes to Pauline Hanson's party?"
+      },
+      {
+        "title": "1 key storyline for each NFL team entering training camp",
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/sports/nfl/2026/07/22/nfl-training-camp-preview/90774628007/",
+        "published_at": "2026-07-22T09:33:34Z",
+        "description": "From quarterback battles in Atlanta and Minnesota to a defensive overhauls in Dallas and Baltimore, here's one thing to watch at every NFL training camp."
+      },
+      {
+        "title": "VEA Is Crushing SPY This Year, but the Decade-Long Scorecard Tells a Different Story",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4c6f53a24f40d4e2",
+        "published_at": "2026-07-21T18:44:26Z",
+        "description": "The post VEA Is Crushing SPY This Year, but the Decade-Long Scorecard Tells a Different Story appeared first on 24/7 Wall St..\nMost American portfolios carry an unspoken bet: that U.S. mega-caps will keep leading the world. The Vanguard FTSE Developed Markets\u2026"
+      }
+    ],
+    "VUG": [
+      {
+        "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/007badfec2cc4c8d",
+        "published_at": "2026-07-22T21:07:45Z",
+        "description": "The post This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens. appeared first on 24/7 Wall St..\nThe Vanguard Growth ETF (NYSEARCA:VUG) is having a strange year. After a decade in which VUG trounced the broader market, shares are u\u2026"
+      },
+      {
+        "title": "The Megacap Growth ETF That\u2019s Been Beating the S&P 500 for a Decade Straight",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/17/the-megacap-growth-etf-thats-been-beating-the-sp-500-for-a-decade-straight/",
+        "published_at": "2026-07-17T14:35:05Z",
+        "description": "A virtually unknown megacap ETF has spent a decade quietly outperforming the S&P 500, yet most growth investors have never put it on their radar. Before you..."
+      },
+      {
+        "title": "You Don\u2019t Need Pershing Square to Own Bill Ackman\u2019s Favorite Stocks. Here\u2019s the Backdoor",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/16/you-dont-need-pershing-square-to-own-bill-ackmans-favorite-stocks-heres-the-backdoor/",
+        "published_at": "2026-07-16T17:24:04Z",
+        "description": "Bill Ackman charges a steep 2% fee for access to his concentrated portfolio, but two low-cost Vanguard ETFs quietly hold many of his highest-conviction bets..."
+      },
+      {
+        "title": "This Growth ETF Costs 3 Cents and Has Beaten the S&P 500 in 95% of 5-Year Windows",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6443c31b31a826dd",
+        "published_at": "2026-07-15T17:53:28Z",
+        "description": "The post This Growth ETF Costs 3 Cents and Has Beaten the S&P 500 in 95% of 5-Year Windows appeared first on 24/7 Wall St.. \n \n \n \n VUG charges 0.03% annually but is concentrated in AI infrastructure: NVIDIA, Apple, Alphabet, and Microsoft comprise 44.6% of t\u2026"
+      },
+      {
+        "title": "This Growth ETF Costs 3 Cents and Has Beaten the S&P 500 in 95% of 5-Year Windows",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/15/this-growth-etf-costs-3-cents-and-has-beaten-the-sp-500-in-95-of-5-year-windows/",
+        "published_at": "2026-07-15T17:45:09Z",
+        "description": "Vanguard's cheapest growth ETF carries a nearly perfect long-term track record and a three-cent price tag, but crack open the holdings and a very different s..."
+      },
+      {
+        "title": "VUG vs. SCHG: The Growth-ETF Showdown That Could Quietly Cost You Thousands",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2e1c1f6a281996a9",
+        "published_at": "2026-07-15T15:20:54Z",
+        "description": "The post VUG vs. SCHG: The Growth-ETF Showdown That Could Quietly Cost You Thousands appeared first on 24/7 Wall St.. \n \n \n \n SCHG delivered 446% over ten years versus VUG at 411%\u2014a 35% difference that compounds to thousands over decades despite mega-cap tech\u2026"
+      }
+    ],
+    "BND": [
+      {
+        "title": "Spider-Man: Brand New Day Star Sadie Sink Finally Reveals Her Character... We Just Can't Hear What She Says!",
+        "source": "CBM (Comic Book Movie)",
+        "url": "https://comicbookmovie.com/spider_man/spider_man-brand-new-day/spider-man-brand-new-day-star-sadie-sink-finally-reveals-her-character-we-just-cant-hear-what-she-says-a228976",
+        "published_at": "2026-07-23T11:08:57Z",
+        "description": "In a new promotional video, Sadie Sink finally reveals which character she will play in Spider-Man: Brand New Day... but we can't make out what she's saying."
+      },
+      {
+        "title": "How much money can you get for installing a new heat pump in Germany?",
+        "source": "The Local Germany",
+        "url": "https://www.thelocal.de/20260722/how-much-money-can-you-get-for-installing-a-new-heat-pump-in-germany",
+        "published_at": "2026-07-22T11:44:25Z",
+        "description": "Germany has overhauled its subsidies for installing heat pumps in homes, but lower-income households may actually be eligible for more support. Here's what's changed, who still qualifies and how to apply."
+      },
+      {
+        "title": "Jamie Dimon stock, bond dual warning: Market acted on one of his calls",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
+        "published_at": "2026-07-21T20:45:47Z",
+        "description": "JPMorgan CEO Jamie Dimon warned this week long-term treasuries are not a good buy, even if stocks fall. Many investors already acted on that message this year."
+      },
+      {
+        "title": "Purpose Investments Inc. Announces July 2026 Distributions",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-july-2026-distributions",
+        "published_at": "2026-07-20T22:03:27Z",
+        "description": "TORONTO, July 20, 2026 (GLOBE NEWSWIRE) \u2014 Purpose Investments Inc. (\u201cPurpose\u201d) is pleased to announce distributions for the month of July 2026 for its open-end exchange traded funds and closed-end funds (\u201cthe Funds\u201d).\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0The ex-distribution date for all \u2026"
+      },
+      {
+        "title": "Purpose Investments Inc. Announces July 2026 Distributions",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/20/3330155/0/en/Purpose-Investments-Inc-Announces-July-2026-Distributions.html",
+        "published_at": "2026-07-20T22:00:00Z",
+        "description": "Purpose Investments Inc. is pleased to announce distributions for the month of July 2026 for its open-end exchange traded funds and closed-end funds...."
+      },
+      {
+        "title": "Despite Concerns, Marvel Fans Excited About First Avengers: Doomsday Trailer: \u201cGave Me Goosebumps\u201d",
+        "source": "ComicBook.com",
+        "url": "http://comicbook.com/movies/news/despite-concerns-marvel-fans-excited-about-first-avengers-doomsday-trailer-gave-me-goosebumps/",
+        "published_at": "2026-07-20T14:06:12Z",
+        "description": "Image courtesy of Marvel Studios\n\nMarvel Studios has released the first full trailer for Avengers: Doomsday, giving fans their best look yet at the Russo brothers\u2019 return to the franchise following Avengers: Infinity War and Avengers: Endgame. The footage con\u2026"
+      }
+    ],
+    "SCHD": [
+      {
+        "title": "Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a1dc562a8dc4dd9a",
+        "published_at": "2026-07-23T15:34:21Z",
+        "description": "The post Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) sits at the center of income-focused portfolios for a reason. SCHD tracks the Dow Jones\u2026"
+      },
+      {
+        "title": "Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/23/why-retirees-are-choosing-this-100-8-billion-etf-over-individual-dividend-stocks/",
+        "published_at": "2026-07-23T15:27:42Z",
+        "description": "SCHD's 100-stock structure and rock-bottom fees make it a retiree favorite, but a closer look at its top four holdings reveals one company sitting on a paten..."
+      },
+      {
+        "title": "KBWD\u2019s 14.4% Yield Masks a Troubling Reality for Income Investors",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/23/kbwds-14-4-yield-masks-a-troubling-reality-for-income-investors/",
+        "published_at": "2026-07-23T13:22:55Z",
+        "description": "KBWD's double-digit yield draws income investors in, but the monthly checks come with a hidden cost that quietly chips away at the capital funding them."
+      },
+      {
+        "title": "Here\u2019s Exactly How Much SCHD You\u2019d Need to Never Work Again",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ff801f2768386bd5",
+        "published_at": "2026-07-22T19:41:59Z",
+        "description": "The post Here\u2019s Exactly How Much SCHD You\u2019d Need to Never Work Again appeared first on 24/7 Wall St..\nThe fantasy of never punching a clock again usually collides with a single number. How big does the pile need to be? For investors who like the idea of that \u2026"
+      },
+      {
+        "title": "Here\u2019s Exactly How Much SCHD You\u2019d Need to Never Work Again",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/22/heres-exactly-how-much-schd-youd-need-to-never-work-again/",
+        "published_at": "2026-07-22T19:35:28Z",
+        "description": "Replacing your paycheck with SCHD dividends sounds simple until the actual numbers land on the table. The gap between what most Americans think they need and..."
+      },
+      {
+        "title": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/22/vigs-1-5-yield-masks-a-20-year-streak-of-uncut-dividend-growth/",
+        "published_at": "2026-07-22T19:11:19Z",
+        "description": "VIG's 1.5% yield invites easy dismissal, but the real question is whether two decades of unbroken dividend growth can survive the pressures quietly building..."
+      }
+    ],
+    "IEMG": [
+      {
+        "title": "Low-Cost Developed Markets or Emerging-Market Tech Exposure? VEA vs. IEMG",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f70711d1c0eedd07",
+        "published_at": "2026-07-23T04:02:23Z",
+        "description": "Vanguard FTSE Developed Markets ETF (NYSEMKT:VEA) provides exposure to established international economies at a lower cost, whereas iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) targets higher-growth developing markets with significant technology conc\u2026"
+      },
+      {
+        "title": "Vanguard Total World Stock ETF vs iShares Emerging Markets ETF. Which Is the Better Fund to Cover the Globe in Your Portfolio?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/609cdc2ab2b31307",
+        "published_at": "2026-07-20T14:32:37Z",
+        "description": "Vanguard Total World Stock ETF vs iShares Emerging Markets ETF. Which Is the Better Fund to Cover the Globe in Your Portfolio?\nThe Vanguard Total World Stock ETF (NYSEMKT:VT) provides exposure to global equities including the United States, while the iShares \u2026"
+      },
+      {
+        "title": "'Not a junk rally:' How to trade the strongest small-cap stock market in three decades",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/16/best-stock-market-trades-small-caps.html",
+        "published_at": "2026-07-16T14:20:54Z",
+        "description": "The Russell 2000 small-cap stock index is up almost 20% this year, its best first half since 1991, and investing experts say the rally can keep running."
+      },
+      {
+        "title": "Record Money Is Pouring Into Emerging Markets. This One Difference Could Decide Your Returns",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/08/record-money-is-pouring-into-emerging-markets-this-one-difference-could-decide-your-returns/",
+        "published_at": "2026-07-08T15:01:27Z",
+        "description": "International investing has spent years playing second fiddle to the U.S. stock market. That is changing. As investors look beyond a handful of mega-cap tech..."
+      },
+      {
+        "title": "AI & \u201cEx-China\u201d Rewriting the Emerging Markets ETF Playbook",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-ex-china-rewriting-emerging-113042107.html",
+        "published_at": "2026-07-08T11:30:42Z",
+        "description": "The action in Emerging Markets ETFs this year has been really interesting to watch. From record-breaking asset flows to impressive results, albeit massively..."
+      },
+      {
+        "title": "Vanguard Total Stock Market ETF vs iShares Core MSCI Emerging Market ETF: Is VXUS or IEMG the Better Buy Right Now?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1016808671e3bf23",
+        "published_at": "2026-07-06T16:57:33Z",
+        "description": "Vanguard Total Stock Market ETF vs iShares Core MSCI Emerging Market ETF: Is VXUS or IEMG the Better Buy Right Now?\niShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) provides targeted exposure to developing economies with a significant technology tilt, wh\u2026"
+      }
+    ],
+    "AGG": [
+      {
+        "title": "Amera Partners with Integrated Payor Solutions (IPS) to Power Stop-Loss Reporting",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/23/3332468/0/en/Amera-Partners-with-Integrated-Payor-Solutions-IPS-to-Power-Stop-Loss-Reporting.html",
+        "published_at": "2026-07-23T17:12:00Z",
+        "description": "Collaboration Advances IPS's Vision for a Tech-Native Adjudication Platform Collaboration Advances IPS's Vision for a Tech-Native Adjudication Platform"
+      },
+      {
+        "title": "Athlone outclass Skopje to progress in Champions League",
+        "source": "RTE",
+        "url": "https://www.rte.ie/sport/soccer/2026/0722/1584522-athlone-outclass-skopje-to-progress-in-champions-league/",
+        "published_at": "2026-07-22T11:06:57Z",
+        "description": "Athlone Town powered into the final of the Women's Champions League first qualifying round on Wednesday morning, beating North Macedonian side ZFK Skopje 2014 4-0 in the Polish city of Sosnowiec."
+      },
+      {
+        "title": "Video: Suspect opens fire on Texas SWAT team serving arrest warrant; but cops shoot back \u2014 1 right through his own windshield",
+        "source": "TheBlaze",
+        "url": "https://www.theblaze.com/news/video-suspect-opens-fire-on-texas-swat-team-serving-arrest-warrant-but-cops-shoot-back-1-right-through-his-own-windshield",
+        "published_at": "2026-07-21T23:45:00Z",
+        "description": "The San Antonio Police Department over the weekend released video of an officer-involved shooting that occurred last month.Police said just after 5 p.m. June 16, four SWAT officers responded to execute an arrest warrant.'Strong work; I pray for a speedy recov\u2026"
+      },
+      {
+        "title": "Jamie Dimon stock, bond dual warning: Market acted on one of his calls",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
+        "published_at": "2026-07-21T20:45:47Z",
+        "description": "JPMorgan CEO Jamie Dimon warned this week long-term treasuries are not a good buy, even if stocks fall. Many investors already acted on that message this year."
+      },
+      {
+        "title": "Investing experts: Why 'just buy the market' doesn't necessarily apply to bonds",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/21/bond-investing-buy-the-market-agg-index.html",
+        "published_at": "2026-07-21T19:04:51Z",
+        "description": "The flagship index for bond investors has some idiosyncracies bond investors should be aware of, experts say."
+      },
+      {
+        "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
+        "source": "TVLine",
+        "url": "https://www.tvline.com/2217085/what-to-watch-week-of-july-19-2026-tv-shows-movies/",
+        "published_at": "2026-07-18T20:00:00Z",
+        "description": "TVLine offers a look at the week ahead: A handy roundup of new TV premieres and finales to help you plan your viewing for July 19-25."
+      }
+    ],
+    "VTV": [
+      {
+        "title": "Latest Malayalam OTT releases of the week: Pallichattambi to Con City, new movies and shows on Netflix, JioHotstar, Prime Video, SonyLIV",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/latest-malayalam-ott-releases-of-the-week-pallichattambi-to-con-city-new-movies-and-shows-on-netflix-jiohotstar-prime-video-sonyliv/articleshow/132571644.cms",
+        "published_at": "2026-07-23T07:21:26Z",
+        "description": "This week's Malayalam OTT slate offers a good mix of genres. If you're looking for a large-scale action drama, Pallichattambi should be your first choice. Those who enjoy comedy with crime elements can try Con City, while Triple Decker promises an unconventio\u2026"
+      },
+      {
+        "title": "Jana Nayagana release: Director H Vinoth breaks silence on Vijay's film being a remake of Bhagavanth Kesari. Full cast, runtime, ticket prices and more",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/jana-nayagana-release-director-h-vinoth-breaks-silence-on-vijays-film-being-a-remake-of-bhagavanth-kesari-full-cast-runtime-ticket-prices-and-more/articleshow/132570182.cms",
+        "published_at": "2026-07-23T01:27:31Z",
+        "description": "Vijay's final film, Jana Nayagana, has been released after facing several delays. Director H Vinoth recently confirmed that the movie is inspired by Bhagavanth Kesari. He also shared Vijay's reaction to this remake.  The star-studded movie is now available in\u2026"
+      },
+      {
+        "title": "The Pastor Pipeline That Helped Deliver Venezuela to Israel",
+        "source": "Activistpost.com",
+        "url": "https://www.activistpost.com/the-pastor-pipeline-that-helped-deliver-venezuela-to-israel/",
+        "published_at": "2026-07-22T12:00:00Z",
+        "description": "Freddie Ponton21st Century Wire Venezuela\u2019s turn toward Israel did not begin in the rubble. The earthquake gave the world the story it was meant to see: rescue teams, drones, prayers, gratitude. But the real machinery was moving somewhere else. In Caracas, Ve\u2026"
+      },
+      {
+        "title": "4 Tamil and Telugu Films to Watch on OTT This Week: Arjun Das starrer Con City to Ego Raman",
+        "source": "PINKVILLA",
+        "url": "https://www.pinkvilla.com/entertainment/south/4-tamil-and-telugu-films-to-watch-on-ott-this-week-arjun-das-starrer-con-city-to-ego-raman-1404473",
+        "published_at": "2026-07-22T10:35:36Z",
+        "description": "Still Thinking About What To Watch On OTT This Week? Here\u2019s A List Of Tamil And Telugu Releases To Stream."
+      },
+      {
+        "title": "Hundreds of pets were rescued following Venezuela\u2019s earthquakes. Now they\u2019re looking for their families | CNN",
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/19/americas/venezuela-pets-earthquake-intl-latam",
+        "published_at": "2026-07-19T04:01:25Z",
+        "description": "Catira Alejandra couldn\u2019t contain her excitement when she was reunited with her family. Tail wagging, frenzied leaping, and loving licks to the face marked the moment the small dog finally saw the familiar faces she didn\u2019t know if she would see again."
+      },
+      {
+        "title": "Daily ETF Flows: QQQ Notches Inflows of $2.4B",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-qqq-notches-inflows-24b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-17T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 16, 2026."
+      }
+    ],
+    "VXUS": [
+      {
+        "title": "Thank Asia for International Stocks' Outperformance This Year",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/features/thank-asia-international-stocks-outperformance-year?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-23T01:20:18Z",
+        "description": "The region powered gains in VXUS this year."
+      },
+      {
+        "title": "Which Vanguard Global ETF Is the Better Buy in 2026: VT or VXUS?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3c1267c7b0ee30e2",
+        "published_at": "2026-07-18T15:41:08Z",
+        "description": "Investors choosing between Vanguard Total World Stock ETF (NYSEMKT:VT) and Vanguard Total International Stock ETF (NASDAQ:VXUS) must decide between holding a single-fund global portfolio or using a targeted tool to isolate international exposure.\nWhile both f\u2026"
+      },
+      {
+        "title": "Daily ETF Flows: VXUS Has Inflows of $436M",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2637fc63f467866c",
+        "published_at": "2026-07-14T21:09:03Z",
+        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n VWO \n Vanguard FTSE Emerging Markets ETF \n 821.82 \n 123,073.08 \n 0.67% \n EFV \n iShares MSCI EAFE Value ETF \n 625.51 \n 26,677.94 \n 2.34% \n VOO \n Vanguard S&P\u2026"
+      },
+      {
+        "title": "Daily ETF Flows: VXUS Has Inflows of $436M",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7c96d600-62cc-4ce0-a602-8c070df933b1",
+        "published_at": "2026-07-14T21:00:04Z",
+        "description": null
+      },
+      {
+        "title": "Your International Fund Yields 2%. This One Returned 26% and Yields 3.1%",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/baa9f89d8c1b0a91",
+        "published_at": "2026-07-12T14:12:47Z",
+        "description": "The post Your International Fund Yields 2%. This One Returned 26% and Yields 3.1% appeared first on 24/7 Wall St..\nThe Vanguard Total International Stock ETF (NASDAQ:VXUS) is the default choice for most investors who want exposure to companies outside the Uni\u2026"
+      },
+      {
+        "title": "The Tax Math That Makes VXUS Worth $2,184 More Inside a Roth IRA",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d3cb6fe78783e789",
+        "published_at": "2026-07-10T12:12:18Z",
+        "description": "The post The Tax Math That Makes VXUS Worth $2,184 More Inside a Roth IRA appeared first on 24/7 Wall St..\nAn international equity sleeve inside a taxable account has a quieter tax drag than a business development company (BDC) or mortgage real estate investm\u2026"
+      }
+    ],
+    "VWO": [
+      {
+        "title": "International ETFs: iShares EAFE ETF vs Vanguard Emerging Markets ETF",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f47a42970f96f118",
+        "published_at": "2026-07-20T00:20:44Z",
+        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides broad exposure to developed international markets, while the Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) focuses on higher-volatility emerging markets such as China, Taiwan, and Brazil.\nInvestors see\u2026"
+      },
+      {
+        "title": "Asia\u2019s Other AI Winners: The Thailand and Taiwan Funds Riding the Same Boom as Korea\u2019s 105% Run",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a2763748d1f22c36",
+        "published_at": "2026-07-16T13:41:25Z",
+        "description": "The post Asia\u2019s Other AI Winners: The Thailand and Taiwan Funds Riding the Same Boom as Korea\u2019s 105% Run appeared first on 24/7 Wall St..\nIf you own iShares China Large-Cap ETF (NYSEARCA:FXI) or Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO) as your Asia A\u2026"
+      },
+      {
+        "title": "Daily ETF Flows: VXUS Has Inflows of $436M",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2637fc63f467866c",
+        "published_at": "2026-07-14T21:09:03Z",
+        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n VWO \n Vanguard FTSE Emerging Markets ETF \n 821.82 \n 123,073.08 \n 0.67% \n EFV \n iShares MSCI EAFE Value ETF \n 625.51 \n 26,677.94 \n 2.34% \n VOO \n Vanguard S&P\u2026"
+      },
+      {
+        "title": "Emerging Markets Without the China Drag: Up 38% While Broad EM Lagged",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/47887afd2da5ef42",
+        "published_at": "2026-07-13T15:24:13Z",
+        "description": "The post Emerging Markets Without the China Drag: Up 38% While Broad EM Lagged appeared first on 24/7 Wall St..\nThe Vanguard FTSE Emerging Markets ETF (NYSEARCA: VWO) has long been the default choice for investors seeking a one-fund exposure to emerging marke\u2026"
+      },
+      {
+        "title": "Emerging Markets Without the China Drag: Up 38% While Broad EM Lagged",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/13/emerging-markets-without-the-china-drag-up-38-while-broad-em-lagged/",
+        "published_at": "2026-07-13T15:11:47Z",
+        "description": "The Vanguard FTSE Emerging Markets ETF (NYSEARCA: VWO) has long been the default choice for investors seeking a one-fund exposure to emerging markets. The fu..."
+      },
+      {
+        "title": "Record Money Is Pouring Into Emerging Markets. This One Difference Could Decide Your Returns",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/08/record-money-is-pouring-into-emerging-markets-this-one-difference-could-decide-your-returns/",
+        "published_at": "2026-07-08T15:01:27Z",
+        "description": "International investing has spent years playing second fiddle to the U.S. stock market. That is changing. As investors look beyond a handful of mega-cap tech..."
+      }
+    ],
+    "GLD": [
+      {
+        "title": "Man Who Called 2008 Crash Says Now Is the Time to \u201cInvest in Early-Stage Gold Stocks\u201d",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/23/man-who-called-2008-crash-says-now-is-the-time-to-invest-in-early-stage-gold-stocks/",
+        "published_at": "2026-07-23T11:01:12Z",
+        "description": "The hedge fund manager who made billions betting against subprime mortgages is now pounding the table on gold mining stocks, but his loudest endorsement come..."
+      },
+      {
+        "title": "Gold prices today, Wednesday, July 22: Renewed safe-haven demand pushes gold price higher",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-22-renewed-safe-haven-demand-pushes-gold-price-higher-152629042.html",
+        "published_at": "2026-07-22T15:26:29Z",
+        "description": "Gold August (GC=F) futures opened at $4,084.70 this morning, Wednesday, July 22, 2026, up 0.2% compared to Tuesday's closing price. The price of gold was up..."
+      },
+      {
+        "title": "Gold Has Doubled in Less Than Two Years. Which ETF is Better to Play the Historic Rally, GLD or SGDM?",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_24cc4410-8381-4922-8dbe-ba60b04970bb",
+        "published_at": "2026-07-21T20:19:01Z",
+        "description": null
+      },
+      {
+        "title": "Beyond GLD: The 0.40% Fee Drag That Is Slowly Bleeding Your Gold Returns",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2a5d395dbe06bbf6",
+        "published_at": "2026-07-21T19:59:56Z",
+        "description": "The post Beyond GLD: The 0.40% Fee Drag That Is Slowly Bleeding Your Gold Returns appeared first on 24/7 Wall St..\nHolders of the SPDR Gold Trust (NYSEARCA:GLD) came into 2026 expecting the ETF to keep doing what it has done for two decades: track the spot pr\u2026"
+      },
+      {
+        "title": "Beyond GLD: The 0.40% Fee Drag That Is Slowly Bleeding Your Gold Returns",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a189b8fc-6999-47a2-9a77-4055ecfbab06",
+        "published_at": "2026-07-21T19:47:28Z",
+        "description": null
+      },
+      {
+        "title": "Is It Better to Play the Historic Gold Rally With a Physical Gold or Mining Stock ETF in 2026?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f8843e0380fce60f",
+        "published_at": "2026-07-21T17:47:10Z",
+        "description": "SPDR Gold Shares (NYSEMKT:GLD) provides direct exposure to the price of physical gold bullion with lower volatility, while VanEck Gold Miners ETF (NYSEMKT:GDX) offers a more volatile play on the equity of mining companies.\nInvestors seeking exposure to the go\u2026"
+      }
+    ],
+    "IWF": [
+      {
+        "title": "Why Fanatics Should Launch The Disney World For Sports",
+        "source": "Thefourthquarter.co",
+        "url": "https://www.thefourthquarter.co/p/why-fanatics-should-launch-the-disney-world-for-sports",
+        "published_at": "2026-07-23T21:45:39Z",
+        "description": "Mark Cuban Buys MLB Stake, Bezos Explores Liverpool Stake, $1B+ Bids for 2030 World Cup Rights"
+      },
+      {
+        "title": "iwf-sdk 0.0.1",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/iwf-sdk/0.0.1/",
+        "published_at": "2026-07-23T01:06:50Z",
+        "description": "Python SDK for the iWF workflow engine"
+      },
+      {
+        "title": "iwf-sdk added to PyPI",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/iwf-sdk/",
+        "published_at": "2026-07-23T00:59:01Z",
+        "description": "Python SDK for the iWF workflow engine"
+      },
+      {
+        "title": "The Chat Control gambit: The EU's 'undemocratic' revival of chat scanning may have long term consequences for digital privacy",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/the-chat-control-gambit-the-eus-undemocratic-revival-of-chat-scanning-may-have-long-term-consequences-for-digital-privacy",
+        "published_at": "2026-07-17T13:14:55Z",
+        "description": "Temporary CSAM chat scanning got the green light in Europe, three months after Parliament voted it down. Opponents now warn it could pave the way for lasting legislation that's unfit to protect our privacy."
+      },
+      {
+        "title": "This Growth ETF Costs 3 Cents and Has Beaten the S&P 500 in 95% of 5-Year Windows",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/15/this-growth-etf-costs-3-cents-and-has-beaten-the-sp-500-in-95-of-5-year-windows/",
+        "published_at": "2026-07-15T17:45:09Z",
+        "description": "Vanguard's cheapest growth ETF carries a nearly perfect long-term track record and a three-cent price tag, but crack open the holdings and a very different s..."
+      },
+      {
+        "title": "Investors Pull $3.7B From ETFs in Rare Weekly Outflow",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pull-37b-etfs-rare-weekly-outflow?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-07-06T21:00:34Z",
+        "description": "U.S. equity funds shed $26.6 billion during the holiday-shortened week, though bonds and international stocks cushioned the hit."
+      }
+    ],
+    "IJH": [
+      {
+        "title": "Show HN: Openfactor \u2013 A multi factor risk model",
+        "source": "Github.com",
+        "url": "https://github.com/ralliesai/openfactor",
+        "published_at": "2026-06-24T16:04:39Z",
+        "description": "Article URL: https://github.com/ralliesai/openfactor\nComments URL: https://news.ycombinator.com/item?id=48661940\nPoints: 1\n# Comments: 0"
+      }
+    ],
+    "VIG": [
+      {
+        "title": "teachersbettextbook 0.2.0",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/teachersbettextbook/0.2.0/",
+        "published_at": "2026-07-23T21:45:03Z",
+        "description": "The open betting-math textbook: de-vig, +EV, arbitrage, Kelly sizing, and Kalshi fee math as a pure Python/NumPy library."
+      },
+      {
+        "title": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fcc46a7034b1361a",
+        "published_at": "2026-07-22T19:12:54Z",
+        "description": "The post VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth appeared first on 24/7 Wall St..\nThe Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) pays a trailing yield of just 1.5%, which looks unremarkable next to money market funds still payi\u2026"
+      },
+      {
+        "title": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/22/vigs-1-5-yield-masks-a-20-year-streak-of-uncut-dividend-growth/",
+        "published_at": "2026-07-22T19:11:19Z",
+        "description": "VIG's 1.5% yield invites easy dismissal, but the real question is whether two decades of unbroken dividend growth can survive the pressures quietly building..."
+      },
+      {
+        "title": "Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8553cc34e23f2632",
+        "published_at": "2026-07-22T15:27:09Z",
+        "description": "The post Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why appeared first on 24/7 Wall St..\nThe largest position in Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) is Broadcom (NASDAQ:AVGO), an AI semiconductor company whose stock has climbed\u2026"
+      },
+      {
+        "title": "Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/22/vanguards-vig-dividend-etfs-top-stock-is-broadcom-heres-why/",
+        "published_at": "2026-07-22T15:20:55Z",
+        "description": "Vanguard's most popular dividend ETF screens for companies with decades of consistent payouts, yet its single largest position is an AI semiconductor giant u..."
+      },
+      {
+        "title": "teachersbettextbook 0.1.0",
+        "source": "Pypi.org",
+        "url": "https://pypi.org/project/teachersbettextbook/0.1.0/",
+        "published_at": "2026-07-22T00:10:07Z",
+        "description": "The open betting-math textbook: de-vig, +EV, arbitrage, and Kelly sizing as a pure Python/NumPy library."
+      }
+    ],
+    "IJR": [
+      {
+        "title": "Short-term outcomes of ulnar, median, tibial, and common fibular neurolysis in leprosy neuropathy: A prospective study of pain, sensory function, and muscle strength",
+        "source": "Plos.org",
+        "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014556",
+        "published_at": "2026-07-23T14:00:00Z",
+        "description": "Author summary Leprosy (Hansen disease) can damage peripheral nerves and leave people with lasting pain, loss of sensation, weakness, and disability of the hands and feet. When nerve inflammation (neuritis) does not respond well to medical treatment, surgeons\u2026"
+      },
+      {
+        "title": "Small Caps Are Beating the S&P 500 by the Widest Margin Since 2003. These ETFs Let You Ride the Rally",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/16/small-caps-are-beating-the-sp-500-by-the-widest-margin-since-2003-these-etfs-let-you-ride-the-rally/",
+        "published_at": "2026-07-16T16:23:21Z",
+        "description": "Small-cap stocks are staging their most dominant run against the S&P 500 in over two decades, and three ETFs are competing for the best seat at the table. Wh..."
+      },
+      {
+        "title": "Which Is the Better Small-Cap ETF, Schwab's SCHA or iShares' IJR?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9dce26d3b95c6e7f",
+        "published_at": "2026-07-11T19:20:01Z",
+        "description": "While the iShares Core S&P Small-Cap ETF (NYSEMKT:IJR) offers concentrated exposure to profitable small-caps, the Schwab U.S. Small-Cap ETF (NYSEMKT:SCHA) provides a broader, more tech-leaning portfolio with a lower expense ratio.\nSmall-cap stocks are often a\u2026"
+      },
+      {
+        "title": "Which Is the Better Small-Cap ETF, Schwab's SCHA or iShares' IJR?",
+        "source": "Yahoo Entertainment",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_50c1ede3-d1b1-438c-8ac7-104315ac0b21",
+        "published_at": "2026-07-11T18:47:01Z",
+        "description": null
+      },
+      {
+        "title": "We Found 19 Well-Diversified ETFs That Pass the 5% Test",
+        "source": "NerdWallet",
+        "url": "https://www.nerdwallet.com/investing/learn/diversified-index-funds-five-percent-test#article",
+        "published_at": "2026-07-08T21:55:47Z",
+        "description": "Unlike the Dow Jones Industrial Average, S&P 500, Nasdaq 100 and Russell 3000, these well-diversified index funds have no more than 5% weight in any single stock."
+      },
+      {
+        "title": "Show HN: Openfactor \u2013 A multi factor risk model",
+        "source": "Github.com",
+        "url": "https://github.com/ralliesai/openfactor",
+        "published_at": "2026-06-24T16:04:39Z",
+        "description": "Article URL: https://github.com/ralliesai/openfactor\nComments URL: https://news.ycombinator.com/item?id=48661940\nPoints: 1\n# Comments: 0"
+      }
+    ]
   }
 }
