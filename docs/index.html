@@ -84,6 +84,27 @@
     <div class="grid" id="etf-grid"></div>
   </section>
 
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Compare ETFs</h2>
+        <div class="panel-sub">Pick up to 4 funds to compare cost, performance, risk and holdings overlap side by side</div>
+      </div>
+    </div>
+    <div class="compare-picker" id="compare-picker"></div>
+    <div id="compare-output"></div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Correlation matrix</h2>
+        <div class="panel-sub">Trailing 1-year daily-return correlation across all 20 ETFs &mdash; useful for spotting redundant exposure or real diversification</div>
+      </div>
+    </div>
+    <div id="corr-matrix-wrap"><div id="corr-matrix"></div></div>
+  </section>
+
   <footer class="site">
     Data: Yahoo Finance (prices, composition) &middot; NewsAPI.org (headlines), refreshed on a schedule &mdash; see the &ldquo;updated&rdquo; timestamp above.
     Not investment advice. Fund selection is a static curated list of large, well-known ETFs, not a real-time AUM ranking.<br>

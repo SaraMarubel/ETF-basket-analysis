@@ -34,6 +34,16 @@ let MARKET = {};
 let NEWS = {};
 let NEWS_HAS_KEY = false;
 let MANAGER_PROFILES = {};
+let GLOSSARY = {};
+let CORRELATION = {};
+let RISK_FREE_PCT = null;
+
+const AP_INDUSTRY_FIRMS = [
+  "JPMorgan Securities", "Goldman Sachs & Co.", "Morgan Stanley & Co.",
+  "BofA Securities (Merrill Lynch)", "Citigroup Global Markets", "Jane Street Capital",
+  "Virtu Financial", "Susquehanna International Group", "RBC Capital Markets",
+  "UBS Securities", "Cantor Fitzgerald",
+];
 
 function cssVar(name) {
   return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
@@ -79,20 +89,47 @@ function timeAgo(iso) {
 }
 
 async function loadData() {
-  const [etfs, market, news, profiles] = await Promise.all([
+  const [etfs, market, news, profiles, glossary] = await Promise.all([
     fetch("etfs.json").then(r => r.json()),
     fetch("data/market_data.json").then(r => r.json()),
     fetch("data/news.json").then(r => r.json()).catch(() => ({ news: {}, has_key: false })),
     fetch("manager_profiles.json").then(r => r.json()).catch(() => ({})),
+    fetch("glossary.json").then(r => r.json()).catch(() => ({})),
   ]);
   ETFS = etfs;
   MARKET = market.etfs || {};
   NEWS = news.news || {};
   NEWS_HAS_KEY = !!news.has_key;
   MANAGER_PROFILES = profiles || {};
+  GLOSSARY = glossary || {};
+  CORRELATION = market.correlation_matrix || {};
+  RISK_FREE_PCT = market.risk_free_rate_pct ?? null;
 
   document.getElementById("meta-line").innerHTML =
     `Updated <strong>${new Date(market.generated_at).toLocaleString()}</strong><br>20 ETFs tracked &middot; auto-refreshed on a schedule`;
+}
+
+function termSpan(label, glossaryKey) {
+  const key = glossaryKey || label;
+  return GLOSSARY[key] ? `<span class="term" data-term="${key}">${label}</span>` : label;
+}
+
+function wireGlossaryTerms(root) {
+  (root || document).querySelectorAll(".term[data-term]").forEach(el => {
+    if (el.dataset.wired) return;
+    el.dataset.wired = "1";
+    el.addEventListener("mouseenter", (ev) => showGlossaryTip(ev, el.dataset.term));
+    el.addEventListener("mousemove", positionHoverTip);
+    el.addEventListener("mouseleave", hideHoverTip);
+  });
+}
+
+function showGlossaryTip(ev, term) {
+  const def = GLOSSARY[term];
+  if (!def) return;
+  hoverTip.innerHTML = `<div class="h-title">${term}</div><div class="g-def">${def}</div>`;
+  hoverTip.classList.add("show");
+  positionHoverTip(ev);
 }
 
 function renderStatRow() {
@@ -370,6 +407,67 @@ function renderHoldingsTable(m) {
   </table>`;
 }
 
+function metricTile(label, value, glossaryKey) {
+  return `<div class="metric-tile"><div class="k">${termSpan(label, glossaryKey)}</div><div class="v">${value}</div></div>`;
+}
+
+function renderMetricsGrid(m) {
+  const html = `<div class="metric-grid">
+    ${metricTile("Beta (vs S&P 500)", m.beta_vs_sp500 ?? "—", "Beta")}
+    ${metricTile("Volatility (ann.)", m.volatility_pct != null ? m.volatility_pct + "%" : "—", "Volatility")}
+    ${metricTile("Sharpe Ratio", m.sharpe_ratio ?? "—", "Sharpe Ratio")}
+    ${metricTile("Max Drawdown (5Y)", m.max_drawdown_5y_pct != null ? m.max_drawdown_5y_pct + "%" : "—", "Max Drawdown")}
+    ${metricTile("Tracking Error", m.tracking_error_pct != null ? m.tracking_error_pct + "%" : "N/A", "Tracking Error")}
+    ${metricTile("Bid-Ask Spread", m.spread_pct != null ? m.spread_pct + "%" : "—", "Bid-Ask Spread")}
+    ${metricTile("Avg Daily Volume", m.avg_volume ? Math.round(m.avg_volume).toLocaleString() : "—", "Average Daily Volume")}
+    ${metricTile("Risk-Free Rate", RISK_FREE_PCT != null ? RISK_FREE_PCT + "%" : "—", "Risk-Free Rate")}
+  </div>`;
+  const note = m.tracking_error_pct == null
+    ? `<p class="metric-note">Tracking error N/A &mdash; no free total-return benchmark index feed available for this fund's specific target index (beta above still uses the S&P 500 as a universal market proxy, which works for any fund).</p>`
+    : `<p class="metric-note">Tracking error is measured against a price-only index feed (dividends excluded), so it reads a bit higher than the fund's official total-return tracking error.</p>`;
+  return html + note;
+}
+
+function horizonTile(label, v) {
+  const cls = v == null ? "" : (v >= 0 ? "delta-up" : "delta-down");
+  return `<div class="horizon-tile"><div class="k">${label}</div><div class="v ${cls}">${fmtPct(v, { decimals: 1 })}</div></div>`;
+}
+
+function renderHorizonRow(m) {
+  return `<div class="horizon-row">
+    ${horizonTile("1M", m.change_1m_pct)}
+    ${horizonTile("3M", m.change_3m_pct)}
+    ${horizonTile("6M", m.change_6m_pct)}
+    ${horizonTile("YTD", m.change_ytd_pct)}
+    ${horizonTile("1Y", m.change_1y_pct)}
+    ${horizonTile("3Y", m.change_3y_pct)}
+    ${horizonTile("5Y", m.change_5y_pct)}
+  </div>`;
+}
+
+function renderOptionsSnapshot(opts) {
+  if (!opts) {
+    return `<div class="empty-note">No listed options market returned for this fund &mdash; either it has no active options chain, or liquidity is too thin for the nearest expiration to resolve.</div>`;
+  }
+  return `<div class="metric-grid">
+    ${metricTile("Nearest Expiration", fmtDate(opts.nearest_expiration))}
+    ${metricTile("ATM Implied Vol", opts.atm_implied_vol_pct != null ? opts.atm_implied_vol_pct + "%" : "—", "Implied Volatility")}
+    ${metricTile("Call Open Interest", opts.call_open_interest != null ? opts.call_open_interest.toLocaleString() : "—", "Open Interest")}
+    ${metricTile("Put Open Interest", opts.put_open_interest != null ? opts.put_open_interest.toLocaleString() : "—", "Open Interest")}
+    ${metricTile("Put/Call OI Ratio", opts.put_call_oi_ratio ?? "—", "Put/Call Ratio")}
+    ${metricTile("Expirations Listed", opts.expirations_available ?? "—")}
+  </div>`;
+}
+
+function renderAPSection(etf) {
+  return `<div class="ap-note-box">
+    <span class="term" data-term="Authorized Participant">Authorized Participants</span> are the large broker-dealers contractually able to create and redeem large blocks of ${etf.ticker} shares directly with ${etf.manager} &mdash; they're the institutional plumbing that keeps the ETF's market price tethered to its NAV, and effectively the primary bulk "traders" of the fund.
+    <br><br>
+    <strong>A real data limit, stated plainly:</strong> the current fund-specific AP roster isn't public. Issuers only share it through broker-dealer-restricted portals (State Street's own AP resource page, for example, requires requesting SFTP credentials directly). What <em>is</em> publicly documented is the small set of major banks and trading firms that serve as Authorized Participants across the ETF industry broadly:
+    <div class="ap-list">${AP_INDUSTRY_FIRMS.join(" &middot; ")}</div>
+  </div>`;
+}
+
 function renderNews(ticker) {
   const items = NEWS[ticker];
   if (!NEWS_HAS_KEY) {
@@ -396,7 +494,10 @@ function openModal(etf, m) {
         <h2>${etf.ticker} <span style="font-weight:400; color:var(--text-secondary); font-size:15px;">${etf.name}</span></h2>
         <div class="sub">${etf.manager} &middot; ${etf.category}</div>
       </div>
-      <button class="modal-close" id="modal-close">&times;</button>
+      <div style="display:flex; align-items:flex-start; gap:8px;">
+        <button class="print-btn" id="print-btn">Print / Export</button>
+        <button class="modal-close" id="modal-close">&times;</button>
+      </div>
     </div>
 
     <div class="fact-grid">
@@ -404,12 +505,21 @@ function openModal(etf, m) {
       <div class="fact"><div class="k">Currency</div><div class="v">${m.currency || etf.currency}</div></div>
       <div class="fact"><div class="k">1D change</div><div class="v ${(m.change_1d_pct ?? 0) >= 0 ? "delta-up" : "delta-down"}">${fmtPct(m.change_1d_pct)}</div></div>
       <div class="fact"><div class="k">1Y change</div><div class="v ${(m.change_1y_pct ?? 0) >= 0 ? "delta-up" : "delta-down"}">${fmtPct(m.change_1y_pct)}</div></div>
-      <div class="fact"><div class="k">AUM</div><div class="v">${fmtBig(m.aum)}</div></div>
-      <div class="fact"><div class="k">Expense ratio</div><div class="v">${etf.expense_ratio}%</div></div>
+      <div class="fact"><div class="k">${termSpan("AUM")}</div><div class="v">${fmtBig(m.aum)}</div></div>
+      <div class="fact"><div class="k">${termSpan("Expense Ratio")}</div><div class="v">${etf.expense_ratio}%</div></div>
       <div class="fact"><div class="k">Inception</div><div class="v">${fmtDate(etf.inception_date)}</div></div>
       <div class="fact"><div class="k">Fund age</div><div class="v">${age} years</div></div>
       <div class="fact"><div class="k">Manager</div><div class="v">${etf.manager}</div></div>
     </div>
+
+    <h3>Performance across time horizons</h3>
+    ${renderHorizonRow(m)}
+
+    <h3>Trading &amp; risk metrics</h3>
+    ${renderMetricsGrid(m)}
+
+    <h3>Options market snapshot</h3>
+    ${renderOptionsSnapshot(m.options)}
 
     <h3>What it is</h3>
     <p class="prose">${etf.description || "—"}</p>
@@ -419,6 +529,7 @@ function openModal(etf, m) {
 
     <h3>Who typically holds/trades it</h3>
     <p class="prose">${etf.typical_holders || "—"}</p>
+    ${renderAPSection(etf)}
 
     <h3>What makes it successful</h3>
     <p class="prose">${etf.success_factors || "—"}</p>
@@ -429,7 +540,8 @@ function openModal(etf, m) {
     <h3>Composition by sector</h3>
     ${renderSectorBars(m.sector_weights)}
 
-    <h3>Top holdings &mdash; strongest &amp; weakest in the basket</h3>
+    <h3>Top holdings by weight &mdash; strongest &amp; weakest in the basket</h3>
+    <p class="metric-note">Shows the fund's top ${(m.top_holdings || []).length || 10} holdings by weight, the maximum Yahoo's free data feed discloses &mdash; not the fund's complete constituent list, which can run into the hundreds for broad index funds.</p>
     ${renderHoldingsTable(m)}
 
     <h3>News affecting ${etf.ticker} (politics, policy, macro)</h3>
@@ -437,6 +549,8 @@ function openModal(etf, m) {
   `;
   modalBackdrop.classList.remove("hidden");
   document.getElementById("modal-close").addEventListener("click", closeModal);
+  document.getElementById("print-btn").addEventListener("click", () => window.print());
+  wireGlossaryTerms(modalBody);
 }
 function closeModal() { modalBackdrop.classList.add("hidden"); }
 modalBackdrop.addEventListener("click", (e) => { if (e.target === modalBackdrop) closeModal(); });
@@ -457,6 +571,132 @@ document.getElementById("perf-table-toggle").addEventListener("click", () => {
   }
 });
 
+/* ---------- Compare tool ---------- */
+let compareSelected = new Set();
+
+function renderComparePicker() {
+  const picker = document.getElementById("compare-picker");
+  picker.innerHTML = ETFS.map(e =>
+    `<label class="check-pill"><input type="checkbox" class="compare-check" value="${e.ticker}"> ${e.ticker}</label>`
+  ).join("");
+  document.querySelectorAll(".compare-check").forEach(cb => {
+    cb.addEventListener("change", () => {
+      if (cb.checked) {
+        if (compareSelected.size >= 4) { cb.checked = false; return; }
+        compareSelected.add(cb.value);
+      } else {
+        compareSelected.delete(cb.value);
+      }
+      renderCompareOutput();
+    });
+  });
+  renderCompareOutput();
+}
+
+function computeOverlap(a, b) {
+  const holdA = MARKET[a]?.top_holdings || [];
+  const holdB = MARKET[b]?.top_holdings || [];
+  const mapB = Object.fromEntries(holdB.map(h => [h.symbol, h.weight_pct]));
+  let overlap = 0;
+  holdA.forEach(h => { if (mapB[h.symbol] != null) overlap += Math.min(h.weight_pct, mapB[h.symbol]); });
+  return overlap;
+}
+
+function renderCompareOutput() {
+  const out = document.getElementById("compare-output");
+  const tickers = [...compareSelected];
+  if (tickers.length < 2) {
+    out.innerHTML = `<div class="empty-note">Select at least 2 ETFs above to compare (up to 4).</div>`;
+    return;
+  }
+  const etfOf = tk => ETFS.find(e => e.ticker === tk);
+  const rows = [
+    ["Name", tk => etfOf(tk).name],
+    ["Manager", tk => etfOf(tk).manager],
+    [termSpan("Expense Ratio"), tk => etfOf(tk).expense_ratio + "%"],
+    ["Price", tk => fmtMoney(MARKET[tk]?.price, MARKET[tk]?.currency || etfOf(tk).currency)],
+    ["1Y Return", tk => fmtPct(MARKET[tk]?.change_1y_pct)],
+    ["3Y Return", tk => fmtPct(MARKET[tk]?.change_3y_pct)],
+    ["5Y Return", tk => fmtPct(MARKET[tk]?.change_5y_pct)],
+    [termSpan("Beta", "Beta"), tk => MARKET[tk]?.beta_vs_sp500 ?? "—"],
+    [termSpan("Volatility (ann.)", "Volatility"), tk => MARKET[tk]?.volatility_pct != null ? MARKET[tk].volatility_pct + "%" : "—"],
+    [termSpan("Sharpe Ratio"), tk => MARKET[tk]?.sharpe_ratio ?? "—"],
+    [termSpan("Max Drawdown (5Y)", "Max Drawdown"), tk => MARKET[tk]?.max_drawdown_5y_pct != null ? MARKET[tk].max_drawdown_5y_pct + "%" : "—"],
+    [termSpan("Avg Daily Volume", "Average Daily Volume"), tk => MARKET[tk]?.avg_volume ? Math.round(MARKET[tk].avg_volume).toLocaleString() : "—"],
+    [termSpan("AUM"), tk => fmtBig(MARKET[tk]?.aum)],
+  ];
+  let html = `<div class="compare-table-wrap"><table class="compare-table"><thead><tr><th class="row-label">Metric</th>${tickers.map(tk => `<th>${tk}</th>`).join("")}</tr></thead><tbody>`;
+  rows.forEach(([label, fn]) => {
+    html += `<tr><th class="row-label">${label}</th>${tickers.map(tk => `<td>${fn(tk)}</td>`).join("")}</tr>`;
+  });
+  html += `</tbody></table></div>`;
+
+  html += `<h3 style="margin-top:20px;">Holdings ${termSpan("overlap", "Overlap")} <span style="font-weight:400; color:var(--text-muted); font-size:11px;">(based on each fund's top-10 disclosed holdings &mdash; a lower bound, not full-portfolio overlap)</span></h3>`;
+  for (let i = 0; i < tickers.length; i++) {
+    for (let j = i + 1; j < tickers.length; j++) {
+      const a = tickers[i], b = tickers[j];
+      const overlap = computeOverlap(a, b);
+      html += `<div class="overlap-row"><div style="width:90px; flex-shrink:0;">${a} vs ${b}</div><div class="overlap-track"><div class="overlap-fill" style="width:${Math.min(overlap, 100)}%"></div></div><div>${overlap.toFixed(1)}%</div></div>`;
+    }
+  }
+  out.innerHTML = html;
+  wireGlossaryTerms(out);
+}
+
+/* ---------- Correlation matrix ---------- */
+function hexToRgb(hex) {
+  hex = hex.trim();
+  if (hex.startsWith("rgb")) {
+    const m = hex.match(/\d+/g).map(Number);
+    return { r: m[0], g: m[1], b: m[2] };
+  }
+  const h = hex.replace("#", "");
+  return { r: parseInt(h.slice(0, 2), 16), g: parseInt(h.slice(2, 4), 16), b: parseInt(h.slice(4, 6), 16) };
+}
+function mixColor(hex1, hex2, t) {
+  const c1 = hexToRgb(hex1), c2 = hexToRgb(hex2);
+  const r = Math.round(c1.r + (c2.r - c1.r) * t);
+  const g = Math.round(c1.g + (c2.g - c1.g) * t);
+  const b = Math.round(c1.b + (c2.b - c1.b) * t);
+  return `rgb(${r},${g},${b})`;
+}
+function corrColor(v) {
+  if (v == null) return cssVar("--gridline");
+  const t = Math.max(-1, Math.min(1, v));
+  return t >= 0 ? mixColor(cssVar("--gridline"), cssVar("--series-1"), t)
+                : mixColor(cssVar("--gridline"), cssVar("--series-8"), -t);
+}
+function inkFor(rgbStr) {
+  const m = rgbStr.match(/\d+/g).map(Number);
+  const lum = (0.299 * m[0] + 0.587 * m[1] + 0.114 * m[2]) / 255;
+  return lum > 0.6 ? "#0b0b0b" : "#ffffff";
+}
+
+function renderCorrelationMatrix() {
+  const tickers = ETFS.map(e => e.ticker).filter(tk => CORRELATION[tk]);
+  const container = document.getElementById("corr-matrix");
+  if (tickers.length === 0) {
+    container.innerHTML = `<div class="empty-note">Correlation data not available.</div>`;
+    return;
+  }
+  let html = `<div class="corr-grid" style="grid-template-columns: 50px repeat(${tickers.length}, 26px);">`;
+  html += `<div></div>`;
+  tickers.forEach(tk => { html += `<div class="corr-label">${tk}</div>`; });
+  tickers.forEach(rowTk => {
+    html += `<div class="corr-label row">${rowTk}</div>`;
+    tickers.forEach(colTk => {
+      const v = CORRELATION[rowTk] ? CORRELATION[rowTk][colTk] : null;
+      const bg = corrColor(v);
+      const ink = inkFor(bg);
+      const label = v != null ? v.toFixed(1) : "—";
+      const title = `${rowTk} vs ${colTk}: ${v != null ? v.toFixed(2) : "n/a"}`;
+      html += `<div class="corr-cell" style="background:${bg}; color:${ink};" title="${title}">${label}</div>`;
+    });
+  });
+  html += `</div>`;
+  container.innerHTML = html;
+}
+
 (async function init() {
   try {
     await loadData();
@@ -465,6 +705,8 @@ document.getElementById("perf-table-toggle").addEventListener("click", () => {
     renderPerfChart();
     initFilters();
     renderGrid();
+    renderComparePicker();
+    renderCorrelationMatrix();
   } catch (err) {
     document.getElementById("meta-line").textContent = "Failed to load data.";
     console.error(err);

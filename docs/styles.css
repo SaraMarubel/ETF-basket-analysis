@@ -450,7 +450,105 @@ footer.site {
 }
 footer.site a { color: var(--text-secondary); }
 
+/* glossary hover terms */
+.term {
+  border-bottom: 1px dotted var(--text-muted);
+  cursor: help;
+}
+.hover-tip .g-def { line-height: 1.55; }
+
+/* metrics grid (beta, vol, sharpe, etc.) inside modal */
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 4px 0 6px;
+}
+.metric-tile { background: var(--page-plane); border-radius: 8px; padding: 9px 11px; }
+.metric-tile .k { font-size: 10.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .03em; }
+.metric-tile .v { font-size: 15px; font-weight: 600; margin-top: 2px; }
+.metric-note { font-size: 11px; color: var(--text-muted); margin: 6px 0 0; }
+
+.horizon-row {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 6px;
+  margin: 4px 0 6px;
+}
+.horizon-tile { background: var(--page-plane); border-radius: 8px; padding: 7px 6px; text-align: center; }
+.horizon-tile .k { font-size: 10px; color: var(--text-muted); }
+.horizon-tile .v { font-size: 13px; font-weight: 600; margin-top: 3px; font-variant-numeric: tabular-nums; }
+
+.ap-note-box {
+  font-size: 12.5px;
+  line-height: 1.55;
+  background: var(--page-plane);
+  border-radius: 8px;
+  padding: 12px 14px;
+}
+.ap-note-box .ap-list { margin: 8px 0 0; font-weight: 600; color: var(--text-primary); }
+
+/* print button */
+.print-btn {
+  font-size: 12px;
+  color: var(--text-secondary);
+  background: var(--page-plane);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+.print-btn:hover { color: var(--text-primary); border-color: var(--baseline); }
+
+/* compare tool */
+.compare-picker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+.compare-table-wrap { overflow-x: auto; }
+table.compare-table { border-collapse: collapse; font-size: 12.5px; width: 100%; }
+table.compare-table th, table.compare-table td {
+  text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--gridline); white-space: nowrap;
+}
+table.compare-table th.row-label { color: var(--text-muted); font-weight: 500; font-size: 11px; text-transform: uppercase; letter-spacing: .03em; }
+table.compare-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+.overlap-row { display: flex; align-items: center; gap: 10px; margin: 4px 0; font-size: 12.5px; }
+.overlap-track { flex: 1; height: 14px; background: var(--gridline); border-radius: 3px; position: relative; max-width: 240px; }
+.overlap-fill { position: absolute; top: 0; left: 0; bottom: 0; background: var(--series-1); border-radius: 3px; }
+
+/* correlation matrix */
+#corr-matrix-wrap { overflow-x: auto; }
+.corr-grid { display: inline-grid; gap: 2px; }
+.corr-cell {
+  width: 26px; height: 26px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 9px; font-weight: 600;
+  border-radius: 3px;
+  cursor: default;
+  color: var(--text-primary);
+}
+.corr-label {
+  width: 26px; height: 26px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 9.5px; font-weight: 700; color: var(--text-secondary);
+}
+.corr-label.row { justify-content: flex-end; padding-right: 4px; width: auto; min-width: 34px; }
+
+@media print {
+  body * { visibility: hidden; }
+  #modal-body, #modal-body * { visibility: visible; }
+  #modal-backdrop { position: absolute; inset: 0; background: none; padding: 0; }
+  #modal-body { position: absolute; top: 0; left: 0; width: 100%; max-width: 100%; border: none; box-shadow: none; }
+  .modal-close, .print-btn { display: none !important; }
+}
+
 @media (max-width: 720px) {
   .stat-row { grid-template-columns: repeat(2, 1fr); }
   .fact-grid { grid-template-columns: repeat(2, 1fr); }
+  .metric-grid { grid-template-columns: repeat(2, 1fr); }
+  .horizon-row { grid-template-columns: repeat(3, 1fr); }
 }
