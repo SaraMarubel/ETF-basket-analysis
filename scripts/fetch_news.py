@@ -37,7 +37,11 @@ def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
     }
     try:
         resp = requests.get(NEWSAPI_URL, params=params, timeout=15)
-        resp.raise_for_status()
+        if resp.status_code != 200:
+            body = resp.json()
+            print(f"  news fetch failed for {ticker}: HTTP {resp.status_code} "
+                  f"code={body.get('code')} message={body.get('message')}", file=sys.stderr)
+            return []
         data = resp.json()
     except Exception as e:
         print(f"  news fetch failed for {ticker}: {e}", file=sys.stderr)
@@ -56,7 +60,7 @@ def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
 
 
 def main():
-    api_key = os.environ.get("NEWSAPI_KEY")
+    api_key = (os.environ.get("NEWSAPI_KEY") or "").strip()
     etfs = json.loads(ETFS_FILE.read_text())
 
     news = {}
