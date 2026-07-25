@@ -1,5 +1,26 @@
 {
-  "generated_at": "2026-07-25T02:27:09.635074+00:00",
-  "has_key": false,
-  "news": {}
+  "generated_at": "2026-07-25T02:33:02.313682+00:00",
+  "has_key": true,
+  "news": {
+    "VOO": [],
+    "IVV": [],
+    "SPY": [],
+    "VTI": [],
+    "QQQ": [],
+    "IEFA": [],
+    "VEA": [],
+    "VUG": [],
+    "BND": [],
+    "SCHD": [],
+    "IEMG": [],
+    "AGG": [],
+    "VTV": [],
+    "VXUS": [],
+    "VWO": [],
+    "GLD": [],
+    "IWF": [],
+    "IJH": [],
+    "VIG": [],
+    "IJR": []
+  }
 }
