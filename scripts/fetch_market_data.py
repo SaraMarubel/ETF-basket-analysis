@@ -18,6 +18,8 @@ ROOT = Path(__file__).resolve().parent.parent
 ETFS_FILE = ROOT / "etfs.json"
 OUT_FILE = ROOT / "docs" / "data" / "market_data.json"
 ETFS_COPY_FILE = ROOT / "docs" / "etfs.json"
+PROFILES_FILE = ROOT / "manager_profiles.json"
+PROFILES_COPY_FILE = ROOT / "docs" / "manager_profiles.json"
 
 TOP_N_HOLDINGS = 6
 SPARKLINE_DAYS = 90
@@ -136,9 +138,11 @@ def main():
     etfs = json.loads(ETFS_FILE.read_text())
     tickers = [e["ticker"] for e in etfs]
 
-    # keep the frontend's copy (served from /docs) in sync with the seed file
+    # keep the frontend's copies (served from /docs) in sync with the seed files
     ETFS_COPY_FILE.parent.mkdir(parents=True, exist_ok=True)
     ETFS_COPY_FILE.write_text(json.dumps(etfs, indent=2))
+    if PROFILES_FILE.exists():
+        PROFILES_COPY_FILE.write_text(PROFILES_FILE.read_text())
 
     results = {}
     for i, ticker in enumerate(tickers, 1):

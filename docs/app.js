@@ -1,5 +1,20 @@
 /* ETF Basket Analysis frontend. No build step, no framework, no CDN. */
 
+(function initTheme() {
+  const saved = localStorage.getItem("theme");
+  if (saved === "light" || saved === "dark") {
+    document.documentElement.setAttribute("data-theme", saved);
+  }
+})();
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  const root = document.documentElement;
+  const current = root.getAttribute("data-theme") ||
+    (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  const next = current === "dark" ? "light" : "dark";
+  root.setAttribute("data-theme", next);
+  localStorage.setItem("theme", next);
+});
+
 const SECTOR_ORDER = [
   "technology", "financial_services", "healthcare", "consumer_cyclical",
   "industrials", "communication_services", "consumer_defensive", "energy",
@@ -18,6 +33,7 @@ let ETFS = [];
 let MARKET = {};
 let NEWS = {};
 let NEWS_HAS_KEY = false;
+let MANAGER_PROFILES = {};
 
 function cssVar(name) {
   return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
@@ -63,15 +79,17 @@ function timeAgo(iso) {
 }
 
 async function loadData() {
-  const [etfs, market, news] = await Promise.all([
+  const [etfs, market, news, profiles] = await Promise.all([
     fetch("etfs.json").then(r => r.json()),
     fetch("data/market_data.json").then(r => r.json()),
     fetch("data/news.json").then(r => r.json()).catch(() => ({ news: {}, has_key: false })),
+    fetch("manager_profiles.json").then(r => r.json()).catch(() => ({})),
   ]);
   ETFS = etfs;
   MARKET = market.etfs || {};
   NEWS = news.news || {};
   NEWS_HAS_KEY = !!news.has_key;
+  MANAGER_PROFILES = profiles || {};
 
   document.getElementById("meta-line").innerHTML =
     `Updated <strong>${new Date(market.generated_at).toLocaleString()}</strong><br>20 ETFs tracked &middot; auto-refreshed on a schedule`;
@@ -303,6 +321,21 @@ function openModal(etf, m) {
       <div class="fact"><div class="k">Fund age</div><div class="v">${age} years</div></div>
       <div class="fact"><div class="k">Manager</div><div class="v">${etf.manager}</div></div>
     </div>
+
+    <h3>What it is</h3>
+    <p class="prose">${etf.description || "—"}</p>
+
+    <h3>Who manages it</h3>
+    <p class="prose">${MANAGER_PROFILES[etf.manager] || etf.manager}</p>
+
+    <h3>Who typically holds/trades it</h3>
+    <p class="prose">${etf.typical_holders || "—"}</p>
+
+    <h3>What makes it successful</h3>
+    <p class="prose">${etf.success_factors || "—"}</p>
+
+    <h3>Political &amp; policy exposure</h3>
+    <p class="prose">${etf.political_context || "—"}</p>
 
     <h3>Composition by sector</h3>
     ${renderSectorBars(m.sector_weights)}

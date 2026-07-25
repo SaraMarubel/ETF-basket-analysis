@@ -91,6 +91,33 @@ body {
   padding: 28px 20px 80px;
 }
 
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 6px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  color: var(--text-secondary);
+}
+.theme-toggle:hover { border-color: var(--baseline); color: var(--text-primary); }
+/* default: assume light -> show moon (click to go dark) */
+.theme-toggle .icon-dark { display: inline; }
+.theme-toggle .icon-light { display: none; }
+/* OS says dark, no explicit override -> show sun (click to go light) */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) .theme-toggle .icon-dark { display: none; }
+  :root:not([data-theme]) .theme-toggle .icon-light { display: inline; }
+}
+/* explicit overrides always win */
+:root[data-theme="dark"] .theme-toggle .icon-dark { display: none; }
+:root[data-theme="dark"] .theme-toggle .icon-light { display: inline; }
+:root[data-theme="light"] .theme-toggle .icon-dark { display: inline; }
+:root[data-theme="light"] .theme-toggle .icon-light { display: none; }
+
 header.top {
   display: flex;
   flex-wrap: wrap;
@@ -318,6 +345,7 @@ canvas.spark { width: 100%; height: 40px; display: block; }
 .fact .v { font-size: 14px; font-weight: 600; margin-top: 2px; }
 
 .modal h3 { font-size: 13px; margin: 20px 0 8px; color: var(--text-secondary); }
+.modal p.prose { font-size: 13.5px; line-height: 1.55; color: var(--text-primary); margin: 0; }
 
 .sector-bar-row { display: grid; grid-template-columns: 120px 1fr 46px; align-items:center; gap:8px; height:22px; margin-bottom:3px;}
 .sector-bar-row .sname { font-size:12px; color:var(--text-secondary); }

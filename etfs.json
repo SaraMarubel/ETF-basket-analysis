@@ -1,22 +1,162 @@
 [
-  { "ticker": "VOO",  "name": "Vanguard S&P 500 ETF",                  "manager": "Vanguard",      "category": "US Large-Cap Equity",     "inception_date": "2010-09-07", "currency": "USD", "expense_ratio": 0.03 },
-  { "ticker": "IVV",  "name": "iShares Core S&P 500 ETF",              "manager": "BlackRock",     "category": "US Large-Cap Equity",     "inception_date": "2000-05-15", "currency": "USD", "expense_ratio": 0.03 },
-  { "ticker": "SPY",  "name": "SPDR S&P 500 ETF Trust",                "manager": "State Street",  "category": "US Large-Cap Equity",     "inception_date": "1993-01-22", "currency": "USD", "expense_ratio": 0.09 },
-  { "ticker": "VTI",  "name": "Vanguard Total Stock Market ETF",       "manager": "Vanguard",      "category": "US Total Market Equity",  "inception_date": "2001-05-24", "currency": "USD", "expense_ratio": 0.03 },
-  { "ticker": "QQQ",  "name": "Invesco QQQ Trust",                     "manager": "Invesco",       "category": "US Large-Cap Growth (Nasdaq-100)", "inception_date": "1999-03-10", "currency": "USD", "expense_ratio": 0.20 },
-  { "ticker": "IEFA", "name": "iShares Core MSCI EAFE ETF",            "manager": "BlackRock",     "category": "International Developed Equity", "inception_date": "2012-10-18", "currency": "USD", "expense_ratio": 0.07 },
-  { "ticker": "VEA",  "name": "Vanguard FTSE Developed Markets ETF",   "manager": "Vanguard",      "category": "International Developed Equity", "inception_date": "2007-07-20", "currency": "USD", "expense_ratio": 0.05 },
-  { "ticker": "VUG",  "name": "Vanguard Growth ETF",                   "manager": "Vanguard",      "category": "US Large-Cap Growth",     "inception_date": "2004-01-26", "currency": "USD", "expense_ratio": 0.04 },
-  { "ticker": "BND",  "name": "Vanguard Total Bond Market ETF",        "manager": "Vanguard",      "category": "US Aggregate Bond",       "inception_date": "2007-04-03", "currency": "USD", "expense_ratio": 0.03 },
-  { "ticker": "SCHD", "name": "Schwab U.S. Dividend Equity ETF",       "manager": "Charles Schwab","category": "US Dividend Equity",      "inception_date": "2011-10-20", "currency": "USD", "expense_ratio": 0.06 },
-  { "ticker": "IEMG", "name": "iShares Core MSCI Emerging Markets ETF","manager": "BlackRock",     "category": "Emerging Markets Equity", "inception_date": "2012-10-18", "currency": "USD", "expense_ratio": 0.09 },
-  { "ticker": "AGG",  "name": "iShares Core U.S. Aggregate Bond ETF",  "manager": "BlackRock",     "category": "US Aggregate Bond",       "inception_date": "2003-09-22", "currency": "USD", "expense_ratio": 0.03 },
-  { "ticker": "VTV",  "name": "Vanguard Value ETF",                    "manager": "Vanguard",      "category": "US Large-Cap Value",      "inception_date": "2004-01-26", "currency": "USD", "expense_ratio": 0.04 },
-  { "ticker": "VXUS", "name": "Vanguard Total International Stock ETF","manager": "Vanguard",      "category": "Total International Equity", "inception_date": "2011-01-26", "currency": "USD", "expense_ratio": 0.05 },
-  { "ticker": "VWO",  "name": "Vanguard FTSE Emerging Markets ETF",    "manager": "Vanguard",      "category": "Emerging Markets Equity", "inception_date": "2005-03-04", "currency": "USD", "expense_ratio": 0.07 },
-  { "ticker": "GLD",  "name": "SPDR Gold Shares",                      "manager": "State Street",  "category": "Commodities (Gold)",      "inception_date": "2004-11-18", "currency": "USD", "expense_ratio": 0.40 },
-  { "ticker": "IWF",  "name": "iShares Russell 1000 Growth ETF",       "manager": "BlackRock",     "category": "US Large-Cap Growth",     "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.19 },
-  { "ticker": "IJH",  "name": "iShares Core S&P Mid-Cap ETF",          "manager": "BlackRock",     "category": "US Mid-Cap Equity",       "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.05 },
-  { "ticker": "VIG",  "name": "Vanguard Dividend Appreciation ETF",    "manager": "Vanguard",      "category": "US Dividend Growth Equity","inception_date": "2006-04-21", "currency": "USD", "expense_ratio": 0.05 },
-  { "ticker": "IJR",  "name": "iShares Core S&P Small-Cap ETF",        "manager": "BlackRock",     "category": "US Small-Cap Equity",     "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.06 }
+  {
+    "ticker": "VOO", "name": "Vanguard S&P 500 ETF", "manager": "Vanguard", "category": "US Large-Cap Equity",
+    "inception_date": "2010-09-07", "currency": "USD", "expense_ratio": 0.03,
+    "description": "Tracks the S&P 500 index, holding roughly 500 of the largest US companies weighted by market capitalization, spanning technology, financials, healthcare and other sectors.",
+    "typical_holders": "A default core holding across 401(k) and IRA retirement accounts, robo-advisor model portfolios, and institutional asset allocators seeking simple US large-cap exposure.",
+    "success_factors": "One of the lowest expense ratios in the industry (0.03%), very high trading liquidity, and a straightforward pitch as a proxy for the overall US large-cap market have made it a go-to core holding.",
+    "political_context": "Sensitive to Federal Reserve interest-rate policy, US corporate tax legislation, and antitrust or AI-regulation scrutiny of the mega-cap technology names that dominate its top holdings."
+  },
+  {
+    "ticker": "IVV", "name": "iShares Core S&P 500 ETF", "manager": "BlackRock", "category": "US Large-Cap Equity",
+    "inception_date": "2000-05-15", "currency": "USD", "expense_ratio": 0.03,
+    "description": "Also tracks the S&P 500; functionally near-identical in holdings and weighting to VOO and SPY, differing mainly in issuer and minor structural details.",
+    "typical_holders": "Heavily used in advisory model portfolios and institutional mandates, partly on the strength of BlackRock's distribution reach.",
+    "success_factors": "BlackRock's scale, a 0.03% expense ratio, and deep institutional adoption drive its size.",
+    "political_context": "Shares the same monetary-policy and mega-cap regulatory exposure as other S&P 500 trackers; BlackRock's own political visibility (ESG-investing debates, state-level divestment actions against the firm) is occasionally a talking point distinct from the fund's actual holdings."
+  },
+  {
+    "ticker": "SPY", "name": "SPDR S&P 500 ETF Trust", "manager": "State Street", "category": "US Large-Cap Equity",
+    "inception_date": "1993-01-22", "currency": "USD", "expense_ratio": 0.09,
+    "description": "The original S&P 500 ETF, launched in 1993 and structured as a unit investment trust rather than an open-end fund, which changes how dividends are handled versus VOO/IVV.",
+    "typical_holders": "The preferred vehicle for institutional and derivatives traders (options and futures markets are built around SPY specifically), alongside broad retail use.",
+    "success_factors": "First-mover advantage and the deepest options/futures-linked liquidity of any ETF in the world keep it dominant despite a higher 0.09% fee than its Vanguard/iShares peers.",
+    "political_context": "As the most widely quoted 'the market' proxy in financial media, its price action is routinely cited in political commentary on the economy; carries the same Fed-policy and corporate-tax sensitivities as other S&P 500 funds."
+  },
+  {
+    "ticker": "VTI", "name": "Vanguard Total Stock Market ETF", "manager": "Vanguard", "category": "US Total Market Equity",
+    "inception_date": "2001-05-24", "currency": "USD", "expense_ratio": 0.03,
+    "description": "Tracks the CRSP US Total Market Index, covering nearly the entire investable US stock market — large-, mid-, small- and micro-cap companies — not just the largest 500.",
+    "typical_holders": "A staple of Vanguard's popular three-fund portfolio strategy, widely used by long-term retail buy-and-hold investors and robo-advisors.",
+    "success_factors": "A 0.03% expense ratio and 'own the whole market in one fund' simplicity have made it a favorite core holding.",
+    "political_context": "Broader exposure than the S&P 500 adds sensitivity to policy affecting smaller domestic companies — small-business tax and credit conditions — alongside the usual mega-cap regulatory and monetary-policy factors."
+  },
+  {
+    "ticker": "QQQ", "name": "Invesco QQQ Trust", "manager": "Invesco", "category": "US Large-Cap Growth (Nasdaq-100)",
+    "inception_date": "1999-03-10", "currency": "USD", "expense_ratio": 0.20,
+    "description": "Tracks the Nasdaq-100 Index: the 100 largest non-financial companies listed on the Nasdaq, heavily concentrated in technology, communication services and consumer discretionary names.",
+    "typical_holders": "Popular with both long-term tech investors and active/short-term traders; one of the most heavily traded ETFs in the world by dollar volume.",
+    "success_factors": "Concentration in mega-cap tech and AI-related winners has driven strong long-term performance, and deep intraday liquidity makes it a favorite trading vehicle.",
+    "political_context": "Highly exposed to antitrust and AI-regulation debates in Washington and Brussels, US-China technology export controls and tariffs, and Fed policy given growth stocks' sensitivity to interest rates."
+  },
+  {
+    "ticker": "IEFA", "name": "iShares Core MSCI EAFE ETF", "manager": "BlackRock", "category": "International Developed Equity",
+    "inception_date": "2012-10-18", "currency": "USD", "expense_ratio": 0.07,
+    "description": "Tracks large- and mid-cap companies across developed markets in Europe, Australasia and the Far East (EAFE) — developed markets outside the US and Canada.",
+    "typical_holders": "A standard building block for international-equity allocations in target-date funds and diversified model portfolios.",
+    "success_factors": "A low 0.07% fee and broad developed-market diversification make it a default international-equity holding.",
+    "political_context": "Exposed to European Central Bank and Bank of Japan monetary policy, EU fiscal and energy policy, and currency-translation effects from US dollar strength or weakness against the euro and yen."
+  },
+  {
+    "ticker": "VEA", "name": "Vanguard FTSE Developed Markets ETF", "manager": "Vanguard", "category": "International Developed Equity",
+    "inception_date": "2007-07-20", "currency": "USD", "expense_ratio": 0.05,
+    "description": "A similar mandate to IEFA — developed-market equities outside the US — but tracks a FTSE index and, unlike IEFA, includes Canada.",
+    "typical_holders": "The natural international-equity pairing to VOO/VTI for investors building a simple, low-cost global portfolio.",
+    "success_factors": "Vanguard's low-cost positioning (0.05%) and its role as a core international building block drive adoption.",
+    "political_context": "Shares developed-market monetary-policy and currency exposure with IEFA; Canadian inclusion adds sensitivity to US-Canada trade policy and commodity/energy price swings."
+  },
+  {
+    "ticker": "VUG", "name": "Vanguard Growth ETF", "manager": "Vanguard", "category": "US Large-Cap Growth",
+    "inception_date": "2004-01-26", "currency": "USD", "expense_ratio": 0.04,
+    "description": "Tracks the CRSP US Large Cap Growth Index — large US companies classified as 'growth' stocks, skewed toward technology and consumer names with high expected earnings growth.",
+    "typical_holders": "Used by investors wanting a growth tilt on top of core index holdings without picking individual stocks.",
+    "success_factors": "Low cost and heavy overlap with mega-cap tech winners have delivered strong recent performance.",
+    "political_context": "Concentrated growth/tech exposure makes it sensitive to interest-rate expectations — growth stocks are more rate-sensitive than value — plus the same antitrust and AI-policy debates affecting QQQ."
+  },
+  {
+    "ticker": "BND", "name": "Vanguard Total Bond Market ETF", "manager": "Vanguard", "category": "US Aggregate Bond",
+    "inception_date": "2007-04-03", "currency": "USD", "expense_ratio": 0.03,
+    "description": "Tracks a broad, float-adjusted index of US investment-grade government, agency, mortgage-backed and corporate bonds.",
+    "typical_holders": "The default core bond holding in balanced portfolios for retail investors, target-date funds, and conservative institutional allocators.",
+    "success_factors": "Extremely low cost (0.03%) and one-fund access to the entire investment-grade US bond market.",
+    "political_context": "Directly and immediately sensitive to Federal Reserve interest-rate decisions, US Treasury issuance, federal deficit and debt-ceiling politics, and inflation data releases."
+  },
+  {
+    "ticker": "SCHD", "name": "Schwab U.S. Dividend Equity ETF", "manager": "Charles Schwab", "category": "US Dividend Equity",
+    "inception_date": "2011-10-20", "currency": "USD", "expense_ratio": 0.06,
+    "description": "Tracks the Dow Jones U.S. Dividend 100 Index, screening for US companies with a decade-plus record of consistent dividend payments and strong quality/profitability metrics.",
+    "typical_holders": "A favorite among income-seeking retail investors, particularly those using Schwab brokerage accounts where it trades commission-free.",
+    "success_factors": "A reputation for durable, quality dividend payers plus a low 0.06% fee has made it one of the most popular dividend-focused ETFs.",
+    "political_context": "Its financials- and industrials-heavy tilt makes it sensitive to bank regulation, interest-rate policy (which affects dividend stocks' relative appeal versus bonds), and US tax policy on dividends."
+  },
+  {
+    "ticker": "IEMG", "name": "iShares Core MSCI Emerging Markets ETF", "manager": "BlackRock", "category": "Emerging Markets Equity",
+    "inception_date": "2012-10-18", "currency": "USD", "expense_ratio": 0.09,
+    "description": "Tracks large-, mid- and small-cap companies across emerging markets including China, India, Taiwan, South Korea and Brazil.",
+    "typical_holders": "Used by institutional allocators and diversified retail portfolios to add emerging-market growth exposure alongside developed-market holdings.",
+    "success_factors": "Broad, low-cost (0.09%) access to emerging-market growth in a single fund.",
+    "political_context": "Highly exposed to US-China trade and tariff policy, Chinese regulatory actions on domestic tech and property sectors, and broader emerging-market currency and capital-control risk."
+  },
+  {
+    "ticker": "AGG", "name": "iShares Core U.S. Aggregate Bond ETF", "manager": "BlackRock", "category": "US Aggregate Bond",
+    "inception_date": "2003-09-22", "currency": "USD", "expense_ratio": 0.03,
+    "description": "Tracks the same broad US investment-grade bond universe as BND — government, agency, mortgage-backed and corporate debt.",
+    "typical_holders": "A default core bond holding for institutions and retail investors alike, often used interchangeably with BND.",
+    "success_factors": "First-mover brand recognition as 'the' aggregate bond ETF, deep liquidity, and BlackRock's distribution scale.",
+    "political_context": "Same Federal Reserve policy, Treasury issuance, and deficit/debt-ceiling sensitivities as BND."
+  },
+  {
+    "ticker": "VTV", "name": "Vanguard Value ETF", "manager": "Vanguard", "category": "US Large-Cap Value",
+    "inception_date": "2004-01-26", "currency": "USD", "expense_ratio": 0.04,
+    "description": "Tracks the CRSP US Large Cap Value Index — large US companies classified as 'value' stocks, typically trading at lower valuation multiples and skewed toward financials, healthcare and energy.",
+    "typical_holders": "Used by investors seeking lower-volatility, income-oriented exposure, and often rotated into during periods of rising rates or growth-stock weakness.",
+    "success_factors": "A low 0.04% fee and a straightforward value tilt for investors wary of growth-stock concentration risk.",
+    "political_context": "Financials and energy weighting make it sensitive to bank regulation, interest-rate policy, and energy/climate policy affecting oil and gas producers."
+  },
+  {
+    "ticker": "VXUS", "name": "Vanguard Total International Stock ETF", "manager": "Vanguard", "category": "Total International Equity",
+    "inception_date": "2011-01-26", "currency": "USD", "expense_ratio": 0.05,
+    "description": "Tracks nearly the entire investable stock market outside the US, spanning both developed and emerging markets in one fund.",
+    "typical_holders": "The natural pairing with VTI for investors following Vanguard's simple total-market portfolio approach.",
+    "success_factors": "Single-fund simplicity for 'everything except the US' international exposure at a low 0.05% fee.",
+    "political_context": "Combines the sensitivities of both developed-market funds (ECB/BOJ policy, European fiscal policy) and emerging-market funds (US-China trade tensions, EM currency and regulatory risk)."
+  },
+  {
+    "ticker": "VWO", "name": "Vanguard FTSE Emerging Markets ETF", "manager": "Vanguard", "category": "Emerging Markets Equity",
+    "inception_date": "2005-03-04", "currency": "USD", "expense_ratio": 0.07,
+    "description": "Tracks a FTSE index of large- and mid-cap emerging-market companies; notably excludes South Korea, which FTSE classifies as developed — a key difference from IEMG's MSCI-based index.",
+    "typical_holders": "Used similarly to IEMG by diversified retail and institutional portfolios seeking emerging-market exposure.",
+    "success_factors": "Low-cost (0.07%) emerging-market access and Vanguard's brand trust with long-term index investors.",
+    "political_context": "Same US-China trade policy and Chinese regulatory exposure as IEMG, with the South Korea exclusion slightly changing the country-risk balance."
+  },
+  {
+    "ticker": "GLD", "name": "SPDR Gold Shares", "manager": "State Street", "category": "Commodities (Gold)",
+    "inception_date": "2004-11-18", "currency": "USD", "expense_ratio": 0.40,
+    "description": "Holds physical gold bullion in vaults; each share represents a fractional ownership claim on that gold, giving investors direct price exposure without owning metal themselves.",
+    "typical_holders": "Used by institutional allocators and central-bank-adjacent investors for portfolio hedging, as well as retail investors seeking inflation or crisis protection.",
+    "success_factors": "First-mover status (launched 2004), deep liquidity, and gold's traditional role as an inflation hedge and safe haven have sustained demand, despite a 0.40% fee that's high for a passive product.",
+    "political_context": "Extremely sensitive to Federal Reserve interest-rate policy (gold pays no yield, so it competes with bonds), US dollar strength, inflation expectations, and geopolitical crises or sanctions that drive safe-haven and central-bank gold-buying tied to de-dollarization politics."
+  },
+  {
+    "ticker": "IWF", "name": "iShares Russell 1000 Growth ETF", "manager": "BlackRock", "category": "US Large-Cap Growth",
+    "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.19,
+    "description": "Tracks the Russell 1000 Growth Index — large- and mid-cap US growth stocks — similar in spirit to VUG but built on a different index methodology and reconstitution schedule.",
+    "typical_holders": "Heavily used institutionally, since the Russell 1000 Growth index is a standard performance benchmark for active growth-fund managers.",
+    "success_factors": "Long track record, deep liquidity, and status as a standard institutional benchmark.",
+    "political_context": "Same tech/growth-stock rate sensitivity and antitrust/AI-regulation exposure as QQQ and VUG."
+  },
+  {
+    "ticker": "IJH", "name": "iShares Core S&P Mid-Cap ETF", "manager": "BlackRock", "category": "US Mid-Cap Equity",
+    "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.05,
+    "description": "Tracks the S&P MidCap 400 Index — US companies too large to be small-cap but not yet in the S&P 500, often described as established-but-still-growing businesses.",
+    "typical_holders": "Used by diversified portfolios to fill the market-cap gap between S&P 500 and small-cap funds.",
+    "success_factors": "Fills the 'mid-cap gap' at a low 0.05% fee, popular for diversification across the market-cap spectrum.",
+    "political_context": "More domestically focused than mega-cap funds, so it's especially sensitive to US GDP growth, small-business lending conditions, and domestic fiscal policy rather than global trade tensions."
+  },
+  {
+    "ticker": "VIG", "name": "Vanguard Dividend Appreciation ETF", "manager": "Vanguard", "category": "US Dividend Growth Equity",
+    "inception_date": "2006-04-21", "currency": "USD", "expense_ratio": 0.05,
+    "description": "Tracks companies with a record of consistently increasing — not just paying — their dividend each year for at least a decade, skewing toward stable, established businesses.",
+    "typical_holders": "Popular with income investors seeking lower volatility than the broad market, particularly those closer to or in retirement.",
+    "success_factors": "A quality/stability tilt plus dividend growth appeals to income investors, at a low 0.05% fee.",
+    "political_context": "Similar interest-rate sensitivity to other dividend-focused funds — bonds become more competitive with dividend stocks as rates rise — plus sector-specific regulatory exposure depending on top holdings."
+  },
+  {
+    "ticker": "IJR", "name": "iShares Core S&P Small-Cap ETF", "manager": "BlackRock", "category": "US Small-Cap Equity",
+    "inception_date": "2000-05-22", "currency": "USD", "expense_ratio": 0.06,
+    "description": "Tracks the S&P SmallCap 600 Index — small US companies that must meet a profitability screen, unlike some small-cap indexes that include unprofitable firms.",
+    "typical_holders": "Used by investors wanting small-cap exposure with a quality/profitability filter rather than the broadest possible small-cap universe.",
+    "success_factors": "The profitability screen has historically helped it avoid some weaker performers common in small-cap indexes, at a low 0.06% fee.",
+    "political_context": "Small caps are generally more domestically focused and sensitive to US interest rates (higher borrowing costs hit smaller firms harder), domestic fiscal stimulus, and small-business regulatory or tax policy."
+  }
 ]

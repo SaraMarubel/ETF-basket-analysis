@@ -14,7 +14,12 @@
       <h1>ETF Basket Analysis</h1>
       <p>Live-ish profiles of the 20 largest ETFs by assets under management: composition, performance, and the strongest/weakest holding inside each basket. All prices in the fund's native trading currency (badge on each card) &mdash; the majority below trade in <strong>USD</strong>.</p>
     </div>
-    <div class="meta-line" id="meta-line">Loading data&hellip;</div>
+    <div style="display:flex; flex-direction:column; align-items:flex-end; gap:8px;">
+      <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light/dark mode" title="Toggle light/dark mode">
+        <span class="icon-dark">&#9789;</span><span class="icon-light">&#9728;&#65039;</span>
+      </button>
+      <div class="meta-line" id="meta-line">Loading data&hellip;</div>
+    </div>
   </header>
 
   <div class="stat-row" id="stat-row">
