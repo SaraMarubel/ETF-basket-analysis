@@ -134,22 +134,65 @@ function renderPerfChart() {
     const v = r.m.change_1y_pct;
     const pct = (Math.abs(v) / maxAbs) * 50; // half-width from center baseline
     const cls = v >= 0 ? "up" : "down";
-    const style = v >= 0 ? `width:${pct}%;` : `width:${pct}%;`;
     return `<div class="bar-row">
-      <div class="tk">${r.ticker}</div>
-      <div class="bar-track"><div class="bar-fill ${cls}" style="${style}"></div></div>
+      <div class="tk tk-link" data-ticker="${r.ticker}">${r.ticker}</div>
+      <div class="bar-track"><div class="bar-fill ${cls}" style="width:${pct}%;"></div></div>
       <div class="val ${v >= 0 ? "delta-up" : "delta-down"}">${fmtPct(v, { decimals: 1 })}</div>
     </div>`;
   }).join("");
 
   document.getElementById("perf-table-body").innerHTML = rows.map(r => `
     <tr>
-      <td>${r.ticker}</td>
+      <td class="tk-cell tk-link" data-ticker="${r.ticker}">${r.ticker}</td>
       <td>${r.name}</td>
       <td class="num ${r.m.change_1d_pct >= 0 ? "delta-up" : "delta-down"}">${fmtPct(r.m.change_1d_pct)}</td>
       <td class="num ${r.m.change_1y_pct >= 0 ? "delta-up" : "delta-down"}">${fmtPct(r.m.change_1y_pct)}</td>
       <td class="num ${r.m.change_ytd_pct >= 0 ? "delta-up" : "delta-down"}">${fmtPct(r.m.change_ytd_pct)}</td>
     </tr>`).join("");
+
+  wireTickerLinks();
+}
+
+function wireTickerLinks() {
+  document.querySelectorAll(".tk-link").forEach(el => {
+    const ticker = el.dataset.ticker;
+    const etf = ETFS.find(e => e.ticker === ticker);
+    if (!etf) return;
+    const m = MARKET[ticker] || {};
+    el.addEventListener("mouseenter", (ev) => showHoverTip(ev, etf, m));
+    el.addEventListener("mousemove", positionHoverTip);
+    el.addEventListener("mouseleave", hideHoverTip);
+    el.addEventListener("click", () => openModal(etf, m));
+  });
+}
+
+function renderTopNews() {
+  const container = document.getElementById("top-news-row");
+  if (!NEWS_HAS_KEY) {
+    container.innerHTML = `<div class="empty-note">Live news isn't wired up yet. Add a free API key from <a href="https://newsapi.org" target="_blank" rel="noopener">newsapi.org</a> as the <code>NEWSAPI_KEY</code> secret in this repo's GitHub settings, and the next scheduled refresh will populate this row.</div>`;
+    return;
+  }
+  const seen = new Set();
+  const all = [];
+  Object.entries(NEWS).forEach(([ticker, items]) => {
+    (items || []).forEach(a => {
+      if (!a.title || seen.has(a.title)) return;
+      seen.add(a.title);
+      all.push({ ...a, ticker });
+    });
+  });
+  all.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+  const top4 = all.slice(0, 4);
+  if (top4.length === 0) {
+    container.innerHTML = `<div class="empty-note">No recent headlines in the last fetch.</div>`;
+    return;
+  }
+  container.innerHTML = top4.map(a => `
+    <div class="top-news-tile">
+      <div class="tk-tag">${a.ticker}</div>
+      <a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
+      <div class="src">${a.source || "Unknown source"} &middot; ${timeAgo(a.published_at)}</div>
+    </div>`).join("");
 }
 
 function drawSparkline(canvas, history, positive) {
@@ -182,10 +225,56 @@ function drawSparkline(canvas, history, positive) {
   ctx.fill();
 }
 
+let sortMode = "rank";
+let filterUSOnly = true;
+let selectedManagers = new Set();
+
+function initFilters() {
+  const managers = [...new Set(ETFS.map(e => e.manager))].sort();
+  selectedManagers = new Set(managers);
+  document.getElementById("manager-filters").innerHTML = managers.map(mgr => `
+    <label class="check-pill"><input type="checkbox" class="manager-check" value="${mgr}" checked> ${mgr}</label>
+  `).join("");
+  document.querySelectorAll(".manager-check").forEach(cb => {
+    cb.addEventListener("change", () => {
+      if (cb.checked) selectedManagers.add(cb.value); else selectedManagers.delete(cb.value);
+      renderGrid();
+    });
+  });
+  document.getElementById("filter-us").addEventListener("change", (e) => {
+    filterUSOnly = e.target.checked;
+    renderGrid();
+  });
+  document.getElementById("sort-select").addEventListener("change", (e) => {
+    sortMode = e.target.value;
+    renderGrid();
+  });
+}
+
+function getVisibleETFs() {
+  let list = ETFS.filter(e => selectedManagers.has(e.manager));
+  if (filterUSOnly) {
+    list = list.filter(e => (MARKET[e.ticker]?.currency || e.currency) === "USD");
+  }
+  if (sortMode === "alpha") {
+    list = [...list].sort((a, b) => a.ticker.localeCompare(b.ticker));
+  } else if (sortMode === "strongest") {
+    list = [...list].sort((a, b) => (MARKET[b.ticker]?.change_1y_pct ?? -Infinity) - (MARKET[a.ticker]?.change_1y_pct ?? -Infinity));
+  } else if (sortMode === "weakest") {
+    list = [...list].sort((a, b) => (MARKET[a.ticker]?.change_1y_pct ?? Infinity) - (MARKET[b.ticker]?.change_1y_pct ?? Infinity));
+  }
+  return list;
+}
+
 function renderGrid() {
   const grid = document.getElementById("etf-grid");
   grid.innerHTML = "";
-  ETFS.forEach(etf => {
+  const list = getVisibleETFs();
+  if (list.length === 0) {
+    grid.innerHTML = `<div class="empty-note">No ETFs match the current filters.</div>`;
+    return;
+  }
+  list.forEach(etf => {
     const m = MARKET[etf.ticker] || {};
     const positive = (m.change_1y_pct ?? 0) >= 0;
     const card = document.createElement("div");
@@ -364,7 +453,7 @@ document.getElementById("perf-table-toggle").addEventListener("click", () => {
   } else {
     table.classList.remove("hidden");
     chart.classList.add("hidden");
-    document.getElementById("perf-table-toggle").textContent = "View as chart";
+    document.getElementById("perf-table-toggle").textContent = "View as graph";
   }
 });
 
@@ -372,7 +461,9 @@ document.getElementById("perf-table-toggle").addEventListener("click", () => {
   try {
     await loadData();
     renderStatRow();
+    renderTopNews();
     renderPerfChart();
+    initFilters();
     renderGrid();
   } catch (err) {
     document.getElementById("meta-line").textContent = "Failed to load data.";

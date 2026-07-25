@@ -27,7 +27,11 @@ ARTICLES_PER_ETF = 6
 
 
 def fetch_news_for(ticker: str, name: str, api_key: str) -> list:
-    query = f'"{ticker}" OR "{name}"'
+    # Some tickers (SPY, VIG, ...) double as common English words, so a bare
+    # ticker match pulls in unrelated results (spy movies, etc). Requiring the
+    # ticker appear as a "<TICKER> ETF/stock" phrase keeps matches on-topic;
+    # the full fund name alone is always unambiguous.
+    query = f'"{ticker} ETF" OR "{ticker} stock" OR "{name}"'
     params = {
         "q": query,
         "language": "en",

@@ -29,19 +29,29 @@
   <section class="panel">
     <div class="panel-head">
       <div>
+        <h2>Top news right now</h2>
+        <div class="panel-sub">Latest headlines affecting these ETFs &mdash; finance and politics</div>
+      </div>
+    </div>
+    <div class="top-news-row" id="top-news-row"></div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
         <h2>1-Year performance by ETF</h2>
-        <div class="panel-sub">Percentage price change over the trailing 12 months</div>
+        <div class="panel-sub">Percentage price change over the trailing 12 months &middot; click a ticker for full profile</div>
       </div>
       <div style="display:flex; align-items:center; gap:14px;">
         <div class="legend-note">
           <span><span class="sw" style="background:var(--good-status)"></span>Gain</span>
           <span><span class="sw" style="background:var(--critical)"></span>Loss</span>
         </div>
-        <button class="table-toggle" id="perf-table-toggle">View as table</button>
+        <button class="table-toggle" id="perf-table-toggle">View as graph</button>
       </div>
     </div>
-    <div id="perf-chart-wrap"><div id="perf-chart"></div></div>
-    <table class="data-table hidden" id="perf-table">
+    <div id="perf-chart-wrap" class="hidden"><div id="perf-chart"></div></div>
+    <table class="data-table" id="perf-table">
       <thead><tr><th>Ticker</th><th>Name</th><th class="num">1D %</th><th class="num">1Y %</th><th class="num">YTD %</th></tr></thead>
       <tbody id="perf-table-body"></tbody>
     </table>
@@ -50,8 +60,25 @@
   <section class="panel">
     <div class="panel-head">
       <div>
-        <h2>All 20 ETFs</h2>
+        <h2>Top 20 ETFs</h2>
         <div class="panel-sub">Hover a card for a quick profile &middot; click for composition, top holdings and news</div>
+      </div>
+    </div>
+    <div class="controls-row">
+      <div class="control-group">
+        <label for="sort-select">Sort</label>
+        <select id="sort-select">
+          <option value="rank">Default</option>
+          <option value="alpha">Alphabetical (A&ndash;Z)</option>
+          <option value="strongest">Strongest first (1Y %)</option>
+          <option value="weakest">Weakest first (1Y %)</option>
+        </select>
+      </div>
+      <div class="control-group filter-group">
+        <span class="filter-label">Filter</span>
+        <label class="check-pill"><input type="checkbox" id="filter-us" checked> American (USD) ETFs</label>
+        <span class="filter-divider"></span>
+        <span id="manager-filters"><!-- filled by JS --></span>
       </div>
     </div>
     <div class="grid" id="etf-grid"></div>
