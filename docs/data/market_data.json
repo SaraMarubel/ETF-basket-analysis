@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:09:07.548270+00:00",
+  "generated_at": "2026-07-25T10:14:10.414938+00:00",
   "etfs": {
     "VOO": {
       "ticker": "VOO",
@@ -2571,50 +2571,50 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 3.03,
-          "change_1y_pct": 158.45
+          "change_1y_pct": 155.8
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.29,
-          "change_1y_pct": 58.99
+          "change_1y_pct": 61.67
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.15,
-          "change_1y_pct": 35.87
+          "change_1y_pct": 38.05
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.14,
-          "change_1y_pct": 40.64
+          "change_1y_pct": 39.81
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.12,
-          "change_1y_pct": 16.36
+          "change_1y_pct": 16.19
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.05,
-          "change_1y_pct": 11.31
+          "change_1y_pct": 13.25
         }
       ],
       "strongest_holding": {
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 3.03,
-        "change_1y_pct": 158.45
+        "change_1y_pct": 155.8
       },
       "weakest_holding": {
         "symbol": "NESN.SW",
         "name": "Nestle SA",
         "weight_pct": 1.05,
-        "change_1y_pct": 11.31
+        "change_1y_pct": 13.25
       }
     },
     "VEA": {
@@ -2623,11 +2623,15 @@
       "currency": "USD",
       "aum": 316309798912,
       "fund_family": "Vanguard",
-      "price": 69.71,
-      "change_1d_pct": -0.1,
-      "change_1y_pct": 23.62,
-      "change_ytd_pct": 11.07,
+      "price": 69.78,
+      "change_1d_pct": -1.01,
+      "change_1y_pct": 23.75,
+      "change_ytd_pct": 11.18,
       "history": [
+        {
+          "date": "2026-03-16",
+          "close": 64.74
+        },
         {
           "date": "2026-03-17",
           "close": 64.96
@@ -2983,10 +2987,6 @@
         {
           "date": "2026-07-23",
           "close": 69.78
-        },
-        {
-          "date": "2026-07-24",
-          "close": 69.71
         }
       ],
       "sector_weights": {
@@ -3019,25 +3019,25 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.34,
-          "change_1y_pct": 158.45
+          "change_1y_pct": 155.8
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 58.99
+          "change_1y_pct": 61.67
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.89,
-          "change_1y_pct": 40.64
+          "change_1y_pct": 39.81
         },
         {
           "symbol": "RY",
           "name": "Royal Bank of Canada",
           "weight_pct": 0.89,
-          "change_1y_pct": 59.43
+          "change_1y_pct": 58.95
         }
       ],
       "strongest_holding": {
@@ -3050,7 +3050,7 @@
         "symbol": "NOVN.SW",
         "name": "Novartis AG Registered Shares",
         "weight_pct": 0.89,
-        "change_1y_pct": 40.64
+        "change_1y_pct": 39.81
       }
     },
     "VUG": {
@@ -4256,7 +4256,7 @@
           "symbol": "MRK",
           "name": "Merck & Co Inc",
           "weight_pct": 4.52,
-          "change_1y_pct": 59.9
+          "change_1y_pct": 59.18
         },
         {
           "symbol": "HD",
@@ -4293,7 +4293,7 @@
         "symbol": "MRK",
         "name": "Merck & Co Inc",
         "weight_pct": 4.52,
-        "change_1y_pct": 59.9
+        "change_1y_pct": 59.18
       },
       "weakest_holding": {
         "symbol": "ABT",
@@ -5518,7 +5518,7 @@
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 3.04,
-          "change_1y_pct": 20.54
+          "change_1y_pct": 19.41
         },
         {
           "symbol": "BRK-B",
@@ -5966,7 +5966,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.7,
-          "change_1y_pct": 158.45
+          "change_1y_pct": 155.8
         },
         {
           "symbol": "0700.HK",
@@ -5978,7 +5978,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.72,
-          "change_1y_pct": 58.99
+          "change_1y_pct": 61.67
         }
       ],
       "strongest_holding": {
@@ -7639,13 +7639,13 @@
           "symbol": "CRS",
           "name": "Carpenter Technology Corp",
           "weight_pct": 0.84,
-          "change_1y_pct": 118.97
+          "change_1y_pct": 118.19
         },
         {
           "symbol": "MKSI",
           "name": "MKS Inc",
           "weight_pct": 0.82,
-          "change_1y_pct": 232.61
+          "change_1y_pct": 248.89
         },
         {
           "symbol": "CW",
@@ -7663,20 +7663,20 @@
           "symbol": "ENTG",
           "name": "Entegris Inc",
           "weight_pct": 0.75,
-          "change_1y_pct": 41.13
+          "change_1y_pct": 47.85
         }
       ],
       "strongest_holding": {
         "symbol": "MKSI",
         "name": "MKS Inc",
         "weight_pct": 0.82,
-        "change_1y_pct": 232.61
+        "change_1y_pct": 248.89
       },
       "weakest_holding": {
-        "symbol": "ENTG",
-        "name": "Entegris Inc",
-        "weight_pct": 0.75,
-        "change_1y_pct": 41.13
+        "symbol": "TWLO",
+        "name": "Twilio Inc Class A",
+        "weight_pct": 0.86,
+        "change_1y_pct": 46.09
       }
     },
     "VIG": {
@@ -8087,7 +8087,7 @@
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 3.55,
-          "change_1y_pct": 20.54
+          "change_1y_pct": 19.41
         },
         {
           "symbol": "MSFT",
@@ -8535,7 +8535,7 @@
           "symbol": "BTSG",
           "name": "BrightSpring Health Services Inc",
           "weight_pct": 0.6,
-          "change_1y_pct": 255.14
+          "change_1y_pct": 240.19
         }
       ],
       "strongest_holding": {
