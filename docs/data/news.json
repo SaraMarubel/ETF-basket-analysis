@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:18:25.918454+00:00",
+  "generated_at": "2026-07-26T23:44:41.647642+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -254,6 +254,13 @@
     ],
     "VEA": [
       {
+        "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2309b218f98d0478",
+        "published_at": "2026-07-25T21:07:44Z",
+        "description": "For investors seeking international diversification, the choice between these two funds comes down to geographic scope. The Vanguard FTSE Developed Markets ETF (NYSEMKT:VEA) excludes American companies entirely, making it a useful fund for balancing out a U.S\u2026"
+      },
+      {
         "title": "Low-Cost Developed Markets or Emerging-Market Tech Exposure? VEA vs. IEMG",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f70711d1c0eedd07",
@@ -379,6 +386,20 @@
     ],
     "SCHD": [
       {
+        "title": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/25/retirement-is-10000-days-with-no-paycheck-these-4-etfs-deposit-one-every-month/",
+        "published_at": "2026-07-25T22:28:29Z",
+        "description": "Your paycheck stops on retirement day, but your grocery bill, mortgage, and utility payments do not. Four ETFs can be stacked together so that income lands i..."
+      },
+      {
+        "title": "How a 67-Year-Old Built a $4,800 Monthly Paycheck Around SCHD, JEPQ, and O",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/07/25/how-a-67-year-old-built-a-4800-monthly-paycheck-around-schd-jepq-and-o/",
+        "published_at": "2026-07-25T21:45:29Z",
+        "description": "Chasing $4,800 a month in retirement income sounds straightforward until you price what each yield tier actually costs you, and what it quietly takes away. T..."
+      },
+      {
         "title": "You\u2019re 62 With $400K Earning 0.6% at the Bank. These 3 ETFs Put It to Work Before You Retire",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/07/24/youre-62-with-400k-earning-0-6-at-the-bank-these-3-etfs-put-it-to-work-before-you-retire/",
@@ -405,20 +426,6 @@
         "url": "https://247wallst.com/investing/etf/2026/07/23/you-turn-73-and-the-irs-makes-you-take-the-money-these-3-etfs-turn-forced-rmds-into-a-paycheck/",
         "published_at": "2026-07-23T22:26:20Z",
         "description": "The IRS forces you to pull money out of your IRA at 73 whether you need it or not, but three ETFs can turn that mandatory withdrawal into something that actu..."
-      },
-      {
-        "title": "Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a1dc562a8dc4dd9a",
-        "published_at": "2026-07-23T15:34:21Z",
-        "description": "The post Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) sits at the center of income-focused portfolios for a reason. SCHD tracks the Dow Jones\u2026"
-      },
-      {
-        "title": "Why Retirees Are Choosing This $100.8 Billion ETF Over Individual Dividend Stocks",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/23/why-retirees-are-choosing-this-100-8-billion-etf-over-individual-dividend-stocks/",
-        "published_at": "2026-07-23T15:27:42Z",
-        "description": "SCHD's 100-stock structure and rock-bottom fees make it a retiree favorite, but a closer look at its top four holdings reveals one company sitting on a paten..."
       }
     ],
     "IEMG": [
