@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-07-27T12:43:46.862996+00:00",
+  "generated_at": "2026-07-27T20:52:59.275617+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e8391d260b4a1d4b",
+        "published_at": "2026-07-26T17:45:27Z",
+        "description": "The S&P 500 index has largely shrugged off the most notable headwinds of 2026. Conflict in the Middle East led to rising energy prices. There are still worries about the possible impact artificial intelligence (AI) will have on the labor market. Consumer conf\u2026"
+      },
       {
         "title": "I Ran the Numbers on Retiring 5 Years Early With VOO. Here's What Changed My Mind",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/731cbee8d9b1c5da",
         "published_at": "2026-07-15T10:18:33Z",
         "description": "If you're looking for a simple way to invest in the stock market, the Vanguard S&P 500 ETF (NYSEMKT: VOO) is hard to ignore. You'll often hear that it's one of the easiest ways to build a diverse portfolio, since it simply tracks the S&P 500 index.\nWhen you b\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: VXUS Has Inflows of $436M",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2637fc63f467866c",
-        "published_at": "2026-07-14T21:09:03Z",
-        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n VWO \n Vanguard FTSE Emerging Markets ETF \n 821.82 \n 123,073.08 \n 0.67% \n EFV \n iShares MSCI EAFE Value ETF \n 625.51 \n 26,677.94 \n 2.34% \n VOO \n Vanguard S&P\u2026"
       }
     ],
     "IVV": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1742ada541208f3a",
+        "published_at": "2026-07-26T20:14:40Z",
+        "description": "The post Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says appeared first on 24/7 Wall St..\nThe top-heavy nature of the SPDR S&P 500 ETF Trust (SPY) has become one of ETF investor\u2019s biggest talking points. With a handful of mega-cap technolog\u2026"
+      },
+      {
         "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
         "source": "GlobeNewswire",
         "url": "https://www.globenewswire.com/news-release/2026/07/23/3332307/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/3d9f35b15b798956",
         "published_at": "2026-07-13T13:25:25Z",
         "description": "The world's most popular market fund is a lot more concentrated than its famous name suggests.\nAlthough it holds hundreds of stocks, the State Street SPDR S&P 500 ETF Trust (SPY) behaves more like a portfolio of about 51 equally weighted positions. For many i\u2026"
-      },
-      {
-        "title": "The Big Tech Fund Hiding Inside SPY ETF",
-        "source": "Yahoo Entertainment",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c04e018f-a224-496a-bb1c-0e517c2c5eb6",
-        "published_at": "2026-07-13T12:42:41Z",
-        "description": null
       }
     ],
     "VTI": [
@@ -386,6 +386,13 @@
     ],
     "SCHD": [
       {
+        "title": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividends",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4ed66913ab13f400",
+        "published_at": "2026-07-26T20:46:23Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is one of the most popular dividend stock ETFs in the marketplace today. Its 3.3% yield is a big reason why. It invests in high-quality dividend-paying stocks that have demonstrated a consistent ability to p\u2026"
+      },
+      {
         "title": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/07/25/retirement-is-10000-days-with-no-paycheck-these-4-etfs-deposit-one-every-month/",
@@ -419,13 +426,6 @@
         "url": "https://biztoc.com/x/363ba47aa60761f0",
         "published_at": "2026-07-24T20:16:29Z",
         "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has been and remains one of the most popular dividend exchange-traded funds (ETFs) out there. Its strategy, which targets high-quality companies with lengthy dividend histories and above-average yields, has \u2026"
-      },
-      {
-        "title": "You Turn 73 and the IRS Makes You Take the Money. These 3 ETFs Turn Forced RMDs Into a Paycheck",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/23/you-turn-73-and-the-irs-makes-you-take-the-money-these-3-etfs-turn-forced-rmds-into-a-paycheck/",
-        "published_at": "2026-07-23T22:26:20Z",
-        "description": "The IRS forces you to pull money out of your IRA at 73 whether you need it or not, but three ETFs can turn that mandatory withdrawal into something that actu..."
       }
     ],
     "IEMG": [
