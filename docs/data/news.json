@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T10:14:15.424647+00:00",
+  "generated_at": "2026-07-28T17:15:39.330734+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -136,6 +136,13 @@
     ],
     "VTI": [
       {
+        "title": "The Vanguard ETF Built for Long-Term Investors Who Want Reliable Results",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/76181085348047e5",
+        "published_at": "2026-07-27T12:24:54Z",
+        "description": "Most investment recommendations you see on TV or on the internet are based on some type of catalyst. Somebody thinks you should buy or sell based on factors such as interest-rate changes, earnings, or macroeconomic conditions.\nThe reason I like the Vanguard T\u2026"
+      },
+      {
         "title": "Already the Largest of 3,372 Holdings in This $97.7 Billion Vanguard ETF?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/51153048e6cbb927",
@@ -169,13 +176,6 @@
         "url": "https://biztoc.com/x/fc6c542c6dda529d",
         "published_at": "2026-07-22T15:14:52Z",
         "description": "If I could only own one ETF right now, I'd buy the Vanguard Total Stock Market ETF (NYSEMKT: VTI). By owning roughly 3,500 U.S. stocks, it's one of the most diverse ETFs you'll find. It's the ideal foundation for building the rest of your portfolio. And with \u2026"
-      },
-      {
-        "title": "Jamie Dimon stock, bond dual warning: Market acted on one of his calls",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
-        "published_at": "2026-07-21T20:45:47Z",
-        "description": "JPMorgan CEO Jamie Dimon warned this week long-term treasuries are not a good buy, even if stocks fall. Many investors already acted on that message this year."
       }
     ],
     "QQQ": [
@@ -386,6 +386,13 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD Is Magnificent, but This Dividend ETF Could Be an Even Better Dividend Play",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/66c294642d952326",
+        "published_at": "2026-07-27T13:09:54Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) yields about 3.3%, charges just 0.06% annually, and has become the dividend exchange-traded fund (ETF) of choice for many investors. But there is another dividend ETF that uses a similar stock-selection stra\u2026"
+      },
+      {
         "title": "You Retired With $600K in a 401(k) and No Idea What Comes Next. These 4 ETFs Are the Income Plan",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/07/26/you-retired-with-600k-in-a-401k-and-no-idea-what-comes-next-these-4-etfs-are-the-income-plan/",
@@ -419,16 +426,16 @@
         "url": "https://247wallst.com/personal-finance/2026/07/25/how-a-67-year-old-built-a-4800-monthly-paycheck-around-schd-jepq-and-o/",
         "published_at": "2026-07-25T21:45:29Z",
         "description": "Chasing $4,800 a month in retirement income sounds straightforward until you price what each yield tier actually costs you, and what it quietly takes away. T..."
-      },
-      {
-        "title": "You\u2019re 62 With $400K Earning 0.6% at the Bank. These 3 ETFs Put It to Work Before You Retire",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/24/youre-62-with-400k-earning-0-6-at-the-bank-these-3-etfs-put-it-to-work-before-you-retire/",
-        "published_at": "2026-07-24T23:50:37Z",
-        "description": "At 62 with $400,000 earning next to nothing, you are not playing it safe. You are watching inflation quietly drain your future while the market offers a stra..."
       }
     ],
     "IEMG": [
+      {
+        "title": "Forget EEM. iShares Sells Nearly the Same Emerging Markets for 87% Less",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/27/forget-eem-ishares-sells-nearly-the-same-emerging-markets-for-87-less/",
+        "published_at": "2026-07-27T17:01:04Z",
+        "description": "BlackRock quietly launched a second emerging markets ETF that costs almost nothing compared to its famous sibling, and the long-term performance numbers reve..."
+      },
       {
         "title": "or Emerging Growth (IEMG)? Which Fund is the Right Choice?",
         "source": "Biztoc.com",
@@ -463,13 +470,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/ai-ex-china-rewriting-emerging-113042107.html",
         "published_at": "2026-07-08T11:30:42Z",
         "description": "The action in Emerging Markets ETFs this year has been really interesting to watch. From record-breaking asset flows to impressive results, albeit massively..."
-      },
-      {
-        "title": "Vanguard Total Stock Market ETF vs iShares Core MSCI Emerging Market ETF: Is VXUS or IEMG the Better Buy Right Now?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1016808671e3bf23",
-        "published_at": "2026-07-06T16:57:33Z",
-        "description": "Vanguard Total Stock Market ETF vs iShares Core MSCI Emerging Market ETF: Is VXUS or IEMG the Better Buy Right Now?\niShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) provides targeted exposure to developing economies with a significant technology tilt, wh\u2026"
       }
     ],
     "AGG": [
