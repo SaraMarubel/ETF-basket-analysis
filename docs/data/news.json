@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:18:07.803606+00:00",
+  "generated_at": "2026-07-29T16:56:03.892906+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -386,6 +386,27 @@
     ],
     "SCHD": [
       {
+        "title": "Jim Cramer\u2019s Accidental High Yielders Strategy. Buy Quality Dividend Stocks After Market Crashes at Double Their Normal Yield",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/28/jim-cramers-accidental-high-yielders-strategy-buy-quality-dividend-stocks-after-market-crashes-at-double-their-normal-yield/",
+        "published_at": "2026-07-28T16:41:07Z",
+        "description": "Jim Cramer has a name for quality dividend stocks that crash for no good reason, and buying them at the right moment turns a market panic into a windfall. On..."
+      },
+      {
+        "title": "One dividend ETF makes $1,000 a month possible",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/49f32fd6dc9c9a89",
+        "published_at": "2026-07-28T13:54:56Z",
+        "description": "A single exchange-traded fund that pays you $1,000 a month in dividends sounds almost too clean, and one fund keeps landing at the center of that conversation.\nThe Schwab U.S. Dividend Equity ETF (SCHD) holds more than $102 billion in total net assets as of J\u2026"
+      },
+      {
+        "title": "SCHD vs. VIG: Which Dividend ETF Could Build More Wealth Over 20 Years?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/99e74fefa693741d",
+        "published_at": "2026-07-28T12:56:18Z",
+        "description": "Over the past decade, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has generated an average annual return of 12.4%. The Vanguard Dividend Appreciation ETF (NYSEMKT: VIG) has returned 12.8% annually over the same time frame.\nThat's not much of a differe\u2026"
+      },
+      {
         "title": "SCHD Yields 3.3% and Could Finish Its 15th Year of Consecutive Dividend Increases in 2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/1f1b60a87b619df7",
@@ -405,27 +426,6 @@
         "url": "https://biztoc.com/x/66c294642d952326",
         "published_at": "2026-07-27T13:09:54Z",
         "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) yields about 3.3%, charges just 0.06% annually, and has become the dividend exchange-traded fund (ETF) of choice for many investors. But there is another dividend ETF that uses a similar stock-selection stra\u2026"
-      },
-      {
-        "title": "You Retired With $600K in a 401(k) and No Idea What Comes Next. These 4 ETFs Are the Income Plan",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/26/you-retired-with-600k-in-a-401k-and-no-idea-what-comes-next-these-4-etfs-are-the-income-plan/",
-        "published_at": "2026-07-26T22:42:23Z",
-        "description": "The paycheck stopped, the 401(k) balance sits there, and now you need it to last three decades without a single mistake. Here is how four ETFs can replace yo..."
-      },
-      {
-        "title": "Here\u2019s Why SCHD is Beating the S&P 500 in 2026 YTD",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/26/heres-why-schd-is-beating-the-sp-500-in-2026-ytd/",
-        "published_at": "2026-07-26T22:07:43Z",
-        "description": "Investors who wrote off dividend ETFs as relics of a pre-AI market are quietly reversing course in 2026, and the reasons behind SCHD's sudden surge reveal so..."
-      },
-      {
-        "title": "Here's How Much You'd Need to Invest in SCHD to Generate $1,000 per Month in Dividends",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4ed66913ab13f400",
-        "published_at": "2026-07-26T20:46:23Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is one of the most popular dividend stock ETFs in the marketplace today. Its 3.3% yield is a big reason why. It invests in high-quality dividend-paying stocks that have demonstrated a consistent ability to p\u2026"
       }
     ],
     "IEMG": [
@@ -629,6 +629,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold Just Had Its Worst Quarter Since 2013: 3 Reasons to Buy the Dip With This Dirt-Cheap ETF",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/28/gold-just-had-its-worst-quarter-since-2013-3-reasons-to-buy-the-dip-with-this-dirt-cheap-etf/",
+        "published_at": "2026-07-28T16:45:23Z",
+        "description": "Gold just posted its worst quarterly loss in over a decade, but the buyers who drove it to record highs earlier this year operate on a completely different l..."
+      },
+      {
         "title": "Silver or Gold: Is a Mining Stock Fund Better Than Holding Physical Bullion Through an ETF?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/86981bbee406695d",
@@ -662,13 +669,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/investors-added-46b-etfs-last-week?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-07-20T21:00:15Z",
         "description": "Ytd inflows now stand at nearly $1.15 trillion."
-      },
-      {
-        "title": "Beyond the Spot Price: The Changing Landscape of Commodity ETFs",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/beyond-spot-price-changing-landscape-190355217.html",
-        "published_at": "2026-07-20T19:03:55Z",
-        "description": "Historically investors have bought physical commodity ETFs to gain direct exposure to the spot price of real assets. These funds provide a straightforward wa..."
       }
     ],
     "IWF": [
@@ -704,6 +704,27 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "Forget VIG: DGRO Pays 26% More Dividend Income for Nearly the Same Fee",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ff7fdc222e5c9d55",
+        "published_at": "2026-07-28T13:24:31Z",
+        "description": "The post Forget VIG: DGRO Pays 26% More Dividend Income for Nearly the Same Fee appeared first on 24/7 Wall St..\nInvestors who own the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) generally bought it for one reason: exposure to companies with a decade or\u2026"
+      },
+      {
+        "title": "Forget VIG: DGRO Pays 26% More Dividend Income for Nearly the Same Fee",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/28/forget-vig-dgro-pays-26-more-dividend-income-for-nearly-the-same-fee/",
+        "published_at": "2026-07-28T13:11:13Z",
+        "description": "Two nearly identical dividend growth ETFs charge almost the same fee, but one quietly puts more cash in your pocket every year while also posting stronger to..."
+      },
+      {
+        "title": "SCHD vs. VIG: Which Dividend ETF Could Build More Wealth Over 20 Years?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/99e74fefa693741d",
+        "published_at": "2026-07-28T12:56:18Z",
+        "description": "Over the past decade, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has generated an average annual return of 12.4%. The Vanguard Dividend Appreciation ETF (NYSEMKT: VIG) has returned 12.8% annually over the same time frame.\nThat's not much of a differe\u2026"
+      },
+      {
         "title": "When One Spouse Dies, One Social Security Check Disappears. These 3 ETFs Protect the Survivor",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/07/24/when-one-spouse-dies-one-social-security-check-disappears-these-3-etfs-protect-the-survivor/",
@@ -723,27 +744,6 @@
         "url": "https://247wallst.com/investing/2026/07/22/vigs-1-5-yield-masks-a-20-year-streak-of-uncut-dividend-growth/",
         "published_at": "2026-07-22T19:11:19Z",
         "description": "VIG's 1.5% yield invites easy dismissal, but the real question is whether two decades of unbroken dividend growth can survive the pressures quietly building..."
-      },
-      {
-        "title": "Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8553cc34e23f2632",
-        "published_at": "2026-07-22T15:27:09Z",
-        "description": "The post Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why appeared first on 24/7 Wall St..\nThe largest position in Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) is Broadcom (NASDAQ:AVGO), an AI semiconductor company whose stock has climbed\u2026"
-      },
-      {
-        "title": "Vanguard\u2019s VIG Dividend ETF\u2019s Top Stock Is\u2026 Broadcom? Here\u2019s Why",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/22/vanguards-vig-dividend-etfs-top-stock-is-broadcom-heres-why/",
-        "published_at": "2026-07-22T15:20:55Z",
-        "description": "Vanguard's most popular dividend ETF screens for companies with decades of consistent payouts, yet its single largest position is an AI semiconductor giant u..."
-      },
-      {
-        "title": "Too Much Magnificent Seven in Your Portfolio? These 3 ETFs Spread the Risk Without Ditching Tech",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/17/too-much-magnificent-seven-in-your-portfolio-these-3-etfs-spread-the-risk-without-ditching-tech/",
-        "published_at": "2026-07-17T18:18:44Z",
-        "description": "If you own a broad index fund, you may be far more exposed to a handful of mega-cap stocks than you realize, and trimming that risk does not require abandoni..."
       }
     ],
     "IJR": [
