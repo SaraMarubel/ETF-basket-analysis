@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:43:28.800902+00:00",
+  "generated_at": "2026-07-30T17:12:19.470768+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -136,6 +136,13 @@
     ],
     "VTI": [
       {
+        "title": "This ETF Just Undercut VTI on Fees. Should You Actually Switch?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/07/29/this-etf-just-undercut-vti-on-fees-should-you-actually-switch/",
+        "published_at": "2026-07-29T12:45:33Z",
+        "description": "JPMorgan's BBUS just priced itself below VTI, but the fee advantage comes with a quiet omission that changes the whole comparison, and whether it costs you o..."
+      },
+      {
         "title": "The Vanguard ETF Built for Long-Term Investors Who Want Reliable Results",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/76181085348047e5",
@@ -169,16 +176,16 @@
         "url": "http://www.etf.com/sections/features/thank-asia-international-stocks-outperformance-year?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-07-23T01:20:18Z",
         "description": "The region powered gains in VXUS this year."
-      },
-      {
-        "title": "The 1 ETF I'd Buy if I Could Only Own One",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fc6c542c6dda529d",
-        "published_at": "2026-07-22T15:14:52Z",
-        "description": "If I could only own one ETF right now, I'd buy the Vanguard Total Stock Market ETF (NYSEMKT: VTI). By owning roughly 3,500 U.S. stocks, it's one of the most diverse ETFs you'll find. It's the ideal foundation for building the rest of your portfolio. And with \u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "This 100-Year-Old Theory Says the Stock Market Isn\u2019t Done Climbing: Ed Yardeni",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/100-old-theory-says-stock-223019868.html",
+        "published_at": "2026-07-28T22:30:19Z",
+        "description": "Artificial intelligence has dominated Wall Street\u2019s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether..."
+      },
       {
         "title": "Daily ETF Flows: TQQQ Pulls In $368M",
         "source": "Etf.com",
@@ -213,13 +220,6 @@
         "url": "https://247wallst.com/investing/etf/2026/07/24/1-monthly-paying-etf-retirees-are-buying-hand-over-fist-and-the-1-thing-theyre-giving-up/",
         "published_at": "2026-07-24T17:05:29Z",
         "description": "Retirees are snapping up JEPQ for its generous monthly payouts, but the mechanics hiding inside a covered-call fund make a specific and costly promise during..."
-      },
-      {
-        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/23/3332307/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
-        "published_at": "2026-07-23T14:00:00Z",
-        "description": "New York , July 23, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, H\u2026"
       }
     ],
     "IEFA": [
@@ -342,6 +342,13 @@
     ],
     "BND": [
       {
+        "title": "How much cash do you need invested in 2026 to completely live off dividends? Probably less than you think",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/much-cash-invested-2026-completely-111500635.html",
+        "published_at": "2026-07-29T11:15:00Z",
+        "description": "The mainstream index funds don\u2019t offer attractive dividend yields, but that doesn\u2019t mean you need a fortune to retire on dividend income."
+      },
+      {
         "title": "Jamie Dimon stock, bond dual warning: Market acted on one of his calls",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/21/jamie-dimon-stock-bond-market-warning-treasuries.html",
@@ -375,13 +382,6 @@
         "url": "https://biztoc.com/x/c34f62375ff1086f",
         "published_at": "2026-07-14T23:10:48Z",
         "description": "The largest bond ETF in the world is closing in on a milestone that looked out of reach three years ago. The Vanguard Total Bond Market ETF (BND) now sits roughly 2.4% below its total-return peak, the high it set in August 2020 when the Federal Reserve had pi\u2026"
-      },
-      {
-        "title": "BND Is About to Erase the 2022 Bond Crash. TLT Isn\u2019t Close.",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/bnd-about-erase-2022-bond-crash-tlt-isnt-close?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-14T23:02:22Z",
-        "description": "The aggregate bond market has nearly healed from its worst drawdown in a generation."
       }
     ],
     "SCHD": [
@@ -629,6 +629,20 @@
     ],
     "GLD": [
       {
+        "title": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
+        "published_at": "2026-07-29T12:35:24Z",
+        "description": "Gold futures opened at $4,020.90 this morning, Wednesday, July 29, 2026, down 0.4% compared to Tuesday's closing price. The price of gold was up this morning..."
+      },
+      {
+        "title": "Warsh's rate decision is a cliffhanger. These trades might offer a clue",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/29/warshs-rate-decision-is-a-cliffhanger-these-trades-might-offer-a-clue.html",
+        "published_at": "2026-07-29T11:56:16Z",
+        "description": "It's arguably the most up-for-grabs Federal Reserve decision in recent memory."
+      },
+      {
         "title": "Gold Just Had Its Worst Quarter Since 2013: 3 Reasons to Buy the Dip With This Dirt-Cheap ETF",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/07/28/gold-just-had-its-worst-quarter-since-2013-3-reasons-to-buy-the-dip-with-this-dirt-cheap-etf/",
@@ -655,20 +669,6 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-22-renewed-safe-haven-demand-pushes-gold-price-higher-152629042.html",
         "published_at": "2026-07-22T15:26:29Z",
         "description": "Gold August (GC=F) futures opened at $4,084.70 this morning, Wednesday, July 22, 2026, up 0.2% compared to Tuesday's closing price. The price of gold was up..."
-      },
-      {
-        "title": "Is It Better to Play the Historic Gold Rally With a Physical Gold or Mining Stock ETF in 2026?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f8843e0380fce60f",
-        "published_at": "2026-07-21T17:47:10Z",
-        "description": "SPDR Gold Shares (NYSEMKT:GLD) provides direct exposure to the price of physical gold bullion with lower volatility, while VanEck Gold Miners ETF (NYSEMKT:GDX) offers a more volatile play on the equity of mining companies.\nInvestors seeking exposure to the go\u2026"
-      },
-      {
-        "title": "Investors Added $46B To ETFs Last Week",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-added-46b-etfs-last-week?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-20T21:00:15Z",
-        "description": "Ytd inflows now stand at nearly $1.15 trillion."
       }
     ],
     "IWF": [
