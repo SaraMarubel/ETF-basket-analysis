@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:12:19.470768+00:00",
+  "generated_at": "2026-07-30T23:43:36.366402+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c65fe1594d4c85b9",
+        "published_at": "2026-07-29T21:00:50Z",
+        "description": "The post Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee appeared first on 24/7 Wall St..\nIf you own SPDR S&P 500 ETF Trust (NYSEARCA:SPY), you own the most heavily traded fund on the planet, launched in 1993 and holding $784.56 billion in as\u2026"
+      },
+      {
+        "title": "Forget SPY: This Shareholder Yield ETF Has Beaten It by 12 Points This Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8c947c1b88919dcc",
+        "published_at": "2026-07-29T18:14:43Z",
+        "description": "The post Forget SPY: This Shareholder Yield ETF Has Beaten It by 12 Points This Year appeared first on 24/7 Wall St..\nIf you own SPDR S&P 500 ETF Trust (NYSEARCA:SPY) or a similar low-cost S&P 500 index fund, you own the U.S. market\u2019s largest companies in pro\u2026"
+      },
+      {
         "title": "Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/1742ada541208f3a",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/5841bd48db690f6f",
         "published_at": "2026-07-20T14:45:37Z",
         "description": "The post Forget SPY. Its Momentum Cousin Is Crushing the Index With 26% Returns This Year, for Only 0.13% appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the default equity holding for tens of millions of investors, and for defen\u2026"
-      },
-      {
-        "title": "$100 Billion ETFs: Meet the New Class of Mega-Funds",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/100-billion-etfs-meet-class-110025339.html",
-        "published_at": "2026-07-20T11:00:25Z",
-        "description": "I have been tracking the ETF industry for a long time. I remember when the SPDR S&P 500 ETF Trust (SPY) made history as the very first ETF to hit the $100 bi..."
-      },
-      {
-        "title": "The Big Tech Fund Hiding Inside SPY ETF",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3d9f35b15b798956",
-        "published_at": "2026-07-13T13:25:25Z",
-        "description": "The world's most popular market fund is a lot more concentrated than its famous name suggests.\nAlthough it holds hundreds of stocks, the State Street SPDR S&P 500 ETF Trust (SPY) behaves more like a portfolio of about 51 equally weighted positions. For many i\u2026"
       }
     ],
     "VTI": [
@@ -386,6 +386,13 @@
     ],
     "SCHD": [
       {
+        "title": "1 ETF Pays You Now, 1 Pays You Later: The 2-Fund Split Retirees Swear By",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7d34b57cc39be25d",
+        "published_at": "2026-07-29T20:15:39Z",
+        "description": "The post 1 ETF Pays You Now, 1 Pays You Later: The 2-Fund Split Retirees Swear By appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) work differently. They are two different \u2026"
+      },
+      {
         "title": "One dividend ETF makes $1,000 a month possible",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/120e4132cda903a0",
@@ -419,13 +426,6 @@
         "url": "https://biztoc.com/x/1f1b60a87b619df7",
         "published_at": "2026-07-27T23:45:45Z",
         "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) yields 3.3% for its shareholders, with a trailing 12-month dividend payout of roughly $1.05 a share. If it keeps up its past track record of steady payment increases, which it historically has done, it's on \u2026"
-      },
-      {
-        "title": "Retirees Earn Income and Beat Inflation with this Schwab ETF Combo",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/27/retirees-earn-income-and-beat-inflation-with-this-schwab-etf-combo/",
-        "published_at": "2026-07-27T20:20:25Z",
-        "description": "Inflation quietly erodes what retirees actually get to spend, and not every popular asset class has the track record to fight back. Three overlooked Schwab E..."
       }
     ],
     "IEMG": [
