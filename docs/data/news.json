@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:11:41.019022+00:00",
+  "generated_at": "2026-07-31T17:19:01.490239+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
+        "published_at": "2026-07-30T14:51:00Z",
+        "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
+      },
+      {
         "title": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c65fe1594d4c85b9",
@@ -125,16 +132,16 @@
         "url": "https://biztoc.com/x/350327d7e925c001",
         "published_at": "2026-07-21T16:14:05Z",
         "description": "The post Industrials Are Up 17% and Still Catching the Next Wave of AI Money appeared first on 24/7 Wall St..\nThe Industrial Select Sector SPDR Fund (NYSEARCA:XLI) has climbed 16% year to date and 20% over the past year, outrunning the 9% year-to-date gain fo\u2026"
-      },
-      {
-        "title": "Forget SPY. Its Momentum Cousin Is Crushing the Index With 26% Returns This Year, for Only 0.13%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5841bd48db690f6f",
-        "published_at": "2026-07-20T14:45:37Z",
-        "description": "The post Forget SPY. Its Momentum Cousin Is Crushing the Index With 26% Returns This Year, for Only 0.13% appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the default equity holding for tens of millions of investors, and for defen\u2026"
       }
     ],
     "VTI": [
+      {
+        "title": "If You Invest $500 a Month in the Vanguard Total Stock Market ETF Starting Today, Here's What History Says You Could Have in 25 Years",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e66e2d600f9f5d66",
+        "published_at": "2026-07-30T13:25:26Z",
+        "description": "If You Invest $500 a Month in the Vanguard Total Stock Market ETF Starting Today, Here's What History Says You Could Have in 25 Years\nYou want to make a lot of money, right? And you would like to do it quickly and easily, too, I bet. Getting rich quick isn't \u2026"
+      },
       {
         "title": "This ETF Just Undercut VTI on Fees. Should You Actually Switch?",
         "source": "24/7 Wall St.",
@@ -169,16 +176,30 @@
         "url": "https://biztoc.com/x/7c5ea0cc412dcce2",
         "published_at": "2026-07-23T13:03:35Z",
         "description": "The post 3 Undervalued Vanguard ETFs to Buy Before the End of July appeared first on 24/7 Wall St..\nThe default Vanguard trade in 2026 has been simple: Buy Vanguard S&P 500 ETF (NYSEARCA:VOO) or Vanguard Total Stock Market ETF (NYSEARCA:VTI), ride the S&P 500\u2026"
-      },
-      {
-        "title": "Thank Asia for International Stocks' Outperformance This Year",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/thank-asia-international-stocks-outperformance-year?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-23T01:20:18Z",
-        "description": "The region powered gains in VXUS this year."
       }
     ],
     "QQQ": [
+      {
+        "title": "Show HN: stock-tui \u2013 an open-source terminal app inspired by StockTouch",
+        "source": "Github.com",
+        "url": "https://github.com/chatcode-lab/stock-tui",
+        "published_at": "2026-07-30T14:52:53Z",
+        "description": "Mouse-first terminal stock market heatmap inspired by StockTouch, built with Rust and Ratatui in https://chatcode.dev. - chatcode-lab/stock-tui"
+      },
+      {
+        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
+        "source": "GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
+        "published_at": "2026-07-30T14:51:00Z",
+        "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
+      },
+      {
+        "title": "The Magnificent 7 Trade Is \u201cLikely Over,\u201d Piper Sandler Warns. Here Are the 2 Sectors Taking Its Place",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/07/30/the-magnificent-7-trade-is-likely-over-piper-sandler-warns-here-are-the-2-sectors-taking-its-place/",
+        "published_at": "2026-07-30T12:51:36Z",
+        "description": "Piper Sandler's chief market technician is sounding the alarm on Big Tech and pointing investors toward two sectors quietly stealing market leadership from t..."
+      },
       {
         "title": "AI's Biggest Winners Are Selling Off, and ETFs Are Behaving Strangely",
         "source": "Etf.com",
@@ -199,27 +220,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/100-old-theory-says-stock-223019868.html",
         "published_at": "2026-07-28T22:30:19Z",
         "description": "Artificial intelligence has dominated Wall Street\u2019s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether..."
-      },
-      {
-        "title": "Daily ETF Flows: TQQQ Pulls In $368M",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tqqq-pulls-368m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-28T21:00:03Z",
-        "description": "Here are the daily ETF fund flows for July 27, 2026."
-      },
-      {
-        "title": "What Is The Growth In QQQ Actually Costing You?",
-        "source": "Trefis",
-        "url": "https://www.trefis.com/articles/608961/what-is-the-growth-in-qqq-actually-costing-you/2026-07-27",
-        "published_at": "2026-07-27T20:44:42Z",
-        "description": "The popular tech-heavy fund isn't expensive by its own standards, but the real question is what you're giving up to own it."
-      },
-      {
-        "title": "After Comparing Every Covered Call Nasdaq-100 ETF These 3 Pay Up to 14 Percent Without Capping Your AI Upside",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/25/after-comparing-every-covered-call-nasdaq-100-etf-these-3-pay-up-to-14-percent-without-capping-your-ai-upside/",
-        "published_at": "2026-07-25T19:34:14Z",
-        "description": "Not all covered call ETFs on the Nasdaq-100 are built the same, and choosing the wrong one could mean sacrificing the AI rally you bought the index to captur..."
       }
     ],
     "IEFA": [
