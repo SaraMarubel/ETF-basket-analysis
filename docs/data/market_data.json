@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:57:29.219646+00:00",
+  "generated_at": "2026-08-01T11:51:31.102628+00:00",
   "risk_free_rate_pct": 3.68,
   "etfs": {
     "VOO": {
@@ -8,7 +8,7 @@
       "currency": "USD",
       "aum": 1670882131968,
       "fund_family": "Vanguard",
-      "avg_volume": 7928573,
+      "avg_volume": 7968929,
       "bid": 684.0,
       "ask": 684.85,
       "spread_pct": 0.1242,
@@ -491,7 +491,7 @@
       "currency": "USD",
       "aum": 888128929792,
       "fund_family": "iShares",
-      "avg_volume": 7886307,
+      "avg_volume": 7941753,
       "bid": 747.46,
       "ask": 750.04,
       "spread_pct": 0.3446,
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 781188857856,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 52776069,
+      "avg_volume": 52932945,
       "bid": 744.11,
       "ask": 744.6,
       "spread_pct": 0.0658,
@@ -1457,7 +1457,7 @@
       "currency": "USD",
       "aum": 2297940410368,
       "fund_family": "Vanguard",
-      "avg_volume": 3374692,
+      "avg_volume": 3368606,
       "bid": 367.11,
       "ask": 367.6,
       "spread_pct": 0.1334,
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 490103177216,
       "fund_family": "Invesco",
-      "avg_volume": 44152393,
+      "avg_volume": 44232712,
       "bid": 688.49,
       "ask": 689.2,
       "spread_pct": 0.1031,
@@ -2423,7 +2423,7 @@
       "currency": "USD",
       "aum": 186543423488,
       "fund_family": "iShares",
-      "avg_volume": 9668552,
+      "avg_volume": 9679440,
       "bid": 95.5,
       "ask": 98.23,
       "spread_pct": 2.8184,
@@ -2828,7 +2828,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.29,
-          "change_1y_pct": 72.06
+          "change_1y_pct": 70.86
         },
         {
           "symbol": "ROP.SW",
@@ -2846,7 +2846,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.12,
-          "change_1y_pct": 12.35
+          "change_1y_pct": 11.57
         },
         {
           "symbol": "NESN.SW",
@@ -2864,7 +2864,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.87,
-          "change_1y_pct": 22.47
+          "change_1y_pct": 24.85
         },
         {
           "symbol": "8035.T",
@@ -2897,7 +2897,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.12,
-        "change_1y_pct": 12.35
+        "change_1y_pct": 11.57
       }
     },
     "VEA": {
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 316309798912,
       "fund_family": "Vanguard",
-      "avg_volume": 11453415,
+      "avg_volume": 11432503,
       "bid": 70.58,
       "ask": 70.65,
       "spread_pct": 0.0991,
@@ -3323,7 +3323,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 72.06
+          "change_1y_pct": 70.86
         },
         {
           "symbol": "NOVN.SW",
@@ -3347,7 +3347,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.86,
-          "change_1y_pct": 12.35
+          "change_1y_pct": 11.57
         },
         {
           "symbol": "NESN.SW",
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.86,
-        "change_1y_pct": 12.35
+        "change_1y_pct": 11.57
       }
     },
     "VUG": {
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 379207221248,
       "fund_family": "Vanguard",
-      "avg_volume": 7536628,
+      "avg_volume": 7561211,
       "bid": 84.84,
       "ask": 85.32,
       "spread_pct": 0.5642,
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 397862928384,
       "fund_family": "Vanguard",
-      "avg_volume": 8098206,
+      "avg_volume": 8116998,
       "bid": 72.25,
       "ask": 72.3,
       "spread_pct": 0.0692,
@@ -4272,7 +4272,7 @@
       "currency": "USD",
       "aum": 95734071296,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 21167622,
+      "avg_volume": 21169682,
       "bid": 33.48,
       "ask": 33.5,
       "spread_pct": 0.0597,
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 160718422016,
       "fund_family": "iShares",
-      "avg_volume": 13405723,
+      "avg_volume": 13467090,
       "bid": 75.87,
       "ask": 77.49,
       "spread_pct": 2.1127,
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 45.3,
+        "atm_implied_vol_pct": 45.8,
         "call_open_interest": 470,
         "put_open_interest": 354,
         "put_call_oi_ratio": 0.75,
@@ -5238,7 +5238,7 @@
       "currency": "USD",
       "aum": 138847469568,
       "fund_family": "iShares",
-      "avg_volume": 8351707,
+      "avg_volume": 8298322,
       "bid": 97.38,
       "ask": 97.38,
       "spread_pct": 0.0,
@@ -5645,7 +5645,7 @@
       "currency": "USD",
       "aum": 254461837312,
       "fund_family": "Vanguard",
-      "avg_volume": 2874898,
+      "avg_volume": 2874440,
       "bid": 219.9,
       "ask": 220.5,
       "spread_pct": 0.2725,
@@ -6128,7 +6128,7 @@
       "currency": "USD",
       "aum": 650318381056,
       "fund_family": "Vanguard",
-      "avg_volume": 6010050,
+      "avg_volume": 5989977,
       "bid": 84.41,
       "ask": 84.64,
       "spread_pct": 0.2721,
@@ -6557,7 +6557,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.72,
-          "change_1y_pct": 72.06
+          "change_1y_pct": 70.86
         },
         {
           "symbol": "NOVN.SW",
@@ -6581,7 +6581,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.62,
-          "change_1y_pct": 12.35
+          "change_1y_pct": 11.57
         }
       ],
       "options": {
@@ -6611,7 +6611,7 @@
       "currency": "USD",
       "aum": 163324018688,
       "fund_family": "Vanguard",
-      "avg_volume": 8468655,
+      "avg_volume": 8435285,
       "bid": 58.74,
       "ask": 58.75,
       "spread_pct": 0.017,
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 130053275648,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 6943060,
+      "avg_volume": 6959698,
       "bid": 370.51,
       "ask": 371.64,
       "spread_pct": 0.3045,
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-03",
-        "atm_implied_vol_pct": 29.8,
+        "atm_implied_vol_pct": 29.9,
         "call_open_interest": 12289,
         "put_open_interest": 7287,
         "put_call_oi_ratio": 0.59,
@@ -7494,7 +7494,7 @@
       "currency": "USD",
       "aum": 128899137536,
       "fund_family": "iShares",
-      "avg_volume": 5311690,
+      "avg_volume": 5284235,
       "bid": 117.44,
       "ask": 119.42,
       "spread_pct": 1.6719,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 102.8,
+        "atm_implied_vol_pct": 102.9,
         "call_open_interest": 8056,
         "put_open_interest": 2269,
         "put_call_oi_ratio": 0.28,
@@ -7977,7 +7977,7 @@
       "currency": "USD",
       "aum": 124330491904,
       "fund_family": "iShares",
-      "avg_volume": 7187420,
+      "avg_volume": 7193948,
       "bid": 75.24,
       "ask": 75.32,
       "spread_pct": 0.1063,
@@ -8460,7 +8460,7 @@
       "currency": "USD",
       "aum": 129462992896,
       "fund_family": "Vanguard",
-      "avg_volume": 1101217,
+      "avg_volume": 1102200,
       "bid": 238.47,
       "ask": 239.93,
       "spread_pct": 0.6104,
@@ -8943,7 +8943,7 @@
       "currency": "USD",
       "aum": 111317172224,
       "fund_family": "iShares",
-      "avg_volume": 3793744,
+      "avg_volume": 3799367,
       "bid": 144.74,
       "ask": 145.45,
       "spread_pct": 0.4893,
