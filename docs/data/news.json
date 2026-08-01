@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:51:57.160204+00:00",
+  "generated_at": "2026-08-01T15:44:51.693454+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -180,6 +180,20 @@
     ],
     "QQQ": [
       {
+        "title": "Dow Slips as Apple Sinks 8% Despite a Record Quarter While Amazon Soars 12% on AWS Strength This Friday",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/apple-amazon-earnings-diverge-market-sentiment-1873294",
+        "published_at": "2026-07-31T14:10:49Z",
+        "description": "Apple and Amazon's contrasting earnings reports led to mixed market reactions, highlighting the impact of AI-driven demand on tech stocks. Apple faced challenges, while Amazon saw growth in cloud services."
+      },
+      {
+        "title": "Forget QQQ: VGT\u2019s Pure Tech Focus Has Delivered 40% More Over Five Years",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c38dd2ecc4bfae06",
+        "published_at": "2026-07-31T13:32:03Z",
+        "description": "The post Forget QQQ: VGT\u2019s Pure Tech Focus Has Delivered 40% More Over Five Years appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) is the default way most investors buy the Nasdaq\u2019s biggest names, and for good reason. QQQ tracks the 100 lar\u2026"
+      },
+      {
         "title": "Michael Burry Warns Nvidia's 'Overreaching' Is Pushing Circular Spending to 'Biblical Proportions' Amid Surge in Credit Default Swaps",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-nvidias-overreaching-173027263.html",
@@ -206,20 +220,6 @@
         "url": "https://247wallst.com/investing/2026/07/30/the-magnificent-7-trade-is-likely-over-piper-sandler-warns-here-are-the-2-sectors-taking-its-place/",
         "published_at": "2026-07-30T12:51:36Z",
         "description": "Piper Sandler's chief market technician is sounding the alarm on Big Tech and pointing investors toward two sectors quietly stealing market leadership from t..."
-      },
-      {
-        "title": "AI's Biggest Winners Are Selling Off, and ETFs Are Behaving Strangely",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/ais-biggest-winners-are-selling-and-etfs-are-behaving-strangely?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-29T22:57:32Z",
-        "description": "Semiconductors and megacap tech have rolled over, yet the broader market and equal-weight strategies are holding firm."
-      },
-      {
-        "title": "Young Investor Asked People Living Off Dividend Income How They Built Their Portfolios. 'If You Gamble, The Deck Is Stacked Against You'",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/young-investor-asked-people-living-173025375.html",
-        "published_at": "2026-07-29T17:30:25Z",
-        "description": "Living off dividend income is a dream for many investors. The idea of collecting enough cash from stocks and ETFs to cover living expenses without selling in..."
       }
     ],
     "IEFA": [
