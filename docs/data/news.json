@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:44:10.925849+00:00",
+  "generated_at": "2026-08-01T07:57:53.810676+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -180,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Michael Burry Warns Nvidia's 'Overreaching' Is Pushing Circular Spending to 'Biblical Proportions' Amid Surge in Credit Default Swaps",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-nvidias-overreaching-173027263.html",
+        "published_at": "2026-07-30T17:30:27Z",
+        "description": "\u2018Big Short\u2019 investor Michael Burry is sounding the alarm on Nvidia Corp., claiming the AI giant\u2019s strategic financial \u201coverreaching\u201d has escalated its \u201ccircu..."
+      },
+      {
         "title": "Show HN: stock-tui \u2013 an open-source terminal app inspired by StockTouch",
         "source": "Github.com",
         "url": "https://github.com/chatcode-lab/stock-tui",
@@ -213,13 +220,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/young-investor-asked-people-living-173025375.html",
         "published_at": "2026-07-29T17:30:25Z",
         "description": "Living off dividend income is a dream for many investors. The idea of collecting enough cash from stocks and ETFs to cover living expenses without selling in..."
-      },
-      {
-        "title": "This 100-Year-Old Theory Says the Stock Market Isn\u2019t Done Climbing: Ed Yardeni",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/100-old-theory-says-stock-223019868.html",
-        "published_at": "2026-07-28T22:30:19Z",
-        "description": "Artificial intelligence has dominated Wall Street\u2019s attention this year. Investors have obsessed over capital spending, shrinking free cash flow and whether..."
       }
     ],
     "IEFA": [
