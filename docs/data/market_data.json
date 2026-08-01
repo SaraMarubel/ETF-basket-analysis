@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:15:15.262861+00:00",
+  "generated_at": "2026-08-01T23:43:55.827511+00:00",
   "risk_free_rate_pct": 3.68,
   "etfs": {
     "VOO": {
@@ -2822,7 +2822,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 3.03,
-          "change_1y_pct": 136.41
+          "change_1y_pct": 135.46
         },
         {
           "symbol": "HSBA.L",
@@ -2858,7 +2858,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.95,
-          "change_1y_pct": 27.65
+          "change_1y_pct": 28.35
         },
         {
           "symbol": "SHEL.L",
@@ -2891,7 +2891,7 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 3.03,
-        "change_1y_pct": 136.41
+        "change_1y_pct": 135.46
       },
       "weakest_holding": {
         "symbol": "AZN.L",
@@ -3317,7 +3317,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.34,
-          "change_1y_pct": 136.41
+          "change_1y_pct": 135.46
         },
         {
           "symbol": "HSBA.L",
@@ -3359,7 +3359,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.72,
-          "change_1y_pct": 27.65
+          "change_1y_pct": 28.35
         }
       ],
       "options": {
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 45.8,
+        "atm_implied_vol_pct": 45.3,
         "call_open_interest": 470,
         "put_open_interest": 354,
         "put_call_oi_ratio": 0.75,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.7,
-          "change_1y_pct": 136.41
+          "change_1y_pct": 135.46
         },
         {
           "symbol": "0700.HK",
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-03",
-        "atm_implied_vol_pct": 29.9,
+        "atm_implied_vol_pct": 29.8,
         "call_open_interest": 12289,
         "put_open_interest": 7287,
         "put_call_oi_ratio": 0.59,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 102.9,
+        "atm_implied_vol_pct": 102.8,
         "call_open_interest": 8056,
         "put_open_interest": 2269,
         "put_call_oi_ratio": 0.28,
