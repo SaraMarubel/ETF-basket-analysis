@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-01T15:44:51.693454+00:00",
+  "generated_at": "2026-08-01T20:15:45.051710+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/873be3c01dcea8eb",
+        "published_at": "2026-07-31T19:50:41Z",
+        "description": "The post 5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years appeared first on 24/7 Wall St..\nA five-fund lineup built for a 30-year holding period is a set of exposure decisions. The five ETFs here handle those decisions with diff\u2026"
+      },
       {
         "title": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/7c5ea0cc412dcce2",
         "published_at": "2026-07-23T13:03:35Z",
         "description": "The post 3 Undervalued Vanguard ETFs to Buy Before the End of July appeared first on 24/7 Wall St..\nThe default Vanguard trade in 2026 has been simple: Buy Vanguard S&P 500 ETF (NYSEARCA:VOO) or Vanguard Total Stock Market ETF (NYSEARCA:VTI), ride the S&P 500\u2026"
-      },
-      {
-        "title": "Should You Invest $1,000 in VOO in 2026? (Hint: History Says Yes.)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a4dd17a66e04a020",
-        "published_at": "2026-07-22T12:42:53Z",
-        "description": "If you're looking to invest $1,000 in the stock market, it's hard not to like the Vanguard S&P 500 ETF (NYSEMKT: VOO). The exchange-traded fund (ETF) tracks the S&P 500, a bucket of 500 prominent U.S. companies. On top of that, you can invest as little as a d\u2026"
       }
     ],
     "IVV": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market\u2019s next move",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
+        "published_at": "2026-07-31T18:07:36Z",
+        "description": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level."
+      },
+      {
         "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
         "source": "GlobeNewswire",
         "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
@@ -125,13 +132,6 @@
         "url": "https://www.globenewswire.com/news-release/2026/07/23/3332307/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
         "published_at": "2026-07-23T14:00:00Z",
         "description": "New York , July 23, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, H\u2026"
-      },
-      {
-        "title": "Industrials Are Up 17% and Still Catching the Next Wave of AI Money",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/350327d7e925c001",
-        "published_at": "2026-07-21T16:14:05Z",
-        "description": "The post Industrials Are Up 17% and Still Catching the Next Wave of AI Money appeared first on 24/7 Wall St..\nThe Industrial Select Sector SPDR Fund (NYSEARCA:XLI) has climbed 16% year to date and 20% over the past year, outrunning the 9% year-to-date gain fo\u2026"
       }
     ],
     "VTI": [
@@ -180,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Apple Shares Sink Nearly 10% Despite a Record Quarter as China and Services Revenue Disappoint Wall Street",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/apple-shares-fall-record-q3-2026-1873306",
+        "published_at": "2026-07-31T16:14:52Z",
+        "description": "Apple's shares fell 9.56% despite a record Q3 2026 performance, as investors focused on weaker-than-expected results from its Services division and China business, overshadowing overall strong financial metrics."
+      },
+      {
         "title": "Dow Slips as Apple Sinks 8% Despite a Record Quarter While Amazon Soars 12% on AWS Strength This Friday",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/apple-amazon-earnings-diverge-market-sentiment-1873294",
@@ -213,13 +220,6 @@
         "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
         "published_at": "2026-07-30T14:51:00Z",
         "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
-      },
-      {
-        "title": "The Magnificent 7 Trade Is \u201cLikely Over,\u201d Piper Sandler Warns. Here Are the 2 Sectors Taking Its Place",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/30/the-magnificent-7-trade-is-likely-over-piper-sandler-warns-here-are-the-2-sectors-taking-its-place/",
-        "published_at": "2026-07-30T12:51:36Z",
-        "description": "Piper Sandler's chief market technician is sounding the alarm on Big Tech and pointing investors toward two sectors quietly stealing market leadership from t..."
       }
     ],
     "IEFA": [
