@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:59:56.217917+00:00",
+  "generated_at": "2026-08-02T15:49:12.362481+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -136,6 +136,13 @@
     ],
     "VTI": [
       {
+        "title": "At 59 1/2 the 401(k) Penalty Disappears. These 4 ETFs Are the First Move With Money You Can Touch",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/01/at-59-1-2-the-401k-penalty-disappears-these-4-etfs-are-the-first-move-with-money-you-can-touch/",
+        "published_at": "2026-08-01T08:36:16Z",
+        "description": "Turning 59 and a half flips a switch most investors never think about until it happens, and what you do with that newly penalty-free money in the first few m..."
+      },
+      {
         "title": "If You Invest $500 a Month in the Vanguard Total Stock Market ETF Starting Today, Here's What History Says You Could Have in 25 Years",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/e66e2d600f9f5d66",
@@ -169,16 +176,16 @@
         "url": "https://247wallst.com/investing/2026/07/23/these-3-total-market-etfs-look-interchangeable-but-picking-the-wrong-one-costs-you-real-money-over-a-lifetime/",
         "published_at": "2026-07-23T21:42:06Z",
         "description": "VTI, ITOT, and SCHB all charge the same fee and post nearly identical annual returns, but one structural difference between them quietly drains compounded we..."
-      },
-      {
-        "title": "3 Undervalued Vanguard ETFs to Buy Before the End of July",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7c5ea0cc412dcce2",
-        "published_at": "2026-07-23T13:03:35Z",
-        "description": "The post 3 Undervalued Vanguard ETFs to Buy Before the End of July appeared first on 24/7 Wall St..\nThe default Vanguard trade in 2026 has been simple: Buy Vanguard S&P 500 ETF (NYSEARCA:VOO) or Vanguard Total Stock Market ETF (NYSEARCA:VTI), ride the S&P 500\u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "QQQI\u2019s 14% Yield Hides a Costly Truth: 98% Is Your Own Money Coming Back",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/01/qqqis-14-yield-hides-a-costly-truth-98-is-your-own-money-coming-back/",
+        "published_at": "2026-08-01T11:47:19Z",
+        "description": "QQQI's 14% yield looks like income until you trace where the cash actually originates. Before you count on another monthly check, find out how much of that p..."
+      },
       {
         "title": "Apple Shares Sink Nearly 10% Despite a Record Quarter as China and Services Revenue Disappoint Wall Street",
         "source": "Ibtimes.com.au",
@@ -213,13 +220,6 @@
         "url": "https://github.com/chatcode-lab/stock-tui",
         "published_at": "2026-07-30T14:52:53Z",
         "description": "Mouse-first terminal stock market heatmap inspired by StockTouch, built with Rust and Ratatui in https://chatcode.dev. - chatcode-lab/stock-tui"
-      },
-      {
-        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
-        "published_at": "2026-07-30T14:51:00Z",
-        "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
       }
     ],
     "IEFA": [
@@ -342,6 +342,13 @@
     ],
     "BND": [
       {
+        "title": "Your Target-Date Fund Charges 6x More Than the Two-ETF Version of Itself",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/01/your-target-date-fund-charges-6x-more-than-the-two-etf-version-of-itself/",
+        "published_at": "2026-08-01T13:18:26Z",
+        "description": "Most investors assume their target-date fund is the simple, low-cost option, but a two-ETF combination quietly does the same job at a fraction of the price,..."
+      },
+      {
         "title": "How much cash do you need invested in 2026 to completely live off dividends? Probably less than you think",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/markets/stocks/articles/much-cash-invested-2026-completely-111500635.html",
@@ -375,13 +382,6 @@
         "url": "https://www.thedailyupside.com/etf/investing-strategies-etf/why-this-ultra-short-bond-fund-is-ultra-popular/",
         "published_at": "2026-07-15T04:02:00Z",
         "description": "SGOV from iShares may become the first ETF in its class to reach $100 billion in assets."
-      },
-      {
-        "title": "BND Is About to Erase the 2022 Bond Crash. TLT Isn\u2019t Close",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c34f62375ff1086f",
-        "published_at": "2026-07-14T23:10:48Z",
-        "description": "The largest bond ETF in the world is closing in on a milestone that looked out of reach three years ago. The Vanguard Total Bond Market ETF (BND) now sits roughly 2.4% below its total-return peak, the high it set in August 2020 when the Federal Reserve had pi\u2026"
       }
     ],
     "SCHD": [
@@ -697,6 +697,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "At 59 1/2 the 401(k) Penalty Disappears. These 4 ETFs Are the First Move With Money You Can Touch",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/01/at-59-1-2-the-401k-penalty-disappears-these-4-etfs-are-the-first-move-with-money-you-can-touch/",
+        "published_at": "2026-08-01T08:36:16Z",
+        "description": "Turning 59 and a half flips a switch most investors never think about until it happens, and what you do with that newly penalty-free money in the first few m..."
+      },
+      {
         "title": "Forget VIG: DGRO Pays 26% More Dividend Income for Nearly the Same Fee",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ff7fdc222e5c9d55",
@@ -730,13 +737,6 @@
         "url": "https://biztoc.com/x/fcc46a7034b1361a",
         "published_at": "2026-07-22T19:12:54Z",
         "description": "The post VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth appeared first on 24/7 Wall St..\nThe Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) pays a trailing yield of just 1.5%, which looks unremarkable next to money market funds still payi\u2026"
-      },
-      {
-        "title": "VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/22/vigs-1-5-yield-masks-a-20-year-streak-of-uncut-dividend-growth/",
-        "published_at": "2026-07-22T19:11:19Z",
-        "description": "VIG's 1.5% yield invites easy dismissal, but the real question is whether two decades of unbroken dividend growth can survive the pressures quietly building..."
       }
     ],
     "IJR": [
