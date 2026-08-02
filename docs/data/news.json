@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:49:12.362481+00:00",
+  "generated_at": "2026-08-02T20:17:39.704279+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -180,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+        "published_at": "2026-08-01T16:51:35Z",
+        "description": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June\u2019s total."
+      },
+      {
         "title": "QQQI\u2019s 14% Yield Hides a Costly Truth: 98% Is Your Own Money Coming Back",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/01/qqqis-14-yield-hides-a-costly-truth-98-is-your-own-money-coming-back/",
@@ -213,13 +220,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-nvidias-overreaching-173027263.html",
         "published_at": "2026-07-30T17:30:27Z",
         "description": "\u2018Big Short\u2019 investor Michael Burry is sounding the alarm on Nvidia Corp., claiming the AI giant\u2019s strategic financial \u201coverreaching\u201d has escalated its \u201ccircu..."
-      },
-      {
-        "title": "Show HN: stock-tui \u2013 an open-source terminal app inspired by StockTouch",
-        "source": "Github.com",
-        "url": "https://github.com/chatcode-lab/stock-tui",
-        "published_at": "2026-07-30T14:52:53Z",
-        "description": "Mouse-first terminal stock market heatmap inspired by StockTouch, built with Rust and Ratatui in https://chatcode.dev. - chatcode-lab/stock-tui"
       }
     ],
     "IEFA": [
