@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:43:55.827511+00:00",
+  "generated_at": "2026-08-02T08:59:30.715334+00:00",
   "risk_free_rate_pct": 3.68,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-07",
-        "atm_implied_vol_pct": 35.3,
+        "atm_implied_vol_pct": 37.6,
         "call_open_interest": 4306,
         "put_open_interest": 3648,
         "put_call_oi_ratio": 0.85,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-07",
-        "atm_implied_vol_pct": 23.1,
+        "atm_implied_vol_pct": 24.9,
         "call_open_interest": 132,
         "put_open_interest": 179,
         "put_call_oi_ratio": 1.36,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-03",
-        "atm_implied_vol_pct": 22.5,
+        "atm_implied_vol_pct": 27.5,
         "call_open_interest": 106820,
         "put_open_interest": 135917,
         "put_call_oi_ratio": 1.27,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 30.6,
+        "atm_implied_vol_pct": 30.8,
         "call_open_interest": 4508,
         "put_open_interest": 2546,
         "put_call_oi_ratio": 0.56,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-03",
-        "atm_implied_vol_pct": 27.8,
+        "atm_implied_vol_pct": 33.9,
         "call_open_interest": 77324,
         "put_open_interest": 135151,
         "put_call_oi_ratio": 1.75,
@@ -2822,7 +2822,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 3.03,
-          "change_1y_pct": 135.46
+          "change_1y_pct": 136.41
         },
         {
           "symbol": "HSBA.L",
@@ -2858,7 +2858,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.95,
-          "change_1y_pct": 28.35
+          "change_1y_pct": 27.65
         },
         {
           "symbol": "SHEL.L",
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 30.9,
+        "atm_implied_vol_pct": 31.6,
         "call_open_interest": 173,
         "put_open_interest": 21,
         "put_call_oi_ratio": 0.12,
@@ -2891,7 +2891,7 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 3.03,
-        "change_1y_pct": 135.46
+        "change_1y_pct": 136.41
       },
       "weakest_holding": {
         "symbol": "AZN.L",
@@ -3317,7 +3317,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.34,
-          "change_1y_pct": 135.46
+          "change_1y_pct": 136.41
         },
         {
           "symbol": "HSBA.L",
@@ -3359,12 +3359,12 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.72,
-          "change_1y_pct": 28.35
+          "change_1y_pct": 27.65
         }
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 34.3,
+        "atm_implied_vol_pct": 35.1,
         "call_open_interest": 5023,
         "put_open_interest": 393,
         "put_call_oi_ratio": 0.08,
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 31.7,
+        "atm_implied_vol_pct": 32.5,
         "call_open_interest": 3931,
         "put_open_interest": 1557,
         "put_call_oi_ratio": 0.4,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 9.2,
+        "atm_implied_vol_pct": 9.4,
         "call_open_interest": 353,
         "put_open_interest": 55,
         "put_call_oi_ratio": 0.16,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-07",
-        "atm_implied_vol_pct": 73.8,
+        "atm_implied_vol_pct": 79.8,
         "call_open_interest": 7828,
         "put_open_interest": 2585,
         "put_call_oi_ratio": 0.33,
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 45.3,
+        "atm_implied_vol_pct": 46.9,
         "call_open_interest": 470,
         "put_open_interest": 354,
         "put_call_oi_ratio": 0.75,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 11.6,
+        "atm_implied_vol_pct": 11.9,
         "call_open_interest": 326,
         "put_open_interest": 100,
         "put_call_oi_ratio": 0.31,
@@ -6103,7 +6103,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 30.5,
+        "atm_implied_vol_pct": 31.2,
         "call_open_interest": 2423,
         "put_open_interest": 827,
         "put_call_oi_ratio": 0.34,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.7,
-          "change_1y_pct": 135.46
+          "change_1y_pct": 136.41
         },
         {
           "symbol": "0700.HK",
@@ -6586,7 +6586,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-07",
-        "atm_implied_vol_pct": 36.2,
+        "atm_implied_vol_pct": 39.1,
         "call_open_interest": 123,
         "put_open_interest": 78,
         "put_call_oi_ratio": 0.63,
@@ -7069,7 +7069,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 49.2,
+        "atm_implied_vol_pct": 50.5,
         "call_open_interest": 10124,
         "put_open_interest": 5953,
         "put_call_oi_ratio": 0.59,
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-03",
-        "atm_implied_vol_pct": 29.8,
+        "atm_implied_vol_pct": 36.0,
         "call_open_interest": 12289,
         "put_open_interest": 7287,
         "put_call_oi_ratio": 0.59,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 102.8,
+        "atm_implied_vol_pct": 105.0,
         "call_open_interest": 8056,
         "put_open_interest": 2269,
         "put_call_oi_ratio": 0.28,
@@ -8435,7 +8435,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 49.4,
+        "atm_implied_vol_pct": 50.6,
         "call_open_interest": 5955,
         "put_open_interest": 521,
         "put_call_oi_ratio": 0.09,
@@ -8918,7 +8918,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 24.4,
+        "atm_implied_vol_pct": 24.9,
         "call_open_interest": 1284,
         "put_open_interest": 300,
         "put_call_oi_ratio": 0.23,
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 30.4,
+        "atm_implied_vol_pct": 31.2,
         "call_open_interest": 2291,
         "put_open_interest": 3377,
         "put_call_oi_ratio": 1.47,
