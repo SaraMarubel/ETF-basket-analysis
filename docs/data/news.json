@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:17:39.704279+00:00",
+  "generated_at": "2026-08-02T23:45:41.949786+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -180,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Return of Capital Disguised as Yield: Why QDTE\u2019s $13.33 Trailing Payout Is Slowly Returning Your Own Money",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/01/return-of-capital-disguised-as-yield-why-qdtes-13-33-trailing-payout-is-slowly-returning-your-own-money/",
+        "published_at": "2026-08-01T23:39:26Z",
+        "description": "QDTE has made 123 consecutive weekly distributions and markets itself as a Nasdaq-100 income machine, but the fund's own holdings file reveals something most..."
+      },
+      {
         "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
@@ -213,13 +220,6 @@
         "url": "https://biztoc.com/x/c38dd2ecc4bfae06",
         "published_at": "2026-07-31T13:32:03Z",
         "description": "The post Forget QQQ: VGT\u2019s Pure Tech Focus Has Delivered 40% More Over Five Years appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) is the default way most investors buy the Nasdaq\u2019s biggest names, and for good reason. QQQ tracks the 100 lar\u2026"
-      },
-      {
-        "title": "Michael Burry Warns Nvidia's 'Overreaching' Is Pushing Circular Spending to 'Biblical Proportions' Amid Surge in Credit Default Swaps",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-nvidias-overreaching-173027263.html",
-        "published_at": "2026-07-30T17:30:27Z",
-        "description": "\u2018Big Short\u2019 investor Michael Burry is sounding the alarm on Nvidia Corp., claiming the AI giant\u2019s strategic financial \u201coverreaching\u201d has escalated its \u201ccircu..."
       }
     ],
     "IEFA": [
@@ -287,13 +287,6 @@
         "url": "https://www.nerdwallet.com/investing/learn/diversified-index-funds-five-percent-test#article",
         "published_at": "2026-07-08T21:55:47Z",
         "description": "Unlike the Dow Jones Industrial Average, S&P 500, Nasdaq 100 and Russell 3000, these well-diversified index funds have no more than 5% weight in any single stock."
-      },
-      {
-        "title": "This Vanguard ETF Tops Schwab in Returns and Cost for Global Investors",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/32e6b9a27f22f0f6",
-        "published_at": "2026-07-01T22:52:21Z",
-        "description": "The Vanguard FTSE Developed Markets ETF (NYSEMKT:VEA) provides cost-efficient exposure to established international economies, while the Schwab Emerging Markets Equity ETF (NYSEMKT:SCHE) focuses on the higher growth potential in developing nations.\nInternatio\u2026"
       }
     ],
     "VUG": [
