@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:18:48.548371+00:00",
+  "generated_at": "2026-08-04T18:18:38.227879+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,20 @@
     ],
     "QQQ": [
       {
+        "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/03/amazon-tops-3t-meta-rallies-7-as-ai-hyperscalers-ride-earnings-momentum/",
+        "published_at": "2026-08-03T17:31:28Z",
+        "description": "Blowout cloud earnings and a sudden geopolitical thaw sent the biggest AI names surging Monday, but the question investors are scrambling to answer is whethe..."
+      },
+      {
+        "title": "SpaceX\u2019s First Earnings Report Is Coming. Here\u2019s What To Look Out For",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/investor-hub/article/spacex-first-earnings-report-what-to-look-out-for/",
+        "published_at": "2026-08-03T14:33:44Z",
+        "description": "SpaceX (SPCX) reports its first post-IPO earnings in August. Discover key financial metrics, Starlink subscriber growth, AI spend and lockup risks to watch."
+      },
+      {
         "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
@@ -185,20 +199,6 @@
         "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
         "published_at": "2026-08-01T16:51:35Z",
         "description": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June\u2019s total."
-      },
-      {
-        "title": "QQQI\u2019s 14% Yield Hides a Costly Truth: 98% Is Your Own Money Coming Back",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/01/qqqis-14-yield-hides-a-costly-truth-98-is-your-own-money-coming-back/",
-        "published_at": "2026-08-01T11:47:19Z",
-        "description": "QQQI's 14% yield looks like income until you trace where the cash actually originates. Before you count on another monthly check, find out how much of that p..."
-      },
-      {
-        "title": "Apple Shares Sink Nearly 10% Despite a Record Quarter as China and Services Revenue Disappoint Wall Street",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/apple-shares-fall-record-q3-2026-1873306",
-        "published_at": "2026-07-31T16:14:52Z",
-        "description": "Apple's shares fell 9.56% despite a record Q3 2026 performance, as investors focused on weaker-than-expected results from its Services division and China business, overshadowing overall strong financial metrics."
       }
     ],
     "IEFA": [
