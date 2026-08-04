@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:46:14.632654+00:00",
+  "generated_at": "2026-08-04T10:18:48.548371+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -67,27 +67,6 @@
         "url": "https://www.barchart.com/story/news/3149059/how-to-play-secz-stock-now-after-the-securitize-spac-merger-closed-last-week",
         "published_at": "2026-07-06T20:15:05Z",
         "description": "Following its merger with Cantor Equity Partners, the tokenization platform's stock has now debuted on the exchanges."
-      },
-      {
-        "title": "Daily ETF Flows: Inflows of $1.1B for LQD",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f9c9e1392d187cb7",
-        "published_at": "2026-07-02T21:14:55Z",
-        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n VOO \n Vanguard S&P 500 ETF \n 4,150.26 \n 978,954.19 \n 0.42% \n IVV \n iShares Core S&P 500 ETF \n 2,814.81 \n 890,943.75 \n 0.32% \n SPYM \n SPDR Portfolio S&P 500 \u2026"
-      },
-      {
-        "title": "Lands Trump Accounts Role With Two Core iShares ETFs",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ccd8c26cf855f64c",
-        "published_at": "2026-07-02T20:28:58Z",
-        "description": "Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE.\n- U.S. Treasury selects BlackRock's iShares Core S&P 500 ETF (IVV) and iShares Core S&P Total U.S. Stock Market ETF (ITOT) as foundational optio\u2026"
-      },
-      {
-        "title": "ONDO Finance tokenizes BlackRock\u2019s IVV ETF and Micron shares under US regulatory framework",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/ondo-finance-tokenizes-blackrock-ivv-micron/",
-        "published_at": "2026-07-02T20:25:16Z",
-        "description": "Tokenizing traditional assets under regulatory frameworks could democratize access, enhance liquidity, and reshape global investment landscapes.\nThe post ONDO Finance tokenizes BlackRock\u2019s IVV ETF and Micron shares under US regulatory framework appeared first\u2026"
       }
     ],
     "SPY": [
@@ -136,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "Vanguard's cheapest ETF may be the only one you need",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/vanguards-cheapest-etf-may-be-the-only-one-you-need",
+        "published_at": "2026-08-02T12:03:00Z",
+        "description": "Imagine owning a piece of nearly every publicly traded company on earth, from Silicon Valley tech giants to emerging-market manufacturers across Asia. The Va..."
+      },
+      {
         "title": "At 59 1/2 the 401(k) Penalty Disappears. These 4 ETFs Are the First Move With Money You Can Touch",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/01/at-59-1-2-the-401k-penalty-disappears-these-4-etfs-are-the-first-move-with-money-you-can-touch/",
@@ -169,16 +155,16 @@
         "url": "https://biztoc.com/x/51153048e6cbb927",
         "published_at": "2026-07-25T12:33:57Z",
         "description": "After weeks of waiting, investment management firm Vanguard finally updated the holdings of its 48 passively managed equity exchange-traded funds (ETFs).\nUnsurprisingly, Space Exploration Technologies (NASDAQ: SPCX) popped up in the Vanguard Total Stock Marke\u2026"
-      },
-      {
-        "title": "These 3 Total Market ETFs Look Interchangeable but Picking the Wrong One Costs You Real Money Over a Lifetime",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/23/these-3-total-market-etfs-look-interchangeable-but-picking-the-wrong-one-costs-you-real-money-over-a-lifetime/",
-        "published_at": "2026-07-23T21:42:06Z",
-        "description": "VTI, ITOT, and SCHB all charge the same fee and post nearly identical annual returns, but one structural difference between them quietly drains compounded we..."
       }
     ],
     "QQQ": [
+      {
+        "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
+        "published_at": "2026-08-02T21:40:55Z",
+        "description": "Apple just posted its strongest June quarter ever and surged double digits, yet one popular income ETF built around Nasdaq-100 giants moved in the opposite d..."
+      },
       {
         "title": "Has Index Investing Gone Too Far?",
         "source": "Thedailyupside.com",
@@ -213,13 +199,6 @@
         "url": "https://www.ibtimes.com.au/apple-shares-fall-record-q3-2026-1873306",
         "published_at": "2026-07-31T16:14:52Z",
         "description": "Apple's shares fell 9.56% despite a record Q3 2026 performance, as investors focused on weaker-than-expected results from its Services division and China business, overshadowing overall strong financial metrics."
-      },
-      {
-        "title": "Dow Slips as Apple Sinks 8% Despite a Record Quarter While Amazon Soars 12% on AWS Strength This Friday",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/apple-amazon-earnings-diverge-market-sentiment-1873294",
-        "published_at": "2026-07-31T14:10:49Z",
-        "description": "Apple and Amazon's contrasting earnings reports led to mixed market reactions, highlighting the impact of AI-driven demand on tech stocks. Apple faced challenges, while Amazon saw growth in cloud services."
       }
     ],
     "IEFA": [
