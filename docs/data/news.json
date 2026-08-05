@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:44:50.617825+00:00",
+  "generated_at": "2026-08-05T10:15:35.579219+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 31, 2026."
+      },
+      {
         "title": "Vanguard's cheapest ETF may be the only one you need",
         "source": "TheStreet",
         "url": "https://www.thestreet.com/investing/vanguards-cheapest-etf-may-be-the-only-one-you-need",
@@ -148,16 +155,30 @@
         "url": "https://biztoc.com/x/76181085348047e5",
         "published_at": "2026-07-27T12:24:54Z",
         "description": "Most investment recommendations you see on TV or on the internet are based on some type of catalyst. Somebody thinks you should buy or sell based on factors such as interest-rate changes, earnings, or macroeconomic conditions.\nThe reason I like the Vanguard T\u2026"
-      },
-      {
-        "title": "Already the Largest of 3,372 Holdings in This $97.7 Billion Vanguard ETF?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/51153048e6cbb927",
-        "published_at": "2026-07-25T12:33:57Z",
-        "description": "After weeks of waiting, investment management firm Vanguard finally updated the holdings of its 48 passively managed equity exchange-traded funds (ETFs).\nUnsurprisingly, Space Exploration Technologies (NASDAQ: SPCX) popped up in the Vanguard Total Stock Marke\u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "A Major Bitcoin Signal Is Flashing Green",
+        "source": "Coinage.media",
+        "url": "https://www.coinage.media/2026/a-major-bitcoin-signal-is-flashing-green",
+        "published_at": "2026-08-04T00:00:00Z",
+        "description": "Why Bitcoin\u2019s comeback may hinge on AI\u2019s unwind and the CLARITY Act."
+      },
+      {
+        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 31, 2026."
+      },
+      {
+        "title": "The 3 ETFs That Hold the Most Magnificent 7 \u2014 and How They're Performing in a Tougher 2026",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/news/3-etfs-hold-most-magnificent-7-and-how-theyre-performing-tougher-2026?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T20:58:57Z",
+        "description": "MAGS, MGK and QQQ are the three ETFs that hold all seven Magnificent 7 stocks. Compare their weights, fees and 2026 returns to find the right fit."
+      },
       {
         "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
         "source": "24/7 Wall St.",
@@ -178,27 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
         "published_at": "2026-08-02T21:40:55Z",
         "description": "Apple just posted its strongest June quarter ever and surged double digits, yet one popular income ETF built around Nasdaq-100 giants moved in the opposite d..."
-      },
-      {
-        "title": "Has Index Investing Gone Too Far?",
-        "source": "Thedailyupside.com",
-        "url": "https://www.thedailyupside.com/advisor/investing-strategies/has-index-investing-gone-too-far/",
-        "published_at": "2026-08-02T12:00:00Z",
-        "description": "Critics say markets become less efficient when too much money floods into indexed products, but that doesn\u2019t tell the whole story."
-      },
-      {
-        "title": "Return of Capital Disguised as Yield: Why QDTE\u2019s $13.33 Trailing Payout Is Slowly Returning Your Own Money",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/01/return-of-capital-disguised-as-yield-why-qdtes-13-33-trailing-payout-is-slowly-returning-your-own-money/",
-        "published_at": "2026-08-01T23:39:26Z",
-        "description": "QDTE has made 123 consecutive weekly distributions and markets itself as a Nasdaq-100 income machine, but the fund's own holdings file reveals something most..."
-      },
-      {
-        "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-        "published_at": "2026-08-01T16:51:35Z",
-        "description": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June\u2019s total."
       }
     ],
     "IEFA": [
@@ -358,6 +358,20 @@
     ],
     "SCHD": [
       {
+        "title": "If a Bear Market Is Coming, I'm Buying This 1 ETF Hand Over Fist",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/efbe77d84e534bb6",
+        "published_at": "2026-08-04T08:35:27Z",
+        "description": "Key Points\n- The Schwab U.S. Dividend Equity ETF could provide some shelter from a bear market storm. \n- The fund is heavily allocated to defensive sectors. \n- A dependable dividend could help if markets turn south. \nSeven months into 2026, the S&P 500 is up \u2026"
+      },
+      {
+        "title": "SCHD\u2019s 0.06% Fee Hides the Real Cost: How March Reconstitution Triggered $0.8241 Per Share in Surprise Distributions",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d20f5c48d3f0928e",
+        "published_at": "2026-08-04T03:48:49Z",
+        "description": "The post SCHD\u2019s 0.06% Fee Hides the Real Cost: How March Reconstitution Triggered $0.8241 Per Share in Surprise Distributions appeared first on 24/7 Wall St..\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) sells one number in bold: a 0.06% expense ratio.\u2026"
+      },
+      {
         "title": "SCHD vs VYM vs DGRO: The Math on Which Dividend Giant Makes You Richer by Retirement",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/86ff077d21e45be1",
@@ -384,23 +398,16 @@
         "url": "https://biztoc.com/x/b25c3271a0e6c7f4",
         "published_at": "2026-07-30T18:24:36Z",
         "description": "The post Forget SCHD: This Fidelity Fund Has Beaten It by 5 Points a Year for Five Years appeared first on 24/7 Wall St..\nIf you own Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), you own it for a reason that still makes sense: a rules-based screen of quali\u2026"
-      },
-      {
-        "title": "1 ETF Pays You Now, 1 Pays You Later: The 2-Fund Split Retirees Swear By",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7d34b57cc39be25d",
-        "published_at": "2026-07-29T20:15:39Z",
-        "description": "The post 1 ETF Pays You Now, 1 Pays You Later: The 2-Fund Split Retirees Swear By appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) work differently. They are two different \u2026"
-      },
-      {
-        "title": "1 ETF Pays You Now, 1 Pays You Later: The 2-Fund Split Retirees Swear By",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/29/1-etf-pays-you-now-1-pays-you-later-the-2-fund-split-retirees-swear-by/",
-        "published_at": "2026-07-29T20:00:02Z",
-        "description": "SCHD and JEPI both pay you, but they run on completely different engines, and mixing them wrong could quietly cost you more than you realize in taxes, growth..."
       }
     ],
     "IEMG": [
+      {
+        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 31, 2026."
+      },
       {
         "title": "Forget EEM. iShares Sells Nearly the Same Emerging Markets for 87% Less",
         "source": "24/7 Wall St.",
@@ -435,16 +442,16 @@
         "url": "https://247wallst.com/investing/2026/07/08/record-money-is-pouring-into-emerging-markets-this-one-difference-could-decide-your-returns/",
         "published_at": "2026-07-08T15:01:27Z",
         "description": "International investing has spent years playing second fiddle to the U.S. stock market. That is changing. As investors look beyond a handful of mega-cap tech..."
-      },
-      {
-        "title": "AI & \u201cEx-China\u201d Rewriting the Emerging Markets ETF Playbook",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-ex-china-rewriting-emerging-113042107.html",
-        "published_at": "2026-07-08T11:30:42Z",
-        "description": "The action in Emerging Markets ETFs this year has been really interesting to watch. From record-breaking asset flows to impressive results, albeit massively..."
       }
     ],
     "AGG": [
+      {
+        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 31, 2026."
+      },
       {
         "title": "BND vs AGG: The Two Biggest Bond ETFs Look Identical, but One Has Quietly Won for Years",
         "source": "Biztoc.com",
@@ -479,13 +486,6 @@
         "url": "https://247wallst.com/investing/2026/07/16/analyst-were-in-one-of-the-most-dangerous-times-in-history-for-passive-investors/",
         "published_at": "2026-07-16T20:13:17Z",
         "description": "A seasoned portfolio analyst argues that buy-and-hold investors face a threat more insidious than a sudden crash, and the quiet math behind today's 60/40 por..."
-      },
-      {
-        "title": "SGOV Nears $100 Billion, a First for Ultra-Short Bond ETFs",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/sgov-nears-100-billion-first-ultra-short-bond-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-13T21:26:21Z",
-        "description": "The iShares Treasury bill fund has added $28.9 billion this year."
       }
     ],
     "VTV": [
@@ -527,6 +527,13 @@
     ],
     "VXUS": [
       {
+        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for July 31, 2026."
+      },
+      {
         "title": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/07/31/5-etfs-to-buy-once-and-hold-forever-a-complete-portfolio-for-the-next-30-years/",
@@ -560,13 +567,6 @@
         "url": "https://biztoc.com/x/507c3eb3ec6f6eb8",
         "published_at": "2026-07-08T12:57:51Z",
         "description": "Vanguard Total International Stock ETF (NASDAQ:VXUS) and iShares Core MSCI Total International Stock ETF (NASDAQ:IXUS) offer nearly identical international market exposure with subtle differences in yield, expense ratios, and portfolio depth.\nThese funds serv\u2026"
-      },
-      {
-        "title": "MMB Portfolio Dividend & Interest Income \u2013 2026 2nd Quarter Update (July)",
-        "source": "Mymoneyblog.com",
-        "url": "https://www.mymoneyblog.com/mmb-portfolio-dividend-interest-income-2026-2nd-quarter.html",
-        "published_at": "2026-07-08T01:48:03Z",
-        "description": "Here\u2019s my 2026 2nd Quarter income update as a companion post to my 2026 1st Quarter asset allocation & performance update. Even though I don\u2019t focus on high-dividend stocks or covered-call strategies, I still track the income from my portfolio as an alternati\u2026"
       }
     ],
     "VWO": [
