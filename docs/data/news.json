@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-05T23:35:29.468302+00:00",
+  "generated_at": "2026-08-06T10:18:00.569200+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: 28.7% of Your Money in Seven Stocks",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/94493cfca66fd486",
+        "published_at": "2026-08-05T03:58:05Z",
+        "description": "The post VOO\u2019s 0.03% Fee Hides the Real Cost: 28.7% of Your Money in Seven Stocks appeared first on 24/7 Wall St..\nYou bought Vanguard S&P 500 ETF (NYSEARCA:VOO) because the fee is famously small. Just three basis points. The real problem is what the fund qui\u2026"
+      },
+      {
+        "title": "Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
+        "published_at": "2026-08-04T19:31:07Z",
+        "description": "Warren Buffett\u2018s strategy for everyday investors to build wealth doesn\u2019t rely on complex stock picking or insider knowledge. Instead, the legendary investor..."
+      },
       {
         "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors",
         "source": "Biztoc.com",
@@ -30,20 +44,6 @@
         "url": "https://biztoc.com/x/3ef34eeaac89147b",
         "published_at": "2026-08-02T11:06:40Z",
         "description": "Investing in the S&P 500 (SNPINDEX: ^GSPC) is popular, especially through exchange-traded funds (ETFs) like the Vanguard S&P 500 ETF (NYSEMKT: VOO). But it includes some tradeoffs.\nThe S&P 500 index is made up of the 500 biggest companies in America. Together\u2026"
-      },
-      {
-        "title": "5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/873be3c01dcea8eb",
-        "published_at": "2026-07-31T19:50:41Z",
-        "description": "The post 5 ETFs to Buy Once and Hold Forever: A Complete Portfolio for the Next 30 Years appeared first on 24/7 Wall St..\nA five-fund lineup built for a 30-year holding period is a set of exposure decisions. The five ETFs here handle those decisions with diff\u2026"
-      },
-      {
-        "title": "If I Only Had $500 to Invest, This Is the ETF I'd Buy Right Now",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/59e9686858ad9b03",
-        "published_at": "2026-07-27T09:22:31Z",
-        "description": "Warren Buffett's recommendation that many investors are better off putting their money into an S&P 500 (SNPINDEX: ^GSPC) index fund makes sense. Ordinarily, I'd be on the Buffett bandwagon and suggest a low-cost index fund such as the Vanguard S&P 500 ETF (NY\u2026"
       }
     ],
     "IVV": [
@@ -159,6 +159,20 @@
     ],
     "QQQ": [
       {
+        "title": "Daily ETF Flows: Investors Scoop Up JAAA",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-jaaa?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-04T21:00:03Z",
+        "description": "Here are the daily ETF fund flows for August 3, 2026."
+      },
+      {
+        "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/04/wall-street-short-sellers-piled-into-amazon-and-microsoft-at-historic-rates-before-earnings-now-theyre-rallying/",
+        "published_at": "2026-08-04T19:14:03Z",
+        "description": "Short sellers piled into Microsoft and Amazon at historically stretched levels before earnings, and the beats that followed set off a covering scramble that..."
+      },
+      {
         "title": "A Major Bitcoin Signal Is Flashing Green",
         "source": "Coinage.media",
         "url": "https://www.coinage.media/2026/a-major-bitcoin-signal-is-flashing-green",
@@ -185,20 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/03/amazon-tops-3t-meta-rallies-7-as-ai-hyperscalers-ride-earnings-momentum/",
         "published_at": "2026-08-03T17:31:28Z",
         "description": "Blowout cloud earnings and a sudden geopolitical thaw sent the biggest AI names surging Monday, but the question investors are scrambling to answer is whethe..."
-      },
-      {
-        "title": "SpaceX\u2019s First Earnings Report Is Coming. Here\u2019s What To Look Out For",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/investor-hub/article/spacex-first-earnings-report-what-to-look-out-for/",
-        "published_at": "2026-08-03T14:33:44Z",
-        "description": "SpaceX (SPCX) reports its first post-IPO earnings in August. Discover key financial metrics, Starlink subscriber growth, AI spend and lockup risks to watch."
-      },
-      {
-        "title": "Apple Soared 15% in July, but GPIQ Holders Lost 6%: The Hidden Options Tax on Covered-Call ETFs",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/02/apple-soared-15-in-july-but-gpiq-holders-lost-6-the-hidden-options-tax-on-covered-call-etfs/",
-        "published_at": "2026-08-02T21:40:55Z",
-        "description": "Apple just posted its strongest June quarter ever and surged double digits, yet one popular income ETF built around Nasdaq-100 giants moved in the opposite d..."
       }
     ],
     "IEFA": [
@@ -615,6 +615,13 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: Investors Scoop Up JAAA",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-jaaa?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-04T21:00:03Z",
+        "description": "Here are the daily ETF fund flows for August 3, 2026."
+      },
+      {
         "title": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
@@ -648,13 +655,6 @@
         "url": "https://247wallst.com/investing/2026/07/23/man-who-called-2008-crash-says-now-is-the-time-to-invest-in-early-stage-gold-stocks/",
         "published_at": "2026-07-23T11:01:12Z",
         "description": "The hedge fund manager who made billions betting against subprime mortgages is now pounding the table on gold mining stocks, but his loudest endorsement come..."
-      },
-      {
-        "title": "Gold prices today, Wednesday, July 22: Renewed safe-haven demand pushes gold price higher",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-22-renewed-safe-haven-demand-pushes-gold-price-higher-152629042.html",
-        "published_at": "2026-07-22T15:26:29Z",
-        "description": "Gold August (GC=F) futures opened at $4,084.70 this morning, Wednesday, July 22, 2026, up 0.2% compared to Tuesday's closing price. The price of gold was up..."
       }
     ],
     "IWF": [
