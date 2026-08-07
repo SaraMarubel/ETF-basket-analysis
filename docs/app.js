@@ -105,8 +105,12 @@ async function loadData() {
   CORRELATION = market.correlation_matrix || {};
   RISK_FREE_PCT = market.risk_free_rate_pct ?? null;
 
+  const ageHours = (Date.now() - new Date(market.generated_at).getTime()) / 3600000;
+  const staleWarning = ageHours > 12
+    ? `<br><span class="stale-badge">&#9888; Data is ${Math.floor(ageHours)}h old &mdash; the scheduled refresh may have missed a cycle</span>`
+    : "";
   document.getElementById("meta-line").innerHTML =
-    `Updated <strong>${new Date(market.generated_at).toLocaleString()}</strong><br>20 ETFs tracked &middot; auto-refreshed on a schedule`;
+    `Updated <strong>${new Date(market.generated_at).toLocaleString()}</strong>${staleWarning}<br>20 ETFs tracked &middot; auto-refreshed every 4 hours`;
 }
 
 function termSpan(label, glossaryKey) {

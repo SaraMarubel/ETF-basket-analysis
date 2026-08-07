@@ -146,6 +146,7 @@ header.top p {
   line-height: 1.6;
 }
 .meta-line strong { color: var(--text-secondary); }
+.stale-badge { color: var(--warning); font-weight: 600; }
 
 .stat-row {
   display: grid;
