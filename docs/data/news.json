@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T15:15:07.960018+00:00",
+  "generated_at": "2026-08-07T18:34:50.738494+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,20 @@
     ],
     "QQQ": [
       {
+        "title": "Joby Aviation Climbs 9% on Raised Guidance as Archer Aviation, EHang Sit Out the eVTOL Rally",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/06/joby-aviation-climbs-9-on-raised-guidance-as-archer-aviation-ehang-sit-out-the-evtol-rally/",
+        "published_at": "2026-08-06T17:15:58Z",
+        "description": "Joby Aviation just surged while its eVTOL rivals barely twitched, and the reason goes beyond a single earnings beat. Here is what the guidance raise, the new..."
+      },
+      {
+        "title": "Magnite Jumps 18%, AppLovin Crashes 20%, Trade Desk Slides 6% as Traders Separate Ad-Tech Winners From Losers",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/06/magnite-jumps-18-applovin-crashes-20-trade-desk-slides-6-as-traders-separate-ad-tech-winners-from-losers/",
+        "published_at": "2026-08-06T16:29:43Z",
+        "description": "Ad-tech stocks are getting brutally sorted on Thursday as earnings season forces traders to pick sides, and the gap between winners and losers is widening by..."
+      },
+      {
         "title": "SoundHound AI Rallies 12%, Unity Software Rises 11%, Datadog Sinks 15% as Traders Separate Software Winners From Losers",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/06/soundhound-ai-rallies-12-unity-software-rises-11-datadog-sinks-15-as-traders-separate-software-winners-from-losers/",
@@ -185,20 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/05/alphabet-is-still-up-16-in-2026-what-will-it-take-to-get-googl-stock-above-400/",
         "published_at": "2026-08-05T18:30:05Z",
         "description": "A sweeping AI leadership overhaul sent Alphabet shares sliding Wednesday, rattling investor confidence despite a blowout earnings quarter. The path to $400 h..."
-      },
-      {
-        "title": "Nuvei announces partnership with BlackLine",
-        "source": "Thefly.com",
-        "url": "https://www.thefly.com/nvei",
-        "published_at": "2026-08-05T12:12:48Z",
-        "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026"
-      },
-      {
-        "title": "This $39.77 Billion Leveraged ETF Jumped 10.09% Tuesday, But Volatility Decay Cost Holders Millions",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/04/this-39-77-billion-leveraged-etf-jumped-10-09-tuesday-but-volatility-decay-cost-holders-millions/",
-        "published_at": "2026-08-05T09:10:11Z",
-        "description": "TQQQ surged double digits in a single session and handed some traders a 21% week, yet the same mechanics that built those gains have quietly drained billions..."
       }
     ],
     "IEFA": [
@@ -615,6 +615,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold's Historic Rally Masks Uneven Long-Term Record",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f05b08d616847aa2",
+        "published_at": "2026-08-06T17:43:35Z",
+        "description": "This article first appeared on GuruFocus.\nGold's extraordinary 2024-to-2026 rally has crushed inflation, but Deutsche Bank's six-decade review delivers a warning for SPDR Gold Shares (GLD) investors: the metal can preserve purchasing power over long periods, \u2026"
+      },
+      {
         "title": "NUGT and AGQ Jump Big as Gold and Silver Rally",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/05/nugt-and-agq-jump-big-as-gold-and-silver-rally/",
@@ -648,13 +655,6 @@
         "url": "https://www.cnbc.com/2026/07/29/warshs-rate-decision-is-a-cliffhanger-these-trades-might-offer-a-clue.html",
         "published_at": "2026-07-29T11:56:16Z",
         "description": "It's arguably the most up-for-grabs Federal Reserve decision in recent memory."
-      },
-      {
-        "title": "Gold Just Had Its Worst Quarter Since 2013: 3 Reasons to Buy the Dip With This Dirt-Cheap ETF",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/07/28/gold-just-had-its-worst-quarter-since-2013-3-reasons-to-buy-the-dip-with-this-dirt-cheap-etf/",
-        "published_at": "2026-07-28T16:45:23Z",
-        "description": "Gold just posted its worst quarterly loss in over a decade, but the buyers who drove it to record highs earlier this year operate on a completely different l..."
       }
     ],
     "IWF": [
