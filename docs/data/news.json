@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T11:13:37.076005+00:00",
+  "generated_at": "2026-08-07T15:15:07.960018+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "SoundHound AI Rallies 12%, Unity Software Rises 11%, Datadog Sinks 15% as Traders Separate Software Winners From Losers",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/06/soundhound-ai-rallies-12-unity-software-rises-11-datadog-sinks-15-as-traders-separate-software-winners-from-losers/",
+        "published_at": "2026-08-06T14:26:07Z",
+        "description": "Three enterprise software stocks all beat earnings expectations Thursday morning, yet they are moving in wildly different directions. Find out why a triple b..."
+      },
+      {
         "title": "Retail investors are buying the dip on SpaceX\u2019s stock before more shares flood the market",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/04/this-39-77-billion-leveraged-etf-jumped-10-09-tuesday-but-volatility-decay-cost-holders-millions/",
         "published_at": "2026-08-05T09:10:11Z",
         "description": "TQQQ surged double digits in a single session and handed some traders a 21% week, yet the same mechanics that built those gains have quietly drained billions..."
-      },
-      {
-        "title": "A 'Market Wizard' Is Running One of the Worst ETFs of 2026",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/market-wizard-running-one-worst-etfs-2026?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-04T23:59:44Z",
-        "description": "His fund has lost 96% in 2026."
       }
     ],
     "IEFA": [
