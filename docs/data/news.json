@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:52:18.809636+00:00",
+  "generated_at": "2026-08-08T21:50:52.055981+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -608,6 +608,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
+        "published_at": "2026-08-07T18:22:56Z",
+        "description": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions."
+      },
+      {
         "title": "Gold prices are breaking higher after a tough stretch. Could fresh records be within reach?",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f",
@@ -641,13 +648,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-jaaa?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-04T21:00:03Z",
         "description": "Here are the daily ETF fund flows for August 3, 2026."
-      },
-      {
-        "title": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
-        "published_at": "2026-07-29T12:35:24Z",
-        "description": "Gold futures opened at $4,020.90 this morning, Wednesday, July 29, 2026, down 0.4% compared to Tuesday's closing price. The price of gold was up this morning..."
       }
     ],
     "IWF": [
