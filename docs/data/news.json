@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T14:10:14.454038+00:00",
+  "generated_at": "2026-08-08T17:52:18.809636+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -152,6 +152,20 @@
     ],
     "QQQ": [
       {
+        "title": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/07/spacex-rises-11-intuitive-machines-gains-9-rocket-lab-jumps-8-as-wall-street-gives-the-all-clear-on-space-stocks/",
+        "published_at": "2026-08-07T15:47:18Z",
+        "description": "A single Wall Street upgrade flipped the narrative on space stocks in one session, pulling an entire sector out of its post-IPO hangover. Here is what change..."
+      },
+      {
+        "title": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/07/atlassian-soars-34-twilio-leaps-27-cloudflare-advances-9-in-software-stock-surge/",
+        "published_at": "2026-08-07T14:54:26Z",
+        "description": "Three software stocks are posting some of the biggest single-day gains in the sector this year, and the catalysts driving them higher suggest the rally could..."
+      },
+      {
         "title": "Joby Aviation Climbs 9% on Raised Guidance as Archer Aviation, EHang Sit Out the eVTOL Rally",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/06/joby-aviation-climbs-9-on-raised-guidance-as-archer-aviation-ehang-sit-out-the-evtol-rally/",
@@ -178,20 +192,6 @@
         "url": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f",
         "published_at": "2026-08-05T21:17:00Z",
         "description": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company\u2019s stock sank after it released..."
-      },
-      {
-        "title": "How ProShares Ultra QQQ Quietly Built $14.46 Billion in Assets Despite Warnings That Leveraged ETFs Destroy Long-Term Wealth",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/05/how-proshares-ultra-qqq-quietly-built-14-46-billion-in-assets-despite-warnings-that-leveraged-etfs-destroy-long-term-wealth/",
-        "published_at": "2026-08-05T20:46:59Z",
-        "description": "Financial advisors warn that leveraged ETFs will erode your wealth over time, yet one 2x Nasdaq fund has quietly grown to nearly $15 billion in assets. The s..."
-      },
-      {
-        "title": "Alphabet Is Still Up 16% in 2026. What Will It Take to Get GOOGL Stock Above $400?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/05/alphabet-is-still-up-16-in-2026-what-will-it-take-to-get-googl-stock-above-400/",
-        "published_at": "2026-08-05T18:30:05Z",
-        "description": "A sweeping AI leadership overhaul sent Alphabet shares sliding Wednesday, rattling investor confidence despite a blowout earnings quarter. The path to $400 h..."
       }
     ],
     "IEFA": [
