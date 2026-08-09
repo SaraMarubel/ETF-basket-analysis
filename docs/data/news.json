@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:50:52.055981+00:00",
+  "generated_at": "2026-08-09T04:49:44.592310+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -152,6 +152,20 @@
     ],
     "QQQ": [
       {
+        "title": "The 20 Most Actively Traded ETFs",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-07T19:46:09Z",
+        "description": "VOO is the only trillion-dollar ETF, but it barely cracks the top 10 by daily volume."
+      },
+      {
+        "title": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/economy-lost-jobs-wall-street-194002543.html",
+        "published_at": "2026-08-07T19:40:02Z",
+        "description": "The American economy shed 23,000 nonfarm payrolls in July. Wall Street answered with its best week since April. That is not a contradiction. It turns on the..."
+      },
+      {
         "title": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/07/spacex-rises-11-intuitive-machines-gains-9-rocket-lab-jumps-8-as-wall-street-gives-the-all-clear-on-space-stocks/",
@@ -178,20 +192,6 @@
         "url": "https://247wallst.com/investing/2026/08/06/magnite-jumps-18-applovin-crashes-20-trade-desk-slides-6-as-traders-separate-ad-tech-winners-from-losers/",
         "published_at": "2026-08-06T16:29:43Z",
         "description": "Ad-tech stocks are getting brutally sorted on Thursday as earnings season forces traders to pick sides, and the gap between winners and losers is widening by..."
-      },
-      {
-        "title": "SoundHound AI Rallies 12%, Unity Software Rises 11%, Datadog Sinks 15% as Traders Separate Software Winners From Losers",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/06/soundhound-ai-rallies-12-unity-software-rises-11-datadog-sinks-15-as-traders-separate-software-winners-from-losers/",
-        "published_at": "2026-08-06T14:26:07Z",
-        "description": "Three enterprise software stocks all beat earnings expectations Thursday morning, yet they are moving in wildly different directions. Find out why a triple b..."
-      },
-      {
-        "title": "Retail investors are buying the dip on SpaceX\u2019s stock before more shares flood the market",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/retail-investors-are-buying-the-dip-on-spacexs-stock-before-more-shares-flood-the-market-9f83e00f",
-        "published_at": "2026-08-05T21:17:00Z",
-        "description": "Retail investors were doing what they do best on Wednesday: Buying the dip in SpaceX shares aggressively, even as the company\u2019s stock sank after it released..."
       }
     ],
     "IEFA": [
@@ -395,6 +395,13 @@
     ],
     "IEMG": [
       {
+        "title": "Which Is the Better International ETF: State Street's Climate-Focused NZAC or iShares' Emerging Markets IEMG?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2ff08246a48cfca0",
+        "published_at": "2026-08-07T22:59:20Z",
+        "description": "Which Is the Better International ETF: State Street's Climate-Focused NZAC or iShares' Emerging Markets IEMG?\nThe State Street SPDR MSCI ACWI Climate Paris Aligned ETF (NASDAQ:NZAC) offers broad global exposure with climate-risk screens, while the iShares Cor\u2026"
+      },
+      {
         "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -428,13 +435,6 @@
         "url": "https://biztoc.com/x/609cdc2ab2b31307",
         "published_at": "2026-07-20T14:32:37Z",
         "description": "Vanguard Total World Stock ETF vs iShares Emerging Markets ETF. Which Is the Better Fund to Cover the Globe in Your Portfolio?\nThe Vanguard Total World Stock ETF (NYSEMKT:VT) provides exposure to global equities including the United States, while the iShares \u2026"
-      },
-      {
-        "title": "Record Money Is Pouring Into Emerging Markets. This One Difference Could Decide Your Returns",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/08/record-money-is-pouring-into-emerging-markets-this-one-difference-could-decide-your-returns/",
-        "published_at": "2026-07-08T15:01:27Z",
-        "description": "International investing has spent years playing second fiddle to the U.S. stock market. That is changing. As investors look beyond a handful of mega-cap tech..."
       }
     ],
     "AGG": [
@@ -509,13 +509,6 @@
         "url": "https://biztoc.com/x/25d51ccd4a718ee6",
         "published_at": "2026-07-14T15:45:51Z",
         "description": "The post VLUE vs. VTV: Does the Value Factor Beat Just Buying Vanguard\u2019s Value ETF? appeared first on 24/7 Wall St..\nThe pitch for iShares MSCI USA Value Factor ETF (CBOE:VLUE) and Vanguard Value ETF (NYSEARCA:VTV) sounds nearly identical: buy cheap U.S. larg\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: SMH Pulls In $1.8B",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-smh-pulls-18b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-07T21:00:16Z",
-        "description": "Here are the daily ETF fund flows for July 6, 2026."
       }
     ],
     "VXUS": [
@@ -608,6 +601,20 @@
     ],
     "GLD": [
       {
+        "title": "Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e94418b4b4e3b87f",
+        "published_at": "2026-08-07T21:57:34Z",
+        "description": "The post Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It appeared first on 24/7 Wall St..\nGold\u2019s 2025 monster run looks like a distant memory. The SPDR Gold Shares (NYSEARCA:GLD) is down 5.59% year-to-date through August 4, an\u2026"
+      },
+      {
+        "title": "The 20 Most Actively Traded ETFs",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-07T19:46:09Z",
+        "description": "VOO is the only trillion-dollar ETF, but it barely cracks the top 10 by daily volume."
+      },
+      {
         "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
@@ -634,20 +641,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/05/nugt-and-agq-jump-big-as-gold-and-silver-rally/",
         "published_at": "2026-08-05T15:57:20Z",
         "description": "Gold and silver sparked a chain reaction across leveraged ETFs today, but the mechanics behind those eye-catching percentage gains tell a more complicated st..."
-      },
-      {
-        "title": "Gold prices today, Wednesday, August 5, 2026: Gold prices are holding, awaiting news on Hormuz deal",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-5-2026-gold-prices-are-holding-awaiting-news-on-hormuz-deal-120800834.html",
-        "published_at": "2026-08-05T12:08:00Z",
-        "description": "Gold December futures opened at $4,133.80 this morning, Wednesday, August 5, 2026, down 0.5% compared to Tuesday's closing price. The price of gold was up th..."
-      },
-      {
-        "title": "Daily ETF Flows: Investors Scoop Up JAAA",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-jaaa?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-04T21:00:03Z",
-        "description": "Here are the daily ETF fund flows for August 3, 2026."
       }
     ],
     "IWF": [
