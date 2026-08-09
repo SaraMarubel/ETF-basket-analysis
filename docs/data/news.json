@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:54:43.406771+00:00",
+  "generated_at": "2026-08-09T21:55:09.905556+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -64,6 +64,13 @@
     ],
     "SPY": [
       {
+        "title": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d36f5b4057b20aa3",
+        "published_at": "2026-08-08T18:23:19Z",
+        "description": "The post VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSE:SPY) has been the default S&P 500 vehicle since January 23, 1993, and its $9.8 b\u2026"
+      },
+      {
         "title": "The S&P 500 is stuck at a key battleground level. This obscure index could determine the market\u2019s next move",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
@@ -97,13 +104,6 @@
         "url": "https://biztoc.com/x/1742ada541208f3a",
         "published_at": "2026-07-26T20:14:40Z",
         "description": "The post Is Equal-Weighting the S&P 500 Worth It? Here\u2019s What the Data Says appeared first on 24/7 Wall St..\nThe top-heavy nature of the SPDR S&P 500 ETF Trust (SPY) has become one of ETF investor\u2019s biggest talking points. With a handful of mega-cap technolog\u2026"
-      },
-      {
-        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/23/3332307/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
-        "published_at": "2026-07-23T14:00:00Z",
-        "description": "New York , July 23, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, H\u2026"
       }
     ],
     "VTI": [
@@ -152,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/",
+        "published_at": "2026-08-08T18:34:54Z",
+        "description": "JEPQ promises softer Nasdaq landings and a 10% yield, but the real question is whether those monthly checks and price cushions actually hold up when the inde..."
+      },
+      {
         "title": "The 20 Most Actively Traded ETFs",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -185,13 +192,6 @@
         "url": "https://247wallst.com/investing/2026/08/06/joby-aviation-climbs-9-on-raised-guidance-as-archer-aviation-ehang-sit-out-the-evtol-rally/",
         "published_at": "2026-08-06T17:15:58Z",
         "description": "Joby Aviation just surged while its eVTOL rivals barely twitched, and the reason goes beyond a single earnings beat. Here is what the guidance raise, the new..."
-      },
-      {
-        "title": "Magnite Jumps 18%, AppLovin Crashes 20%, Trade Desk Slides 6% as Traders Separate Ad-Tech Winners From Losers",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/06/magnite-jumps-18-applovin-crashes-20-trade-desk-slides-6-as-traders-separate-ad-tech-winners-from-losers/",
-        "published_at": "2026-08-06T16:29:43Z",
-        "description": "Ad-tech stocks are getting brutally sorted on Thursday as earnings season forces traders to pick sides, and the gap between winners and losers is widening by..."
       }
     ],
     "IEFA": [
