@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-11T11:08:52.666339+00:00",
+  "generated_at": "2026-08-11T15:34:43.352485+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "How Much of the S&P 500's Return Actually Came From Dividends vs. Price Appreciation, by Decade",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6bfaa8f204a013dd",
+        "published_at": "2026-08-10T12:47:38Z",
+        "description": "There are two components to an investment's total return: price return and dividend return. Add those together, and you get the total return.\nMost people who invest in the S&P 500 (SNPINDEX: ^GSPC) treat the dividend as a footnote. Since the current yield on \u2026"
+      },
       {
         "title": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF 10 Years Ago, Here's What You'd Have Today",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
         "published_at": "2026-08-04T19:31:07Z",
         "description": "Warren Buffett\u2018s strategy for everyday investors to build wealth doesn\u2019t rely on complex stock picking or insider knowledge. Instead, the legendary investor..."
-      },
-      {
-        "title": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 2036? History Has Good and Bad News for Investors",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e735e012d6e29c34",
-        "published_at": "2026-08-02T18:54:33Z",
-        "description": "A great way to go about investing is to focus on the long term and invest in companies that seem likely to be much bigger in a decade or more.\nMany of us like to keep things simple and invest in one or more low-fee, broad-market index funds, such as the Vangu\u2026"
       }
     ],
     "IVV": [
@@ -53,13 +53,6 @@
         "url": "https://www.fool.com.au/2026/07/30/is-this-the-right-time-to-invest-in-the-ishares-sp-500-etf-ivv/",
         "published_at": "2026-07-30T02:56:28Z",
         "description": "Is this the right time to pounce on the IVV ETF?\nThe post Is this the right time to invest in the iShares S&P 500 ETF (IVV)? appeared first on The Motley Fool Australia."
-      },
-      {
-        "title": "Bitcoin\u2019s Next $1 Trillion Move Could Change Crypto Forever",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/09/bitcoins-next-1-trillion-move-could-change-crypto-forever/",
-        "published_at": "2026-07-09T17:06:48Z",
-        "description": "One trillion dollars. That is the scale of institutional capital that spot crypto ETFs, tokenized securities, and corporate treasuries are gradually pulling..."
       }
     ],
     "SPY": [
@@ -152,6 +145,20 @@
     ],
     "QQQ": [
       {
+        "title": "Nasdaq 100's QQQ ETF Holds Near Record High As Wall Street Awaits Key Inflation Data This Coming Week",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/invesco-qqq-trust-earnings-inflation-data-1873879",
+        "published_at": "2026-08-10T14:44:43Z",
+        "description": "The Invesco QQQ Trust remains near record highs as investors anticipate corporate earnings and inflation data, which could shape Federal Reserve policy and impact the fund's performance."
+      },
+      {
+        "title": "BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bstocks-tokenized-equity-dex-volume-july/",
+        "published_at": "2026-08-10T06:09:50Z",
+        "description": "BStocks' dominance highlights the potential for hybrid models to extend trading hours and accessibility, reshaping global equity markets.\nThe post BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion appeared first on Crypt\u2026"
+      },
+      {
         "title": "What JEPQ Actually Paid the Last Time the Nasdaq Fell 10%: a Stress Test for Its 10% Yield",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/",
@@ -178,20 +185,6 @@
         "url": "https://247wallst.com/investing/2026/08/07/spacex-rises-11-intuitive-machines-gains-9-rocket-lab-jumps-8-as-wall-street-gives-the-all-clear-on-space-stocks/",
         "published_at": "2026-08-07T15:47:18Z",
         "description": "A single Wall Street upgrade flipped the narrative on space stocks in one session, pulling an entire sector out of its post-IPO hangover. Here is what change..."
-      },
-      {
-        "title": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/07/atlassian-soars-34-twilio-leaps-27-cloudflare-advances-9-in-software-stock-surge/",
-        "published_at": "2026-08-07T14:54:26Z",
-        "description": "Three software stocks are posting some of the biggest single-day gains in the sector this year, and the catalysts driving them higher suggest the rally could..."
-      },
-      {
-        "title": "Joby Aviation Climbs 9% on Raised Guidance as Archer Aviation, EHang Sit Out the eVTOL Rally",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/06/joby-aviation-climbs-9-on-raised-guidance-as-archer-aviation-ehang-sit-out-the-evtol-rally/",
-        "published_at": "2026-08-06T17:15:58Z",
-        "description": "Joby Aviation just surged while its eVTOL rivals barely twitched, and the reason goes beyond a single earnings beat. Here is what the guidance raise, the new..."
       }
     ],
     "IEFA": [
