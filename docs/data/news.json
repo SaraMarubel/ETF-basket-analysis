@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-11T19:50:47.960431+00:00",
+  "generated_at": "2026-08-11T22:26:42.301047+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Daily ETF Flows: SOXX Sees Outflows",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/523572378dd20a4d",
+        "published_at": "2026-08-10T21:16:52Z",
+        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n QQQ \n Invesco QQQ Trust Series I \n 2,322.29 \n 480,677.79 \n 0.48% \n VOO \n Vanguard S&P 500 ETF \n 1,391.23 \n 1,031,969.96 \n 0.13% \n SGOV \n iShares 0-3 Month T\u2026"
+      },
       {
         "title": "How Much of the S&P 500's Return Actually Came From Dividends vs. Price Appreciation, by Decade",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/94493cfca66fd486",
         "published_at": "2026-08-05T03:58:05Z",
         "description": "The post VOO\u2019s 0.03% Fee Hides the Real Cost: 28.7% of Your Money in Seven Stocks appeared first on 24/7 Wall St..\nYou bought Vanguard S&P 500 ETF (NYSEARCA:VOO) because the fee is famously small. Just three basis points. The real problem is what the fund qui\u2026"
-      },
-      {
-        "title": "Warren Buffett's Wealth-Building Strategy Points to This One ETF for Long-Term Investors",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-wealth-building-strategy-193107207.html",
-        "published_at": "2026-08-04T19:31:07Z",
-        "description": "Warren Buffett\u2018s strategy for everyday investors to build wealth doesn\u2019t rely on complex stock picking or insider knowledge. Instead, the legendary investor..."
       }
     ],
     "IVV": [
@@ -145,11 +145,32 @@
     ],
     "QQQ": [
       {
+        "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/09eef5b37b257913",
+        "published_at": "2026-08-10T21:53:22Z",
+        "description": "The post Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150 appeared first on 24/7 Wall St..\nIf you own Invesco QQQ Trust (NASDAQ:QQQ), the fund has quietly been the most expensive way to buy the same 100 stocks its issuer s\u2026"
+      },
+      {
+        "title": "Daily ETF Flows: SOXX Sees Outflows",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/523572378dd20a4d",
+        "published_at": "2026-08-10T21:16:52Z",
+        "description": "etf.com Top 10 Creations (All ETFs) \n Ticker \n Name \n Net Flows ($, mm) \n AUM ($, mm) \n AUM % Change \n QQQ \n Invesco QQQ Trust Series I \n 2,322.29 \n 480,677.79 \n 0.48% \n VOO \n Vanguard S&P 500 ETF \n 1,391.23 \n 1,031,969.96 \n 0.13% \n SGOV \n iShares 0-3 Month T\u2026"
+      },
+      {
         "title": "Nasdaq 100's QQQ ETF Holds Near Record High As Wall Street Awaits Key Inflation Data This Coming Week",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/invesco-qqq-trust-earnings-inflation-data-1873879",
         "published_at": "2026-08-10T14:44:43Z",
         "description": "The Invesco QQQ Trust remains near record highs as investors anticipate corporate earnings and inflation data, which could shape Federal Reserve policy and impact the fund's performance."
+      },
+      {
+        "title": "Archer Aviation Soars 20% on Boeing Deal to Acquire Wisk, Insitu, SkyGrid; Joby, EHang Stay Grounded",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/10/archer-aviation-soars-19-on-boeing-deal-to-acquire-wisk-insitu-skygrid-joby-ehang-stay-grounded/",
+        "published_at": "2026-08-10T13:58:54Z",
+        "description": "A single Boeing deal just rewired Archer Aviation's entire business model, pulling in defense revenue, autonomy IP, and airspace software overnight. Whether..."
       },
       {
         "title": "BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion",
@@ -164,27 +185,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/08/what-jepq-actually-paid-the-last-time-the-nasdaq-fell-10-a-stress-test-for-its-10-yield/",
         "published_at": "2026-08-08T18:34:54Z",
         "description": "JEPQ promises softer Nasdaq landings and a 10% yield, but the real question is whether those monthly checks and price cushions actually hold up when the inde..."
-      },
-      {
-        "title": "The 20 Most Actively Traded ETFs",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-07T19:46:09Z",
-        "description": "VOO is the only trillion-dollar ETF, but it barely cracks the top 10 by daily volume."
-      },
-      {
-        "title": "The Economy Lost Jobs, Wall Street Threw a Party: What Moved Markets This Week",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/economy-lost-jobs-wall-street-194002543.html",
-        "published_at": "2026-08-07T19:40:02Z",
-        "description": "The American economy shed 23,000 nonfarm payrolls in July. Wall Street answered with its best week since April. That is not a contradiction. It turns on the..."
-      },
-      {
-        "title": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/07/spacex-rises-11-intuitive-machines-gains-9-rocket-lab-jumps-8-as-wall-street-gives-the-all-clear-on-space-stocks/",
-        "published_at": "2026-08-07T15:47:18Z",
-        "description": "A single Wall Street upgrade flipped the narrative on space stocks in one session, pulling an entire sector out of its post-IPO hangover. Here is what change..."
       }
     ],
     "IEFA": [
