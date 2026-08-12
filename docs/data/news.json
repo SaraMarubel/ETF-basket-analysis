@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:33:08.063853+00:00",
+  "generated_at": "2026-08-12T19:54:18.020332+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Archer Aviation Zooms 11% Higher as Boeing Deal Rally Extends on Earnings-Call Details; Joby, EHang Lag Behind",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/11/archer-aviation-zooms-11-higher-as-boeing-deal-rally-extends-on-earnings-call-details-joby-ehang-lag-behind/",
+        "published_at": "2026-08-11T15:35:08Z",
+        "description": "Archer Aviation is surging for a second straight day while rivals Joby and EHang sit completely frozen, and the reason traces back to a Boeing deal detail th..."
+      },
+      {
         "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/09eef5b37b257913",
@@ -178,13 +185,6 @@
         "url": "https://247wallst.com/investing/2026/08/10/archer-aviation-soars-19-on-boeing-deal-to-acquire-wisk-insitu-skygrid-joby-ehang-stay-grounded/",
         "published_at": "2026-08-10T13:58:54Z",
         "description": "A single Boeing deal just rewired Archer Aviation's entire business model, pulling in defense revenue, autonomy IP, and airspace software overnight. Whether..."
-      },
-      {
-        "title": "BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/bstocks-tokenized-equity-dex-volume-july/",
-        "published_at": "2026-08-10T06:09:50Z",
-        "description": "BStocks' dominance highlights the potential for hybrid models to extend trading hours and accessibility, reshaping global equity markets.\nThe post BStocks captures 85% of tokenized equity DEX volume in July as trading hits $9.4 billion appeared first on Crypt\u2026"
       }
     ],
     "IEFA": [
@@ -580,6 +580,13 @@
     ],
     "GLD": [
       {
+        "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june",
+        "published_at": "2026-08-11T16:24:48Z",
+        "description": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks."
+      },
+      {
         "title": "Daily ETF Flows: SOXX Sees Outflows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxx-sees-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -613,13 +620,6 @@
         "url": "http://www.etf.com/sections/features/20-most-actively-traded-etfs?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-07T19:46:09Z",
         "description": "VOO is the only trillion-dollar ETF, but it barely cracks the top 10 by daily volume."
-      },
-      {
-        "title": "Gold bugs spend $180 million betting all's clear for metal as bond yields stall",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/07/gold-bugs-spend-180-million-betting-alls-clear-for-metal-as-bond-yields-stall.html",
-        "published_at": "2026-08-07T18:22:56Z",
-        "description": "Despite a 25% decline in gold from its high in January, proponents of the precious metal are storming into bullish call positions."
       }
     ],
     "IWF": [
@@ -690,14 +690,6 @@
         "description": "The post VIG\u2019s 1.5% yield masks a 20-year streak of uncut dividend growth appeared first on 24/7 Wall St..\nThe Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) pays a trailing yield of just 1.5%, which looks unremarkable next to money market funds still payi\u2026"
       }
     ],
-    "IJR": [
-      {
-        "title": "Which Is the Better Small-Cap ETF, Schwab's SCHA or iShares' IJR?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9dce26d3b95c6e7f",
-        "published_at": "2026-07-11T19:20:01Z",
-        "description": "While the iShares Core S&P Small-Cap ETF (NYSEMKT:IJR) offers concentrated exposure to profitable small-caps, the Schwab U.S. Small-Cap ETF (NYSEMKT:SCHA) provides a broader, more tech-leaning portfolio with a lower expense ratio.\nSmall-cap stocks are often a\u2026"
-      }
-    ]
+    "IJR": []
   }
 }
