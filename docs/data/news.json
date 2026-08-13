@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:15:30.680303+00:00",
+  "generated_at": "2026-08-13T15:35:15.045509+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -57,6 +57,13 @@
     ],
     "SPY": [
       {
+        "title": "The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cfc2e72db926b122",
+        "published_at": "2026-08-12T12:53:44Z",
+        "description": "The post The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year appeared first on 24/7 Wall St..\nMost investors who want broad U.S. equity exposure end up in SPDR S&P 500 ETF Trust (NYSEARCA:SPY). The reasoning is sound: low cost, deep liquidity,\u2026"
+      },
+      {
         "title": "SPY Charges 4.7x More Than Its Own Issuer\u2019s Copy of the Same 500 Stocks",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/e0691fa3fd76f038",
@@ -90,13 +97,6 @@
         "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
         "published_at": "2026-07-30T14:51:00Z",
         "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
-      },
-      {
-        "title": "Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c65fe1594d4c85b9",
-        "published_at": "2026-07-29T21:00:50Z",
-        "description": "The post Forget SPY. iShares Runs the Same S&P 500 for a Third of the Fee appeared first on 24/7 Wall St..\nIf you own SPDR S&P 500 ETF Trust (NYSEARCA:SPY), you own the most heavily traded fund on the planet, launched in 1993 and holding $784.56 billion in as\u2026"
       }
     ],
     "VTI": [
@@ -580,6 +580,13 @@
     ],
     "GLD": [
       {
+        "title": "Forget Buying Gold Directly: Wheaton Precious Metals Could Be the Better Play",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a79a30285e254348",
+        "published_at": "2026-08-12T13:10:37Z",
+        "description": "It's not quite a first-to-worst story, but after shining last year, gold has lost considerable luster in 2026. Thanks to a strong start to August, the SPDR Gold Shares and other gold ETFs backed by physical holdings of the commodity are sporting modest year-t\u2026"
+      },
+      {
         "title": "Daily ETF Flows: TLT Inflows Surge",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-inflows-surge?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -613,13 +620,6 @@
         "url": "https://biztoc.com/x/e94418b4b4e3b87f",
         "published_at": "2026-08-07T21:57:34Z",
         "description": "The post Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It appeared first on 24/7 Wall St..\nGold\u2019s 2025 monster run looks like a distant memory. The SPDR Gold Shares (NYSEARCA:GLD) is down 5.59% year-to-date through August 4, an\u2026"
-      },
-      {
-        "title": "Gold Went Flat in 2026. This Award-Winning Fund Still Milks 13% Income Out of It",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/07/gold-went-flat-in-2026-this-award-winning-fund-still-milks-13-income-out-of-it/",
-        "published_at": "2026-08-07T21:52:14Z",
-        "description": "Gold has spent months going nowhere, and every day it sits flat, GLD holders pay fees on bullion that produces zero cash flow. A newer fund claims to fix tha..."
       }
     ],
     "IWF": [
