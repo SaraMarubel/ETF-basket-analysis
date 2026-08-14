@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-08-14T11:13:25.883246+00:00",
+  "generated_at": "2026-08-14T15:11:40.278820+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "This Stellar High Yield Vanguard ETF Is Beating VTI and VOO This Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/da29ebe4552d75e3",
+        "published_at": "2026-08-13T11:23:53Z",
+        "description": "The post This Stellar High Yield Vanguard ETF Is Beating VTI and VOO This Year appeared first on 24/7 Wall St..\nFor millions of investors, the S&P 500 and total US market are the entire equity conversation. Vanguard S&P 500 ETF (NYSEARCA:VOO) and Vanguard Tot\u2026"
+      },
       {
         "title": "Forget VOO\u2019s 0.03%: Fidelity Will Sell You Large-Cap America for Exactly $0",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/62edd22458ced8f5",
         "published_at": "2026-08-06T02:32:41Z",
         "description": "South Korea has grabbed most of the attention as the big Asian winner of the AI boom, but Japan has been a major beneficiary too. The iShares MSCI Japan ETF (EWJ) is up 18.5% this year, well ahead of the 13.5% gain for the Vanguard S&P 500 ETF (VOO) and the 1\u2026"
-      },
-      {
-        "title": "Trump Accounts Are Open: 500,000 Signed Up in Days. Here\u2019s What the 0.10% Fee Cap Actually Lets You Buy",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0e40e279711917ed",
-        "published_at": "2026-08-05T13:37:12Z",
-        "description": "The post Trump Accounts Are Open: 500,000 Signed Up in Days. Here\u2019s What the 0.10% Fee Cap Actually Lets You Buy appeared first on 24/7 Wall St..\nThe Vanguard S&P 500 ETF (NYSEARCA:VOO) is the fund most retail investors reach for when they want the S&P 500 in\u2026"
       }
     ],
     "IVV": [
@@ -101,6 +101,13 @@
     ],
     "VTI": [
       {
+        "title": "This Stellar High Yield Vanguard ETF Is Beating VTI and VOO This Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/da29ebe4552d75e3",
+        "published_at": "2026-08-13T11:23:53Z",
+        "description": "The post This Stellar High Yield Vanguard ETF Is Beating VTI and VOO This Year appeared first on 24/7 Wall St..\nFor millions of investors, the S&P 500 and total US market are the entire equity conversation. Vanguard S&P 500 ETF (NYSEARCA:VOO) and Vanguard Tot\u2026"
+      },
+      {
         "title": "Your Advisor Collects 1% Every Year Whether You Make Money or Not. These 3 ETFs Fire the Middleman and Pay You Instead",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/12/your-advisor-collects-1-every-year-whether-you-make-money-or-not-these-3-etfs-fire-the-middleman-and-pay-you-instead/",
@@ -134,16 +141,16 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-03T21:00:04Z",
         "description": "Here are the daily ETF fund flows for July 31, 2026."
-      },
-      {
-        "title": "Vanguard's cheapest ETF may be the only one you need",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/vanguards-cheapest-etf-may-be-the-only-one-you-need",
-        "published_at": "2026-08-02T12:03:00Z",
-        "description": "Imagine owning a piece of nearly every publicly traded company on earth, from Silicon Valley tech giants to emerging-market manufacturers across Asia. The Va..."
       }
     ],
     "QQQ": [
+      {
+        "title": "U.S. Budget Deficits Just Surged to $432.3 billion in July While Trump Weighs Brand-New Tax Cuts",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/13/u-s-budget-deficits-just-surged-to-432-3-billion-in-july-while-trump-weighs-brand-new-tax-cuts/",
+        "published_at": "2026-08-13T13:45:04Z",
+        "description": "Washington is floating brand-new tax cuts at the exact moment the federal deficit is blowing past levels not seen since the pandemic, and bond markets are al..."
+      },
       {
         "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
         "source": "24/7 Wall St.",
@@ -178,13 +185,6 @@
         "url": "https://247wallst.com/investing/2026/08/11/archer-aviation-zooms-11-higher-as-boeing-deal-rally-extends-on-earnings-call-details-joby-ehang-lag-behind/",
         "published_at": "2026-08-11T15:35:08Z",
         "description": "Archer Aviation is surging for a second straight day while rivals Joby and EHang sit completely frozen, and the reason traces back to a Boeing deal detail th..."
-      },
-      {
-        "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/09eef5b37b257913",
-        "published_at": "2026-08-10T21:53:22Z",
-        "description": "The post Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150 appeared first on 24/7 Wall St..\nIf you own Invesco QQQ Trust (NASDAQ:QQQ), the fund has quietly been the most expensive way to buy the same 100 stocks its issuer s\u2026"
       }
     ],
     "IEFA": [
