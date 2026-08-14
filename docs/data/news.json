@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:11:40.278820+00:00",
+  "generated_at": "2026-08-14T19:35:56.932913+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -57,6 +57,13 @@
     ],
     "SPY": [
       {
+        "title": "Pantheon Drops Surprising Fed Call After July CPI",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b59724553205118c",
+        "published_at": "2026-08-13T19:32:38Z",
+        "description": "This article first appeared on GuruFocus.\nU.S. stocks, including the SPDR S&P 500 ETF Trust (SPY), received another potentially supportive inflation signal after July consumer-price data further reduced the odds of a Federal Reserve rate hike in September. Pa\u2026"
+      },
+      {
         "title": "The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cfc2e72db926b122",
@@ -90,13 +97,6 @@
         "url": "https://www.cnbc.com/2026/07/31/the-sp-500-is-stuck-this-obscure-index-could-determine-the-markets-next-move.html",
         "published_at": "2026-07-31T18:07:36Z",
         "description": "Options traders and market makers in Chicago were quick to buy dips below 7,500 in the benchmark index Friday, but almost as quick to sell rallies above that level."
-      },
-      {
-        "title": "GraniteShares Announces Weekly Distributions for its YieldBOOST ETFs",
-        "source": "GlobeNewswire",
-        "url": "https://www.globenewswire.com/news-release/2026/07/30/3336203/0/en/GraniteShares-Announces-Weekly-Distributions-for-its-YieldBOOST-ETFs.html",
-        "published_at": "2026-07-30T14:51:00Z",
-        "description": "New York, July 30, 2026 (GLOBE NEWSWIRE) -- GraniteShares today announced the weekly distributions for its GraniteShares YieldBOOST ETFs: COYY, TSYY, NVYY, XBTY, AMYY, TQQY, AZYY, YSPY, MTYY, PLYY, HOYY, SMYY, BBYY, FBYY, IOYY, MAAY, NUGY, SEMY, QBY, RGYY, HM\u2026"
       }
     ],
     "VTI": [
