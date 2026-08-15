@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:03:36.845849+00:00",
+  "generated_at": "2026-08-15T09:03:52.382169+00:00",
   "risk_free_rate_pct": 3.7,
   "etfs": {
     "VOO": {
@@ -2822,13 +2822,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.5,
-          "change_1y_pct": 151.97
+          "change_1y_pct": 147.31
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.41,
-          "change_1y_pct": 60.03
+          "change_1y_pct": 60.24
         },
         {
           "symbol": "ROP.SW",
@@ -2840,7 +2840,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.12,
-          "change_1y_pct": 29.35
+          "change_1y_pct": 28.0
         },
         {
           "symbol": "NESN.SW",
@@ -2852,19 +2852,19 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.0,
-          "change_1y_pct": 1.07
+          "change_1y_pct": -1.07
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 25.16
+          "change_1y_pct": 26.38
         },
         {
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.94,
-          "change_1y_pct": 24.39
+          "change_1y_pct": 24.35
         },
         {
           "symbol": "8306.T",
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.5,
-        "change_1y_pct": 151.97
+        "change_1y_pct": 147.31
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.0,
-        "change_1y_pct": 1.07
+        "change_1y_pct": -1.07
       }
     },
     "VEA": {
@@ -3317,19 +3317,19 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.34,
-          "change_1y_pct": 151.97
+          "change_1y_pct": 147.31
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 60.03
+          "change_1y_pct": 60.24
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.89,
-          "change_1y_pct": 29.35
+          "change_1y_pct": 28.0
         },
         {
           "symbol": "RY",
@@ -3347,7 +3347,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.86,
-          "change_1y_pct": 1.07
+          "change_1y_pct": -1.07
         },
         {
           "symbol": "NESN.SW",
@@ -3359,7 +3359,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.72,
-          "change_1y_pct": 24.39
+          "change_1y_pct": 24.35
         }
       ],
       "options": {
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.86,
-        "change_1y_pct": 1.07
+        "change_1y_pct": -1.07
       }
     },
     "VUG": {
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.7,
-          "change_1y_pct": 151.97
+          "change_1y_pct": 147.31
         },
         {
           "symbol": "0700.HK",
@@ -6557,13 +6557,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.72,
-          "change_1y_pct": 60.03
+          "change_1y_pct": 60.24
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 29.35
+          "change_1y_pct": 28.0
         },
         {
           "symbol": "RY",
@@ -6581,7 +6581,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.62,
-          "change_1y_pct": 1.07
+          "change_1y_pct": -1.07
         }
       ],
       "options": {
@@ -7064,7 +7064,7 @@
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.63,
-          "change_1y_pct": -0.61
+          "change_1y_pct": 0.12
         }
       ],
       "options": {
@@ -8958,6 +8958,14 @@
       "change_5y_pct": 47.47,
       "history": [
         {
+          "date": "2026-04-06",
+          "close": 125.73
+        },
+        {
+          "date": "2026-04-07",
+          "close": 126.14
+        },
+        {
           "date": "2026-04-08",
           "close": 129.44
         },
@@ -9242,10 +9250,6 @@
           "close": 145.1
         },
         {
-          "date": "2026-07-21",
-          "close": 146.57
-        },
-        {
           "date": "2026-07-22",
           "close": 145.78
         },
@@ -9272,10 +9276,6 @@
         {
           "date": "2026-07-30",
           "close": 145.5
-        },
-        {
-          "date": "2026-07-31",
-          "close": 145.46
         },
         {
           "date": "2026-08-03",
@@ -9318,8 +9318,8 @@
           "close": 150.44
         }
       ],
-      "volatility_pct": 16.92,
-      "sharpe_ratio": 1.53,
+      "volatility_pct": 16.95,
+      "sharpe_ratio": 1.54,
       "max_drawdown_5y_pct": -28.02,
       "beta_vs_sp500": 1.01,
       "tracking_error_pct": null,
@@ -9500,13 +9500,13 @@
       "BND": 0.4,
       "SCHD": 0.32,
       "IEMG": 0.78,
-      "AGG": 0.41,
+      "AGG": 0.42,
       "VTV": 0.73,
       "VXUS": 0.84,
       "VWO": 0.82,
       "GLD": 0.33,
       "IWF": 0.93,
-      "IJH": 0.85,
+      "IJH": 0.84,
       "VIG": 0.84,
       "IJR": 0.8
     },
@@ -9528,7 +9528,7 @@
       "VWO": 0.81,
       "GLD": 0.31,
       "IWF": 0.94,
-      "IJH": 0.7,
+      "IJH": 0.69,
       "VIG": 0.65,
       "IJR": 0.63
     },
@@ -9588,7 +9588,7 @@
       "BND": 0.33,
       "SCHD": 0.06,
       "IEMG": 0.74,
-      "AGG": 0.34,
+      "AGG": 0.35,
       "VTV": 0.47,
       "VXUS": 0.75,
       "VWO": 0.77,
@@ -9610,15 +9610,15 @@
       "BND": 1.0,
       "SCHD": 0.18,
       "IEMG": 0.41,
-      "AGG": 0.97,
+      "AGG": 0.99,
       "VTV": 0.37,
       "VXUS": 0.5,
       "VWO": 0.39,
       "GLD": 0.21,
       "IWF": 0.33,
-      "IJH": 0.43,
+      "IJH": 0.44,
       "VIG": 0.4,
-      "IJR": 0.43
+      "IJR": 0.42
     },
     "SCHD": {
       "VOO": 0.29,
@@ -9654,7 +9654,7 @@
       "BND": 0.41,
       "SCHD": 0.11,
       "IEMG": 1.0,
-      "AGG": 0.44,
+      "AGG": 0.43,
       "VTV": 0.55,
       "VXUS": 0.93,
       "VWO": 0.95,
@@ -9668,23 +9668,23 @@
       "VOO": 0.4,
       "IVV": 0.4,
       "SPY": 0.4,
-      "VTI": 0.41,
+      "VTI": 0.42,
       "QQQ": 0.34,
       "IEFA": 0.55,
       "VEA": 0.54,
-      "VUG": 0.34,
-      "BND": 0.97,
+      "VUG": 0.35,
+      "BND": 0.99,
       "SCHD": 0.19,
-      "IEMG": 0.44,
+      "IEMG": 0.43,
       "AGG": 1.0,
-      "VTV": 0.38,
+      "VTV": 0.39,
       "VXUS": 0.52,
-      "VWO": 0.42,
-      "GLD": 0.23,
-      "IWF": 0.34,
-      "IJH": 0.45,
-      "VIG": 0.42,
-      "IJR": 0.43
+      "VWO": 0.41,
+      "GLD": 0.22,
+      "IWF": 0.35,
+      "IJH": 0.46,
+      "VIG": 0.43,
+      "IJR": 0.45
     },
     "VTV": {
       "VOO": 0.7,
@@ -9698,7 +9698,7 @@
       "BND": 0.37,
       "SCHD": 0.73,
       "IEMG": 0.55,
-      "AGG": 0.38,
+      "AGG": 0.39,
       "VTV": 1.0,
       "VXUS": 0.69,
       "VWO": 0.59,
@@ -9728,7 +9728,7 @@
       "IWF": 0.74,
       "IJH": 0.77,
       "VIG": 0.72,
-      "IJR": 0.69
+      "IJR": 0.7
     },
     "VWO": {
       "VOO": 0.82,
@@ -9742,7 +9742,7 @@
       "BND": 0.39,
       "SCHD": 0.18,
       "IEMG": 0.95,
-      "AGG": 0.42,
+      "AGG": 0.41,
       "VTV": 0.59,
       "VXUS": 0.93,
       "VWO": 1.0,
@@ -9764,7 +9764,7 @@
       "BND": 0.21,
       "SCHD": 0.09,
       "IEMG": 0.45,
-      "AGG": 0.23,
+      "AGG": 0.22,
       "VTV": 0.28,
       "VXUS": 0.5,
       "VWO": 0.47,
@@ -9786,7 +9786,7 @@
       "BND": 0.33,
       "SCHD": 0.03,
       "IEMG": 0.74,
-      "AGG": 0.34,
+      "AGG": 0.35,
       "VTV": 0.46,
       "VXUS": 0.74,
       "VWO": 0.77,
@@ -9800,15 +9800,15 @@
       "VOO": 0.81,
       "IVV": 0.8,
       "SPY": 0.81,
-      "VTI": 0.85,
-      "QQQ": 0.7,
+      "VTI": 0.84,
+      "QQQ": 0.69,
       "IEFA": 0.76,
       "VEA": 0.76,
       "VUG": 0.66,
-      "BND": 0.43,
+      "BND": 0.44,
       "SCHD": 0.5,
       "IEMG": 0.67,
-      "AGG": 0.45,
+      "AGG": 0.46,
       "VTV": 0.85,
       "VXUS": 0.77,
       "VWO": 0.7,
@@ -9830,7 +9830,7 @@
       "BND": 0.4,
       "SCHD": 0.61,
       "IEMG": 0.58,
-      "AGG": 0.42,
+      "AGG": 0.43,
       "VTV": 0.9,
       "VXUS": 0.72,
       "VWO": 0.66,
@@ -9849,12 +9849,12 @@
       "IEFA": 0.7,
       "VEA": 0.69,
       "VUG": 0.61,
-      "BND": 0.43,
+      "BND": 0.42,
       "SCHD": 0.54,
       "IEMG": 0.59,
-      "AGG": 0.43,
+      "AGG": 0.45,
       "VTV": 0.82,
-      "VXUS": 0.69,
+      "VXUS": 0.7,
       "VWO": 0.63,
       "GLD": 0.23,
       "IWF": 0.6,
