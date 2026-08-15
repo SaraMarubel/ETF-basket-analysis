@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:03:52.382169+00:00",
+  "generated_at": "2026-08-15T13:46:00.410235+00:00",
   "risk_free_rate_pct": 3.7,
   "etfs": {
     "VOO": {
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 795306885120,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 52477711,
+      "avg_volume": 52009791,
       "bid": 775.95,
       "ask": 776.15,
       "spread_pct": 0.0258,
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 371990364160,
       "fund_family": "Vanguard",
-      "avg_volume": 7616624,
+      "avg_volume": 7583819,
       "bid": 89.17,
       "ask": 89.49,
       "spread_pct": 0.3582,
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 152217387008,
       "fund_family": "iShares",
-      "avg_volume": 13199945,
+      "avg_volume": 13169816,
       "bid": 81.16,
       "ask": 81.19,
       "spread_pct": 0.037,
@@ -4769,6 +4769,14 @@
       "change_3y_pct": 80.51,
       "change_5y_pct": 49.8,
       "history": [
+        {
+          "date": "2026-04-06",
+          "close": 69.58
+        },
+        {
+          "date": "2026-04-07",
+          "close": 69.77
+        },
         {
           "date": "2026-04-08",
           "close": 73.55
@@ -5054,14 +5062,6 @@
           "close": 77.21
         },
         {
-          "date": "2026-07-21",
-          "close": 79.3
-        },
-        {
-          "date": "2026-07-22",
-          "close": 78.97
-        },
-        {
           "date": "2026-07-23",
           "close": 78.45
         },
@@ -5130,10 +5130,10 @@
           "close": 81.19
         }
       ],
-      "volatility_pct": 23.85,
-      "sharpe_ratio": 1.21,
+      "volatility_pct": 23.83,
+      "sharpe_ratio": 1.22,
       "max_drawdown_5y_pct": -33.61,
-      "beta_vs_sp500": 1.45,
+      "beta_vs_sp500": 1.42,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -6626,6 +6626,14 @@
       "change_5y_pct": 37.8,
       "history": [
         {
+          "date": "2026-04-06",
+          "close": 53.95
+        },
+        {
+          "date": "2026-04-07",
+          "close": 54.03
+        },
+        {
           "date": "2026-04-08",
           "close": 56.43
         },
@@ -6910,14 +6918,6 @@
           "close": 57.93
         },
         {
-          "date": "2026-07-21",
-          "close": 58.86
-        },
-        {
-          "date": "2026-07-22",
-          "close": 58.81
-        },
-        {
           "date": "2026-07-23",
           "close": 58.1
         },
@@ -6986,10 +6986,10 @@
           "close": 60.11
         }
       ],
-      "volatility_pct": 17.57,
-      "sharpe_ratio": 0.94,
+      "volatility_pct": 17.52,
+      "sharpe_ratio": 0.95,
       "max_drawdown_5y_pct": -30.88,
-      "beta_vs_sp500": 1.12,
+      "beta_vs_sp500": 1.1,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 130322653184,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 7544450,
+      "avg_volume": 7502666,
       "bid": 401.5,
       "ask": 401.8,
       "spread_pct": 0.0747,
@@ -7509,6 +7509,18 @@
       "change_5y_pct": 81.6,
       "history": [
         {
+          "date": "2026-04-02",
+          "close": 107.42
+        },
+        {
+          "date": "2026-04-06",
+          "close": 107.84
+        },
+        {
+          "date": "2026-04-07",
+          "close": 107.9
+        },
+        {
           "date": "2026-04-08",
           "close": 110.69
         },
@@ -7793,14 +7805,6 @@
           "close": 119.47
         },
         {
-          "date": "2026-07-21",
-          "close": 121.33
-        },
-        {
-          "date": "2026-07-22",
-          "close": 120.92
-        },
-        {
           "date": "2026-07-23",
           "close": 118.59
         },
@@ -7823,10 +7827,6 @@
         {
           "date": "2026-07-30",
           "close": 117.43
-        },
-        {
-          "date": "2026-07-31",
-          "close": 118.32
         },
         {
           "date": "2026-08-03",
@@ -7869,10 +7869,10 @@
           "close": 125.29
         }
       ],
-      "volatility_pct": 17.61,
+      "volatility_pct": 17.65,
       "sharpe_ratio": 0.51,
       "max_drawdown_5y_pct": -32.72,
-      "beta_vs_sp500": 1.29,
+      "beta_vs_sp500": 1.28,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -8475,6 +8475,14 @@
       "change_5y_pct": 64.95,
       "history": [
         {
+          "date": "2026-04-06",
+          "close": 215.9
+        },
+        {
+          "date": "2026-04-07",
+          "close": 215.77
+        },
+        {
           "date": "2026-04-08",
           "close": 221.0
         },
@@ -8759,10 +8767,6 @@
           "close": 235.95
         },
         {
-          "date": "2026-07-21",
-          "close": 236.97
-        },
-        {
           "date": "2026-07-22",
           "close": 237.43
         },
@@ -8789,10 +8793,6 @@
         {
           "date": "2026-07-30",
           "close": 240.06
-        },
-        {
-          "date": "2026-07-31",
-          "close": 239.17
         },
         {
           "date": "2026-08-03",
@@ -8835,8 +8835,8 @@
           "close": 245.38
         }
       ],
-      "volatility_pct": 10.04,
-      "sharpe_ratio": 1.4,
+      "volatility_pct": 10.07,
+      "sharpe_ratio": 1.41,
       "max_drawdown_5y_pct": -20.39,
       "beta_vs_sp500": 0.65,
       "tracking_error_pct": null,
@@ -8957,14 +8957,6 @@
       "change_3y_pct": 55.3,
       "change_5y_pct": 47.47,
       "history": [
-        {
-          "date": "2026-04-06",
-          "close": 125.73
-        },
-        {
-          "date": "2026-04-07",
-          "close": 126.14
-        },
         {
           "date": "2026-04-08",
           "close": 129.44
@@ -9250,6 +9242,10 @@
           "close": 145.1
         },
         {
+          "date": "2026-07-21",
+          "close": 146.57
+        },
+        {
           "date": "2026-07-22",
           "close": 145.78
         },
@@ -9276,6 +9272,10 @@
         {
           "date": "2026-07-30",
           "close": 145.5
+        },
+        {
+          "date": "2026-07-31",
+          "close": 145.46
         },
         {
           "date": "2026-08-03",
@@ -9318,8 +9318,8 @@
           "close": 150.44
         }
       ],
-      "volatility_pct": 16.95,
-      "sharpe_ratio": 1.54,
+      "volatility_pct": 16.92,
+      "sharpe_ratio": 1.53,
       "max_drawdown_5y_pct": -28.02,
       "beta_vs_sp500": 1.01,
       "tracking_error_pct": null,
@@ -9428,7 +9428,7 @@
       "SPY": 1.0,
       "VTI": 1.0,
       "QQQ": 0.93,
-      "IEFA": 0.79,
+      "IEFA": 0.78,
       "VEA": 0.8,
       "VUG": 0.95,
       "BND": 0.38,
@@ -9450,7 +9450,7 @@
       "SPY": 1.0,
       "VTI": 0.99,
       "QQQ": 0.93,
-      "IEFA": 0.79,
+      "IEFA": 0.78,
       "VEA": 0.8,
       "VUG": 0.95,
       "BND": 0.38,
@@ -9461,7 +9461,7 @@
       "VXUS": 0.82,
       "VWO": 0.81,
       "GLD": 0.31,
-      "IWF": 0.94,
+      "IWF": 0.93,
       "IJH": 0.8,
       "VIG": 0.82,
       "IJR": 0.75
@@ -9472,7 +9472,7 @@
       "SPY": 1.0,
       "VTI": 1.0,
       "QQQ": 0.93,
-      "IEFA": 0.79,
+      "IEFA": 0.78,
       "VEA": 0.8,
       "VUG": 0.95,
       "BND": 0.38,
@@ -9483,7 +9483,7 @@
       "VXUS": 0.83,
       "VWO": 0.81,
       "GLD": 0.31,
-      "IWF": 0.94,
+      "IWF": 0.93,
       "IJH": 0.81,
       "VIG": 0.82,
       "IJR": 0.76
@@ -9494,19 +9494,19 @@
       "SPY": 1.0,
       "VTI": 1.0,
       "QQQ": 0.92,
-      "IEFA": 0.8,
+      "IEFA": 0.79,
       "VEA": 0.81,
       "VUG": 0.94,
       "BND": 0.4,
       "SCHD": 0.32,
       "IEMG": 0.78,
-      "AGG": 0.42,
+      "AGG": 0.41,
       "VTV": 0.73,
       "VXUS": 0.84,
       "VWO": 0.82,
       "GLD": 0.33,
       "IWF": 0.93,
-      "IJH": 0.84,
+      "IJH": 0.85,
       "VIG": 0.84,
       "IJR": 0.8
     },
@@ -9516,7 +9516,7 @@
       "SPY": 0.93,
       "VTI": 0.92,
       "QQQ": 1.0,
-      "IEFA": 0.71,
+      "IEFA": 0.7,
       "VEA": 0.77,
       "VUG": 0.94,
       "BND": 0.32,
@@ -9527,29 +9527,29 @@
       "VXUS": 0.8,
       "VWO": 0.81,
       "GLD": 0.31,
-      "IWF": 0.94,
-      "IJH": 0.69,
+      "IWF": 0.93,
+      "IJH": 0.7,
       "VIG": 0.65,
       "IJR": 0.63
     },
     "IEFA": {
-      "VOO": 0.79,
-      "IVV": 0.79,
-      "SPY": 0.79,
-      "VTI": 0.8,
-      "QQQ": 0.71,
+      "VOO": 0.78,
+      "IVV": 0.78,
+      "SPY": 0.78,
+      "VTI": 0.79,
+      "QQQ": 0.7,
       "IEFA": 1.0,
       "VEA": 0.98,
-      "VUG": 0.69,
-      "BND": 0.52,
+      "VUG": 0.68,
+      "BND": 0.53,
       "SCHD": 0.35,
       "IEMG": 0.81,
-      "AGG": 0.55,
+      "AGG": 0.54,
       "VTV": 0.72,
       "VXUS": 0.96,
       "VWO": 0.83,
-      "GLD": 0.46,
-      "IWF": 0.68,
+      "GLD": 0.45,
+      "IWF": 0.67,
       "IJH": 0.76,
       "VIG": 0.75,
       "IJR": 0.7
@@ -9571,7 +9571,7 @@
       "VXUS": 0.99,
       "VWO": 0.87,
       "GLD": 0.49,
-      "IWF": 0.71,
+      "IWF": 0.7,
       "IJH": 0.76,
       "VIG": 0.72,
       "IJR": 0.69
@@ -9582,13 +9582,13 @@
       "SPY": 0.95,
       "VTI": 0.94,
       "QQQ": 0.94,
-      "IEFA": 0.69,
+      "IEFA": 0.68,
       "VEA": 0.71,
       "VUG": 1.0,
       "BND": 0.33,
       "SCHD": 0.06,
       "IEMG": 0.74,
-      "AGG": 0.35,
+      "AGG": 0.34,
       "VTV": 0.47,
       "VXUS": 0.75,
       "VWO": 0.77,
@@ -9604,19 +9604,19 @@
       "SPY": 0.38,
       "VTI": 0.4,
       "QQQ": 0.32,
-      "IEFA": 0.52,
+      "IEFA": 0.53,
       "VEA": 0.52,
       "VUG": 0.33,
       "BND": 1.0,
       "SCHD": 0.18,
       "IEMG": 0.41,
-      "AGG": 0.99,
+      "AGG": 0.97,
       "VTV": 0.37,
       "VXUS": 0.5,
       "VWO": 0.39,
       "GLD": 0.21,
-      "IWF": 0.33,
-      "IJH": 0.44,
+      "IWF": 0.34,
+      "IJH": 0.43,
       "VIG": 0.4,
       "IJR": 0.42
     },
@@ -9654,7 +9654,7 @@
       "BND": 0.41,
       "SCHD": 0.11,
       "IEMG": 1.0,
-      "AGG": 0.43,
+      "AGG": 0.44,
       "VTV": 0.55,
       "VXUS": 0.93,
       "VWO": 0.95,
@@ -9668,23 +9668,23 @@
       "VOO": 0.4,
       "IVV": 0.4,
       "SPY": 0.4,
-      "VTI": 0.42,
+      "VTI": 0.41,
       "QQQ": 0.34,
-      "IEFA": 0.55,
+      "IEFA": 0.54,
       "VEA": 0.54,
-      "VUG": 0.35,
-      "BND": 0.99,
+      "VUG": 0.34,
+      "BND": 0.97,
       "SCHD": 0.19,
-      "IEMG": 0.43,
+      "IEMG": 0.44,
       "AGG": 1.0,
-      "VTV": 0.39,
+      "VTV": 0.38,
       "VXUS": 0.52,
-      "VWO": 0.41,
-      "GLD": 0.22,
-      "IWF": 0.35,
-      "IJH": 0.46,
-      "VIG": 0.43,
-      "IJR": 0.45
+      "VWO": 0.42,
+      "GLD": 0.23,
+      "IWF": 0.33,
+      "IJH": 0.45,
+      "VIG": 0.42,
+      "IJR": 0.43
     },
     "VTV": {
       "VOO": 0.7,
@@ -9698,12 +9698,12 @@
       "BND": 0.37,
       "SCHD": 0.73,
       "IEMG": 0.55,
-      "AGG": 0.39,
+      "AGG": 0.38,
       "VTV": 1.0,
       "VXUS": 0.69,
       "VWO": 0.59,
       "GLD": 0.28,
-      "IWF": 0.46,
+      "IWF": 0.45,
       "IJH": 0.85,
       "VIG": 0.9,
       "IJR": 0.82
@@ -9742,12 +9742,12 @@
       "BND": 0.39,
       "SCHD": 0.18,
       "IEMG": 0.95,
-      "AGG": 0.41,
+      "AGG": 0.42,
       "VTV": 0.59,
       "VXUS": 0.93,
       "VWO": 1.0,
       "GLD": 0.47,
-      "IWF": 0.77,
+      "IWF": 0.76,
       "IJH": 0.7,
       "VIG": 0.66,
       "IJR": 0.63
@@ -9758,39 +9758,39 @@
       "SPY": 0.31,
       "VTI": 0.33,
       "QQQ": 0.31,
-      "IEFA": 0.46,
+      "IEFA": 0.45,
       "VEA": 0.49,
       "VUG": 0.28,
       "BND": 0.21,
       "SCHD": 0.09,
       "IEMG": 0.45,
-      "AGG": 0.22,
+      "AGG": 0.23,
       "VTV": 0.28,
       "VXUS": 0.5,
       "VWO": 0.47,
       "GLD": 1.0,
-      "IWF": 0.28,
+      "IWF": 0.27,
       "IJH": 0.3,
       "VIG": 0.27,
       "IJR": 0.23
     },
     "IWF": {
       "VOO": 0.94,
-      "IVV": 0.94,
-      "SPY": 0.94,
+      "IVV": 0.93,
+      "SPY": 0.93,
       "VTI": 0.93,
-      "QQQ": 0.94,
-      "IEFA": 0.68,
-      "VEA": 0.71,
+      "QQQ": 0.93,
+      "IEFA": 0.67,
+      "VEA": 0.7,
       "VUG": 0.98,
-      "BND": 0.33,
+      "BND": 0.34,
       "SCHD": 0.03,
       "IEMG": 0.74,
-      "AGG": 0.35,
-      "VTV": 0.46,
+      "AGG": 0.33,
+      "VTV": 0.45,
       "VXUS": 0.74,
-      "VWO": 0.77,
-      "GLD": 0.28,
+      "VWO": 0.76,
+      "GLD": 0.27,
       "IWF": 1.0,
       "IJH": 0.66,
       "VIG": 0.66,
@@ -9800,15 +9800,15 @@
       "VOO": 0.81,
       "IVV": 0.8,
       "SPY": 0.81,
-      "VTI": 0.84,
-      "QQQ": 0.69,
+      "VTI": 0.85,
+      "QQQ": 0.7,
       "IEFA": 0.76,
       "VEA": 0.76,
       "VUG": 0.66,
-      "BND": 0.44,
+      "BND": 0.43,
       "SCHD": 0.5,
       "IEMG": 0.67,
-      "AGG": 0.46,
+      "AGG": 0.45,
       "VTV": 0.85,
       "VXUS": 0.77,
       "VWO": 0.7,
@@ -9830,7 +9830,7 @@
       "BND": 0.4,
       "SCHD": 0.61,
       "IEMG": 0.58,
-      "AGG": 0.43,
+      "AGG": 0.42,
       "VTV": 0.9,
       "VXUS": 0.72,
       "VWO": 0.66,
@@ -9852,7 +9852,7 @@
       "BND": 0.42,
       "SCHD": 0.54,
       "IEMG": 0.59,
-      "AGG": 0.45,
+      "AGG": 0.43,
       "VTV": 0.82,
       "VXUS": 0.7,
       "VWO": 0.63,

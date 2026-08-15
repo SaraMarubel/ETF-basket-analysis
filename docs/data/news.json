@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:04:18.370930+00:00",
+  "generated_at": "2026-08-15T13:46:25.060415+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61201059/stock-market-will-sp-500-open-up-or-down-today-16?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-08-14T06:23:50Z",
+        "description": "U.S. stock futures were mixed heading into Friday morning as Wall Street digested an impending batch of retail and consumer data against a backdrop of escala..."
+      },
+      {
         "title": "Tech ETFs drive record monthly trading volume, reaching 10% share",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/tech-etfs-record-trading-volume/",
@@ -178,13 +185,6 @@
         "url": "https://finance.yahoo.com/economy/articles/exclusive-scott-bessent-says-k-104617437.html",
         "published_at": "2026-08-13T10:46:17Z",
         "description": "Treasury Secretary Scott Bessent recently declared the \u201cK-shaped\u201d economic divide dead, but market experts argue the wealth gap is actually accelerating, pro..."
-      },
-      {
-        "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/12/you-skipped-the-ai-rally-because-retirement-felt-too-close-these-3-etfs-get-you-in-without-betting-your-nest-egg/",
-        "published_at": "2026-08-12T21:35:22Z",
-        "description": "Watching the AI rally from the sidelines felt responsible when retirement loomed, but playing it safe has a price tag too. Three ETFs now offer a way to get..."
       }
     ],
     "IEFA": [
