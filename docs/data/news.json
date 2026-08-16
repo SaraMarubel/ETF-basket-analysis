@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:47:46.292371+00:00",
+  "generated_at": "2026-08-16T17:00:38.370569+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -545,6 +545,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold's wild 2026 ride might not be over yet",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
+        "published_at": "2026-08-15T16:37:00Z",
+        "description": "Gold traders have had a hard time getting this year right. The metal has swung from record highs to steep drops and back again. Most of the people who trade..."
+      },
+      {
         "title": "Daily ETF Flows: Money Pours Into IWD",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-money-pours-iwd?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -578,13 +585,6 @@
         "url": "https://biztoc.com/x/a79a30285e254348",
         "published_at": "2026-08-12T13:10:37Z",
         "description": "It's not quite a first-to-worst story, but after shining last year, gold has lost considerable luster in 2026. Thanks to a strong start to August, the SPDR Gold Shares and other gold ETFs backed by physical holdings of the commodity are sporting modest year-t\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: TLT Inflows Surge",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-inflows-surge?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-11T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 10, 2026."
       }
     ],
     "IWF": [
