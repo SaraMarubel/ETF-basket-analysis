@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:59:12.546013+00:00",
+  "generated_at": "2026-08-16T03:30:21.180289+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "QDTE\u2019s Yield Keeps Shrinking as Volatility Slides Below 15",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/14/qdtes-yield-keeps-shrinking-as-volatility-slides-below-15/",
+        "published_at": "2026-08-14T20:31:10Z",
+        "description": "QDTE built its reputation on a weekly paycheck that once turned heads, but the volatility environment driving those payments has shifted dramatically, and th..."
+      },
+      {
         "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/1df38da75d922ed4",
@@ -178,13 +185,6 @@
         "url": "https://247wallst.com/investing/2026/08/13/wall-street-declared-active-funds-dead-nobody-told-the-growth-fund-of-america-agthx-2/",
         "published_at": "2026-08-13T19:11:20Z",
         "description": "Index funds were supposed to bury active management, yet one fund with $360 billion in assets keeps writing checks to private AI companies that indexers cann..."
-      },
-      {
-        "title": "Wall Street Declared Active Funds Dead. Nobody Told the Growth Fund of America, AGTHX",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/13/wall-street-declared-active-funds-dead-nobody-told-the-growth-fund-of-america-agthx/",
-        "published_at": "2026-08-13T18:55:23Z",
-        "description": "Index funds were supposed to have buried active management for good, yet one $360 billion mutual fund keeps writing checks to private AI companies that index..."
       }
     ],
     "IEFA": [
@@ -242,6 +242,13 @@
         "description": "The post Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio appeared first on 24/7 Wall St..\nOn July 29, 2026, Vanguard swapped the benchmark behind the Vanguard Growth ETF (NYSEARCA:VUG) from the CRSP US Large Cap G\u2026"
       },
       {
+        "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/",
+        "published_at": "2026-08-14T18:15:41Z",
+        "description": "Vanguard swapped the benchmark powering one of the most popular growth ETFs on the market, and most holders never saw it coming. What looks like a paperwork..."
+      },
+      {
         "title": "Daily ETF Flows: IEMG In Demand",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-iemg-demand?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -268,13 +275,6 @@
         "url": "https://biztoc.com/x/51153048e6cbb927",
         "published_at": "2026-07-25T12:33:57Z",
         "description": "After weeks of waiting, investment management firm Vanguard finally updated the holdings of its 48 passively managed equity exchange-traded funds (ETFs).\nUnsurprisingly, Space Exploration Technologies (NASDAQ: SPCX) popped up in the Vanguard Total Stock Marke\u2026"
-      },
-      {
-        "title": "This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/007badfec2cc4c8d",
-        "published_at": "2026-07-22T21:07:45Z",
-        "description": "The post This $222 Billion Vanguard ETF Is Trailing the S&P 500. That Almost Never Happens. appeared first on 24/7 Wall St..\nThe Vanguard Growth ETF (NYSEARCA:VUG) is having a strange year. After a decade in which VUG trounced the broader market, shares are u\u2026"
       }
     ],
     "BND": [
@@ -566,6 +566,20 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: Money Pours Into IWD",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-money-pours-iwd?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-14T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 13, 2026."
+      },
+      {
+        "title": "Gold Just Ripped Higher on an Ugly Jobs Report, and It\u2019s Still Well Off Its Record. Buy GLDM Now?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/14/gold-just-ripped-higher-on-an-ugly-jobs-report-and-its-still-well-off-its-record-buy-gldm-now/",
+        "published_at": "2026-08-14T19:45:48Z",
+        "description": "Gold surged after a bruising jobs report, but GLDM still sits well below its 2026 record, and that gap creates a very different conversation than buying bull..."
+      },
+      {
         "title": "The Gold \u201cIncome\u201d Fund That Turned a 6% Gold Dip Into a 30% Loss",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/14/the-gold-income-fund-that-turned-a-6-gold-dip-into-a-30-loss/",
@@ -592,20 +606,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-inflows-surge?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-11T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 10, 2026."
-      },
-      {
-        "title": "Bitcoin drops to one-week low as retail buys gold at highest prices since June",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/markets/bitcoin-drops-to-one-week-low-as-retail-buys-gold-at-highest-prices-since-june",
-        "published_at": "2026-08-11T16:24:48Z",
-        "description": "Bitcoin price action sank to one-week lows ahead of US CPI data, while retail investors piled into gold ETFs and XAU/USD hit its highest levels in nine weeks."
-      },
-      {
-        "title": "Daily ETF Flows: SOXX Sees Outflows",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxx-sees-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-10T21:02:49Z",
-        "description": "Here are the daily ETF fund flows for August 7, 2026."
       }
     ],
     "IWF": [
