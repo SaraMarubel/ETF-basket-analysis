@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:16:13.934173+00:00",
+  "generated_at": "2026-08-18T21:03:54.497353+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Economist Justin Wolfers Challenges Scott Bessent on K-Shaped Economy: 'Be a Little More Honest' (UPDATED)",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/economy/articles/economist-justin-wolfers-challenges-scott-113114804.html",
+        "published_at": "2026-08-17T11:31:14Z",
+        "description": "Editor\u2019s Note: The story has been refreshed with the latest market price action and a revised headline. Prominent economist Justin Wolfers has pushed back ag..."
+      },
+      {
         "title": "This ETF Is the Most Important in the Market. You Probably Haven\u2019t Heard of It.",
         "source": "Barchart.com",
         "url": "https://www.barchart.com/story/news/3875975/this-etf-is-the-most-important-in-the-market-you-probably-havent-heard-of-it",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/1df38da75d922ed4",
         "published_at": "2026-08-14T14:51:13Z",
         "description": "The post Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble? appeared first on 24/7 Wall St..\nMichael Burry, the Scion Asset Management founder known for \u201cThe Big Short,\u201d is adding to his short book\u2026"
-      },
-      {
-        "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/14/michael-burry-ramped-up-his-bets-against-micron-and-the-qqq-etf-is-the-big-short-investor-asking-for-trouble/",
-        "published_at": "2026-08-14T14:40:07Z",
-        "description": "Michael Burry is doubling down on bets against Micron and the QQQ even as those positions bleed, convinced a larger market collapse is coming. With Wall Stre..."
       }
     ],
     "IEFA": [
@@ -309,6 +309,13 @@
     ],
     "SCHD": [
       {
+        "title": "If You Invest $100 a Month in SCHD, Here's the Passive Income It Could Deliver in 20 Years",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2b10f9e792482c85",
+        "published_at": "2026-08-17T19:58:26Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is one of the market's most popular dividend-focused exchange-traded funds (ETFs). It passively tracks the Dow Jones U.S. Dividend 100 Index, and it charges a low expense ratio of 0.06%.\nSCHD pays a trailing\u2026"
+      },
+      {
         "title": "55 With Less Than $250,000 Saved? These 3 ETFs Are Built for Catching Up",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/17/55-with-less-than-250000-saved-these-3-etfs-are-built-for-catching-up/",
@@ -342,13 +349,6 @@
         "url": "https://biztoc.com/x/80bb56db675f0026",
         "published_at": "2026-08-15T20:24:03Z",
         "description": "The post The 3% ETF Outperforming 11% Competitors: How SCHD Keeps Beating Covered-Call ETFs appeared first on 24/7 Wall St..\nIncome investors comparing NEOS S&P 500 High Income ETF (NYSEARCA:SPYI), JPMorgan Nasdaq Equity Premium Income ETF (NASDAQ:JEPQ), and \u2026"
-      },
-      {
-        "title": "The 3% ETF Outperforming 11% Competitors: How SCHD Keeps Beating Covered-Call ETFs",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/15/the-3-etf-outperforming-11-competitors-how-schd-keeps-beating-covered-call-etfs/",
-        "published_at": "2026-08-15T20:15:55Z",
-        "description": "Most income investors see an 11% yield and a 3% yield and know exactly which one to buy. The logic seems airtight until you look at what each fund actually s..."
       }
     ],
     "IEMG": [
