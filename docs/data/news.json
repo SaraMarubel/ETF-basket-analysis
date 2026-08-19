@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T09:55:46.101021+00:00",
+  "generated_at": "2026-08-19T14:09:51.302136+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -57,6 +57,13 @@
     ],
     "SPY": [
       {
+        "title": "Uniswap founder highlights AMMs\u2019 potential with tokenized stocks",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/uniswap-founder-amms-tokenized-stocks/",
+        "published_at": "2026-08-18T11:18:59Z",
+        "description": "AMMs could democratize equity market-making, reducing barriers and attracting diverse participants, but regulatory challenges remain significant.\nThe post Uniswap founder highlights AMMs\u2019 potential with tokenized stocks appeared first on Crypto Briefing."
+      },
+      {
         "title": "Trump made 21,000 trades last year. Here's one way you can trade like the president.",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/the-investing-strategy-behind-president-trumps-21-000-trades-2026-8#article",
@@ -90,13 +97,6 @@
         "url": "https://www.investors.com/research/options/spy-etf-bull-call-spread-options/",
         "published_at": "2026-08-10T18:03:42Z",
         "description": "Wary bulls have a bull call spread as one possible trading option on the State Street SPDR S&P 500, or SPY ETF."
-      },
-      {
-        "title": "VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d36f5b4057b20aa3",
-        "published_at": "2026-08-08T18:23:19Z",
-        "description": "The post VOO Is About to Become the First $1 Trillion ETF, and SPY Holders Are Paying 3x More for the Same Index appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSE:SPY) has been the default S&P 500 vehicle since January 23, 1993, and its $9.8 b\u2026"
       }
     ],
     "VTI": [
