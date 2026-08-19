@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:16:21.298584+00:00",
+  "generated_at": "2026-08-19T05:51:46.720744+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "\u30b5\u30af\u30bd\u30d0\u30f3\u30af\u8a3c\u5238\u3001\u65b0\u305f\u306b100\u9298\u67c4\u4ee5\u4e0a\u306e\u6d77\u5916ETF\u3092\u53d6\u6271\u958b\u59cb",
+        "source": "Prtimes.jp",
+        "url": "https://prtimes.jp/main/html/rd/p/000000055.000112775.html",
+        "published_at": "2026-08-18T04:40:41Z",
+        "description": "[\u30b5\u30af\u30bd\u30d0\u30f3\u30af\u8a3c\u5238\u682a\u5f0f\u4f1a\u793e]\n[\u753b\u50cf: https://prcdn.freetls.fastly.net/release_image/112775/55/112775-55-d6885034273befbc6789631aa39197c8-3900x2194.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a..."
+      },
+      {
         "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/019f8af6152e1f33",
         "published_at": "2026-08-15T17:54:26Z",
         "description": "Which Is the Better ETF, State Street's Broad Market Exposure Through SPY or Invesco's Tech-Focused QQQ?\nThe State Street SPDR S&P 500 ETF (NYSEMKT:SPY) provides broad-market exposure at half the cost of Invesco QQQ Trust, Series 1 (NASDAQ:QQQ), which offers \u2026"
-      },
-      {
-        "title": "SCHG vs QQQ vs VUG: We Compared the Three Biggest Growth ETFs and One Is the Clear Winner for the Next Decade",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/15/schg-vs-qqq-vs-vug-we-compared-the-three-biggest-growth-etfs-and-one-is-the-clear-winner-for-the-next-decade/",
-        "published_at": "2026-08-15T12:17:11Z",
-        "description": "SCHG, VUG, and QQQ each take a different structural approach to large-cap growth, and those differences compound into a significant performance gap over ten..."
       }
     ],
     "IEFA": [
