@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:09:51.302136+00:00",
+  "generated_at": "2026-08-19T17:06:37.168013+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61279181/nvidia-amd-tech-stocks-bond-yields?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-08-18T15:42:44Z",
+        "description": "Advanced Micro Devices Inc. (NASDAQ:AMD) fell 5% Tuesday, with Broadcom Inc. (NASDAQ:AVGO) and Meta Platforms Inc. (NASDAQ:META) both around 3% and NVIDIA Co..."
+      },
+      {
         "title": "\u30b5\u30af\u30bd\u30d0\u30f3\u30af\u8a3c\u5238\u3001\u65b0\u305f\u306b100\u9298\u67c4\u4ee5\u4e0a\u306e\u6d77\u5916ETF\u3092\u53d6\u6271\u958b\u59cb",
         "source": "Prtimes.jp",
         "url": "https://prtimes.jp/main/html/rd/p/000000055.000112775.html",
@@ -178,13 +185,6 @@
         "url": "https://finance.yahoo.com/economy/articles/economist-justin-wolfers-challenges-scott-113114804.html",
         "published_at": "2026-08-17T11:31:14Z",
         "description": "Editor\u2019s Note: The story has been refreshed with the latest market price action and a revised headline. Prominent economist Justin Wolfers has pushed back ag..."
-      },
-      {
-        "title": "This ETF Is the Most Important in the Market. You Probably Haven\u2019t Heard of It.",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/3875975/this-etf-is-the-most-important-in-the-market-you-probably-havent-heard-of-it",
-        "published_at": "2026-08-16T14:00:02Z",
-        "description": "Monitoring the 20 largest S&P 500 stocks closely, as a unit through this ETF and individually, is an essential part of being a conscious modern equity invest..."
       }
     ],
     "IEFA": [
