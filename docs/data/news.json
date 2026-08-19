@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:03:54.497353+00:00",
+  "generated_at": "2026-08-19T03:16:21.298584+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,20 @@
     ],
     "QQQ": [
       {
+        "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+        "published_at": "2026-08-17T23:39:54Z",
+        "description": "South Korean stock investors have made 'absolutely crazy' bets as they flee their home market, while global investors pile in."
+      },
+      {
+        "title": "3 ETFs Built to Protect Your Money if the Bull Market Breaks",
+        "source": "MarketBeat",
+        "url": "https://www.marketbeat.com/articles/3-etfs-built-to-protect-your-money-if-the-bull-market-breaks/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+        "published_at": "2026-08-17T12:30:00Z",
+        "description": "Buffered ETFs PJUL, BSEP, and QBUF offer investors varying levels of downside protection and capped upside tied to the S&P 500 or Nasdaq-100, using options-b..."
+      },
+      {
         "title": "Economist Justin Wolfers Challenges Scott Bessent on K-Shaped Economy: 'Be a Little More Honest' (UPDATED)",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/articles/economist-justin-wolfers-challenges-scott-113114804.html",
@@ -171,20 +185,6 @@
         "url": "https://247wallst.com/investing/2026/08/15/schg-vs-qqq-vs-vug-we-compared-the-three-biggest-growth-etfs-and-one-is-the-clear-winner-for-the-next-decade/",
         "published_at": "2026-08-15T12:17:11Z",
         "description": "SCHG, VUG, and QQQ each take a different structural approach to large-cap growth, and those differences compound into a significant performance gap over ten..."
-      },
-      {
-        "title": "QDTE\u2019s Yield Keeps Shrinking as Volatility Slides Below 15",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/14/qdtes-yield-keeps-shrinking-as-volatility-slides-below-15/",
-        "published_at": "2026-08-14T20:31:10Z",
-        "description": "QDTE built its reputation on a weekly paycheck that once turned heads, but the volatility environment driving those payments has shifted dramatically, and th..."
-      },
-      {
-        "title": "Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1df38da75d922ed4",
-        "published_at": "2026-08-14T14:51:13Z",
-        "description": "The post Michael Burry Ramped Up His Bets Against Micron and the QQQ ETF. Is the \u2018Big Short\u2019 Investor Asking for Trouble? appeared first on 24/7 Wall St..\nMichael Burry, the Scion Asset Management founder known for \u201cThe Big Short,\u201d is adding to his short book\u2026"
       }
     ],
     "IEFA": [
@@ -467,13 +467,6 @@
         "url": "https://247wallst.com/investing/2026/07/23/value-is-quietly-winning-2026-and-these-3-dividend-paying-value-etfs-prove-you-do-not-need-tech-to-beat-the-market/",
         "published_at": "2026-07-23T20:53:36Z",
         "description": "While Wall Street debates which AI giant wins next, a quieter rotation is rewarding investors who never bought into the hype, and three dividend-paying value..."
-      },
-      {
-        "title": "Daily ETF Flows: QQQ Notches Inflows of $2.4B",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-qqq-notches-inflows-24b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-07-17T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for July 16, 2026."
       }
     ],
     "VXUS": [
