@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:56:28.978157+00:00",
+  "generated_at": "2026-08-20T13:10:47.846705+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,20 @@
     ],
     "QQQ": [
       {
+        "title": "Tokenized equities reach $9B in onchain trading volume this year, up 800% from January",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/tokenized-equities-9b-onchain-trading-volume/",
+        "published_at": "2026-08-19T12:47:00Z",
+        "description": "The surge in tokenized equity trading highlights a shift towards decentralized, 24/7 markets, challenging traditional trading norms and liquidity.\nThe post Tokenized equities reach $9B in onchain trading volume this year, up 800% from January appeared first o\u2026"
+      },
+      {
+        "title": "Retail investors aren't entirely giving up on AI trade, but they appear more cautious",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/19/retail-investors-stick-with-ai-trade-but-appear-more-cautious.html",
+        "published_at": "2026-08-19T11:09:33Z",
+        "description": "Mom-and-Pop investors remain bullish on AI and tech, but some are adding downside protection."
+      },
+      {
         "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c93a580b64af1e88",
@@ -152,39 +166,25 @@
         "description": "The post Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks appeared first on 24/7 Wall St..\nShares of Apple (NASDAQ:AAPL) closed higher Tuesday even as the broader Nasdaq sold off, finishing the session up 1.5% at $31\u2026"
       },
       {
+        "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/18/voos-0-03-fee-hides-the-real-cost-38-of-your-sp-500-money-is-now-in-one-sector/",
+        "published_at": "2026-08-18T22:25:18Z",
+        "description": "VOO's famously cheap expense ratio distracts most investors from a far bigger risk buried inside the fund itself, one that no fee comparison chart will ever..."
+      },
+      {
+        "title": "QYLD Holders Left $56,700 Per $10,000 on the Table Chasing Twelve Years of Monthly Income",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/18/qyld-holders-left-56700-per-10000-on-the-table-chasing-twelve-years-of-monthly-income/",
+        "published_at": "2026-08-18T21:45:59Z",
+        "description": "QYLD holders watched twelve years of monthly income checks arrive like clockwork, but a closer look at the total-return math reveals a cost buried inside eve..."
+      },
+      {
         "title": "Daily ETF Flows: GLD Takes In $1B",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-takes-1b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-18T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 17, 2026."
-      },
-      {
-        "title": "Applied Materials Rockets 98% in 2026: How Does AMAT Compare to Lam Research and KLA as AI Capex Powers Chip Gear Stocks?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/18/applied-materials-rockets-98-in-2026-how-does-amat-compare-to-lam-research-and-kla-as-ai-capex-powers-chip-gear-stocks/",
-        "published_at": "2026-08-18T19:22:38Z",
-        "description": "Chip equipment stocks have surged far ahead of the broader tech market in 2026, but a single week of doubts about AI spending just wiped billions in gains ac..."
-      },
-      {
-        "title": "Tesla Is Down 25% in 2026: How Does It Compare to EV Competitors Like Rivian, Lucid, and General Motors?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/18/tesla-is-down-25-in-2026-how-does-it-compare-to-ev-competitors-like-rivian-lucid-and-general-motors/",
-        "published_at": "2026-08-18T19:15:06Z",
-        "description": "Tesla has shed a quarter of its value this year while one legacy automaker quietly holds its ground in the green. The divergence playing out across the EV se..."
-      },
-      {
-        "title": "Serve Robotics Sinks 7% as Guidance Cut Overshadows Grubhub Deal; Symbotic Drops 5%, DoorDash Ticks Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/18/serve-robotics-sinks-7-as-guidance-cut-overshadows-grubhub-deal-symbotic-drops-5-doordash-ticks-up/",
-        "published_at": "2026-08-18T18:45:25Z",
-        "description": "Serve Robotics erased its Grubhub rally in a single session after a shocking guidance cut spooked investors, but the company insists robot delivery demand is..."
-      },
-      {
-        "title": "QuantumScape Falls 6%, Enovix Sinks 14%, Solid Power Drops 4% as Yields at 19-Year Highs Hit Speculative Growth",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/18/quantumscape-falls-6-enovix-sinks-14-solid-power-drops-4-as-yields-at-19-year-highs-hit-speculative-growth/",
-        "published_at": "2026-08-18T18:35:19Z",
-        "description": "Treasury yields near multi-decade highs are punishing pre-revenue battery stocks in a way that has nothing to do with their technology, and the gap between d..."
       }
     ],
     "IEFA": [
@@ -316,6 +316,13 @@
         "description": "The post Why Own a 3% Dividend Stock When Uncle Sam Pays More Than 5%? appeared first on 24/7 Wall St..\nThe pitch for owning Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), Vanguard High Dividend Yield ETF (NYSEARCA:VYM), iShares Core High Dividend ETF (NYSE\u2026"
       },
       {
+        "title": "Why Own a 3% Dividend Stock When Uncle Sam Pays More Than 5%?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/18/why-own-a-3-dividend-stock-when-uncle-sam-pays-more-than-5/",
+        "published_at": "2026-08-18T20:39:27Z",
+        "description": "Treasury yields just hit levels not seen in nearly two decades, and that changes the math on every dividend ETF a retiree holds. Before you assume stocks sti..."
+      },
+      {
         "title": "SCHD\u2019s 27% Year Is Embarrassing Every Growth ETF in Your Portfolio",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/01c0df340c91ddf2",
@@ -342,13 +349,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/18/at-55-with-no-dividend-income-1500-a-month-into-the-schd-etf-is-the-last-lever-you-have/",
         "published_at": "2026-08-18T18:45:58Z",
         "description": "Starting SCHD at 55 with a decade until retirement sounds like a solid plan, but the math of dividend compounding has a hard limit that most late starters ne..."
-      },
-      {
-        "title": "How to Build $17,500 a Month in Dividend Income From Three Income Buckets",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/08/18/how-to-build-17500-a-month-in-dividend-income-from-three-income-buckets/",
-        "published_at": "2026-08-18T09:21:59Z",
-        "description": "Generating $210,000 a year in dividends sounds impossible until you break the portfolio into three distinct yield buckets, each with its own risk profile and..."
       }
     ],
     "IEMG": [
@@ -470,6 +470,13 @@
       }
     ],
     "VXUS": [
+      {
+        "title": "The creator of the 4% rule for retirement details the optimal setup for your investment portfolio",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/retirment-savings-investment-portfolio-stocks-bonds-cash-spending-withdrawal-rate-2026-8#article",
+        "published_at": "2026-08-19T09:40:01Z",
+        "description": "The 4% rule for retirees is easy enough to understand in theory. But what does that look like in practice?"
+      },
       {
         "title": "Daily ETF Flows: GLD Takes In $1B",
         "source": "Etf.com",
