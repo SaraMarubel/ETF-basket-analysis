@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:10:47.846705+00:00",
+  "generated_at": "2026-08-20T16:50:38.506245+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -531,6 +531,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
+        "published_at": "2026-08-19T16:11:23Z",
+        "description": "Gold (GC=F) December futures opened at $4,391.40 per troy ounce on Wednesday, August 19, 2026, down 0.7% from Tuesday's closing price."
+      },
+      {
         "title": "Daily ETF Flows: GLD Takes In $1B",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-takes-1b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -564,13 +571,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/14/gold-just-ripped-higher-on-an-ugly-jobs-report-and-its-still-well-off-its-record-buy-gldm-now/",
         "published_at": "2026-08-14T19:45:48Z",
         "description": "Gold surged after a bruising jobs report, but GLDM still sits well below its 2026 record, and that gap creates a very different conversation than buying bull..."
-      },
-      {
-        "title": "The Gold \u201cIncome\u201d Fund That Turned a 6% Gold Dip Into a 30% Loss",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/14/the-gold-income-fund-that-turned-a-6-gold-dip-into-a-30-loss/",
-        "published_at": "2026-08-14T14:50:36Z",
-        "description": "GOLY promised gold exposure with a monthly paycheck, solving the one thing bullion investors always complained about. But the structure hiding behind that at..."
       }
     ],
     "IWF": [
