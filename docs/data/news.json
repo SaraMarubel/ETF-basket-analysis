@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:10:19.065896+00:00",
+  "generated_at": "2026-08-21T16:51:15.693211+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -108,6 +108,13 @@
     ],
     "VTI": [
       {
+        "title": "US Treasury Department proposes rules to exclude ESG funds from Trump Accounts",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/treasury-excludes-esg-funds-trump-accounts/",
+        "published_at": "2026-08-20T14:58:25Z",
+        "description": "The exclusion of ESG funds from Trump Accounts may limit sustainable investment options, potentially impacting long-term environmental goals.\nThe post US Treasury Department proposes rules to exclude ESG funds from Trump Accounts appeared first on Crypto Brie\u2026"
+      },
+      {
         "title": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
@@ -141,16 +148,16 @@
         "url": "https://247wallst.com/investing/2026/08/17/4-vanguard-etfs-that-belong-in-every-portfolio-in-august/",
         "published_at": "2026-08-17T11:00:36Z",
         "description": "Mid-year rebalancing forces a hard question: which ETFs actually earn a permanent spot versus which ones just look good after a strong run? Four Vanguard fun..."
-      },
-      {
-        "title": "Vanguard\u2019s VTIAX Is the Fund Everyone Loves to Hate, and That Might Be the Whole Point",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/13/vanguards-vtiax-is-the-fund-everyone-loves-to-hate-and-that-might-be-the-whole-point/",
-        "published_at": "2026-08-13T18:31:08Z",
-        "description": "For years, VTIAX sat at the bottom of American portfolios, a drag that cost some investors six figures in foregone gains. Now the fund everyone quietly resen..."
       }
     ],
     "QQQ": [
+      {
+        "title": "Strategy Rallies 9%, Bitmine Climbs 7%, Coinbase Jumps 6% as $3.3B Short Squeeze Powers Bitcoin Past $71K",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f143060a74581b27",
+        "published_at": "2026-08-20T13:29:10Z",
+        "description": "The post Strategy Rallies 9%, Bitmine Climbs 7%, Coinbase Jumps 6% as $3.3B Short Squeeze Powers Bitcoin Past $71K appeared first on 24/7 Wall St..\nTech stocks are generally in the red this morning, but cryptocurrency stocks are deep in the green. The Invesco\u2026"
+      },
       {
         "title": "The 10 Most Popular AI ETFs of 2026",
         "source": "Etf.com",
@@ -185,13 +192,6 @@
         "url": "https://www.barchart.com/story/news/3936046/spacex-has-big-investors-like-nvidia-google-and-amd-that-could-be-dangerous-for-you",
         "published_at": "2026-08-19T18:59:33Z",
         "description": "SpaceX stock is still nothing more than a plaything for investors."
-      },
-      {
-        "title": "30-Year Treasury Yield Hits Highest Level Since 2007 as AI Spending and Deficits Collide",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/19/30-year-treasury-yield-hits-highest-level-since-2007-as-ai-spending-and-deficits-collide/",
-        "published_at": "2026-08-19T18:03:52Z",
-        "description": "AI infrastructure spending and ballooning federal deficits are colliding in the Treasury market, and the shockwave is now hitting Asian tech stocks hard. The..."
       }
     ],
     "IEFA": [],
@@ -264,6 +264,20 @@
     ],
     "BND": [
       {
+        "title": "BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0838ea021e39e11a",
+        "published_at": "2026-08-20T14:59:55Z",
+        "description": "The post BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss appeared first on 24/7 Wall St..\nThe Vanguard Total Bond Market ETF (NASDAQ:BND) has spent 2026 crossing back and forth over the zero line, with a year-to-date total return that ti\u2026"
+      },
+      {
+        "title": "BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/20/bnd-is-flat-while-stocks-soar-but-selling-now-locks-in-the-real-loss/",
+        "published_at": "2026-08-20T14:55:23Z",
+        "description": "BND has barely moved while stocks surge, and the temptation to cut losses and rotate into equities is growing louder. But the math behind that decision may b..."
+      },
+      {
         "title": "Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/55c4c1f182f00625",
@@ -290,20 +304,6 @@
         "url": "https://247wallst.com/investing/2026/08/13/vanguards-vtbix-is-the-bond-fund-hiding-in-the-back-of-your-retirement-plan/",
         "published_at": "2026-08-13T20:31:21Z",
         "description": "Most 401(k) investors who pick Total Bond Market from a Vanguard plan have never actually looked at what they bought, and the fund quietly running that sleev..."
-      },
-      {
-        "title": "Your Father Retired With a Pension. You Got a 401(k) and a Brochure. These 4 ETFs Build the Pension Yourself",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/11/your-father-retired-with-a-pension-you-got-a-401k-and-a-brochure-these-4-etfs-build-the-pension-yourself/",
-        "published_at": "2026-08-11T21:55:38Z",
-        "description": "Pension checks vanished from most retirement plans a generation ago, leaving workers to solve an income puzzle their parents never faced. Four ETFs can recre..."
-      },
-      {
-        "title": "BND vs AGG: The Two Biggest Bond ETFs Look Identical, but One Has Quietly Won for Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/891f6e7a9735f8ff",
-        "published_at": "2026-08-02T14:36:02Z",
-        "description": "The post BND vs AGG: The Two Biggest Bond ETFs Look Identical, but One Has Quietly Won for Years appeared first on 24/7 Wall St..\nThe two biggest total bond market ETFs, Vanguard Total Bond Market ETF (NASDAQ:BND) and iShares Core U.S. Aggregate Bond ETF (NYS\u2026"
       }
     ],
     "SCHD": [
