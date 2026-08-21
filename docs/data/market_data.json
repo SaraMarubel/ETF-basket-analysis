@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:53:29.799943+00:00",
+  "generated_at": "2026-08-21T08:57:01.565057+00:00",
   "risk_free_rate_pct": 3.7,
   "etfs": {
     "VOO": {
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 795306885120,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 51572664,
+      "avg_volume": 51441863,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -1458,9 +1458,9 @@
       "aum": 2289978572800,
       "fund_family": "Vanguard",
       "avg_volume": 3368962,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "bid": 377.5,
+      "ask": 378.0,
+      "spread_pct": 0.1324,
       "price": 376.58,
       "change_1d_pct": -0.9,
       "change_1y_pct": 21.39,
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 452800643072,
       "fund_family": "Invesco",
-      "avg_volume": 42705890,
+      "avg_volume": 42807350,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2425,7 +2425,7 @@
       "fund_family": "iShares",
       "avg_volume": 9150685,
       "bid": 0.0,
-      "ask": 0.0,
+      "ask": 101.71,
       "spread_pct": null,
       "price": 99.99,
       "change_1d_pct": -0.47,
@@ -2437,10 +2437,6 @@
       "change_3y_pct": 68.66,
       "change_5y_pct": 54.69,
       "history": [
-        {
-          "date": "2026-04-13",
-          "close": 94.37
-        },
         {
           "date": "2026-04-14",
           "close": 95.17
@@ -2770,6 +2766,10 @@
           "close": 100.53
         },
         {
+          "date": "2026-08-11",
+          "close": 100.63
+        },
+        {
           "date": "2026-08-12",
           "close": 101.01
         },
@@ -2798,7 +2798,7 @@
           "close": 99.99
         }
       ],
-      "volatility_pct": 15.72,
+      "volatility_pct": 15.69,
       "sharpe_ratio": 1.01,
       "max_drawdown_5y_pct": -30.41,
       "beta_vs_sp500": 0.97,
@@ -2822,61 +2822,61 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.5,
-          "change_1y_pct": 137.77
+          "change_1y_pct": 138.59
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.41,
-          "change_1y_pct": 55.37
+          "change_1y_pct": 57.37
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.19,
-          "change_1y_pct": 46.03
+          "change_1y_pct": 44.05
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.12,
-          "change_1y_pct": 27.18
+          "change_1y_pct": 25.26
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.0,
-          "change_1y_pct": 8.46
+          "change_1y_pct": 9.01
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.0,
-          "change_1y_pct": 0.63
+          "change_1y_pct": -0.71
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 28.35
+          "change_1y_pct": 28.14
         },
         {
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.94,
-          "change_1y_pct": 21.0
+          "change_1y_pct": 21.49
         },
         {
           "symbol": "8306.T",
           "name": "Mitsubishi UFJ Financial Group Inc",
           "weight_pct": 0.93,
-          "change_1y_pct": 60.98
+          "change_1y_pct": 60.93
         },
         {
           "symbol": "BHP.AX",
           "name": "BHP Group Ltd",
           "weight_pct": 0.84,
-          "change_1y_pct": 61.2
+          "change_1y_pct": 61.37
         }
       ],
       "options": {
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.5,
-        "change_1y_pct": 137.77
+        "change_1y_pct": 138.59
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.0,
-        "change_1y_pct": 0.63
+        "change_1y_pct": -0.71
       }
     },
     "VEA": {
@@ -2907,7 +2907,7 @@
       "aum": 314947534848,
       "fund_family": "Vanguard",
       "avg_volume": 10974030,
-      "bid": 0.0,
+      "bid": 73.23,
       "ask": 0.0,
       "spread_pct": null,
       "price": 72.84,
@@ -3305,31 +3305,31 @@
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 2.48,
-          "change_1y_pct": 298.71
+          "change_1y_pct": 303.73
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 137.77
+          "change_1y_pct": 138.59
         },
         {
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 1.94,
-          "change_1y_pct": 611.94
+          "change_1y_pct": 609.07
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.13,
-          "change_1y_pct": 55.37
+          "change_1y_pct": 57.37
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 46.03
+          "change_1y_pct": 44.05
         },
         {
           "symbol": "RY",
@@ -3341,25 +3341,25 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.9,
-          "change_1y_pct": 27.18
+          "change_1y_pct": 25.26
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.79,
-          "change_1y_pct": 8.46
+          "change_1y_pct": 9.01
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 28.35
+          "change_1y_pct": 28.14
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 0.63
+          "change_1y_pct": -0.71
         }
       ],
       "options": {
@@ -3374,13 +3374,13 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 1.94,
-        "change_1y_pct": 611.94
+        "change_1y_pct": 609.07
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": 0.63
+        "change_1y_pct": -0.71
       }
     },
     "VUG": {
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 371990364160,
       "fund_family": "Vanguard",
-      "avg_volume": 7489798,
+      "avg_volume": 7467042,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -4755,8 +4755,8 @@
       "currency": "USD",
       "aum": 152217387008,
       "fund_family": "iShares",
-      "avg_volume": 13136841,
-      "bid": 0.0,
+      "avg_volume": 13097914,
+      "bid": 80.36,
       "ask": 0.0,
       "spread_pct": null,
       "price": 81.05,
@@ -4769,10 +4769,6 @@
       "change_3y_pct": 83.68,
       "change_5y_pct": 52.46,
       "history": [
-        {
-          "date": "2026-04-13",
-          "close": 74.34
-        },
         {
           "date": "2026-04-14",
           "close": 75.69
@@ -5102,6 +5098,10 @@
           "close": 79.56
         },
         {
+          "date": "2026-08-11",
+          "close": 79.89
+        },
+        {
           "date": "2026-08-12",
           "close": 81.02
         },
@@ -5130,10 +5130,10 @@
           "close": 81.05
         }
       ],
-      "volatility_pct": 24.12,
+      "volatility_pct": 24.05,
       "sharpe_ratio": 1.2,
       "max_drawdown_5y_pct": -33.61,
-      "beta_vs_sp500": 1.45,
+      "beta_vs_sp500": 1.44,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -5154,37 +5154,37 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 13.63,
-          "change_1y_pct": 111.04
+          "change_1y_pct": 112.36
         },
         {
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 6.35,
-          "change_1y_pct": 298.71
+          "change_1y_pct": 303.73
         },
         {
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 4.91,
-          "change_1y_pct": 611.94
+          "change_1y_pct": 609.07
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 2.75,
-          "change_1y_pct": -23.64
+          "change_1y_pct": -22.04
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 1.84,
-          "change_1y_pct": 5.82
+          "change_1y_pct": 6.43
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.17,
-          "change_1y_pct": 182.48
+          "change_1y_pct": 184.73
         },
         {
           "symbol": "005935",
@@ -5202,7 +5202,7 @@
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.73,
-          "change_1y_pct": 169.92
+          "change_1y_pct": 171.47
         },
         {
           "symbol": "2317.TW",
@@ -5223,13 +5223,13 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 4.91,
-        "change_1y_pct": 611.94
+        "change_1y_pct": 609.07
       },
       "weakest_holding": {
         "symbol": "0700.HK",
         "name": "Tencent Holdings Ltd",
         "weight_pct": 2.75,
-        "change_1y_pct": -23.64
+        "change_1y_pct": -22.04
       }
     },
     "AGG": {
@@ -5239,9 +5239,9 @@
       "aum": 137109602304,
       "fund_family": "iShares",
       "avg_volume": 8417353,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "bid": 97.4,
+      "ask": 98.67,
+      "spread_pct": 1.2955,
       "price": 97.49,
       "change_1d_pct": -0.34,
       "change_1y_pct": 2.38,
@@ -6527,43 +6527,43 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 4.02,
-          "change_1y_pct": 111.04
+          "change_1y_pct": 112.36
         },
         {
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 1.8,
-          "change_1y_pct": 298.71
+          "change_1y_pct": 303.73
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 137.77
+          "change_1y_pct": 138.59
         },
         {
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 1.41,
-          "change_1y_pct": 611.94
+          "change_1y_pct": 609.07
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 0.85,
-          "change_1y_pct": -23.64
+          "change_1y_pct": -22.04
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.82,
-          "change_1y_pct": 55.37
+          "change_1y_pct": 57.37
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 46.03
+          "change_1y_pct": 44.05
         },
         {
           "symbol": "RY",
@@ -6575,13 +6575,13 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 27.18
+          "change_1y_pct": 25.26
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 0.62,
-          "change_1y_pct": 5.82
+          "change_1y_pct": 6.43
         }
       ],
       "options": {
@@ -6596,13 +6596,13 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 1.41,
-        "change_1y_pct": 611.94
+        "change_1y_pct": 609.07
       },
       "weakest_holding": {
         "symbol": "0700.HK",
         "name": "Tencent Holdings Ltd",
         "weight_pct": 0.85,
-        "change_1y_pct": -23.64
+        "change_1y_pct": -22.04
       }
     },
     "VWO": {
@@ -6612,9 +6612,9 @@
       "aum": 162032336896,
       "fund_family": "Vanguard",
       "avg_volume": 8063248,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "bid": 58.78,
+      "ask": 60.96,
+      "spread_pct": 3.6412,
       "price": 60.02,
       "change_1d_pct": -0.03,
       "change_1y_pct": 19.92,
@@ -7010,25 +7010,25 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 14.99,
-          "change_1y_pct": 111.04
+          "change_1y_pct": 112.36
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 3.19,
-          "change_1y_pct": -23.64
+          "change_1y_pct": -22.04
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 2.33,
-          "change_1y_pct": 5.82
+          "change_1y_pct": 6.43
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.31,
-          "change_1y_pct": 182.48
+          "change_1y_pct": 184.73
         },
         {
           "symbol": "00939",
@@ -7040,7 +7040,7 @@
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.79,
-          "change_1y_pct": 169.92
+          "change_1y_pct": 171.47
         },
         {
           "symbol": "2317.TW",
@@ -7052,19 +7052,19 @@
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.77,
-          "change_1y_pct": -7.67
+          "change_1y_pct": -7.69
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.75,
-          "change_1y_pct": -25.5
+          "change_1y_pct": -25.38
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.67,
-          "change_1y_pct": -1.24
+          "change_1y_pct": -1.07
         }
       ],
       "options": {
@@ -7079,13 +7079,13 @@
         "symbol": "2454.TW",
         "name": "MediaTek Inc",
         "weight_pct": 1.31,
-        "change_1y_pct": 182.48
+        "change_1y_pct": 184.73
       },
       "weakest_holding": {
         "symbol": "HDFCBANK.NS",
         "name": "HDFC Bank Ltd",
         "weight_pct": 0.75,
-        "change_1y_pct": -25.5
+        "change_1y_pct": -25.38
       }
     },
     "GLD": {
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 130322653184,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 7984637,
+      "avg_volume": 7932180,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -7496,7 +7496,7 @@
       "fund_family": "iShares",
       "avg_volume": 4713416,
       "bid": 0.0,
-      "ask": 0.0,
+      "ask": 123.41,
       "spread_pct": null,
       "price": 121.82,
       "change_1d_pct": -0.69,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-21",
-        "atm_implied_vol_pct": 283.8,
+        "atm_implied_vol_pct": 283.2,
         "call_open_interest": 914,
         "put_open_interest": 429,
         "put_call_oi_ratio": 0.47,
@@ -8461,9 +8461,9 @@
       "aum": 130902130688,
       "fund_family": "Vanguard",
       "avg_volume": 1091746,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "bid": 240.0,
+      "ask": 248.85,
+      "spread_pct": 3.6207,
       "price": 242.23,
       "change_1d_pct": -1.13,
       "change_1y_pct": 17.31,
@@ -9547,7 +9547,7 @@
       "AGG": 0.54,
       "VTV": 0.72,
       "VXUS": 0.96,
-      "VWO": 0.84,
+      "VWO": 0.83,
       "GLD": 0.46,
       "IWF": 0.68,
       "IJH": 0.76,
@@ -9736,7 +9736,7 @@
       "SPY": 0.81,
       "VTI": 0.81,
       "QQQ": 0.81,
-      "IEFA": 0.84,
+      "IEFA": 0.83,
       "VEA": 0.87,
       "VUG": 0.77,
       "BND": 0.39,
