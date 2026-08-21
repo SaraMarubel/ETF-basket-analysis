@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:57:31.364223+00:00",
+  "generated_at": "2026-08-21T04:53:56.084975+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -47,6 +47,13 @@
       }
     ],
     "IVV": [
+      {
+        "title": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
+        "published_at": "2026-08-20T04:52:54Z",
+        "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF."
+      },
       {
         "title": "Is this the right time to invest in the iShares S&P 500 ETF (IVV)?",
         "source": "Motley Fool Australia",
@@ -101,6 +108,13 @@
     ],
     "VTI": [
       {
+        "title": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
+        "published_at": "2026-08-20T04:52:54Z",
+        "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF."
+      },
+      {
         "title": "Daily ETF Flows: GLD Takes In $1B",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-takes-1b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -134,13 +148,6 @@
         "url": "https://247wallst.com/investing/2026/08/13/vanguards-vtsax-is-the-largest-mutual-fund-on-earth-but-many-investors-dont-know-the-true-cost-of-owning-it/",
         "published_at": "2026-08-13T16:26:00Z",
         "description": "VTSAX wears a four-basis-point price tag that makes it look nearly free, but taxable account holders, non-Vanguard customers, and first-time buyers all face..."
-      },
-      {
-        "title": "I\u2019ve Been Buying Fidelity\u2019s Gigantic FXAIX Fund For Six Years Straight Before Realizing The True Cost",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/13/ive-been-buying-fidelitys-gigantic-fxaix-fund-for-six-years-straight-before-realizing-the-true-cost/",
-        "published_at": "2026-08-13T16:25:46Z",
-        "description": "Six years of automated monthly purchases into one of the world's largest index funds felt like a smart, low-cost habit until a closer look at what taxable ac..."
       }
     ],
     "QQQ": [
@@ -187,15 +194,7 @@
         "description": "QYLD holders watched twelve years of monthly income checks arrive like clockwork, but a closer look at the total-return math reveals a cost buried inside eve..."
       }
     ],
-    "IEFA": [
-      {
-        "title": "International ETFs: iShares EAFE ETF vs Vanguard Emerging Markets ETF",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f47a42970f96f118",
-        "published_at": "2026-07-20T00:20:44Z",
-        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides broad exposure to developed international markets, while the Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) focuses on higher-volatility emerging markets such as China, Taiwan, and Brazil.\nInvestors see\u2026"
-      }
-    ],
+    "IEFA": [],
     "VEA": [
       {
         "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
@@ -220,6 +219,13 @@
       }
     ],
     "VUG": [
+      {
+        "title": "VUG\u2019s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3b891b9867c5e89d",
+        "published_at": "2026-08-19T21:20:44Z",
+        "description": "The post VUG\u2019s 0.03% Fee Hides the Real Cost: 63% of Your Money Sits in Just Ten Stocks appeared first on 24/7 Wall St..\nThe Vanguard Growth ETF (NYSEARCA:VUG) is known for its ultra-low fee. While that fee is real, it can also be a distraction. The greater c\u2026"
+      },
       {
         "title": "Vanguard\u2019s Dividend ETF Is Beating Its Growth ETF by 8 Points. VUG Holders Picked the Wrong Vanguard Fund",
         "source": "Biztoc.com",
@@ -254,13 +260,6 @@
         "url": "https://biztoc.com/x/314b370118992a0e",
         "published_at": "2026-08-14T18:24:12Z",
         "description": "The post Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio appeared first on 24/7 Wall St..\nOn July 29, 2026, Vanguard swapped the benchmark behind the Vanguard Growth ETF (NYSEARCA:VUG) from the CRSP US Large Cap G\u2026"
-      },
-      {
-        "title": "Vanguard Quietly Changed the Index Behind Your VUG ETF. Here\u2019s What Happens to Your Portfolio",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/14/vanguard-quietly-changed-the-index-behind-your-vug-etf-heres-what-happens-to-your-portfolio/",
-        "published_at": "2026-08-14T18:15:41Z",
-        "description": "Vanguard swapped the benchmark powering one of the most popular growth ETFs on the market, and most holders never saw it coming. What looks like a paperwork..."
       }
     ],
     "BND": [
@@ -520,13 +519,6 @@
         "url": "https://biztoc.com/x/fb37f6a883b46ddd",
         "published_at": "2026-07-26T22:17:04Z",
         "description": "The Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) offers low-cost, targeted exposure to developing economies, whereas the State Street SPDR Portfolio MSCI Global Stock Market ETF (NYSEMKT:SPGM) serves as a diversified, global core equity holding.\nInvestors\u2026"
-      },
-      {
-        "title": "International ETFs: iShares EAFE ETF vs Vanguard Emerging Markets ETF",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f47a42970f96f118",
-        "published_at": "2026-07-20T00:20:44Z",
-        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides broad exposure to developed international markets, while the Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) focuses on higher-volatility emerging markets such as China, Taiwan, and Brazil.\nInvestors see\u2026"
       }
     ],
     "GLD": [
@@ -592,6 +584,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "VIG\u2019s Index Removes the Highest-Yielding 25% of Dividend Stocks Before Holders Ever Own Them",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7e22d81232a79ffd",
+        "published_at": "2026-08-19T21:35:36Z",
+        "description": "The post VIG\u2019s Index Removes the Highest-Yielding 25% of Dividend Stocks Before Holders Ever Own Them appeared first on 24/7 Wall St..\nOwn Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) for the income, and you are being quietly shortchanged by design. The \u2026"
+      },
+      {
         "title": "Vanguard\u2019s Dividend ETF Is Beating Its Growth ETF by 8 Points. VUG Holders Picked the Wrong Vanguard Fund.",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/19/vanguards-dividend-etf-is-beating-its-growth-etf-by-8-points-vug-holders-picked-the-wrong-vanguard-fund/",
@@ -625,13 +624,6 @@
         "url": "https://247wallst.com/investing/2026/08/13/schd-vs-vig-after-comparing-the-two-most-popular-dividend-etfs-in-america-one-is-the-better-buy-for-2026/",
         "published_at": "2026-08-13T20:13:16Z",
         "description": "SCHD and VIG both promise dividend income but take opposite approaches to delivering it, and with the 10-year Treasury pressing near 4.7%, the gap between th..."
-      },
-      {
-        "title": "At 59 1/2 the 401(k) Penalty Disappears. These 4 ETFs Are the First Move With Money You Can Touch",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/01/at-59-1-2-the-401k-penalty-disappears-these-4-etfs-are-the-first-move-with-money-you-can-touch/",
-        "published_at": "2026-08-01T08:36:16Z",
-        "description": "Turning 59 and a half flips a switch most investors never think about until it happens, and what you do with that newly penalty-free money in the first few m..."
       }
     ],
     "IJR": []
