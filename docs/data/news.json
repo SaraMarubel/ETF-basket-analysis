@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T01:50:02.819510+00:00",
+  "generated_at": "2026-08-22T04:48:37.453339+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -108,6 +108,20 @@
     ],
     "VTI": [
       {
+        "title": "VOO vs VTI: After Comparing the Two Funds Most Americans Actually Own, One Is the Better Buy for the Next 20 Years",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/20/voo-vs-vti-after-comparing-the-two-funds-most-americans-actually-own-one-is-the-better-buy-for-the-next-20-years/",
+        "published_at": "2026-08-20T21:35:58Z",
+        "description": "VOO and VTI anchor millions of American retirement accounts, and most investors assume the two funds are nearly identical. For a retiree with a 20-year horiz..."
+      },
+      {
+        "title": "How Much of Your Portfolio Should Actually Be in DRAM",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-dram/",
+        "published_at": "2026-08-20T21:25:31Z",
+        "description": "The Roundhill Memory ETF has roughly doubled since April, making it one of the fastest-gaining thematic funds in recent memory. Before you chase that return,..."
+      },
+      {
         "title": "US Treasury Department proposes rules to exclude ESG funds from Trump Accounts",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/treasury-excludes-esg-funds-trump-accounts/",
@@ -134,20 +148,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-takes-1b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-18T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 17, 2026."
-      },
-      {
-        "title": "Investors Pour Into Long Bonds Even as They Sell Off",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-long-bonds-even-they-sell?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-17T21:00:16Z",
-        "description": "US-listed ETFs took in more than $38 billion last week."
-      },
-      {
-        "title": "4 Vanguard ETFs That Belong in Every Portfolio in August",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/17/4-vanguard-etfs-that-belong-in-every-portfolio-in-august/",
-        "published_at": "2026-08-17T11:00:36Z",
-        "description": "Mid-year rebalancing forces a hard question: which ETFs actually earn a permanent spot versus which ones just look good after a strong run? Four Vanguard fun..."
       }
     ],
     "QQQ": [
@@ -308,6 +308,13 @@
     ],
     "SCHD": [
       {
+        "title": "How a 67-Year-Old\u2019s $4,830 Monthly Paycheck From SCHD, JEPQ, and O Shrinks to $3,822 After Taxes",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/20/how-a-67-year-olds-4830-monthly-paycheck-from-schd-jepq-and-o-shrinks-to-3822-after-taxes/",
+        "published_at": "2026-08-20T21:45:16Z",
+        "description": "That popular three-fund retirement income setup looks generous on paper, but the IRS has a very different opinion about where that cash actually goes before..."
+      },
+      {
         "title": "We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/8aa79d6bc1816fd8",
@@ -341,13 +348,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/18/why-own-a-3-dividend-stock-when-uncle-sam-pays-more-than-5/",
         "published_at": "2026-08-18T20:39:27Z",
         "description": "Treasury yields just hit levels not seen in nearly two decades, and that changes the math on every dividend ETF a retiree holds. Before you assume stocks sti..."
-      },
-      {
-        "title": "SCHD\u2019s 27% Year Is Embarrassing Every Growth ETF in Your Portfolio",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/01c0df340c91ddf2",
-        "published_at": "2026-08-18T19:45:39Z",
-        "description": "The post SCHD\u2019s 27% Year Is Embarrassing Every Growth ETF in Your Portfolio appeared first on 24/7 Wall St..\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) is up 27% year to date and 30% over the past year, ahead of the Nasdaq 100, which returned 19% yea\u2026"
       }
     ],
     "IEMG": [
