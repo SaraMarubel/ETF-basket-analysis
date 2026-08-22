@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:40:25.941671+00:00",
+  "generated_at": "2026-08-22T20:39:00.266733+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -523,6 +523,13 @@
     ],
     "GLD": [
       {
+        "title": "Morgan Stanley Doubles Down on Gold After Breakout",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d92015f92becf4ff",
+        "published_at": "2026-08-21T20:25:01Z",
+        "description": "This article first appeared on GuruFocus.\nGold could be headed for another major leg higher after reaching Morgan Stanley's (NYSE:MS) prior target months ahead of schedule, with the bank now seeing a path above $5,000 an ounce in 2027. For investors in SPDR G\u2026"
+      },
+      {
         "title": "Daily ETF Flows: Investors Add to TLT",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-add-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -556,13 +563,6 @@
         "url": "https://biztoc.com/x/6474f2e888ed2620",
         "published_at": "2026-08-16T01:14:29Z",
         "description": "The primary distinction between iShares Gold Trust (NYSEMKT:IAU) and SPDR Gold Shares (NYSEMKT:GLD) is cost, as both funds provide nearly identical exposure to physical gold bullion prices. For many long-term investors, the lower annual fee of the iShares fun\u2026"
-      },
-      {
-        "title": "Gold's wild 2026 ride might not be over yet",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/golds-wild-2026-ride-might-not-be-over-yet",
-        "published_at": "2026-08-15T16:37:00Z",
-        "description": "Gold traders have had a hard time getting this year right. The metal has swung from record highs to steep drops and back again. Most of the people who trade..."
       }
     ],
     "IWF": [
