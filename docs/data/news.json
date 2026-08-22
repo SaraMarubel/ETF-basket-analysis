@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:59:58.402166+00:00",
+  "generated_at": "2026-08-22T16:40:25.941671+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -64,6 +64,13 @@
     ],
     "SPY": [
       {
+        "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61356024/sp-500-8100-ubs-prediction-markets?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-08-21T14:06:53Z",
+        "description": "UBS Global Wealth Management, part of UBS Group AG (NYSE:UBS), expects the S&P 500 as measured by the State Street SPDR S&P 500 ETF Trust (NASDAQ:SPY) to fin..."
+      },
+      {
         "title": "SPYx gains traction in DeFi with $18M in deposits across venues",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/spyx-defi-deposits-tokenized-sp500/",
@@ -97,13 +104,6 @@
         "url": "https://biztoc.com/x/b59724553205118c",
         "published_at": "2026-08-13T19:32:38Z",
         "description": "This article first appeared on GuruFocus.\nU.S. stocks, including the SPDR S&P 500 ETF Trust (SPY), received another potentially supportive inflation signal after July consumer-price data further reduced the odds of a Federal Reserve rate hike in September. Pa\u2026"
-      },
-      {
-        "title": "The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cfc2e72db926b122",
-        "published_at": "2026-08-12T12:53:44Z",
-        "description": "The post The 6.9% Monthly Payer That\u2019s Beating the S&P by 5 Points This Year appeared first on 24/7 Wall St..\nMost investors who want broad U.S. equity exposure end up in SPDR S&P 500 ETF Trust (NYSEARCA:SPY). The reasoning is sound: low cost, deep liquidity,\u2026"
       }
     ],
     "VTI": [
@@ -152,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a169e5a8027b028d",
+        "published_at": "2026-08-21T13:30:57Z",
+        "description": "The post QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) spent 26 years with a fee structurally locked in. It launched in March 1999 as a unit investm\u2026"
+      },
+      {
         "title": "SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/",
@@ -185,13 +192,6 @@
         "url": "http://www.etf.com/sections/features/10-most-popular-ai-etfs-2026?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-20T00:24:40Z",
         "description": "The biggest inflows didn't go into funds with \"AI\" in the name."
-      },
-      {
-        "title": "Daily ETF Flows: Investors Add to TLT",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-add-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-19T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 18, 2026."
       }
     ],
     "IEFA": [],
@@ -308,6 +308,13 @@
     ],
     "SCHD": [
       {
+        "title": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/21/the-hidden-tax-cost-of-jepis-monthly-income-machine/",
+        "published_at": "2026-08-21T16:30:31Z",
+        "description": "JEPI's 8% monthly yield looks like an obvious win over SCHD's modest payout, but the IRS treats those two income streams in ways that can quietly flip the co..."
+      },
+      {
         "title": "How a 67-Year-Old\u2019s $4,830 Monthly Paycheck From SCHD, JEPQ, and O Shrinks to $3,822 After Taxes",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/20/how-a-67-year-olds-4830-monthly-paycheck-from-schd-jepq-and-o-shrinks-to-3822-after-taxes/",
@@ -341,13 +348,6 @@
         "url": "https://biztoc.com/x/24e5bf06d7aa56df",
         "published_at": "2026-08-18T20:46:47Z",
         "description": "The post Why Own a 3% Dividend Stock When Uncle Sam Pays More Than 5%? appeared first on 24/7 Wall St..\nThe pitch for owning Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), Vanguard High Dividend Yield ETF (NYSEARCA:VYM), iShares Core High Dividend ETF (NYSE\u2026"
-      },
-      {
-        "title": "Why Own a 3% Dividend Stock When Uncle Sam Pays More Than 5%?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/18/why-own-a-3-dividend-stock-when-uncle-sam-pays-more-than-5/",
-        "published_at": "2026-08-18T20:39:27Z",
-        "description": "Treasury yields just hit levels not seen in nearly two decades, and that changes the math on every dividend ETF a retiree holds. Before you assume stocks sti..."
       }
     ],
     "IEMG": [
