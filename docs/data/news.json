@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:01:40.698971+00:00",
+  "generated_at": "2026-08-23T16:42:44.215126+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -152,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "Most Tech Stocks Are More Correlated Than You Think. Don\u2019t Let That Wreck Your Trading Plan.",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/3986181/most-tech-stocks-are-more-correlated-than-you-think-dont-let-that-wreck-your-trading-plan",
+        "published_at": "2026-08-22T14:30:02Z",
+        "description": "Most tech stocks and AI-related themes are caught in the same web. That insight could save a lot of financial headaches as the stock market bull run graduall..."
+      },
+      {
         "title": "How a 72-Year-Old\u2019s $400,000 in QYLD Now Pays $3,901 a Month, Down From a Steadily Shrinking Peak",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/21/how-a-72-year-olds-400000-in-qyld-now-pays-3901-a-month-down-from-a-steadily-shrinking-peak/",
@@ -185,13 +192,6 @@
         "url": "https://biztoc.com/x/a169e5a8027b028d",
         "published_at": "2026-08-21T13:30:57Z",
         "description": "The post QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) spent 26 years with a fee structurally locked in. It launched in March 1999 as a unit investm\u2026"
-      },
-      {
-        "title": "SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/",
-        "published_at": "2026-08-20T18:31:39Z",
-        "description": "While the rest of the tech sector bleeds red Thursday, memory stocks are defying gravity, and the catalyst powering the biggest winner has nothing to do with..."
       }
     ],
     "IEFA": [],
@@ -257,6 +257,13 @@
     ],
     "BND": [
       {
+        "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
+        "published_at": "2026-08-22T13:00:00Z",
+        "description": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks."
+      },
+      {
         "title": "BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/0838ea021e39e11a",
@@ -290,16 +297,16 @@
         "url": "https://247wallst.com/investing/2026/08/13/nobody-brags-about-owning-vanguards-vbtlx-and-that-is-exactly-why-it-works/",
         "published_at": "2026-08-13T21:10:49Z",
         "description": "Bond investors spent years watching their monthly income shrink toward nothing while prices fell, but something has quietly shifted inside the most boring fu..."
-      },
-      {
-        "title": "Vanguard\u2019s VTBIX Is the Bond Fund Hiding in the Back of Your Retirement Plan",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/13/vanguards-vtbix-is-the-bond-fund-hiding-in-the-back-of-your-retirement-plan/",
-        "published_at": "2026-08-13T20:31:21Z",
-        "description": "Most 401(k) investors who pick Total Bond Market from a Vanguard plan have never actually looked at what they bought, and the fund quietly running that sleev..."
       }
     ],
     "SCHD": [
+      {
+        "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+        "published_at": "2026-08-22T13:26:14Z",
+        "description": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility."
+      },
       {
         "title": "We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever",
         "source": "Biztoc.com",
@@ -334,16 +341,16 @@
         "url": "https://247wallst.com/investing/etf/2026/08/21/the-hidden-tax-cost-of-jepis-monthly-income-machine/",
         "published_at": "2026-08-21T16:30:31Z",
         "description": "JEPI's 8% monthly yield looks like an obvious win over SCHD's modest payout, but the IRS treats those two income streams in ways that can quietly flip the co..."
-      },
-      {
-        "title": "How a 67-Year-Old\u2019s $4,830 Monthly Paycheck From SCHD, JEPQ, and O Shrinks to $3,822 After Taxes",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/20/how-a-67-year-olds-4830-monthly-paycheck-from-schd-jepq-and-o-shrinks-to-3822-after-taxes/",
-        "published_at": "2026-08-20T21:45:16Z",
-        "description": "That popular three-fund retirement income setup looks generous on paper, but the IRS has a very different opinion about where that cash actually goes before..."
       }
     ],
     "IEMG": [
+      {
+        "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+        "published_at": "2026-08-22T13:26:14Z",
+        "description": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility."
+      },
       {
         "title": "Which International ETF Is the Better Buy: Schwab's Developed Markets SCHF or iShares' Emerging Markets IEMG?",
         "source": "Biztoc.com",
@@ -378,13 +385,6 @@
         "url": "https://247wallst.com/investing/2026/07/27/forget-eem-ishares-sells-nearly-the-same-emerging-markets-for-87-less/",
         "published_at": "2026-07-27T17:01:04Z",
         "description": "BlackRock quietly launched a second emerging markets ETF that costs almost nothing compared to its famous sibling, and the long-term performance numbers reve..."
-      },
-      {
-        "title": "or Emerging Growth (IEMG)? Which Fund is the Right Choice?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/532c72ca7ab496bb",
-        "published_at": "2026-07-25T19:21:51Z",
-        "description": "State Street SPDR Portfolio MSCI Global Stock Market ETF (NYSEMKT:SPGM) provides broad, all-cap global exposure, whereas the iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) focuses exclusively on developing economies, with a heavy tilt toward Asian tech\u2026"
       }
     ],
     "AGG": [
@@ -530,6 +530,13 @@
     ],
     "GLD": [
       {
+        "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
+        "published_at": "2026-08-22T13:00:00Z",
+        "description": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks."
+      },
+      {
         "title": "Daily ETF Flows: $614M Flows Into GLD",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -563,13 +570,6 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
         "published_at": "2026-08-19T16:11:23Z",
         "description": "Gold (GC=F) December futures opened at $4,391.40 per troy ounce on Wednesday, August 19, 2026, down 0.7% from Tuesday's closing price."
-      },
-      {
-        "title": "Daily ETF Flows: GLD Takes In $1B",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-takes-1b?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-18T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 17, 2026."
       }
     ],
     "IWF": [
