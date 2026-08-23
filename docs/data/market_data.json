@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:42:20.314283+00:00",
+  "generated_at": "2026-08-23T20:38:09.835058+00:00",
   "risk_free_rate_pct": 3.71,
   "etfs": {
     "VOO": {
@@ -9,9 +9,9 @@
       "aum": 1686884319232,
       "fund_family": "Vanguard",
       "avg_volume": 8037233,
-      "bid": 704.17,
-      "ask": 704.5,
-      "spread_pct": 0.0469,
+      "bid": 704.5,
+      "ask": 705.1,
+      "spread_pct": 0.0851,
       "price": 703.71,
       "change_1d_pct": 0.39,
       "change_1y_pct": 21.87,
@@ -466,11 +466,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 40.2,
-        "call_open_interest": 2212,
+        "atm_implied_vol_pct": 40.0,
+        "call_open_interest": 2215,
         "put_open_interest": 5638,
         "put_call_oi_ratio": 2.55,
-        "expirations_available": 12
+        "expirations_available": 13
       },
       "strongest_holding": {
         "symbol": "GOOGL",
@@ -492,9 +492,9 @@
       "aum": 869199904768,
       "fund_family": "iShares",
       "avg_volume": 7763517,
-      "bid": 768.86,
+      "bid": 769.86,
       "ask": 771.07,
-      "spread_pct": 0.287,
+      "spread_pct": 0.157,
       "price": 769.31,
       "change_1d_pct": 0.39,
       "change_1y_pct": 21.89,
@@ -949,10 +949,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 26.8,
-        "call_open_interest": 282,
-        "put_open_interest": 46,
-        "put_call_oi_ratio": 0.16,
+        "atm_implied_vol_pct": 24.7,
+        "call_open_interest": 298,
+        "put_open_interest": 59,
+        "put_call_oi_ratio": 0.2,
         "expirations_available": 14
       },
       "strongest_holding": {
@@ -1432,11 +1432,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 32.3,
-        "call_open_interest": 91376,
-        "put_open_interest": 95563,
+        "atm_implied_vol_pct": 40.9,
+        "call_open_interest": 91526,
+        "put_open_interest": 96251,
         "put_call_oi_ratio": 1.05,
-        "expirations_available": 29
+        "expirations_available": 32
       },
       "strongest_holding": {
         "symbol": "GOOGL",
@@ -1458,9 +1458,9 @@
       "aum": 2289978572800,
       "fund_family": "Vanguard",
       "avg_volume": 3372038,
-      "bid": 378.92,
-      "ask": 378.5,
-      "spread_pct": -0.1109,
+      "bid": 378.6,
+      "ask": 379.24,
+      "spread_pct": 0.1689,
       "price": 378.24,
       "change_1d_pct": 0.44,
       "change_1y_pct": 22.35,
@@ -1919,7 +1919,7 @@
         "call_open_interest": 7140,
         "put_open_interest": 5222,
         "put_call_oi_ratio": 0.73,
-        "expirations_available": 7
+        "expirations_available": 8
       },
       "strongest_holding": {
         "symbol": "LLY",
@@ -2398,11 +2398,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 31.0,
-        "call_open_interest": 57900,
-        "put_open_interest": 66584,
-        "put_call_oi_ratio": 1.15,
-        "expirations_available": 28
+        "atm_implied_vol_pct": 40.7,
+        "call_open_interest": 58546,
+        "put_open_interest": 69770,
+        "put_call_oi_ratio": 1.19,
+        "expirations_available": 31
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -2424,9 +2424,9 @@
       "aum": 190108827648,
       "fund_family": "iShares",
       "avg_volume": 9136179,
-      "bid": 100.86,
+      "bid": 100.0,
       "ask": 100.85,
-      "spread_pct": -0.0099,
+      "spread_pct": 0.8464,
       "price": 100.85,
       "change_1d_pct": 0.86,
       "change_1y_pct": 21.83,
@@ -2885,7 +2885,7 @@
         "call_open_interest": 615,
         "put_open_interest": 218,
         "put_call_oi_ratio": 0.35,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "ASML.AS",
@@ -2907,9 +2907,9 @@
       "aum": 314947534848,
       "fund_family": "Vanguard",
       "avg_volume": 11016283,
-      "bid": 73.42,
-      "ask": 73.44,
-      "spread_pct": 0.0272,
+      "bid": 73.32,
+      "ask": 73.82,
+      "spread_pct": 0.6796,
       "price": 73.42,
       "change_1d_pct": 0.8,
       "change_1y_pct": 28.89,
@@ -3368,7 +3368,7 @@
         "call_open_interest": 16545,
         "put_open_interest": 3183,
         "put_call_oi_ratio": 0.19,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "000660.KS",
@@ -3391,8 +3391,8 @@
       "fund_family": "Vanguard",
       "avg_volume": 7485324,
       "bid": 87.36,
-      "ask": 87.6,
-      "spread_pct": 0.2743,
+      "ask": 87.65,
+      "spread_pct": 0.3314,
       "price": 87.5,
       "change_1d_pct": 0.38,
       "change_1y_pct": 16.86,
@@ -3851,7 +3851,7 @@
         "call_open_interest": 11447,
         "put_open_interest": 20644,
         "put_call_oi_ratio": 1.8,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "LLY",
@@ -4261,7 +4261,7 @@
         "call_open_interest": 801,
         "put_open_interest": 163,
         "put_call_oi_ratio": 0.2,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -4273,9 +4273,9 @@
       "aum": 104163942400,
       "fund_family": "Schwab ETFs",
       "avg_volume": 21778664,
-      "bid": 35.15,
-      "ask": 35.13,
-      "spread_pct": -0.0569,
+      "bid": 35.18,
+      "ask": 35.21,
+      "spread_pct": 0.0852,
       "price": 35.11,
       "change_1d_pct": 0.8,
       "change_1y_pct": 32.27,
@@ -4730,11 +4730,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 154.3,
+        "atm_implied_vol_pct": 153.1,
         "call_open_interest": 9803,
         "put_open_interest": 5926,
         "put_call_oi_ratio": 0.6,
-        "expirations_available": 9
+        "expirations_available": 10
       },
       "strongest_holding": {
         "symbol": "MRK",
@@ -4756,9 +4756,9 @@
       "aum": 152217387008,
       "fund_family": "iShares",
       "avg_volume": 13100025,
-      "bid": 81.54,
-      "ask": 81.65,
-      "spread_pct": 0.1348,
+      "bid": 81.52,
+      "ask": 83.0,
+      "spread_pct": 1.7992,
       "price": 81.57,
       "change_1d_pct": 0.64,
       "change_1y_pct": 35.45,
@@ -5217,7 +5217,7 @@
         "call_open_interest": 1578,
         "put_open_interest": 547,
         "put_call_oi_ratio": 0.35,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "000660.KS",
@@ -5239,9 +5239,9 @@
       "aum": 137109602304,
       "fund_family": "iShares",
       "avg_volume": 8401311,
-      "bid": 97.3,
-      "ask": 97.36,
-      "spread_pct": 0.0616,
+      "bid": 97.28,
+      "ask": 97.9,
+      "spread_pct": 0.6353,
       "price": 97.35,
       "change_1d_pct": -0.14,
       "change_1y_pct": 2.47,
@@ -5634,7 +5634,7 @@
         "call_open_interest": 611,
         "put_open_interest": 377,
         "put_call_oi_ratio": 0.62,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -5646,9 +5646,9 @@
       "aum": 256410894336,
       "fund_family": "Vanguard",
       "avg_volume": 2983766,
-      "bid": 226.0,
-      "ask": 226.74,
-      "spread_pct": 0.3269,
+      "bid": 226.3,
+      "ask": 227.22,
+      "spread_pct": 0.4057,
       "price": 226.4,
       "change_1d_pct": 0.54,
       "change_1y_pct": 27.73,
@@ -6103,11 +6103,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 20.1,
-        "call_open_interest": 178,
-        "put_open_interest": 1834,
-        "put_call_oi_ratio": 10.3,
-        "expirations_available": 3
+        "atm_implied_vol_pct": 24.6,
+        "call_open_interest": 190,
+        "put_open_interest": 1837,
+        "put_call_oi_ratio": 9.67,
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -6586,11 +6586,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 49.8,
-        "call_open_interest": 367,
-        "put_open_interest": 94,
-        "put_call_oi_ratio": 0.26,
-        "expirations_available": 8
+        "atm_implied_vol_pct": 50.8,
+        "call_open_interest": 368,
+        "put_open_interest": 128,
+        "put_call_oi_ratio": 0.35,
+        "expirations_available": 9
       },
       "strongest_holding": {
         "symbol": "000660.KS",
@@ -6612,9 +6612,9 @@
       "aum": 162032336896,
       "fund_family": "Vanguard",
       "avg_volume": 8004750,
-      "bid": 60.45,
-      "ask": 60.54,
-      "spread_pct": 0.1488,
+      "bid": 60.37,
+      "ask": 60.56,
+      "spread_pct": 0.3142,
       "price": 60.45,
       "change_1d_pct": 0.72,
       "change_1y_pct": 20.99,
@@ -7071,9 +7071,9 @@
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 42.5,
         "call_open_interest": 10764,
-        "put_open_interest": 7326,
+        "put_open_interest": 7330,
         "put_call_oi_ratio": 0.68,
-        "expirations_available": 4
+        "expirations_available": 5
       },
       "strongest_holding": {
         "symbol": "2454.TW",
@@ -7095,9 +7095,9 @@
       "aum": 130322653184,
       "fund_family": "State Street Investment Management",
       "avg_volume": 8129567,
-      "bid": 423.3,
-      "ask": 423.1,
-      "spread_pct": -0.0473,
+      "bid": 423.1,
+      "ask": 423.19,
+      "spread_pct": 0.0213,
       "price": 423.36,
       "change_1d_pct": 1.95,
       "change_1y_pct": 37.77,
@@ -7479,11 +7479,11 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 54.2,
-        "call_open_interest": 11264,
-        "put_open_interest": 5769,
-        "put_call_oi_ratio": 0.51,
-        "expirations_available": 23
+        "atm_implied_vol_pct": 56.4,
+        "call_open_interest": 13257,
+        "put_open_interest": 8185,
+        "put_call_oi_ratio": 0.62,
+        "expirations_available": 29
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -7495,9 +7495,9 @@
       "aum": 121217597440,
       "fund_family": "iShares",
       "avg_volume": 4745819,
-      "bid": 122.37,
+      "bid": 122.36,
       "ask": 122.85,
-      "spread_pct": 0.3915,
+      "spread_pct": 0.3997,
       "price": 122.39,
       "change_1d_pct": 0.47,
       "change_1y_pct": 12.08,
@@ -7952,11 +7952,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 29.4,
-        "call_open_interest": 3460,
-        "put_open_interest": 882,
+        "atm_implied_vol_pct": 29.7,
+        "call_open_interest": 3488,
+        "put_open_interest": 883,
         "put_call_oi_ratio": 0.25,
-        "expirations_available": 4
+        "expirations_available": 5
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -7978,9 +7978,9 @@
       "aum": 122394140672,
       "fund_family": "iShares",
       "avg_volume": 6794216,
-      "bid": 76.73,
-      "ask": 77.12,
-      "spread_pct": 0.507,
+      "bid": 76.62,
+      "ask": 77.11,
+      "spread_pct": 0.6375,
       "price": 76.77,
       "change_1d_pct": 0.52,
       "change_1y_pct": 22.57,
@@ -8435,11 +8435,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 25.1,
-        "call_open_interest": 434,
-        "put_open_interest": 63,
+        "atm_implied_vol_pct": 25.2,
+        "call_open_interest": 435,
+        "put_open_interest": 65,
         "put_call_oi_ratio": 0.15,
-        "expirations_available": 3
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "ATI",
@@ -8461,9 +8461,9 @@
       "aum": 130902130688,
       "fund_family": "Vanguard",
       "avg_volume": 1090601,
-      "bid": 242.26,
-      "ask": 243.97,
-      "spread_pct": 0.7034,
+      "bid": 242.75,
+      "ask": 244.76,
+      "spread_pct": 0.8246,
       "price": 243.91,
       "change_1d_pct": 0.69,
       "change_1y_pct": 18.6,
@@ -8922,7 +8922,7 @@
         "call_open_interest": 225,
         "put_open_interest": 104,
         "put_call_oi_ratio": 0.46,
-        "expirations_available": 4
+        "expirations_available": 5
       },
       "strongest_holding": {
         "symbol": "LLY",
@@ -8944,9 +8944,9 @@
       "aum": 109626867712,
       "fund_family": "iShares",
       "avg_volume": 3627996,
-      "bid": 147.27,
-      "ask": 147.3,
-      "spread_pct": 0.0204,
+      "bid": 146.88,
+      "ask": 148.13,
+      "spread_pct": 0.8474,
       "price": 147.31,
       "change_1d_pct": 0.64,
       "change_1y_pct": 30.77,
@@ -9403,9 +9403,9 @@
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 27.0,
         "call_open_interest": 1382,
-        "put_open_interest": 1792,
+        "put_open_interest": 1794,
         "put_call_oi_ratio": 1.3,
-        "expirations_available": 4
+        "expirations_available": 5
       },
       "strongest_holding": {
         "symbol": "FORM",
