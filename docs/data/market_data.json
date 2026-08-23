@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:38:34.726141+00:00",
+  "generated_at": "2026-08-23T01:59:22.576661+00:00",
   "risk_free_rate_pct": 3.71,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 37.2,
+        "atm_implied_vol_pct": 40.2,
         "call_open_interest": 2212,
         "put_open_interest": 5638,
         "put_call_oi_ratio": 2.55,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 24.8,
+        "atm_implied_vol_pct": 26.8,
         "call_open_interest": 282,
         "put_open_interest": 46,
         "put_call_oi_ratio": 0.16,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 26.4,
+        "atm_implied_vol_pct": 32.3,
         "call_open_interest": 91376,
         "put_open_interest": 95563,
         "put_call_oi_ratio": 1.05,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 34.2,
+        "atm_implied_vol_pct": 34.6,
         "call_open_interest": 7140,
         "put_open_interest": 5222,
         "put_call_oi_ratio": 0.73,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 25.3,
+        "atm_implied_vol_pct": 31.0,
         "call_open_interest": 57900,
         "put_open_interest": 66584,
         "put_call_oi_ratio": 1.15,
@@ -2822,19 +2822,19 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.5,
-          "change_1y_pct": 138.81
+          "change_1y_pct": 138.9
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.41,
-          "change_1y_pct": 55.41
+          "change_1y_pct": 57.04
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.19,
-          "change_1y_pct": 45.97
+          "change_1y_pct": 47.46
         },
         {
           "symbol": "NOVN.SW",
@@ -2846,25 +2846,25 @@
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.0,
-          "change_1y_pct": 8.93
+          "change_1y_pct": 9.31
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.0,
-          "change_1y_pct": 0.35
+          "change_1y_pct": 1.61
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 28.53
+          "change_1y_pct": 27.39
         },
         {
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.94,
-          "change_1y_pct": 20.64
+          "change_1y_pct": 22.54
         },
         {
           "symbol": "8306.T",
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 22.7,
+        "atm_implied_vol_pct": 22.4,
         "call_open_interest": 615,
         "put_open_interest": 218,
         "put_call_oi_ratio": 0.35,
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.5,
-        "change_1y_pct": 138.81
+        "change_1y_pct": 138.9
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.0,
-        "change_1y_pct": 0.35
+        "change_1y_pct": 1.61
       }
     },
     "VEA": {
@@ -3311,7 +3311,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 138.81
+          "change_1y_pct": 138.9
         },
         {
           "symbol": "000660.KS",
@@ -3323,13 +3323,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.13,
-          "change_1y_pct": 55.41
+          "change_1y_pct": 57.04
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 45.97
+          "change_1y_pct": 47.46
         },
         {
           "symbol": "RY",
@@ -3347,24 +3347,24 @@
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.79,
-          "change_1y_pct": 8.93
+          "change_1y_pct": 9.31
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 28.53
+          "change_1y_pct": 27.39
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 0.35
+          "change_1y_pct": 1.61
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 29.2,
+        "atm_implied_vol_pct": 29.8,
         "call_open_interest": 16545,
         "put_open_interest": 3183,
         "put_call_oi_ratio": 0.19,
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": 0.35
+        "change_1y_pct": 1.61
       }
     },
     "VUG": {
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 46.9,
+        "atm_implied_vol_pct": 47.4,
         "call_open_interest": 11447,
         "put_open_interest": 20644,
         "put_call_oi_ratio": 1.8,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 22.8,
+        "atm_implied_vol_pct": 23.2,
         "call_open_interest": 801,
         "put_open_interest": 163,
         "put_call_oi_ratio": 0.2,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 143.6,
+        "atm_implied_vol_pct": 154.3,
         "call_open_interest": 9803,
         "put_open_interest": 5926,
         "put_call_oi_ratio": 0.6,
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 36.1,
+        "atm_implied_vol_pct": 36.6,
         "call_open_interest": 1578,
         "put_open_interest": 547,
         "put_call_oi_ratio": 0.35,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 10.9,
+        "atm_implied_vol_pct": 11.5,
         "call_open_interest": 611,
         "put_open_interest": 377,
         "put_call_oi_ratio": 0.62,
@@ -6103,7 +6103,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 19.8,
+        "atm_implied_vol_pct": 20.1,
         "call_open_interest": 178,
         "put_open_interest": 1834,
         "put_call_oi_ratio": 10.3,
@@ -6539,7 +6539,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 138.81
+          "change_1y_pct": 138.9
         },
         {
           "symbol": "000660.KS",
@@ -6557,13 +6557,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.82,
-          "change_1y_pct": 55.41
+          "change_1y_pct": 57.04
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 45.97
+          "change_1y_pct": 47.46
         },
         {
           "symbol": "RY",
@@ -6586,7 +6586,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 46.1,
+        "atm_implied_vol_pct": 49.8,
         "call_open_interest": 367,
         "put_open_interest": 94,
         "put_call_oi_ratio": 0.26,
@@ -7069,7 +7069,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 41.8,
+        "atm_implied_vol_pct": 42.5,
         "call_open_interest": 10764,
         "put_open_interest": 7326,
         "put_call_oi_ratio": 0.68,
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 46.5,
+        "atm_implied_vol_pct": 54.2,
         "call_open_interest": 11264,
         "put_open_interest": 5769,
         "put_call_oi_ratio": 0.51,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 28.9,
+        "atm_implied_vol_pct": 29.4,
         "call_open_interest": 3460,
         "put_open_interest": 882,
         "put_call_oi_ratio": 0.25,
@@ -8435,7 +8435,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 24.6,
+        "atm_implied_vol_pct": 25.1,
         "call_open_interest": 434,
         "put_open_interest": 63,
         "put_call_oi_ratio": 0.15,
@@ -8918,7 +8918,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 34.4,
+        "atm_implied_vol_pct": 35.1,
         "call_open_interest": 225,
         "put_open_interest": 104,
         "put_call_oi_ratio": 0.46,
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 26.5,
+        "atm_implied_vol_pct": 27.0,
         "call_open_interest": 1382,
         "put_open_interest": 1792,
         "put_call_oi_ratio": 1.3,

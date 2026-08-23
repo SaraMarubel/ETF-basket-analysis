@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:39:00.266733+00:00",
+  "generated_at": "2026-08-23T01:59:48.580776+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -64,6 +64,20 @@
     ],
     "SPY": [
       {
+        "title": "Trump Approval Rating Hits 40%: Why Low Mark Is Good News - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e4c4ddab5c71c483",
+        "published_at": "2026-08-21T23:24:04Z",
+        "description": "Despite holding below 50%, President Donald Trump\u2019s latest approval rating marks a four-month high\u2014offering a silver lining for the White House in the latest polling data.\nWhile many recent polls show Trump\u2019s approval rating falling (Reuters/Ipsos has it at 3\u2026"
+      },
+      {
+        "title": "SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e4012f56a21e1135",
+        "published_at": "2026-08-21T21:06:35Z",
+        "description": "The post SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the most-traded exchange-traded fund in the world, but it is far from the cheapest wa\u2026"
+      },
+      {
         "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
         "source": "Benzinga",
         "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61356024/sp-500-8100-ubs-prediction-markets?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
@@ -90,20 +104,6 @@
         "url": "https://cryptobriefing.com/uniswap-founder-amms-tokenized-stocks/",
         "published_at": "2026-08-18T11:18:59Z",
         "description": "AMMs could democratize equity market-making, reducing barriers and attracting diverse participants, but regulatory challenges remain significant.\nThe post Uniswap founder highlights AMMs\u2019 potential with tokenized stocks appeared first on Crypto Briefing."
-      },
-      {
-        "title": "Trump made 21,000 trades last year. Here's one way you can trade like the president.",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/the-investing-strategy-behind-president-trumps-21-000-trades-2026-8#article",
-        "published_at": "2026-08-16T09:30:02Z",
-        "description": "Trump's accounts were making thousands of trades to maximize tax write-offs. Here's who might want to copy the strategy."
-      },
-      {
-        "title": "Pantheon Drops Surprising Fed Call After July CPI",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b59724553205118c",
-        "published_at": "2026-08-13T19:32:38Z",
-        "description": "This article first appeared on GuruFocus.\nU.S. stocks, including the SPDR S&P 500 ETF Trust (SPY), received another potentially supportive inflation signal after July consumer-price data further reduced the odds of a Federal Reserve rate hike in September. Pa\u2026"
       }
     ],
     "VTI": [
@@ -152,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "FuelCell Energy Jumps 5%, Plug Power Climbs 4%, Bloom Energy Slips as the Hydrogen Trade Splits",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/21/fuelcell-energy-jumps-5-plug-power-climbs-4-bloom-energy-slips-as-the-hydrogen-trade-splits/",
+        "published_at": "2026-08-21T18:04:43Z",
+        "description": "FuelCell Energy and Plug Power are surging while Bloom Energy slides and the sector ETF drops, and the reason why tells you something important about how hyd..."
+      },
+      {
         "title": "QQQ Cut Its Fee After 26 Years. On $250,000, the VGT ETF Still Saves You $225 Every Year",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a169e5a8027b028d",
@@ -185,13 +192,6 @@
         "url": "https://biztoc.com/x/f143060a74581b27",
         "published_at": "2026-08-20T13:29:10Z",
         "description": "The post Strategy Rallies 9%, Bitmine Climbs 7%, Coinbase Jumps 6% as $3.3B Short Squeeze Powers Bitcoin Past $71K appeared first on 24/7 Wall St..\nTech stocks are generally in the red this morning, but cryptocurrency stocks are deep in the green. The Invesco\u2026"
-      },
-      {
-        "title": "The 10 Most Popular AI ETFs of 2026",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/10-most-popular-ai-etfs-2026?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-20T00:24:40Z",
-        "description": "The biggest inflows didn't go into funds with \"AI\" in the name."
       }
     ],
     "IEFA": [],
@@ -439,6 +439,13 @@
       }
     ],
     "VTV": [
+      {
+        "title": "VTV\u2019s 0.03% Fee Hides the Real Cost: $250,000 Trails the S&P 500 by $229,000 Over a Decade",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ffba59636b6cf684",
+        "published_at": "2026-08-21T22:07:32Z",
+        "description": "The post VTV\u2019s 0.03% Fee Hides the Real Cost: $250,000 Trails the S&P 500 by $229,000 Over a Decade appeared first on 24/7 Wall St..\nThe 0.03% expense ratio on the Vanguard Value ETF (NYSEARCA:VTV) works out to roughly $3 per $10,000 per year. That sounds lik\u2026"
+      },
       {
         "title": "Growth Is Flat in 2026. Vanguard\u2019s Deep-Value Fund Is Up 22%, and Almost Nobody Owns It",
         "source": "24/7 Wall St.",
