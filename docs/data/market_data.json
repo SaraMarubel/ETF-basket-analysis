@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:38:09.835058+00:00",
+  "generated_at": "2026-08-24T01:57:04.973840+00:00",
   "risk_free_rate_pct": 3.71,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 40.0,
+        "atm_implied_vol_pct": 43.5,
         "call_open_interest": 2215,
         "put_open_interest": 5638,
         "put_call_oi_ratio": 2.55,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 24.7,
+        "atm_implied_vol_pct": 27.0,
         "call_open_interest": 298,
         "put_open_interest": 59,
         "put_call_oi_ratio": 0.2,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 40.9,
+        "atm_implied_vol_pct": 57.6,
         "call_open_interest": 91526,
         "put_open_interest": 96251,
         "put_call_oi_ratio": 1.05,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 34.6,
+        "atm_implied_vol_pct": 35.1,
         "call_open_interest": 7140,
         "put_open_interest": 5222,
         "put_call_oi_ratio": 0.73,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 40.7,
+        "atm_implied_vol_pct": 57.3,
         "call_open_interest": 58546,
         "put_open_interest": 69770,
         "put_call_oi_ratio": 1.19,
@@ -2870,18 +2870,18 @@
           "symbol": "8306.T",
           "name": "Mitsubishi UFJ Financial Group Inc",
           "weight_pct": 0.93,
-          "change_1y_pct": 60.93
+          "change_1y_pct": 57.5
         },
         {
           "symbol": "BHP.AX",
           "name": "BHP Group Ltd",
           "weight_pct": 0.84,
-          "change_1y_pct": 61.37
+          "change_1y_pct": 62.33
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 22.4,
+        "atm_implied_vol_pct": 22.8,
         "call_open_interest": 615,
         "put_open_interest": 218,
         "put_call_oi_ratio": 0.35,
@@ -3305,7 +3305,7 @@
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 2.48,
-          "change_1y_pct": 303.73
+          "change_1y_pct": 270.68
         },
         {
           "symbol": "ASML.AS",
@@ -3317,7 +3317,7 @@
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 1.94,
-          "change_1y_pct": 609.07
+          "change_1y_pct": 573.71
         },
         {
           "symbol": "HSBA.L",
@@ -3364,7 +3364,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 29.8,
+        "atm_implied_vol_pct": 30.3,
         "call_open_interest": 16545,
         "put_open_interest": 3183,
         "put_call_oi_ratio": 0.19,
@@ -3374,7 +3374,7 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 1.94,
-        "change_1y_pct": 609.07
+        "change_1y_pct": 573.71
       },
       "weakest_holding": {
         "symbol": "AZN.L",
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 47.4,
+        "atm_implied_vol_pct": 47.9,
         "call_open_interest": 11447,
         "put_open_interest": 20644,
         "put_call_oi_ratio": 1.8,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 23.2,
+        "atm_implied_vol_pct": 23.6,
         "call_open_interest": 801,
         "put_open_interest": 163,
         "put_call_oi_ratio": 0.2,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 153.1,
+        "atm_implied_vol_pct": 167.7,
         "call_open_interest": 9803,
         "put_open_interest": 5926,
         "put_call_oi_ratio": 0.6,
@@ -5154,37 +5154,37 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 13.63,
-          "change_1y_pct": 112.36
+          "change_1y_pct": 107.86
         },
         {
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 6.35,
-          "change_1y_pct": 303.73
+          "change_1y_pct": 270.68
         },
         {
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 4.91,
-          "change_1y_pct": 609.07
+          "change_1y_pct": 573.71
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 2.75,
-          "change_1y_pct": -22.04
+          "change_1y_pct": -26.71
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 1.84,
-          "change_1y_pct": 6.43
+          "change_1y_pct": -9.94
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.17,
-          "change_1y_pct": 184.73
+          "change_1y_pct": 176.37
         },
         {
           "symbol": "005935",
@@ -5202,18 +5202,18 @@
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.73,
-          "change_1y_pct": 171.47
+          "change_1y_pct": 160.97
         },
         {
           "symbol": "2317.TW",
           "name": "Hon Hai Precision Industry Co Ltd",
           "weight_pct": 0.7,
-          "change_1y_pct": 22.72
+          "change_1y_pct": 21.59
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 36.8,
+        "atm_implied_vol_pct": 37.5,
         "call_open_interest": 1578,
         "put_open_interest": 547,
         "put_call_oi_ratio": 0.35,
@@ -5223,13 +5223,13 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 4.91,
-        "change_1y_pct": 609.07
+        "change_1y_pct": 573.71
       },
       "weakest_holding": {
         "symbol": "0700.HK",
         "name": "Tencent Holdings Ltd",
         "weight_pct": 2.75,
-        "change_1y_pct": -22.04
+        "change_1y_pct": -26.71
       }
     },
     "AGG": {
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 11.1,
+        "atm_implied_vol_pct": 11.3,
         "call_open_interest": 611,
         "put_open_interest": 377,
         "put_call_oi_ratio": 0.62,
@@ -6103,7 +6103,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 24.6,
+        "atm_implied_vol_pct": 25.0,
         "call_open_interest": 190,
         "put_open_interest": 1837,
         "put_call_oi_ratio": 9.67,
@@ -6527,13 +6527,13 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 4.02,
-          "change_1y_pct": 112.36
+          "change_1y_pct": 107.86
         },
         {
           "symbol": "005930.KS",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 1.8,
-          "change_1y_pct": 303.73
+          "change_1y_pct": 270.68
         },
         {
           "symbol": "ASML.AS",
@@ -6545,13 +6545,13 @@
           "symbol": "000660.KS",
           "name": "SK hynix Inc",
           "weight_pct": 1.41,
-          "change_1y_pct": 609.07
+          "change_1y_pct": 573.71
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 0.85,
-          "change_1y_pct": -22.04
+          "change_1y_pct": -26.71
         },
         {
           "symbol": "HSBA.L",
@@ -6581,12 +6581,12 @@
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 0.62,
-          "change_1y_pct": 6.43
+          "change_1y_pct": -9.94
         }
       ],
       "options": {
         "nearest_expiration": "2026-08-28",
-        "atm_implied_vol_pct": 50.8,
+        "atm_implied_vol_pct": 55.7,
         "call_open_interest": 368,
         "put_open_interest": 128,
         "put_call_oi_ratio": 0.35,
@@ -6596,13 +6596,13 @@
         "symbol": "000660.KS",
         "name": "SK hynix Inc",
         "weight_pct": 1.41,
-        "change_1y_pct": 609.07
+        "change_1y_pct": 573.71
       },
       "weakest_holding": {
         "symbol": "0700.HK",
         "name": "Tencent Holdings Ltd",
         "weight_pct": 0.85,
-        "change_1y_pct": -22.04
+        "change_1y_pct": -26.71
       }
     },
     "VWO": {
@@ -7010,25 +7010,25 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 14.99,
-          "change_1y_pct": 112.36
+          "change_1y_pct": 107.86
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 3.19,
-          "change_1y_pct": -22.04
+          "change_1y_pct": -26.71
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 2.33,
-          "change_1y_pct": 6.43
+          "change_1y_pct": -9.94
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.31,
-          "change_1y_pct": 184.73
+          "change_1y_pct": 176.37
         },
         {
           "symbol": "00939",
@@ -7040,13 +7040,13 @@
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.79,
-          "change_1y_pct": 171.47
+          "change_1y_pct": 160.97
         },
         {
           "symbol": "2317.TW",
           "name": "Hon Hai Precision Industry Co Ltd",
           "weight_pct": 0.78,
-          "change_1y_pct": 22.72
+          "change_1y_pct": 21.59
         },
         {
           "symbol": "RELIANCE.NS",
@@ -7069,7 +7069,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 42.5,
+        "atm_implied_vol_pct": 43.3,
         "call_open_interest": 10764,
         "put_open_interest": 7330,
         "put_call_oi_ratio": 0.68,
@@ -7079,13 +7079,13 @@
         "symbol": "2454.TW",
         "name": "MediaTek Inc",
         "weight_pct": 1.31,
-        "change_1y_pct": 184.73
+        "change_1y_pct": 176.37
       },
       "weakest_holding": {
-        "symbol": "HDFCBANK.NS",
-        "name": "HDFC Bank Ltd",
-        "weight_pct": 0.75,
-        "change_1y_pct": -25.78
+        "symbol": "0700.HK",
+        "name": "Tencent Holdings Ltd",
+        "weight_pct": 3.19,
+        "change_1y_pct": -26.71
       }
     },
     "GLD": {
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-08-24",
-        "atm_implied_vol_pct": 56.4,
+        "atm_implied_vol_pct": 76.5,
         "call_open_interest": 13257,
         "put_open_interest": 8185,
         "put_call_oi_ratio": 0.62,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 29.7,
+        "atm_implied_vol_pct": 30.3,
         "call_open_interest": 3488,
         "put_open_interest": 883,
         "put_call_oi_ratio": 0.25,
@@ -8435,7 +8435,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 25.2,
+        "atm_implied_vol_pct": 25.6,
         "call_open_interest": 435,
         "put_open_interest": 65,
         "put_call_oi_ratio": 0.15,
@@ -8918,7 +8918,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 35.1,
+        "atm_implied_vol_pct": 35.7,
         "call_open_interest": 225,
         "put_open_interest": 104,
         "put_call_oi_ratio": 0.46,
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 27.0,
+        "atm_implied_vol_pct": 27.5,
         "call_open_interest": 1382,
         "put_open_interest": 1794,
         "put_call_oi_ratio": 1.3,
