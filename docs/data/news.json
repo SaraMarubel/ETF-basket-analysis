@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T16:55:24.916271+00:00",
+  "generated_at": "2026-08-25T20:46:11.211409+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e3e8a75913bb1148",
+        "published_at": "2026-08-24T18:13:38Z",
+        "description": "The post Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips appeared first on 24/7 Wall St..\nSemiconductors are a pressure point in tech today. Notably, the iShares Semiconductor ETF (NASDAQ:SOXX) is down 3% to $505.27 while the NASDAQ 100 tracking \u2026"
+      },
+      {
         "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/5031f4fbe0fda7be",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/24/michael-burry-is-shorting-nvidia-heading-into-earnings-heres-what-hes-buying-instead/",
         "published_at": "2026-08-24T12:36:45Z",
         "description": "The man who called the 2008 housing collapse is walking into Nvidia's most consequential earnings report short the stock and long something Wall Street won't..."
-      },
-      {
-        "title": "NASDAQ 100 ETF pulls $11B in August, outpacing Bitcoin ETFs",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/nasdaq-100-etf-outflows-outpace-bitcoin-etfs-august/",
-        "published_at": "2026-08-22T19:41:00Z",
-        "description": "The contrasting fund flows highlight shifting investor sentiment, potentially signaling a reevaluation of tech versus crypto investment strategies.\nThe post NASDAQ 100 ETF pulls $11B in August, outpacing Bitcoin ETFs appeared first on Crypto Briefing."
       }
     ],
     "IEFA": [],
@@ -303,6 +303,20 @@
       {
         "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
         "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/34e2c288a7383db5",
+        "published_at": "2026-08-24T17:45:35Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) held $112 billion in net assets as of August 21, 2026, cementing its role as the default income holding for dividend investors.\nSCHD's mandate stops at the U.S. border by design, leaving an entire universe of develop\u2026"
+      },
+      {
+        "title": "5 ETFs Warren Buffett Would Consider Now -- Simple Picks for Beginners",
+        "source": "Moneylion.com",
+        "url": "https://moneylion.com/trending/money/etfs-warren-buffett-would-consider-simple-picks-beginners",
+        "published_at": "2026-08-24T17:16:37Z",
+        "description": "Looking for beginner-friendly investments? Explore five ETFs that align with Warren Buffett's long-term investing philosophy."
+      },
+      {
+        "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
+        "source": "Biztoc.com",
         "url": "https://biztoc.com/x/35e2576454a7ac34",
         "published_at": "2026-08-24T14:08:53Z",
         "description": "The Schwab U.S. Dividend Equity ETF (SCHD) held $112 billion in net assets as of August 21, 2026, cementing its role as the default income holding for dividend investors.\nSCHD\u2019s mandate stops at the U.S. border by design, leaving an entire universe of develop\u2026"
@@ -327,20 +341,6 @@
         "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
         "published_at": "2026-08-22T13:26:14Z",
         "description": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility."
-      },
-      {
-        "title": "We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a44766bf0a5613b2",
-        "published_at": "2026-08-22T12:34:42Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) spent most of the past three years as the fund income investors defended and everyone else skipped. Our earlier coverage argued SCHD was a drag on portfolios during the AI-fueled rally in the S&P 500, and pl\u2026"
-      },
-      {
-        "title": "SCHD: We Were Horribly Wrong (NYSEARCA:SCHD)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0042c0eaf25b2c72",
-        "published_at": "2026-08-22T02:11:08Z",
-        "description": "Summary\n- Schwab U.S. Dividend Equity ETF defied expectations despite bearish macro conditions.\n- SCHD's top holdings\u2014ABT, MRK, and AMGN\u2014have delivered outsized gains, especially following blockbuster news.\n- Dividend growth and stable income remain core stre\u2026"
       }
     ],
     "IEMG": [
@@ -433,6 +433,13 @@
     ],
     "VTV": [
       {
+        "title": "5 ETFs Warren Buffett Would Consider Now -- Simple Picks for Beginners",
+        "source": "Moneylion.com",
+        "url": "https://moneylion.com/trending/money/etfs-warren-buffett-would-consider-simple-picks-beginners",
+        "published_at": "2026-08-24T17:16:37Z",
+        "description": "Looking for beginner-friendly investments? Explore five ETFs that align with Warren Buffett's long-term investing philosophy."
+      },
+      {
         "title": "VTV\u2019s 0.03% Fee Hides the Real Cost: $250,000 Trails the S&P 500 by $229,000 Over a Decade",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ffba59636b6cf684",
@@ -466,13 +473,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/08/vgt-puts-39-cents-of-every-dollar-into-just-3-stocks-the-pairing-that-fixes-it-without-selling/",
         "published_at": "2026-08-08T17:00:51Z",
         "description": "VGT has quietly turned into a three-stock concentration problem for long-term holders, and selling to fix it means handing the IRS a check. There is a pairin..."
-      },
-      {
-        "title": "VTV Asks You to Pay Yesterday's Premium for Tomorrow's Growth",
-        "source": "Trefis",
-        "url": "https://www.trefis.com/articles/609304/vtv-asks-you-to-pay-yesterdays-premium-for-tomorrows-growth/2026-07-30",
-        "published_at": "2026-07-30T13:39:43Z",
-        "description": "The fund is asking a higher price than usual, but the brisk earnings of its biggest companies might just back it up."
       }
     ],
     "VXUS": [
@@ -530,6 +530,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold advances to three-month high as debasement trade returns",
+        "source": "Financial Post",
+        "url": "https://financialpost.com/news/gold-advances-to-three-month-high",
+        "published_at": "2026-08-24T20:45:11Z",
+        "description": "Gold climbed to the highest in over three months as the Treasury\u2019s intervention in the bond market revived fiscal policy concerns. Read on"
+      },
+      {
         "title": "A massive trade just happened in gold. The options market is buzzing",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
@@ -563,13 +570,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-21T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 20, 2026."
-      },
-      {
-        "title": "Morgan Stanley Doubles Down on Gold After Breakout",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d92015f92becf4ff",
-        "published_at": "2026-08-21T20:25:01Z",
-        "description": "This article first appeared on GuruFocus.\nGold could be headed for another major leg higher after reaching Morgan Stanley's (NYSE:MS) prior target months ahead of schedule, with the bank now seeing a path above $5,000 an ounce in 2027. For investors in SPDR G\u2026"
       }
     ],
     "IWF": [
