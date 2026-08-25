@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:48:00.685970+00:00",
+  "generated_at": "2026-08-25T01:52:07.320771+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -523,6 +523,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold, silver rally off ugly crash, but investors remain on edge",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/economy/how-long-can-gold-and-silver-price-rebound-last",
+        "published_at": "2026-08-24T01:37:00Z",
+        "description": "Precious metals are surging off summer lows, but inflation risks and upcoming Fed cues keep the rally tentative."
+      },
+      {
         "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
@@ -556,13 +563,6 @@
         "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61312746/gold-treasury-bond-buybacks?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
         "published_at": "2026-08-19T18:46:14Z",
         "description": "Gold, as measured by SPDR Gold Shares (NASDAQ:GLD), surged 3% Wednesday after the U.S. Treasury unexpectedly doubled the size of its long-dated bond buybacks..."
-      },
-      {
-        "title": "Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-19-2026-gold-strengthens-ahead-of-fomc-minutes-release-161123813.html",
-        "published_at": "2026-08-19T16:11:23Z",
-        "description": "Gold (GC=F) December futures opened at $4,391.40 per troy ounce on Wednesday, August 19, 2026, down 0.7% from Tuesday's closing price."
       }
     ],
     "IWF": [
