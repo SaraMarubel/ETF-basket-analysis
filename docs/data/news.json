@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:55:08.465790+00:00",
+  "generated_at": "2026-08-26T09:02:13.528199+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,20 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for August 21, 2026."
+      },
+      {
+        "title": "Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:15Z",
+        "description": "US-listed ETFs took in more than $56 billion last week."
+      },
+      {
         "title": "Daily ETF Flows: $614M Flows Into GLD",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -141,23 +155,23 @@
         "url": "https://cryptobriefing.com/treasury-excludes-esg-funds-trump-accounts/",
         "published_at": "2026-08-20T14:58:25Z",
         "description": "The exclusion of ESG funds from Trump Accounts may limit sustainable investment options, potentially impacting long-term environmental goals.\nThe post US Treasury Department proposes rules to exclude ESG funds from Trump Accounts appeared first on Crypto Brie\u2026"
-      },
-      {
-        "title": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
-        "published_at": "2026-08-20T04:52:54Z",
-        "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF."
-      },
-      {
-        "title": "Daily ETF Flows: Investors Add to TLT",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-add-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-19T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 18, 2026."
       }
     ],
     "QQQ": [
+      {
+        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for August 21, 2026."
+      },
+      {
+        "title": "Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:15Z",
+        "description": "US-listed ETFs took in more than $56 billion last week."
+      },
       {
         "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips",
         "source": "Biztoc.com",
@@ -166,43 +180,36 @@
         "description": "The post Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips appeared first on 24/7 Wall St..\nSemiconductors are a pressure point in tech today. Notably, the iShares Semiconductor ETF (NASDAQ:SOXX) is down 3% to $505.27 while the NASDAQ 100 tracking \u2026"
       },
       {
+        "title": "Marvell Falls 4% Ahead of August 27 Earnings, Broadcom Slips as Semi-Sector Positioning Shifts",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/24/marvell-falls-4-ahead-of-august-27-earnings-broadcom-slips/",
+        "published_at": "2026-08-24T18:01:13Z",
+        "description": "Marvell has surged further than almost any semiconductor stock in 2026, and now it faces a confirmed earnings event in three sessions with options volume pil..."
+      },
+      {
+        "title": "AMC Entertainment Spikes 7%, Cinemark Climbs 6%: What\u2019s Moving Cinema Stocks Today?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/24/amc-entertainment-spikes-7-cinemark-climbs-6-is-this-a-short-squeeze-in-progress/",
+        "published_at": "2026-08-24T17:56:01Z",
+        "description": "Theater stocks are surging together on a down-market Monday with no earnings, no analyst upgrades, and no press releases to explain the move. When three sepa..."
+      },
+      {
         "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/5031f4fbe0fda7be",
         "published_at": "2026-08-24T16:41:58Z",
         "description": "The post Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5% appeared first on 24/7 Wall St..\nThe REX Drone ETF (NASDAQ:DRNZ) is down 4% to $21.58 in Monday trading, while the Invesco QQQ Trust (NASDAQ:Q\u2026"
-      },
-      {
-        "title": "Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ac76136fb8151365",
-        "published_at": "2026-08-24T16:41:46Z",
-        "description": "The post Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6% appeared first on 24/7 Wall St..\nMany stocks are sliding today, but one segment is falling faster than most. Invesco QQQ Trust (NASDAQ:QQQ) is down\u2026"
-      },
-      {
-        "title": "Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/24/quantum-stocks-unwind-a-revenue-headline-rally-rigetti-computing-and-infleqtion-down-7-ionq-down-6/",
-        "published_at": "2026-08-24T16:31:10Z",
-        "description": "Quantum computing stocks are falling ten times harder than the NASDAQ 100 today, and the same revenue headlines that launched last week's rally may be the re..."
-      },
-      {
-        "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/24/semiconductor-stocks-slide-ahead-of-nvidia-earnings-intel-falls-5-amd-slides-4-taiwan-semiconductor-slips-3/",
-        "published_at": "2026-08-24T14:43:50Z",
-        "description": "Chip stocks are leading a narrow de-risking Monday morning, with the iShares Semiconductor ETF (NASDAQ:SOXX) down 4% to $501.17 while the iShares U.S. Techno..."
-      },
-      {
-        "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c",
-        "published_at": "2026-08-24T13:31:00Z",
-        "description": "There\u2019s a way to play more interest rate angst or an Nvidia inspired tech bounce says Evercore ISI."
       }
     ],
     "IEFA": [],
     "VEA": [
+      {
+        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for August 21, 2026."
+      },
       {
         "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
         "source": "Biztoc.com",
@@ -308,6 +315,13 @@
         "description": "The post Forget SCHD: This 3.3% Dividend ETF Pays Monthly, Owns the Stocks SCHD Screens Out, and Almost Nobody Owns It appeared first on 24/7 Wall St..\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) has become the default answer for dividend investors. M\u2026"
       },
       {
+        "title": "Forget SCHD: This 3.3% Dividend ETF Pays Monthly, Owns the Stocks SCHD Screens Out, and Almost Nobody Owns It",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/24/forget-schd-this-3-3-dividend-etf-pays-monthly-owns-the-stocks-schd-screens-out-and-almost-nobody-owns-it/",
+        "published_at": "2026-08-24T20:50:33Z",
+        "description": "SCHD dominates dividend investing with over $110 billion in assets, but a rival fund launched two decades ago and built around a completely different income..."
+      },
+      {
         "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/34e2c288a7383db5",
@@ -334,13 +348,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/24/trump-just-dumped-over-5-million-of-a-popular-dividend-etf-heres-what-it-means-for-vig-and-schd/",
         "published_at": "2026-08-24T10:46:56Z",
         "description": "Trump just unloaded a major position in one of America's most popular dividend ETFs while leaving the other untouched, and the fund he kept has been quietly..."
-      },
-      {
-        "title": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c0b652ccff7975ae",
-        "published_at": "2026-08-24T09:49:20Z",
-        "description": "Income investors got a milestone this week. On Tuesday, Aug. 18, the 30-year Treasury yield topped 5.33%, its highest level in 19 years, as worries over inflation and government spending pushed long-term rates higher.\nThe Schwab U.S. Dividend Equity ETF (SCHD\u2026"
       }
     ],
     "IEMG": [
@@ -530,6 +537,20 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for August 21, 2026."
+      },
+      {
+        "title": "Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-24T21:00:15Z",
+        "description": "US-listed ETFs took in more than $56 billion last week."
+      },
+      {
         "title": "Gold advances to three-month high as debasement trade returns",
         "source": "Financial Post",
         "url": "https://financialpost.com/news/gold-advances-to-three-month-high",
@@ -556,20 +577,6 @@
         "url": "https://www.thestreet.com/economy/how-long-can-gold-and-silver-price-rebound-last",
         "published_at": "2026-08-24T01:37:00Z",
         "description": "Precious metals are surging off summer lows, but inflation risks and upcoming Fed cues keep the rally tentative."
-      },
-      {
-        "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
-        "published_at": "2026-08-22T13:00:00Z",
-        "description": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks."
-      },
-      {
-        "title": "Daily ETF Flows: $614M Flows Into GLD",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-21T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 20, 2026."
       }
     ],
     "IWF": [
