@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:01:48.155074+00:00",
+  "generated_at": "2026-08-26T13:16:03.569317+00:00",
   "risk_free_rate_pct": 3.7,
   "etfs": {
     "VOO": {
@@ -8,8 +8,8 @@
       "currency": "USD",
       "aum": 1686884319232,
       "fund_family": "Vanguard",
-      "avg_volume": 8055188,
-      "bid": 0.0,
+      "avg_volume": 7995830,
+      "bid": 703.73,
       "ask": 0.0,
       "spread_pct": null,
       "price": 704.02,
@@ -467,9 +467,9 @@
       "options": {
         "nearest_expiration": "2026-08-28",
         "atm_implied_vol_pct": 1.5,
-        "call_open_interest": 0,
-        "put_open_interest": 610,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 3770,
+        "put_open_interest": 9400,
+        "put_call_oi_ratio": 2.49,
         "expirations_available": 13
       },
       "strongest_holding": {
@@ -491,7 +491,7 @@
       "currency": "USD",
       "aum": 869199904768,
       "fund_family": "iShares",
-      "avg_volume": 7812388,
+      "avg_volume": 7773603,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -950,9 +950,9 @@
       "options": {
         "nearest_expiration": "2026-08-28",
         "atm_implied_vol_pct": 4.0,
-        "call_open_interest": 25,
-        "put_open_interest": 14,
-        "put_call_oi_ratio": 0.56,
+        "call_open_interest": 263,
+        "put_open_interest": 74,
+        "put_call_oi_ratio": 0.28,
         "expirations_available": 14
       },
       "strongest_holding": {
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 795306885120,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 51228633,
+      "avg_volume": 51010606,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -1433,9 +1433,9 @@
       "options": {
         "nearest_expiration": "2026-08-26",
         "atm_implied_vol_pct": 12.6,
-        "call_open_interest": 0,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 120308,
+        "put_open_interest": 204326,
+        "put_call_oi_ratio": 1.7,
         "expirations_available": 30
       },
       "strongest_holding": {
@@ -1457,10 +1457,10 @@
       "currency": "USD",
       "aum": 2289978572800,
       "fund_family": "Vanguard",
-      "avg_volume": 3362311,
-      "bid": 377.7,
-      "ask": 0.0,
-      "spread_pct": null,
+      "avg_volume": 3350846,
+      "bid": 377.8,
+      "ask": 378.44,
+      "spread_pct": 0.1693,
       "price": 378.15,
       "change_1d_pct": 0.29,
       "change_1y_pct": 20.82,
@@ -1916,9 +1916,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 5.4,
-        "call_open_interest": 50,
-        "put_open_interest": 334,
-        "put_call_oi_ratio": 6.68,
+        "call_open_interest": 7190,
+        "put_open_interest": 5829,
+        "put_call_oi_ratio": 0.81,
         "expirations_available": 8
       },
       "strongest_holding": {
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 452800643072,
       "fund_family": "Invesco",
-      "avg_volume": 42728093,
+      "avg_volume": 42560774,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2399,9 +2399,9 @@
       "options": {
         "nearest_expiration": "2026-08-26",
         "atm_implied_vol_pct": 11.7,
-        "call_open_interest": 0,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 108596,
+        "put_open_interest": 130611,
+        "put_call_oi_ratio": 1.2,
         "expirations_available": 29
       },
       "strongest_holding": {
@@ -2423,8 +2423,8 @@
       "currency": "USD",
       "aum": 190108827648,
       "fund_family": "iShares",
-      "avg_volume": 9104227,
-      "bid": 0.0,
+      "avg_volume": 9044209,
+      "bid": 100.23,
       "ask": 0.0,
       "spread_pct": null,
       "price": 101.41,
@@ -2822,7 +2822,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.5,
-          "change_1y_pct": 130.67
+          "change_1y_pct": 130.42
         },
         {
           "symbol": "HSBA.L",
@@ -2834,37 +2834,37 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.19,
-          "change_1y_pct": 48.75
+          "change_1y_pct": 47.08
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.12,
-          "change_1y_pct": 30.41
+          "change_1y_pct": 29.76
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.0,
-          "change_1y_pct": 12.2
+          "change_1y_pct": 12.16
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.0,
-          "change_1y_pct": 4.24
+          "change_1y_pct": 3.79
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.99,
-          "change_1y_pct": 23.43
+          "change_1y_pct": 23.78
         },
         {
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.94,
-          "change_1y_pct": 25.52
+          "change_1y_pct": 25.54
         },
         {
           "symbol": "8306.T",
@@ -2882,22 +2882,22 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 8.8,
-        "call_open_interest": 60,
-        "put_open_interest": 119,
-        "put_call_oi_ratio": 1.98,
+        "call_open_interest": 681,
+        "put_open_interest": 229,
+        "put_call_oi_ratio": 0.34,
         "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.5,
-        "change_1y_pct": 130.67
+        "change_1y_pct": 130.42
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.0,
-        "change_1y_pct": 4.24
+        "change_1y_pct": 3.79
       }
     },
     "VEA": {
@@ -2906,10 +2906,10 @@
       "currency": "USD",
       "aum": 314947534848,
       "fund_family": "Vanguard",
-      "avg_volume": 11009201,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "avg_volume": 10991168,
+      "bid": 73.12,
+      "ask": 73.85,
+      "spread_pct": 0.9934,
       "price": 73.79,
       "change_1d_pct": 1.0,
       "change_1y_pct": 29.08,
@@ -3311,7 +3311,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 130.67
+          "change_1y_pct": 130.42
         },
         {
           "symbol": "000660.KQ",
@@ -3329,7 +3329,7 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 48.75
+          "change_1y_pct": 47.08
         },
         {
           "symbol": "RY",
@@ -3341,33 +3341,33 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.9,
-          "change_1y_pct": 30.41
+          "change_1y_pct": 29.76
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.79,
-          "change_1y_pct": 12.2
+          "change_1y_pct": 12.16
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 23.43
+          "change_1y_pct": 23.78
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 4.24
+          "change_1y_pct": 3.79
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 3.5,
-        "call_open_interest": 549,
-        "put_open_interest": 203,
-        "put_call_oi_ratio": 0.37,
+        "call_open_interest": 18987,
+        "put_open_interest": 3404,
+        "put_call_oi_ratio": 0.18,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": 4.24
+        "change_1y_pct": 3.79
       }
     },
     "VUG": {
@@ -3389,9 +3389,9 @@
       "currency": "USD",
       "aum": 371990364160,
       "fund_family": "Vanguard",
-      "avg_volume": 7437249,
+      "avg_volume": 7404246,
       "bid": 0.0,
-      "ask": 0.0,
+      "ask": 87.39,
       "spread_pct": null,
       "price": 87.4,
       "change_1d_pct": 0.54,
@@ -3848,9 +3848,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 40.9,
-        "call_open_interest": 1857,
-        "put_open_interest": 10554,
-        "put_call_oi_ratio": 5.68,
+        "call_open_interest": 13002,
+        "put_open_interest": 20829,
+        "put_call_oi_ratio": 1.6,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 396675153920,
       "fund_family": "Vanguard",
-      "avg_volume": 7940490,
+      "avg_volume": 7914298,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4258,9 +4258,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 18.1,
-        "call_open_interest": 90,
-        "put_open_interest": 20,
-        "put_call_oi_ratio": 0.22,
+        "call_open_interest": 1032,
+        "put_open_interest": 420,
+        "put_call_oi_ratio": 0.41,
         "expirations_available": 4
       },
       "strongest_holding": null,
@@ -4272,7 +4272,7 @@
       "currency": "USD",
       "aum": 104163942400,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 21716919,
+      "avg_volume": 21794169,
       "bid": 35.11,
       "ask": 0.0,
       "spread_pct": null,
@@ -4731,9 +4731,9 @@
       "options": {
         "nearest_expiration": "2026-08-28",
         "atm_implied_vol_pct": 2.5,
-        "call_open_interest": 0,
-        "put_open_interest": 3,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 12673,
+        "put_open_interest": 6674,
+        "put_call_oi_ratio": 0.53,
         "expirations_available": 10
       },
       "strongest_holding": {
@@ -4755,9 +4755,9 @@
       "currency": "USD",
       "aum": 152217387008,
       "fund_family": "iShares",
-      "avg_volume": 13012915,
+      "avg_volume": 12979876,
       "bid": 0.0,
-      "ask": 0.0,
+      "ask": 82.44,
       "spread_pct": null,
       "price": 81.89,
       "change_1d_pct": 1.74,
@@ -5213,10 +5213,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 17.6,
-        "call_open_interest": 490,
-        "put_open_interest": 92,
-        "put_call_oi_ratio": 0.19,
+        "atm_implied_vol_pct": 17.4,
+        "call_open_interest": 1745,
+        "put_open_interest": 646,
+        "put_call_oi_ratio": 0.37,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -5238,7 +5238,7 @@
       "currency": "USD",
       "aum": 137109602304,
       "fund_family": "iShares",
-      "avg_volume": 8396088,
+      "avg_volume": 8351325,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -5630,10 +5630,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 7.0,
-        "call_open_interest": 40,
-        "put_open_interest": 125,
-        "put_call_oi_ratio": 3.12,
+        "atm_implied_vol_pct": 7.4,
+        "call_open_interest": 816,
+        "put_open_interest": 641,
+        "put_call_oi_ratio": 0.79,
         "expirations_available": 4
       },
       "strongest_holding": null,
@@ -5645,10 +5645,10 @@
       "currency": "USD",
       "aum": 256410894336,
       "fund_family": "Vanguard",
-      "avg_volume": 2969193,
-      "bid": 225.19,
+      "avg_volume": 2957909,
+      "bid": 225.5,
       "ask": 228.5,
-      "spread_pct": 1.4591,
+      "spread_pct": 1.3216,
       "price": 226.79,
       "change_1d_pct": 0.04,
       "change_1y_pct": 27.19,
@@ -6104,9 +6104,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 2.7,
-        "call_open_interest": 1,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": 0.0,
+        "call_open_interest": 236,
+        "put_open_interest": 1919,
+        "put_call_oi_ratio": 8.13,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -6128,7 +6128,7 @@
       "currency": "USD",
       "aum": 645815664640,
       "fund_family": "Vanguard",
-      "avg_volume": 5584933,
+      "avg_volume": 5586120,
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
@@ -6539,7 +6539,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 130.67
+          "change_1y_pct": 130.42
         },
         {
           "symbol": "000660.KQ",
@@ -6563,7 +6563,7 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 48.75
+          "change_1y_pct": 47.08
         },
         {
           "symbol": "RY",
@@ -6575,7 +6575,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 30.41
+          "change_1y_pct": 29.76
         },
         {
           "symbol": "9988.HK",
@@ -6587,9 +6587,9 @@
       "options": {
         "nearest_expiration": "2026-08-28",
         "atm_implied_vol_pct": 11.8,
-        "call_open_interest": 30,
-        "put_open_interest": 4,
-        "put_call_oi_ratio": 0.13,
+        "call_open_interest": 562,
+        "put_open_interest": 203,
+        "put_call_oi_ratio": 0.36,
         "expirations_available": 9
       },
       "strongest_holding": {
@@ -6611,10 +6611,10 @@
       "currency": "USD",
       "aum": 162032336896,
       "fund_family": "Vanguard",
-      "avg_volume": 7962141,
-      "bid": 59.96,
+      "avg_volume": 7937236,
+      "bid": 60.87,
       "ask": 60.99,
-      "spread_pct": 1.7032,
+      "spread_pct": 0.1969,
       "price": 60.64,
       "change_1d_pct": 1.12,
       "change_1y_pct": 19.78,
@@ -7052,27 +7052,27 @@
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.77,
-          "change_1y_pct": -5.47
+          "change_1y_pct": -5.84
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.75,
-          "change_1y_pct": -23.96
+          "change_1y_pct": -24.06
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.67,
-          "change_1y_pct": 2.19
+          "change_1y_pct": 1.8
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 5.8,
-        "call_open_interest": 5,
-        "put_open_interest": 1197,
-        "put_call_oi_ratio": 239.4,
+        "call_open_interest": 11429,
+        "put_open_interest": 7291,
+        "put_call_oi_ratio": 0.64,
         "expirations_available": 5
       },
       "strongest_holding": {
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 130322653184,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 8302039,
+      "avg_volume": 8418120,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -7480,9 +7480,9 @@
       "options": {
         "nearest_expiration": "2026-08-26",
         "atm_implied_vol_pct": 6.6,
-        "call_open_interest": 0,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 24550,
+        "put_open_interest": 14058,
+        "put_call_oi_ratio": 0.57,
         "expirations_available": 27
       },
       "strongest_holding": null,
@@ -7494,10 +7494,10 @@
       "currency": "USD",
       "aum": 121217597440,
       "fund_family": "iShares",
-      "avg_volume": 4759888,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "avg_volume": 4733041,
+      "bid": 120.93,
+      "ask": 122.03,
+      "spread_pct": 0.9055,
       "price": 121.83,
       "change_1d_pct": 0.65,
       "change_1y_pct": 10.03,
@@ -7953,9 +7953,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 3.4,
-        "call_open_interest": 0,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 5273,
+        "put_open_interest": 883,
+        "put_call_oi_ratio": 0.17,
         "expirations_available": 5
       },
       "strongest_holding": {
@@ -7977,8 +7977,8 @@
       "currency": "USD",
       "aum": 122394140672,
       "fund_family": "iShares",
-      "avg_volume": 6765095,
-      "bid": 0.0,
+      "avg_volume": 6938460,
+      "bid": 76.01,
       "ask": 0.0,
       "spread_pct": null,
       "price": 76.14,
@@ -8436,9 +8436,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 1.8,
-        "call_open_interest": 0,
-        "put_open_interest": 0,
-        "put_call_oi_ratio": null,
+        "call_open_interest": 689,
+        "put_open_interest": 105,
+        "put_call_oi_ratio": 0.15,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -8460,7 +8460,7 @@
       "currency": "USD",
       "aum": 130902130688,
       "fund_family": "Vanguard",
-      "avg_volume": 1084288,
+      "avg_volume": 1078984,
       "bid": 0.0,
       "ask": 0.0,
       "spread_pct": null,
@@ -8919,9 +8919,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 18.0,
-        "call_open_interest": 9,
-        "put_open_interest": 1,
-        "put_call_oi_ratio": 0.11,
+        "call_open_interest": 288,
+        "put_open_interest": 134,
+        "put_call_oi_ratio": 0.47,
         "expirations_available": 5
       },
       "strongest_holding": {
@@ -8943,10 +8943,10 @@
       "currency": "USD",
       "aum": 109626867712,
       "fund_family": "iShares",
-      "avg_volume": 3574541,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
+      "avg_volume": 3541661,
+      "bid": 146.14,
+      "ask": 147.34,
+      "spread_pct": 0.8178,
       "price": 146.7,
       "change_1d_pct": -0.05,
       "change_1y_pct": 26.61,
@@ -9402,9 +9402,9 @@
       "options": {
         "nearest_expiration": "2026-09-18",
         "atm_implied_vol_pct": 7.8,
-        "call_open_interest": 120,
-        "put_open_interest": 199,
-        "put_call_oi_ratio": 1.66,
+        "call_open_interest": 1563,
+        "put_open_interest": 1821,
+        "put_call_oi_ratio": 1.17,
         "expirations_available": 5
       },
       "strongest_holding": {

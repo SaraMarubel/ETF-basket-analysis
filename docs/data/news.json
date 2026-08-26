@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:02:13.528199+00:00",
+  "generated_at": "2026-08-26T13:16:29.142472+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX): What Investors Should Know",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/vanguard-total-stock-market-index-fund-admiral-shares-vtsax-what-investors-should-know/",
+        "published_at": "2026-08-25T12:20:51Z",
+        "description": "One fund charges $40 a year on a $100,000 balance while a rival bleeds $1,000 for the same job, but the fee gap is only the beginning of what separates VTSAX..."
+      },
+      {
         "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
@@ -148,16 +155,16 @@
         "url": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-dram/",
         "published_at": "2026-08-20T21:25:31Z",
         "description": "The Roundhill Memory ETF has roughly doubled since April, making it one of the fastest-gaining thematic funds in recent memory. Before you chase that return,..."
-      },
-      {
-        "title": "US Treasury Department proposes rules to exclude ESG funds from Trump Accounts",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/treasury-excludes-esg-funds-trump-accounts/",
-        "published_at": "2026-08-20T14:58:25Z",
-        "description": "The exclusion of ESG funds from Trump Accounts may limit sustainable investment options, potentially impacting long-term environmental goals.\nThe post US Treasury Department proposes rules to exclude ESG funds from Trump Accounts appeared first on Crypto Brie\u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "Gorilla Sinks 11% Despite Guiding 2027 Revenue Up to 29% Above Consensus, Evolv Technologies and Ambarella Tick Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/gorilla-sinks-11-despite-guiding-2027-revenue-up-to-29-above-consensus-evolv-technologies-and-ambarella-tick-up/",
+        "published_at": "2026-08-25T13:05:00Z",
+        "description": "Gorilla Technology just posted revenue that nearly doubled and raised its full-year guidance for the second time, yet the stock is sinking while every compar..."
+      },
       {
         "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
         "source": "Etf.com",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/24/amc-entertainment-spikes-7-cinemark-climbs-6-is-this-a-short-squeeze-in-progress/",
         "published_at": "2026-08-24T17:56:01Z",
         "description": "Theater stocks are surging together on a down-market Monday with no earnings, no analyst upgrades, and no press releases to explain the move. When three sepa..."
-      },
-      {
-        "title": "Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5031f4fbe0fda7be",
-        "published_at": "2026-08-24T16:41:58Z",
-        "description": "The post Drone Stocks Slide as Risk Appetite Fades: Unusual Machines Tumbles 9%, Red Cat Falls 7%, Ondas Declines 5% appeared first on 24/7 Wall St..\nThe REX Drone ETF (NASDAQ:DRNZ) is down 4% to $21.58 in Monday trading, while the Invesco QQQ Trust (NASDAQ:Q\u2026"
       }
     ],
     "IEFA": [],
@@ -308,6 +308,34 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e130cb19c70fe394",
+        "published_at": "2026-08-25T11:10:09Z",
+        "description": "The post SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High appeared first on 24/7 Wall St..\nRetirees searching for quarterly income often choose between Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and Vanguard Real Estate ETF (NYSEA\u2026"
+      },
+      {
+        "title": "SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/25/schd-and-vnq-both-pay-quarterly-yet-only-one-soars-when-rates-stay-high/",
+        "published_at": "2026-08-25T11:05:59Z",
+        "description": "Both SCHD and VNQ write quarterly checks, but the current rate environment has driven a wedge between them that retirees holding the wrong fund in the wrong..."
+      },
+      {
+        "title": "I Own SCHD, and I Still Believe in It. Here's Why I Also Bought This 10.5%-Yielding ETF Almost Nobody Knows About",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/243b5cd8dbcf5a2d",
+        "published_at": "2026-08-25T10:41:09Z",
+        "description": "I Own SCHD, and I Still Believe in It. Here's Why I Also Bought This 10.5%-Yielding ETF Almost Nobody Knows About.\nI hold a growing position in the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD). I still believe in this top dividend ETF and plan to continue \u2026"
+      },
+      {
+        "title": "How $300 a Month in This Dividend ETF Could Make You a Millionaire",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/24/how-300-a-month-in-this-dividend-etf-could-make-you-a-millionaire/",
+        "published_at": "2026-08-24T21:30:54Z",
+        "description": "Compounding turns a modest monthly habit into something most people assume requires a six-figure income, but SCHD has a specific quirk that makes it unusuall..."
+      },
+      {
         "title": "Forget SCHD: This 3.3% Dividend ETF Pays Monthly, Owns the Stocks SCHD Screens Out, and Almost Nobody Owns It",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a7bc667e778dcddc",
@@ -320,37 +348,16 @@
         "url": "https://247wallst.com/investing/etf/2026/08/24/forget-schd-this-3-3-dividend-etf-pays-monthly-owns-the-stocks-schd-screens-out-and-almost-nobody-owns-it/",
         "published_at": "2026-08-24T20:50:33Z",
         "description": "SCHD dominates dividend investing with over $110 billion in assets, but a rival fund launched two decades ago and built around a completely different income..."
-      },
-      {
-        "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/34e2c288a7383db5",
-        "published_at": "2026-08-24T17:45:35Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) held $112 billion in net assets as of August 21, 2026, cementing its role as the default income holding for dividend investors.\nSCHD's mandate stops at the U.S. border by design, leaving an entire universe of develop\u2026"
-      },
-      {
-        "title": "5 ETFs Warren Buffett Would Consider Now -- Simple Picks for Beginners",
-        "source": "Moneylion.com",
-        "url": "https://moneylion.com/trending/money/etfs-warren-buffett-would-consider-simple-picks-beginners",
-        "published_at": "2026-08-24T17:16:37Z",
-        "description": "Looking for beginner-friendly investments? Explore five ETFs that align with Warren Buffett's long-term investing philosophy."
-      },
-      {
-        "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/35e2576454a7ac34",
-        "published_at": "2026-08-24T14:08:53Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) held $112 billion in net assets as of August 21, 2026, cementing its role as the default income holding for dividend investors.\nSCHD\u2019s mandate stops at the U.S. border by design, leaving an entire universe of develop\u2026"
-      },
-      {
-        "title": "Trump Just Dumped Over $5 Million Of A Popular Dividend ETF. Here\u2019s What It Means For VIG and SCHD",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/24/trump-just-dumped-over-5-million-of-a-popular-dividend-etf-heres-what-it-means-for-vig-and-schd/",
-        "published_at": "2026-08-24T10:46:56Z",
-        "description": "Trump just unloaded a major position in one of America's most popular dividend ETFs while leaving the other untouched, and the fund he kept has been quietly..."
       }
     ],
     "IEMG": [
+      {
+        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
+        "published_at": "2026-08-25T10:03:18Z",
+        "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
+      },
       {
         "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
         "source": "CNBC",
@@ -385,13 +392,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-03T21:00:04Z",
         "description": "Here are the daily ETF fund flows for July 31, 2026."
-      },
-      {
-        "title": "Forget EEM. iShares Sells Nearly the Same Emerging Markets for 87% Less",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/27/forget-eem-ishares-sells-nearly-the-same-emerging-markets-for-87-less/",
-        "published_at": "2026-07-27T17:01:04Z",
-        "description": "BlackRock quietly launched a second emerging markets ETF that costs almost nothing compared to its famous sibling, and the long-term performance numbers reve..."
       }
     ],
     "AGG": [
@@ -527,6 +527,20 @@
       }
     ],
     "VWO": [
+      {
+        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d4c0dc7247a17101",
+        "published_at": "2026-08-25T10:09:00Z",
+        "description": "The post This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock appeared first on 24/7 Wall St..\nThe Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO) has quietly become one of the more interesting concentration stories in passive inves\u2026"
+      },
+      {
+        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
+        "published_at": "2026-08-25T10:03:18Z",
+        "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
+      },
       {
         "title": "VWO vs SPGM: What Are the Key Differences Between These Two Popular ETFs?",
         "source": "Biztoc.com",
