@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-08-27T09:45:06.455863+00:00",
+  "generated_at": "2026-08-27T22:15:48.427304+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO\u2019s 1% Yield Hides the Real Cost: $1 Million Pays Retirees Just $871 a Month",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f9b4222142ce4e90",
+        "published_at": "2026-08-26T21:36:46Z",
+        "description": "The post VOO\u2019s 1% Yield Hides the Real Cost: $1 Million Pays Retirees Just $871 a Month appeared first on 24/7 Wall St..\nRetire with a million dollars in the Vanguard S&P 500 ETF (NYSEARCA:VOO) and picture what shows up in the bank account each month from div\u2026"
+      },
+      {
+        "title": "Does Vanguard or State Street Have the Better S&P 500 ETF?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3157264ec41976e2",
+        "published_at": "2026-08-26T13:17:58Z",
+        "description": "Deciding between the Vanguard S&P 500 ETF (NYSEMKT:VOO) and the State Street SPDR S&P 500 ETF (NYSEMKT:SPY) typically involves weighing the Vanguard fund's lower costs against the SPDR trust's slightly higher trading liquidity and its long-standing history.\nT\u2026"
+      },
       {
         "title": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)",
         "source": "Biztoc.com",
@@ -30,20 +44,6 @@
         "url": "https://biztoc.com/x/69ca72afb4c27170",
         "published_at": "2026-08-19T16:52:14Z",
         "description": "I really wish I'd bought shares of the Vanguard S&P 500 ETF (NYSEMKT: VOO) a decade ago. The index fund has delivered an impressive 15.1% annualized total return over the past 10 years. That's a lot better than some of my individual stock picks.\nAt that retur\u2026"
-      },
-      {
-        "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1c9b87a3386ed0d4",
-        "published_at": "2026-08-18T22:33:38Z",
-        "description": "The post VOO\u2019s 0.03% Fee Hides the Real Cost: 38% of Your S&P 500 Money Is Now in One Sector appeared first on 24/7 Wall St..\nThe Vanguard S&P 500 ETF (NYSEARCA:VOO) advertises a 0.03% expense ratio, roughly $3 a year on a $10,000 position. That is the cheape\u2026"
-      },
-      {
-        "title": "Where Will the Vanguard S&P 500 ETF Be in 20 Years? History Has Good and Bad News for Investors",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9de30259562fda87",
-        "published_at": "2026-08-18T20:50:23Z",
-        "description": "The Vanguard S&P 500 ETF (NYSEMKT: VOO) is one of the most popular ways to passively track the S&P 500 (SNPINDEX: ^GSPC). It was launched in 2010 as the ETF version of the Vanguard S&P 500 Index Fund (NASDAQMUTFUND: VFINX), which arrived in 1976.\nJohn Bogle, \u2026"
       }
     ],
     "IVV": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "VTI\u2019s 0.03% Fee Hides the Real Cost: 3,600 Stocks and Still a Third of Your Money in Ten Companies",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/73abe872d26d7d4e",
+        "published_at": "2026-08-26T21:37:14Z",
+        "description": "The post VTI\u2019s 0.03% Fee Hides the Real Cost: 3,600 Stocks and Still a Third of Your Money in Ten Companies appeared first on 24/7 Wall St..\nYou bought Vanguard Total Stock Market ETF (NYSEARCA:VTI) because the 0.03% fee promised the entire US market for penn\u2026"
+      },
+      {
         "title": "Daily ETF Flows: TLT Gains",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -148,57 +155,50 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-24T21:00:15Z",
         "description": "US-listed ETFs took in more than $56 billion last week."
-      },
-      {
-        "title": "Daily ETF Flows: $614M Flows Into GLD",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-21T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 20, 2026."
       }
     ],
     "QQQ": [
       {
-        "title": "Wall Street Just Invented the \u2018Neocloud\u2019 ETF. It Owns the Companies Renting AI Compute to Everyone Else",
+        "title": "Meta Heads Toward $580 as a $17B Teen Safety Settlement Ends the Trial; Snap Falls 9%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/26/meta-heads-toward-580-as-a-17b-teen-safety-settlement-ends-the-trial-snap-falls-9/",
+        "published_at": "2026-08-26T16:02:51Z",
+        "description": "A landmark legal settlement sent Meta stock climbing while Snap cratered 9% on the same day over the same issue, exposing a sharp divide in how courts and in..."
+      },
+      {
+        "title": "Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady",
         "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2c8b62f5f6624a78",
-        "published_at": "2026-08-25T19:45:28Z",
-        "description": "The post Wall Street Just Invented the \u2018Neocloud\u2019 ETF. It Owns the Companies Renting AI Compute to Everyone Else appeared first on 24/7 Wall St..\nInvesco QQQ Trust (NASDAQ:QQQ) offers AI exposure through the customers rather than the suppliers. QQQ\u2019s top hold\u2026"
+        "url": "https://biztoc.com/x/b8818e9826fb53a2",
+        "published_at": "2026-08-26T14:15:48Z",
+        "description": "The post Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady appeared first on 24/7 Wall St..\nProfit-taking is sweeping through Rumble on Wednesday morning after a blistering one-month advance, while the broader NASDAQ 100 barel\u2026"
       },
       {
-        "title": "SoFi Rises 3% as the Stablecoin Trade Pulls Fintech Into the Crypto Bid, Coinbase Climbs 5%",
+        "title": "Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/sofi-rises-3-as-the-stablecoin-trade-pulls-fintech-into-the-crypto-bid-coinbase-climbs-5/",
-        "published_at": "2026-08-25T18:27:34Z",
-        "description": "The stablecoin trade is escaping the crypto exchanges and hunting for new targets in fintech, and not every fintech name is getting pulled along for the ride..."
+        "url": "https://247wallst.com/investing/2026/08/26/rumble-drops-7-on-profit-taking-after-a-79-monthly-run-trump-media-holds-steady/",
+        "published_at": "2026-08-26T14:14:52Z",
+        "description": "Rumble stock is taking a sharp hit Wednesday morning with no news, no filing, and no analyst action to explain it, while the name most traders assume moves w..."
       },
       {
-        "title": "Netflix Rises 3% on a $95 Wolfe Research Price Target, Leaving Disney and Warner Bros. Discovery Behind",
+        "title": "Snap Sinks 7% as Pennsylvania Sues Snapchat, Meta Holds Flat After a $16.7B Settlement",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/netflix-rises-3-on-a-95-wolfe-research-price-target-leaving-disney-and-warner-bros-discovery-behind/",
-        "published_at": "2026-08-25T17:08:55Z",
-        "description": "Wolfe Research says Netflix's rough summer had nothing to do with demand, and that one reframing sent shares jumping while Disney and Warner Bros. Discovery..."
+        "url": "https://247wallst.com/investing/2026/08/26/snap-sinks-7-as-pennsylvania-sues-snapchat-meta-holds-flat-after-a-16-7b-settlement/",
+        "published_at": "2026-08-26T14:11:56Z",
+        "description": "Pennsylvania just handed Snap a fresh lawsuit hours after the stock posted a rare gain, while Meta quietly closed a deal that could have cost it close to its..."
       },
       {
-        "title": "SpaceX Rises 3% as Musk Pulls the NVIDIA Orbital Data Center Into 2027, JPMorgan Sees 75% Upside",
+        "title": "Rezolve AI Slides 4% on Profit-Taking After a 22% Google Cloud Rally, Alphabet Holds Flat",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/spacex-rises-3-as-musk-pulls-the-nvidia-orbital-data-center-into-2027-jpmorgan-sees-75-upside/",
-        "published_at": "2026-08-25T16:22:11Z",
-        "description": "SpaceX stock is surging on a timeline shift that has nothing to do with rockets and everything to do with AI compute in orbit, but a looming share unlock and..."
+        "url": "https://247wallst.com/investing/2026/08/26/rezolve-ai-slides-4-on-profit-taking-after-a-22-google-cloud-rally-alphabet-holds-flat/",
+        "published_at": "2026-08-26T13:18:36Z",
+        "description": "Rezolve AI scored a validation win so rare for small-cap AI names that it sent the stock surging 22% in a single session, yet the same announcement barely mo..."
       },
       {
-        "title": "Vanguard Growth Index Fund Admiral Shares (VIGAX): What Investors Should Know",
+        "title": "Intuit Sinks 12% as AI Disruption Fears Spread From TurboTax to QuickBooks, Adobe and ServiceNow Drop 3%",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/vanguard-growth-index-fund-admiral-shares-vigax-what-investors-should-know/",
-        "published_at": "2026-08-25T13:20:53Z",
-        "description": "Four stocks quietly control nearly half of a fund that calls itself a broad growth index, and most investors holding it have no idea how concentrated their r..."
-      },
-      {
-        "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/amd-and-intel-rise-3-on-a-strong-buy-upgrade-and-a-pelosi-disclosure-nvidia-and-broadcom-tick-up/",
-        "published_at": "2026-08-25T13:18:00Z",
-        "description": "Two chip stocks are each up 3% Tuesday for reasons that have nothing to do with each other, and the gap between those catalysts reveals something important a..."
+        "url": "https://247wallst.com/investing/2026/08/26/intuit-sinks-12-as-ai-disruption-fears-spread-from-turbotax-to-quickbooks-adobe-and-servicenow-drop-3/",
+        "published_at": "2026-08-26T13:14:48Z",
+        "description": "Intuit just handed Wall Street something rare: guidance so cautious it sparked fears that AI disruption has moved from theory to measurable damage, pulling A..."
       }
     ],
     "IEFA": [],
@@ -209,13 +209,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-24T21:00:28Z",
         "description": "Here are the daily ETF fund flows for August 21, 2026."
-      },
-      {
-        "title": "VEA vs. SPGM: Which Global Stock ETF Is the Better Buy?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2309b218f98d0478",
-        "published_at": "2026-07-25T21:07:44Z",
-        "description": "For investors seeking international diversification, the choice between these two funds comes down to geographic scope. The Vanguard FTSE Developed Markets ETF (NYSEMKT:VEA) excludes American companies entirely, making it a useful fund for balancing out a U.S\u2026"
       }
     ],
     "VUG": [
@@ -315,6 +308,13 @@
         "description": "The post These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating the S&P 500 This Year appeared first on 24/7 Wall St..\nInvestors chasing higher payouts than what typical U.S. blue chips deliver keep landing on the same benchmark: the S\u2026"
       },
       {
+        "title": "These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating the S&P 500 This Year",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/25/these-3-international-dividend-etfs-pay-up-to-three-times-schd-and-are-beating-the-sp-500-this-year/",
+        "published_at": "2026-08-25T22:05:17Z",
+        "description": "SCHD is the default income benchmark, but three international dividend ETFs are quietly outpacing it on yield and, in some cases, total return too. The fund..."
+      },
+      {
         "title": "A 65-Year-Old Couple Can Make $146,000 This Year and Pay 0% on Their Gains. Here\u2019s the Math",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/25/a-65-year-old-couple-can-make-146000-this-year-and-pay-0-on-their-gains-heres-the-math/",
@@ -341,13 +341,6 @@
         "url": "https://biztoc.com/x/71e1476bc5ad9132",
         "published_at": "2026-08-25T14:41:34Z",
         "description": "The Schwab U.S. Dividend Equity ETF (SCHD) pulled in $679.26 million over five trading days as its share price climbed 2.39%, TipRanks reported.\nThree of the fund\u2019s biggest holdings made news in the same stretch, adding fresh fuel to a monthslong rotation out\u2026"
-      },
-      {
-        "title": "SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/e130cb19c70fe394",
-        "published_at": "2026-08-25T11:10:09Z",
-        "description": "The post SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High appeared first on 24/7 Wall St..\nRetirees searching for quarterly income often choose between Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and Vanguard Real Estate ETF (NYSEA\u2026"
       }
     ],
     "IEMG": [
@@ -440,6 +433,13 @@
     ],
     "VTV": [
       {
+        "title": "Nervous About Big Tech? This Vanguard Value ETF Is Where the Money Is Rotating",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bddd5e621f619e45",
+        "published_at": "2026-08-26T19:20:00Z",
+        "description": "Nervous About Big Tech? This Vanguard Value ETF Is Where the Money Is Rotating\nThe Magnificent Seven have ruled markets for years, but cracks in the AI spending story are pushing serious investors toward a corner of the market most have ignored since the dot-\u2026"
+      },
+      {
         "title": "5 ETFs Warren Buffett Would Consider Now -- Simple Picks for Beginners",
         "source": "Moneylion.com",
         "url": "https://moneylion.com/trending/money/etfs-warren-buffett-would-consider-simple-picks-beginners",
@@ -473,13 +473,6 @@
         "url": "https://247wallst.com/investing/2026/08/10/growth-is-flat-in-2026-vanguards-deep-value-fund-is-up-22-and-almost-nobody-owns-it/",
         "published_at": "2026-08-10T19:08:14Z",
         "description": "While IWF investors have spent 2026 watching the Magnificent 7 sputter, one overlooked Vanguard fund running the opposite playbook has quietly outpaced nearl..."
-      },
-      {
-        "title": "VGT Puts 39 Cents of Every Dollar Into Just 3 Stocks. The Pairing That Fixes It Without Selling",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/08/vgt-puts-39-cents-of-every-dollar-into-just-3-stocks-the-pairing-that-fixes-it-without-selling/",
-        "published_at": "2026-08-08T17:00:51Z",
-        "description": "VGT has quietly turned into a three-stock concentration problem for long-term holders, and selling to fix it means handing the IRS a check. There is a pairin..."
       }
     ],
     "VXUS": [
@@ -558,6 +551,27 @@
     ],
     "GLD": [
       {
+        "title": "Your 60/40 Portfolio May Be 100% Exposed to a Dying Dollar, Bitwise Says",
+        "source": "BeInCrypto",
+        "url": "https://beincrypto.com/60-40-portfolio-dying-dollar/",
+        "published_at": "2026-08-26T15:34:42Z",
+        "description": "Gold and Bitcoin ETFs drew a record $7 billion as Matt Hougan warns 60/40 portfolios are fully exposed to fiat risk."
+      },
+      {
+        "title": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html",
+        "published_at": "2026-08-26T12:08:04Z",
+        "description": "Gold December futures opened at $4,715.70 per troy ounce on Wednesday, August 26, 2026, up  0.5% from Tuesday's closing price. Gold pulled back from highs re..."
+      },
+      {
+        "title": "Tether CEO Paolo Ardoino Says to Avoid Disaster, Hold Bitcoin and Gold. Is He Right?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2f4f4d9e371ebeea",
+        "published_at": "2026-08-26T11:01:31Z",
+        "description": "On Aug. 20, in a post on X (formerly Twitter), Tether Chief Executive Officer Paolo Ardoino riffed on a clever equation that speaks deeply to the reasons that many investors bother holding Bitcoin (CRYPTO: BTC) and gold assets like the SPDR Gold Shares ETF (N\u2026"
+      },
+      {
         "title": "Daily ETF Flows: TLT Gains",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -577,27 +591,6 @@
         "url": "https://biztoc.com/x/991169331f35ef5e",
         "published_at": "2026-08-25T17:02:47Z",
         "description": "Gold's rally just hit a wall \u2014 how to play a tactical pullback with limited risk: Alpha Options Playbook\nGold (GC=F) may have gotten ahead of itself for now. It's pausing after rallying into a key technical level, getting stretched to the upside in the proces\u2026"
-      },
-      {
-        "title": "Gold's rally just hit a wall \u2014 how to play a tactical pullback with limited risk: Alpha Options Playbook",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/options/article/golds-rally-just-hit-a-wall--how-to-play-a-tactical-pullback-with-limited-risk-alpha-options-playbook-162841841.html",
-        "published_at": "2026-08-25T16:28:41Z",
-        "description": "Gold may have gotten ahead of itself for now. It's pausing after rallying into a key technical level, getting stretched to the upside in the process."
-      },
-      {
-        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-24T21:00:28Z",
-        "description": "Here are the daily ETF fund flows for August 21, 2026."
-      },
-      {
-        "title": "Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-24T21:00:15Z",
-        "description": "US-listed ETFs took in more than $56 billion last week."
       }
     ],
     "IWF": [
