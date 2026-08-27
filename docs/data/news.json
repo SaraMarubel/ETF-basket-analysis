@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:31:33.407922+00:00",
+  "generated_at": "2026-08-27T09:45:06.455863+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,20 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: TLT Gains",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-25T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 24, 2026."
+      },
+      {
+        "title": "Has AI gotten any better at stock picking?",
+        "source": "MarketWatch",
+        "url": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998",
+        "published_at": "2026-08-25T19:35:00Z",
+        "description": "Beating the market is difficult, even with AI\u2019s help."
+      },
+      {
         "title": "Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX): What Investors Should Know",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/25/vanguard-total-stock-market-index-fund-admiral-shares-vtsax-what-investors-should-know/",
@@ -141,20 +155,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-614m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-21T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 20, 2026."
-      },
-      {
-        "title": "VOO vs VTI: After Comparing the Two Funds Most Americans Actually Own, One Is the Better Buy for the Next 20 Years",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/20/voo-vs-vti-after-comparing-the-two-funds-most-americans-actually-own-one-is-the-better-buy-for-the-next-20-years/",
-        "published_at": "2026-08-20T21:35:58Z",
-        "description": "VOO and VTI anchor millions of American retirement accounts, and most investors assume the two funds are nearly identical. For a retiree with a 20-year horiz..."
-      },
-      {
-        "title": "How Much of Your Portfolio Should Actually Be in DRAM",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/20/how-much-of-your-portfolio-should-actually-be-in-dram/",
-        "published_at": "2026-08-20T21:25:31Z",
-        "description": "The Roundhill Memory ETF has roughly doubled since April, making it one of the fastest-gaining thematic funds in recent memory. Before you chase that return,..."
       }
     ],
     "QQQ": [
@@ -164,6 +164,13 @@
         "url": "https://biztoc.com/x/2c8b62f5f6624a78",
         "published_at": "2026-08-25T19:45:28Z",
         "description": "The post Wall Street Just Invented the \u2018Neocloud\u2019 ETF. It Owns the Companies Renting AI Compute to Everyone Else appeared first on 24/7 Wall St..\nInvesco QQQ Trust (NASDAQ:QQQ) offers AI exposure through the customers rather than the suppliers. QQQ\u2019s top hold\u2026"
+      },
+      {
+        "title": "SoFi Rises 3% as the Stablecoin Trade Pulls Fintech Into the Crypto Bid, Coinbase Climbs 5%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/sofi-rises-3-as-the-stablecoin-trade-pulls-fintech-into-the-crypto-bid-coinbase-climbs-5/",
+        "published_at": "2026-08-25T18:27:34Z",
+        "description": "The stablecoin trade is escaping the crypto exchanges and hunting for new targets in fintech, and not every fintech name is getting pulled along for the ride..."
       },
       {
         "title": "Netflix Rises 3% on a $95 Wolfe Research Price Target, Leaving Disney and Warner Bros. Discovery Behind",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/25/amd-and-intel-rise-3-on-a-strong-buy-upgrade-and-a-pelosi-disclosure-nvidia-and-broadcom-tick-up/",
         "published_at": "2026-08-25T13:18:00Z",
         "description": "Two chip stocks are each up 3% Tuesday for reasons that have nothing to do with each other, and the gap between those catalysts reveals something important a..."
-      },
-      {
-        "title": "Gorilla Sinks 11% Despite Guiding 2027 Revenue Up to 29% Above Consensus, Evolv Technologies and Ambarella Tick Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/gorilla-sinks-11-despite-guiding-2027-revenue-up-to-29-above-consensus-evolv-technologies-and-ambarella-tick-up/",
-        "published_at": "2026-08-25T13:05:00Z",
-        "description": "Gorilla Technology just posted revenue that nearly doubled and raised its full-year guidance for the second time, yet the stock is sinking while every compar..."
       }
     ],
     "IEFA": [],
@@ -264,6 +264,13 @@
     ],
     "BND": [
       {
+        "title": "Daily ETF Flows: TLT Gains",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-25T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 24, 2026."
+      },
+      {
         "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
         "source": "MarketWatch",
         "url": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b",
@@ -297,13 +304,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/15/your-default-bond-fund-pays-4-so-does-bsv-without-the-30-year-risk-you-never-agreed-to/",
         "published_at": "2026-08-15T19:15:50Z",
         "description": "Most investors assume their bond allocation is the safe, boring part of their portfolio, but the fund sitting in your 401k default menu may be carrying a ris..."
-      },
-      {
-        "title": "Nobody Brags About Owning Vanguard\u2019s VBTLX, and That Is Exactly Why It Works",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/13/nobody-brags-about-owning-vanguards-vbtlx-and-that-is-exactly-why-it-works/",
-        "published_at": "2026-08-13T21:10:49Z",
-        "description": "Bond investors spent years watching their monthly income shrink toward nothing while prices fell, but something has quietly shifted inside the most boring fu..."
       }
     ],
     "SCHD": [
@@ -313,6 +313,13 @@
         "url": "https://biztoc.com/x/e8da089402104ea3",
         "published_at": "2026-08-25T22:18:33Z",
         "description": "The post These 3 International Dividend ETFs Pay Up to Three Times SCHD and Are Beating the S&P 500 This Year appeared first on 24/7 Wall St..\nInvestors chasing higher payouts than what typical U.S. blue chips deliver keep landing on the same benchmark: the S\u2026"
+      },
+      {
+        "title": "A 65-Year-Old Couple Can Make $146,000 This Year and Pay 0% on Their Gains. Here\u2019s the Math",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/25/a-65-year-old-couple-can-make-146000-this-year-and-pay-0-on-their-gains-heres-the-math/",
+        "published_at": "2026-08-25T21:55:52Z",
+        "description": "A popular high-yield ETF beloved by retirees for its fat monthly checks contains a hidden tax trap that quietly destroys one of the most powerful zero-tax st..."
       },
       {
         "title": "Schwab SCHD draws $679M as dividend ETF climbs 2.39%",
@@ -341,16 +348,16 @@
         "url": "https://biztoc.com/x/e130cb19c70fe394",
         "published_at": "2026-08-25T11:10:09Z",
         "description": "The post SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High appeared first on 24/7 Wall St..\nRetirees searching for quarterly income often choose between Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and Vanguard Real Estate ETF (NYSEA\u2026"
-      },
-      {
-        "title": "SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/25/schd-and-vnq-both-pay-quarterly-yet-only-one-soars-when-rates-stay-high/",
-        "published_at": "2026-08-25T11:05:59Z",
-        "description": "Both SCHD and VNQ write quarterly checks, but the current rate environment has driven a wedge between them that retirees holding the wrong fund in the wrong..."
       }
     ],
     "IEMG": [
+      {
+        "title": "Daily ETF Flows: TLT Gains",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-25T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 24, 2026."
+      },
       {
         "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
         "source": "24/7 Wall St.",
@@ -385,13 +392,6 @@
         "url": "https://biztoc.com/x/2ff08246a48cfca0",
         "published_at": "2026-08-07T22:59:20Z",
         "description": "Which Is the Better International ETF: State Street's Climate-Focused NZAC or iShares' Emerging Markets IEMG?\nThe State Street SPDR MSCI ACWI Climate Paris Aligned ETF (NASDAQ:NZAC) offers broad global exposure with climate-risk screens, while the iShares Cor\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-03T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for July 31, 2026."
       }
     ],
     "AGG": [
@@ -528,6 +528,13 @@
     ],
     "VWO": [
       {
+        "title": "Daily ETF Flows: TLT Gains",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-25T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 24, 2026."
+      },
+      {
         "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d4c0dc7247a17101",
@@ -550,6 +557,13 @@
       }
     ],
     "GLD": [
+      {
+        "title": "Daily ETF Flows: TLT Gains",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-25T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 24, 2026."
+      },
       {
         "title": "Gold and Bitcoin ETFs muscle back into the top 10 most traded",
         "source": "Crypto Briefing",
@@ -584,13 +598,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-24T21:00:15Z",
         "description": "US-listed ETFs took in more than $56 billion last week."
-      },
-      {
-        "title": "Gold advances to three-month high as debasement trade returns",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/news/gold-advances-to-three-month-high",
-        "published_at": "2026-08-24T20:45:11Z",
-        "description": "Gold climbed to the highest in over three months as the Treasury\u2019s intervention in the bond market revived fiscal policy concerns. Read on"
       }
     ],
     "IWF": [
