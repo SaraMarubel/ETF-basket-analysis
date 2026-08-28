@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T11:21:50.545982+00:00",
+  "generated_at": "2026-08-28T22:18:26.560960+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,20 @@
     ],
     "SPY": [
       {
+        "title": "Plug Power Gains 4% as Risk Appetite Returns; FuelCell Inches Higher, Bloom Energy Holds Flat",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/plug-power-gains-4-as-risk-appetite-returns-fuelcell-inches-higher-bloom-energy-holds-flat/",
+        "published_at": "2026-08-27T16:29:52Z",
+        "description": "Hydrogen stocks split sharply Thursday as one ticker absorbed almost every dollar of risk appetite flowing into the sector, and the reason has nothing to do..."
+      },
+      {
+        "title": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/acc9081de8abc86d",
+        "published_at": "2026-08-27T15:49:34Z",
+        "description": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up\nRisk appetite is filtering back into speculative, long-duration equities Thursday morning, and the reactor developers are the tell. The SPDR S&P 500 ETF Trust (NYSEARCA:S\u2026"
+      },
+      {
         "title": "This Fund Pays 400% of the S&P\u2019s Dividend and Still Beat Half of Wall Street This Year",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a2106bd9ca41fa14",
@@ -97,20 +111,6 @@
         "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61356024/sp-500-8100-ubs-prediction-markets?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
         "published_at": "2026-08-21T14:06:53Z",
         "description": "UBS Global Wealth Management, part of UBS Group AG (NYSE:UBS), expects the S&P 500 as measured by the State Street SPDR S&P 500 ETF Trust (NASDAQ:SPY) to fin..."
-      },
-      {
-        "title": "SPYx gains traction in DeFi with $18M in deposits across venues",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/spyx-defi-deposits-tokenized-sp500/",
-        "published_at": "2026-08-18T22:42:55Z",
-        "description": "SPYx's success in DeFi highlights the growing integration of traditional finance with blockchain, potentially reshaping investment landscapes.\nThe post SPYx gains traction in DeFi with $18M in deposits across venues appeared first on Crypto Briefing."
-      },
-      {
-        "title": "Binance bStocks\u2019 SPYb token accumulates $6M in DeFi liquidity",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/binance-bstocks-spyb-defi-liquidity/",
-        "published_at": "2026-08-18T22:41:15Z",
-        "description": "Binance's SPYb token's DeFi success highlights the potential for 24/7 trading and liquidity in tokenized assets, challenging traditional finance norms.\nThe post Binance bStocks\u2019 SPYb token accumulates $6M in DeFi liquidity appeared first on Crypto Briefing."
       }
     ],
     "VTI": [
@@ -159,6 +159,34 @@
     ],
     "QQQ": [
       {
+        "title": "Zscaler and SentinelOne Spike 10% as Cybersecurity Re-Rating Reaches the Laggards",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/zscaler-and-sentinelone-spike-10-as-cybersecurity-re-rating-reaches-the-laggards/",
+        "published_at": "2026-08-27T17:23:12Z",
+        "description": "CrowdStrike and Okta dropped results after Wednesday's close, and the shockwave landed hardest on the cybersecurity names the market had spent months punishi..."
+      },
+      {
+        "title": "Figma Spikes 12% as AI Turns From Threat to Tailwind for Design Software, Atlassian Rallies 8%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/figma-spikes-12-as-ai-turns-from-threat-to-tailwind-for-design-software-atlassian-rallies-8/",
+        "published_at": "2026-08-27T15:08:56Z",
+        "description": "Investors spent most of 2026 punishing design software names on fears that AI would hollow out their business models, but something shifted Thursday morning..."
+      },
+      {
+        "title": "UiPath Rallies 9% as the Software Bid Broadens Beyond the Earnings Winners, Pegasystems Gains 4%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/uipath-rallies-9-as-the-software-bid-broadens-beyond-the-earnings-winners-pegasystems-gains-4/",
+        "published_at": "2026-08-27T14:34:42Z",
+        "description": "Salesforce's blowout quarter sent shockwaves through software stocks that never reported a single number this week, and the names catching the biggest bids a..."
+      },
+      {
+        "title": "Salesforce Soars 14% as Claudeforce and a Guidance Raise End the Slump, ServiceNow Climbs 5%, Adobe Advances 3%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/salesforce-soars-14-as-claudeforce-and-a-guidance-raise-end-the-slump-servicenow-climbs-5-adobe-advances-3/",
+        "published_at": "2026-08-27T13:38:18Z",
+        "description": "Salesforce spent months as the broken name in enterprise software, dragging the sector's AI credibility down with it. Now one earnings report and a surprise..."
+      },
+      {
         "title": "QQQI\u2019s 14% Yield Hides a Negative SEC Yield: The Fund Earns Nothing Before It Sells Options",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/26/qqqis-14-yield-hides-a-negative-sec-yield-the-fund-earns-nothing-before-it-sells-options/",
@@ -171,34 +199,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxl-inflows-total-520m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-26T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 25, 2026."
-      },
-      {
-        "title": "Trade Desk Just Dropped 24% in a Month. Is It Time to Sell?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/26/trade-desk-just-dropped-24-in-a-month-is-it-time-to-sell/",
-        "published_at": "2026-08-26T19:01:46Z",
-        "description": "Trade Desk stock has spent a year bleeding out while a direct competitor surged nearly 50%, and the two trajectories together reveal something specific about..."
-      },
-      {
-        "title": "Meta Heads Toward $580 as a $17B Teen Safety Settlement Ends the Trial; Snap Falls 9%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/26/meta-heads-toward-580-as-a-17b-teen-safety-settlement-ends-the-trial-snap-falls-9/",
-        "published_at": "2026-08-26T16:02:51Z",
-        "description": "A landmark legal settlement sent Meta stock climbing while Snap cratered 9% on the same day over the same issue, exposing a sharp divide in how courts and in..."
-      },
-      {
-        "title": "Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b8818e9826fb53a2",
-        "published_at": "2026-08-26T14:15:48Z",
-        "description": "The post Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady appeared first on 24/7 Wall St..\nProfit-taking is sweeping through Rumble on Wednesday morning after a blistering one-month advance, while the broader NASDAQ 100 barel\u2026"
-      },
-      {
-        "title": "Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/26/rumble-drops-7-on-profit-taking-after-a-79-monthly-run-trump-media-holds-steady/",
-        "published_at": "2026-08-26T14:14:52Z",
-        "description": "Rumble stock is taking a sharp hit Wednesday morning with no news, no filing, and no analyst action to explain it, while the name most traders assume moves w..."
       }
     ],
     "IEFA": [],
@@ -301,6 +301,20 @@
     ],
     "SCHD": [
       {
+        "title": "These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1734327ccaaedded",
+        "published_at": "2026-08-27T21:38:42Z",
+        "description": "The post These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent appeared first on 24/7 Wall St..\nCheap fees and generous yields rarely travel together, yet three of the largest dividend ETFs on the market pull it off. T\u2026"
+      },
+      {
+        "title": "CME Group to Launch E-mini Equity Factor Futures on September 21",
+        "source": "PRNewswire",
+        "url": "https://www.prnewswire.com/news-releases/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-302861655.html",
+        "published_at": "2026-08-27T11:30:00Z",
+        "description": "New contracts provide tailored exposure to S&P 500 and Dow Jones indexes CHICAGO, Aug. 27, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today announced plans to expand its equity product suite with the launch of E-mini Equity F\u2026"
+      },
+      {
         "title": "The IRS Taxes Your Social Security Check, Then Medicare Takes $202.90 From What\u2019s Left. These 4 ETFs Pay You Back",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/26/the-irs-taxes-your-social-security-check-then-medicare-takes-202-90-from-whats-left-these-4-etfs-pay-you-back/",
@@ -327,20 +341,6 @@
         "url": "https://247wallst.com/investing/2026/08/25/a-65-year-old-couple-can-make-146000-this-year-and-pay-0-on-their-gains-heres-the-math/",
         "published_at": "2026-08-25T21:55:52Z",
         "description": "A popular high-yield ETF beloved by retirees for its fat monthly checks contains a hidden tax trap that quietly destroys one of the most powerful zero-tax st..."
-      },
-      {
-        "title": "Schwab SCHD draws $679M as dividend ETF climbs 2.39%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b9958ac4e00eedea",
-        "published_at": "2026-08-25T17:48:03Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) pulled in $679.26 million over five trading days as its share price climbed 2.39%, TipRanks reported.\nThree of the fund's biggest holdings made news in the same stretch, adding fresh fuel to a monthslong rotation out\u2026"
-      },
-      {
-        "title": "Schwab SCHD draws $679M as dividend ETF climbs 2.39%",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/schd-etf-679-million-inflows-dividend-rotation-2026",
-        "published_at": "2026-08-25T17:33:00Z",
-        "description": "Three catalysts, one reshuffling, and a Fed that refuses to move"
       }
     ],
     "IEMG": [
@@ -415,20 +415,6 @@
         "url": "https://247wallst.com/investing/2026/08/02/bnd-vs-agg-the-two-biggest-bond-etfs-look-identical-but-one-has-quietly-won-for-years/",
         "published_at": "2026-08-02T14:30:50Z",
         "description": "BND and AGG track nearly the same index, charge nearly the same fee, and hold nearly the same bonds, yet one has quietly outpaced the other for years thanks..."
-      },
-      {
-        "title": "Want $6,000 a Year on $100K in Bonds? Capital Group\u2019s ETF Delivers What the Index Doesn\u2019t",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bf4247075e45d040",
-        "published_at": "2026-07-27T18:12:28Z",
-        "description": "The post Want $6,000 a Year on $100K in Bonds? Capital Group\u2019s ETF Delivers What the Index Doesn\u2019t appeared first on 24/7 Wall St..\nInvestors who bought iShares Core U.S. Aggregate Bond ETF (NYSEARCA:AGG) did what the textbooks said. They got broad, cheap, in\u2026"
-      },
-      {
-        "title": "Want $6,000 a Year on $100K in Bonds? Capital Group\u2019s ETF Delivers What the Index Doesn\u2019t",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/07/27/want-6000-a-year-on-100k-in-bonds-capital-groups-etf-delivers-what-the-index-doesnt/",
-        "published_at": "2026-07-27T18:10:26Z",
-        "description": "Index bond funds promise safety and simplicity, but a quiet corner of the active ETF market has been paying income-focused investors nearly twice the yield o..."
       }
     ],
     "VTV": [
@@ -540,16 +526,23 @@
         "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
         "published_at": "2026-08-25T10:03:18Z",
         "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
-      },
-      {
-        "title": "VWO vs SPGM: What Are the Key Differences Between These Two Popular ETFs?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fb37f6a883b46ddd",
-        "published_at": "2026-07-26T22:17:04Z",
-        "description": "The Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) offers low-cost, targeted exposure to developing economies, whereas the State Street SPDR Portfolio MSCI Global Stock Market ETF (NYSEMKT:SPGM) serves as a diversified, global core equity holding.\nInvestors\u2026"
       }
     ],
     "GLD": [
+      {
+        "title": "Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis",
+        "source": "CryptoSlate",
+        "url": "https://cryptoslate.com/investors-just-moved-7-billion-into-bitcoin-and-gold-in-five-days-to-escape-an-accelerating-dollar-crisis/",
+        "published_at": "2026-08-27T18:55:59Z",
+        "description": "GLD and IBIT supplied about 70% of the five-session record as yields and the dollar eased, leaving the hedge thesis untested under pressure.\nThe post Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis ap\u2026"
+      },
+      {
+        "title": "The Best Gold ETF for 2027 Won't Surprise You. It's Still GLD",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7941b06b421e322f",
+        "published_at": "2026-08-27T12:33:36Z",
+        "description": "It's never too early to start planning, and with barely more than four months remaining in 2026, now is a good time for investors to evaluate stocks and exchange-traded funds (ETFs) that can be embraced today and held into 2027 and beyond.\nPreparation is one \u2026"
+      },
       {
         "title": "Daily ETF Flows: SOXL Inflows Total $520M",
         "source": "Etf.com",
@@ -577,20 +570,6 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html",
         "published_at": "2026-08-26T12:08:04Z",
         "description": "Gold December futures opened at $4,715.70 per troy ounce on Wednesday, August 26, 2026, up  0.5% from Tuesday's closing price. Gold pulled back from highs re..."
-      },
-      {
-        "title": "Tether CEO Paolo Ardoino Says to Avoid Disaster, Hold Bitcoin and Gold. Is He Right?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2f4f4d9e371ebeea",
-        "published_at": "2026-08-26T11:01:31Z",
-        "description": "On Aug. 20, in a post on X (formerly Twitter), Tether Chief Executive Officer Paolo Ardoino riffed on a clever equation that speaks deeply to the reasons that many investors bother holding Bitcoin (CRYPTO: BTC) and gold assets like the SPDR Gold Shares ETF (N\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: TLT Gains",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-25T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 24, 2026."
       }
     ],
     "IWF": [
