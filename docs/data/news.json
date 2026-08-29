@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:18:26.560960+00:00",
+  "generated_at": "2026-08-29T07:02:56.580186+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "China E-Commerce Stocks Sink While Baidu Climbs 4%: Alibaba Falls 4%, PDD Holdings Declines 3%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/08/27/china-e-commerce-stocks-sink-while-baidu-climbs-4-alibaba-falls-4-pdd-holdings-declines-3/",
+        "published_at": "2026-08-27T18:14:27Z",
+        "description": "China's biggest internet stocks are moving in opposite directions Thursday, and the split points to a fault line running straight through the group that coul..."
+      },
+      {
         "title": "Plug Power Gains 4% as Risk Appetite Returns; FuelCell Inches Higher, Bloom Energy Holds Flat",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/27/plug-power-gains-4-as-risk-appetite-returns-fuelcell-inches-higher-bloom-energy-holds-flat/",
@@ -104,13 +111,6 @@
         "url": "https://biztoc.com/x/e4012f56a21e1135",
         "published_at": "2026-08-21T21:06:35Z",
         "description": "The post SPY Has a Nearly Identical Twin That Costs 80 Percent Less and Pays the Same Dividends appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the most-traded exchange-traded fund in the world, but it is far from the cheapest wa\u2026"
-      },
-      {
-        "title": "UBS Sees S&P 500 at 8,100 but Prediction Markets Don't Buy It",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61356024/sp-500-8100-ubs-prediction-markets?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
-        "published_at": "2026-08-21T14:06:53Z",
-        "description": "UBS Global Wealth Management, part of UBS Group AG (NYSE:UBS), expects the S&P 500 as measured by the State Street SPDR S&P 500 ETF Trust (NASDAQ:SPY) to fin..."
       }
     ],
     "VTI": [
@@ -159,6 +159,20 @@
     ],
     "QQQ": [
       {
+        "title": "How $400,000 in JEPQ Pushed a Retiree\u2019s Medicare Premium Up $1,000 a Year",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/27/how-400000-in-jepq-pushed-a-retirees-medicare-premium-up-1000-a-year/",
+        "published_at": "2026-08-27T22:15:17Z",
+        "description": "A retiree collecting monthly distributions from a popular Nasdaq income ETF watched a Medicare surcharge quietly appear on their premium bill, and the fund's..."
+      },
+      {
+        "title": "Daily ETF Flows: GLDM Rounds Out Top 10",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gldm-rounds-out-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-27T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 26, 2026."
+      },
+      {
         "title": "Zscaler and SentinelOne Spike 10% as Cybersecurity Re-Rating Reaches the Laggards",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/27/zscaler-and-sentinelone-spike-10-as-cybersecurity-re-rating-reaches-the-laggards/",
@@ -185,20 +199,6 @@
         "url": "https://247wallst.com/investing/2026/08/27/salesforce-soars-14-as-claudeforce-and-a-guidance-raise-end-the-slump-servicenow-climbs-5-adobe-advances-3/",
         "published_at": "2026-08-27T13:38:18Z",
         "description": "Salesforce spent months as the broken name in enterprise software, dragging the sector's AI credibility down with it. Now one earnings report and a surprise..."
-      },
-      {
-        "title": "QQQI\u2019s 14% Yield Hides a Negative SEC Yield: The Fund Earns Nothing Before It Sells Options",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/26/qqqis-14-yield-hides-a-negative-sec-yield-the-fund-earns-nothing-before-it-sells-options/",
-        "published_at": "2026-08-26T21:15:02Z",
-        "description": "QQQI sends a monthly check like clockwork, but the stocks it holds barely yield anything before fees, which raises a question every investor chasing that 14%..."
-      },
-      {
-        "title": "Daily ETF Flows: SOXL Inflows Total $520M",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxl-inflows-total-520m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-26T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 25, 2026."
       }
     ],
     "IEFA": [],
@@ -308,6 +308,13 @@
         "description": "The post These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent appeared first on 24/7 Wall St..\nCheap fees and generous yields rarely travel together, yet three of the largest dividend ETFs on the market pull it off. T\u2026"
       },
       {
+        "title": "These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/27/these-3-dividend-etfs-cost-less-than-7-cents-a-year-per-100-and-still-pay-you-up-to-4-percent/",
+        "published_at": "2026-08-27T21:35:35Z",
+        "description": "Dividend investors treat rock-bottom fees and generous yields as an either-or trade, but a small corner of the ETF market quietly breaks that rule. Three fun..."
+      },
+      {
         "title": "CME Group to Launch E-mini Equity Factor Futures on September 21",
         "source": "PRNewswire",
         "url": "https://www.prnewswire.com/news-releases/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-302861655.html",
@@ -334,13 +341,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/25/these-3-international-dividend-etfs-pay-up-to-three-times-schd-and-are-beating-the-sp-500-this-year/",
         "published_at": "2026-08-25T22:05:17Z",
         "description": "SCHD is the default income benchmark, but three international dividend ETFs are quietly outpacing it on yield and, in some cases, total return too. The fund..."
-      },
-      {
-        "title": "A 65-Year-Old Couple Can Make $146,000 This Year and Pay 0% on Their Gains. Here\u2019s the Math",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/a-65-year-old-couple-can-make-146000-this-year-and-pay-0-on-their-gains-heres-the-math/",
-        "published_at": "2026-08-25T21:55:52Z",
-        "description": "A popular high-yield ETF beloved by retirees for its fat monthly checks contains a hidden tax trap that quietly destroys one of the most powerful zero-tax st..."
       }
     ],
     "IEMG": [
@@ -530,6 +530,13 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: GLDM Rounds Out Top 10",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gldm-rounds-out-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-08-27T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for August 26, 2026."
+      },
+      {
         "title": "Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis",
         "source": "CryptoSlate",
         "url": "https://cryptoslate.com/investors-just-moved-7-billion-into-bitcoin-and-gold-in-five-days-to-escape-an-accelerating-dollar-crisis/",
@@ -563,13 +570,6 @@
         "url": "https://beincrypto.com/60-40-portfolio-dying-dollar/",
         "published_at": "2026-08-26T15:34:42Z",
         "description": "Gold and Bitcoin ETFs drew a record $7 billion as Matt Hougan warns 60/40 portfolios are fully exposed to fiat risk."
-      },
-      {
-        "title": "Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-august-26-2026-gold-pulls-back-from-mornings-high-over-4700-120804724.html",
-        "published_at": "2026-08-26T12:08:04Z",
-        "description": "Gold December futures opened at $4,715.70 per troy ounce on Wednesday, August 26, 2026, up  0.5% from Tuesday's closing price. Gold pulled back from highs re..."
       }
     ],
     "IWF": [
