@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:19:06.847993+00:00",
+  "generated_at": "2026-08-30T22:44:09.610491+00:00",
   "risk_free_rate_pct": 3.73,
   "etfs": {
     "VOO": {
@@ -470,7 +470,7 @@
         "call_open_interest": 8264,
         "put_open_interest": 2469,
         "put_call_oi_ratio": 0.3,
-        "expirations_available": 12
+        "expirations_available": 14
       },
       "strongest_holding": {
         "symbol": "GOOGL",
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 37.0,
+        "atm_implied_vol_pct": 36.8,
         "call_open_interest": 1762,
         "put_open_interest": 636,
         "put_call_oi_ratio": 0.36,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 14.6,
+        "atm_implied_vol_pct": 15.0,
         "call_open_interest": 764,
         "put_open_interest": 641,
         "put_call_oi_ratio": 0.84,

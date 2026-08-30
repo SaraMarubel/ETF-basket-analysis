@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:19:31.943425+00:00",
+  "generated_at": "2026-08-30T22:44:36.198690+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Why JEPQ\u2019s 10.7% Yield Looked Irresistible Until Nvidia Rallied",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/29/why-jepqs-10-7-yield-looked-irresistible-until-nvidia-rallied/",
+        "published_at": "2026-08-29T20:00:23Z",
+        "description": "JEPQ's monthly paycheck looks generous until a single Nvidia session reveals exactly what income investors are trading away to collect it."
+      },
+      {
         "title": "How a 66-Year-Old\u2019s $600,000 in QQQI Pays Her Monthly With Almost No Tax Bill, Until the Day She Sells",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/28/how-a-66-year-olds-600000-in-qqqi-pays-her-monthly-with-almost-no-tax-bill-until-the-day-she-sells/",
@@ -192,16 +199,17 @@
         "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
         "published_at": "2026-08-28T17:57:47Z",
         "description": "Amazon is surging 4% on a massive GPU expansion deal with the very chip supplier that is simultaneously sinking 4% on the same news. The split tells a story..."
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61486034/stock-market-will-sp-500-open-up-or-down-today-26?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
-        "published_at": "2026-08-28T06:43:21Z",
-        "description": "U.S. stock futures are slightly mixed early Friday as investors digest a broadening AI spending boom and escalating economic warfare rhetoric against Iran. T..."
       }
     ],
-    "IEFA": [],
+    "IEFA": [
+      {
+        "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/398a2e5965d5f28d",
+        "published_at": "2026-08-29T21:42:18Z",
+        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides massive liquidity and a slightly higher yield, while the State Street SPDR Portfolio Developed World ex-US ETF (NYSEMKT:SPDW) offers a lower expense ratio and stronger one-year performance.\nBoth IEFA and \u2026"
+      }
+    ],
     "VEA": [
       {
         "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
@@ -301,6 +309,27 @@
     ],
     "SCHD": [
       {
+        "title": "How a 78-Year-Old Collects $5,300 a Month From Just Three Tickers: SCHD, HTGC, and NNN",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/08/29/how-a-78-year-old-collects-5300-a-month-from-just-three-tickers-schd-htgc-and-nnn/",
+        "published_at": "2026-08-29T22:38:54Z",
+        "description": "Three tickers, three wildly different capital requirements, and one retiree pulling a five-figure monthly income without touching principal. Which one demand..."
+      },
+      {
+        "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b9ed7903d8ddebb0",
+        "published_at": "2026-08-29T21:40:56Z",
+        "description": "The post Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math appeared first on 24/7 Wall St..\nTwo dividend payers, two very different tax outcomes. Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) pays mostly qualified dividends \u2026"
+      },
+      {
+        "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/08/29/where-you-hold-schd-and-main-matters-more-than-you-think-the-taxable-vs-ira-math/",
+        "published_at": "2026-08-29T21:38:56Z",
+        "description": "Putting SCHD and MAIN in the wrong accounts can silently drain a six-figure retirement income by tens of thousands of dollars every year, and most investors..."
+      },
+      {
         "title": "Still Living by the 4% Rule Written in 1994? These 4 ETFs Are the 2026 Version",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/28/still-living-by-the-4-rule-written-in-1994-these-4-etfs-are-the-2026-version/",
@@ -320,27 +349,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/28/a-10000-investment-in-schd-at-launch-now-pays-this-much-every-single-year-without-you-adding-a-dime/",
         "published_at": "2026-08-28T21:25:02Z",
         "description": "A $10,000 stake in a single dividend ETF at launch now generates a level of annual income that no fresh investment in any comparable fund can realistically m..."
-      },
-      {
-        "title": "These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1734327ccaaedded",
-        "published_at": "2026-08-27T21:38:42Z",
-        "description": "The post These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent appeared first on 24/7 Wall St..\nCheap fees and generous yields rarely travel together, yet three of the largest dividend ETFs on the market pull it off. T\u2026"
-      },
-      {
-        "title": "These 3 Dividend ETFs Cost Less Than 7 Cents a Year per $100 and Still Pay You Up to 4 Percent",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/27/these-3-dividend-etfs-cost-less-than-7-cents-a-year-per-100-and-still-pay-you-up-to-4-percent/",
-        "published_at": "2026-08-27T21:35:35Z",
-        "description": "Dividend investors treat rock-bottom fees and generous yields as an either-or trade, but a small corner of the ETF market quietly breaks that rule. Three fun..."
-      },
-      {
-        "title": "CME Group to Launch E-mini Equity Factor Futures on September 21",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-302861655.html",
-        "published_at": "2026-08-27T11:30:00Z",
-        "description": "New contracts provide tailored exposure to S&P 500 and Dow Jones indexes CHICAGO, Aug. 27, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today announced plans to expand its equity product suite with the launch of E-mini Equity F\u2026"
       }
     ],
     "IEMG": [
