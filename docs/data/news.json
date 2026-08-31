@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:44:36.198690+00:00",
+  "generated_at": "2026-08-31T05:31:46.971107+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -60,13 +60,6 @@
         "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
         "published_at": "2026-08-20T04:52:54Z",
         "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF."
-      },
-      {
-        "title": "Is this the right time to invest in the iShares S&P 500 ETF (IVV)?",
-        "source": "Motley Fool Australia",
-        "url": "https://www.fool.com.au/2026/07/30/is-this-the-right-time-to-invest-in-the-ishares-sp-500-etf-ivv/",
-        "published_at": "2026-07-30T02:56:28Z",
-        "description": "Is this the right time to pounce on the IVV ETF?\nThe post Is this the right time to invest in the iShares S&P 500 ETF (IVV)? appeared first on The Motley Fool Australia."
       }
     ],
     "SPY": [
@@ -159,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "If You'd Invested $1,000 in QQQ 20 Years Ago, Here's What You'd Have Today",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9b07637dc193768c",
+        "published_at": "2026-08-30T01:30:42Z",
+        "description": "Twenty years ago, investing $1,000 in stocks might not have seemed like enough to make a big difference in your portfolio.\nIt turns out that the Invesco QQQ ETF (NASDAQ: QQQ) would have proven many people wrong.\nOver that time, this fund generated an average \u2026"
+      },
+      {
         "title": "Why JEPQ\u2019s 10.7% Yield Looked Irresistible Until Nvidia Rallied",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/29/why-jepqs-10-7-yield-looked-irresistible-until-nvidia-rallied/",
@@ -192,13 +192,6 @@
         "url": "https://247wallst.com/investing/2026/08/28/this-ai-fund-is-crushing-qqq-and-nvidia-is-barely-2-of-it/",
         "published_at": "2026-08-28T21:05:17Z",
         "description": "A niche AI fund with almost no Nvidia is somehow lapping QQQ by a massive margin, and the reason why reveals a blind spot most investors have about where AI..."
-      },
-      {
-        "title": "Amazon Jumps 4% on Expanded AWS Chip Deal: Why Is NVIDIA Falling 4%?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/28/amazon-jumps-4-on-expanded-aws-chip-deal-why-is-nvidia-falling-4/",
-        "published_at": "2026-08-28T17:57:47Z",
-        "description": "Amazon is surging 4% on a massive GPU expansion deal with the very chip supplier that is simultaneously sinking 4% on the same news. The split tells a story..."
       }
     ],
     "IEFA": [
