@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:23:49.482777+00:00",
+  "generated_at": "2026-09-02T22:39:07.428925+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "These ETFs Generate the Most Revenue",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/edd95d1f0b763d46",
+        "published_at": "2026-09-01T22:37:40Z",
+        "description": "The cost of holding ETFs has fallen for years amid an intense fee war among issuers. Single-digit expense ratios are commonplace now, and in some cases even those look expensive, like the 0.09% charged by the SPDR S&P 500 ETF Trust (SPY), triple what some com\u2026"
+      },
+      {
         "title": "Deere and AGCO Rally 4% as Baird Upgrades Both on North America Row Crop Demand",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/5b46314e3bcee315",
@@ -104,13 +111,6 @@
         "url": "https://biztoc.com/x/acc9081de8abc86d",
         "published_at": "2026-08-27T15:49:34Z",
         "description": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up\nRisk appetite is filtering back into speculative, long-duration equities Thursday morning, and the reactor developers are the tell. The SPDR S&P 500 ETF Trust (NYSEARCA:S\u2026"
-      },
-      {
-        "title": "This Fund Pays 400% of the S&P\u2019s Dividend and Still Beat Half of Wall Street This Year",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a2106bd9ca41fa14",
-        "published_at": "2026-08-22T18:54:33Z",
-        "description": "The post This Fund Pays 400% of the S&P\u2019s Dividend and Still Beat Half of Wall Street This Year appeared first on 24/7 Wall St..\nIf your portfolio anchor is the SPDR S&P 500 ETF Trust (NYSEARCA:SPY), the quarterly dividend deposits probably feel like a roundi\u2026"
       }
     ],
     "VTI": [
@@ -180,25 +180,25 @@
         "description": "Roblox stock is falling harder than its sector fund and its top gaming peer this Tuesday morning, on a session with no company news to explain the underperfo..."
       },
       {
+        "title": "Trump Media Falls 3% as Rising Yields and Higher Oil Squeeze Risk Appetite",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/01/trump-media-falls-3-as-rising-yields-and-higher-oil-squeeze-risk-appetite/",
+        "published_at": "2026-09-01T14:09:59Z",
+        "description": "Rising Treasury yields and surging oil prices are creating a punishing combination for speculative small caps, and Trump Media stock is absorbing far more pa..."
+      },
+      {
+        "title": "Tesla Falls 3% as Mixed European Registrations Land Ahead of Cybercab Launch",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/01/tesla-falls-3-as-mixed-european-registrations-land-ahead-of-cybercab-launch/",
+        "published_at": "2026-09-01T14:06:22Z",
+        "description": "Tesla stock is pulling back hard two days before a major product launch, and the selling looks nothing like what the rest of the market is doing. Mixed Europ..."
+      },
+      {
         "title": "Applied Digital Drops 4% as Rising Yields Hit AI Infrastructure, Cipher Mining Sinks 6%, Core Scientific Slides 3%",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/01/applied-digital-drops-4-as-rising-yields-hit-ai-infrastructure-cipher-mining-sinks-6-core-scientific-slides-3/",
         "published_at": "2026-09-01T14:03:37Z",
         "description": "A surge in long-term Treasury yields is carving a brutal divide inside the AI infrastructure trade, punishing capital-hungry buildout names far harder than t..."
-      },
-      {
-        "title": "\u2018Your Stock Doesn\u2019t Know Your Name\u2019: Wes Moss on Owning Too Much Apple, Google",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/01/your-stock-doesnt-know-your-name-wes-moss-on-owning-too-much-apple-google/",
-        "published_at": "2026-09-01T13:40:41Z",
-        "description": "A 45-year-old investor with a million dollars on the line and a third of it riding on three stocks asked Wes Moss how to escape. His answer starts with a min..."
-      },
-      {
-        "title": "Crypto Stocks Slide as Bitcoin and Ethereum Hold Flat: Circle Internet and Bitmine Fall 4%, Coinbase Drops 3%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/01/crypto-stocks-slide-as-bitcoin-and-ethereum-hold-flat-circle-internet-and-bitmine-fall-4-coinbase-drops-3/",
-        "published_at": "2026-09-01T13:28:27Z",
-        "description": "Bitcoin and Ethereum are barely moving this Tuesday, yet the stocks built around them are crashing open sharply lower. A shock from an unexpected corner of t..."
       }
     ],
     "IEFA": [
