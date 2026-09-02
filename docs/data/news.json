@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-02T04:31:09.304732+00:00",
+  "generated_at": "2026-09-02T12:46:22.762863+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Nvidia Is 7.6% of the Vanguard S&P 500 ETF (VOO) but Over 12% of These 5 Magnificent Low-Cost Vanguard ETFs. Here's My Top Pick to Buy Now",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/85e592e8d580626b",
+        "published_at": "2026-09-01T09:15:48Z",
+        "description": "Nvidia Is 7.6% of the Vanguard S&P 500 ETF (VOO) but Over 12% of These 5 Magnificent Low-Cost Vanguard ETFs. Here's My Top Pick to Buy Now.\nNvidia (NASDAQ: NVDA) soared 8.7% on Aug. 27, after the company delivered blowout second-quarter fiscal 2027 earnings. \u2026"
+      },
+      {
+        "title": "If You'd Invested $5,000 in the Vanguard S&P 500 ETF (VOO) a Decade Ago, Here's What You'd Have Today",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ee3bb49ac695c875",
+        "published_at": "2026-09-01T04:53:08Z",
+        "description": "If You'd Invested $5,000 in the Vanguard S&P 500 ETF (VOO) a Decade Ago, Here's What You'd Have Today\nIt's not the best way to invest, but plenty of us invest money in this or that and then neglect to check on how those investments are doing. Many of us are i\u2026"
+      },
       {
         "title": "How Much Can You Earn With the Vanguard S&P 500 ETF (VOO) If You Invest $100 per Month Starting Today? Here's What History Suggests",
         "source": "Biztoc.com",
@@ -30,20 +44,6 @@
         "url": "https://biztoc.com/x/f82cef20c85e3061",
         "published_at": "2026-08-30T11:06:35Z",
         "description": "Mega-cap tech stocks have gained significant value over the past few years, driven by AI enthusiasm. That's causing heavy concentration at the top for the Vanguard S&P 500 ETF (NYSEMKT: VOO), which tracks the S&P 500 through a market-cap-weighted approach. Th\u2026"
-      },
-      {
-        "title": "Own VOO? Here's the Problem With Adding This Popular Growth ETF",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f3dd7710a2d5b146",
-        "published_at": "2026-08-28T15:08:16Z",
-        "description": "The Vanguard S&P 500 ETF (NYSEMKT: VOO) is one of the simplest and best ways to build a long-term portfolio. But what if you want to give it some more growth?\nAdding the Invesco NASDAQ 100 ETF (NASDAQ: QQQM) seems like an obvious solution. It gives investors \u2026"
-      },
-      {
-        "title": "VOO\u2019s 1% Yield Hides the Real Cost: $1 Million Pays Retirees Just $871 a Month",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f9b4222142ce4e90",
-        "published_at": "2026-08-26T21:36:46Z",
-        "description": "The post VOO\u2019s 1% Yield Hides the Real Cost: $1 Million Pays Retirees Just $871 a Month appeared first on 24/7 Wall St..\nRetire with a million dollars in the Vanguard S&P 500 ETF (NYSEARCA:VOO) and picture what shows up in the bank account each month from div\u2026"
       }
     ],
     "IVV": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "The Free Retirement Dinner Costs $500K in the Fine Print, but These 4 ETFs Do What the Steak Pitch Promises",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
+        "published_at": "2026-08-31T21:15:17Z",
+        "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
+      },
+      {
         "title": "VTI\u2019s 0.03% Fee Hides the Real Cost: 3,600 Stocks and Still a Third of Your Money in Ten Companies",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/73abe872d26d7d4e",
@@ -148,16 +155,16 @@
         "url": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998",
         "published_at": "2026-08-25T19:35:00Z",
         "description": "Beating the market is difficult, even with AI\u2019s help."
-      },
-      {
-        "title": "Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX): What Investors Should Know",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/25/vanguard-total-stock-market-index-fund-admiral-shares-vtsax-what-investors-should-know/",
-        "published_at": "2026-08-25T12:20:51Z",
-        "description": "One fund charges $40 a year on a $100,000 balance while a rival bleeds $1,000 for the same job, but the fee gap is only the beginning of what separates VTSAX..."
       }
     ],
     "QQQ": [
+      {
+        "title": "Goldman Sachs Is Buying Into High Income ETFs, but What Are Nasdaq Investors Giving Up for Those Payouts?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/31/goldman-sachs-is-buying-into-high-income-etfs-but-what-are-nasdaq-investors-giving-up-for-those-payouts/",
+        "published_at": "2026-08-31T19:58:12Z",
+        "description": "Goldman Sachs just snapped up the $13 billion QQQI covered-call ETF, and its 14% yield looks irresistible until you see exactly what Nasdaq investors quietly..."
+      },
       {
         "title": "Trade Desk Rises 5% on Kokai Zuma Agentic AI Launch, AppLovin and Magnite Barely Budge",
         "source": "24/7 Wall St.",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/28/how-a-66-year-olds-600000-in-qqqi-pays-her-monthly-with-almost-no-tax-bill-until-the-day-she-sells/",
         "published_at": "2026-08-28T22:05:50Z",
         "description": "Her 1099-DIV looks suspiciously light every year, and she tells friends the income is basically tax-free. She is right about the present and wrong about what..."
-      },
-      {
-        "title": "$40 Trillion US Debt Is 72 Times Mount Everest in Cash: Market Strategist Says the Number Looks \u2018Scary\u2019 Until You See How Much Americans Own",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/economy/articles/40-trillion-us-debt-72-213118061.html",
-        "published_at": "2026-08-28T21:31:18Z",
-        "description": "The U.S. national debt has officially surpassed $40 trillion, a staggering sum that market strategist Ryan Detrick visually equated to a stack of $1,000 bill..."
       }
     ],
     "IEFA": [
@@ -309,6 +309,20 @@
     ],
     "SCHD": [
       {
+        "title": "A 59-Year-Old Built a $4,700 Monthly Paycheck The Easy Way",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/08/31/a-59-year-old-built-a-4700-monthly-paycheck-the-easy-way/",
+        "published_at": "2026-08-31T23:38:13Z",
+        "description": "Three income investments can all generate the same monthly paycheck before retirement, but the capital each one demands reveals a gap wide enough to reshape..."
+      },
+      {
+        "title": "The Free Retirement Dinner Costs $500K in the Fine Print, but These 4 ETFs Do What the Steak Pitch Promises",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
+        "published_at": "2026-08-31T21:15:17Z",
+        "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
+      },
+      {
         "title": "If You'd Invested $1,000 in SCHD 10 Years Ago, Here's How Much You'd Have Today",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/6567b44b50467280",
@@ -335,20 +349,6 @@
         "url": "https://247wallst.com/personal-finance/2026/08/29/how-a-78-year-old-collects-5300-a-month-from-just-three-tickers-schd-htgc-and-nnn/",
         "published_at": "2026-08-29T22:38:54Z",
         "description": "Three tickers, three wildly different capital requirements, and one retiree pulling a five-figure monthly income without touching principal. Which one demand..."
-      },
-      {
-        "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b9ed7903d8ddebb0",
-        "published_at": "2026-08-29T21:40:56Z",
-        "description": "The post Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math appeared first on 24/7 Wall St..\nTwo dividend payers, two very different tax outcomes. Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) pays mostly qualified dividends \u2026"
-      },
-      {
-        "title": "Where You Hold SCHD and MAIN Matters More Than You Think: The Taxable vs. IRA Math",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/08/29/where-you-hold-schd-and-main-matters-more-than-you-think-the-taxable-vs-ira-math/",
-        "published_at": "2026-08-29T21:38:56Z",
-        "description": "Putting SCHD and MAIN in the wrong accounts can silently drain a six-figure retirement income by tens of thousands of dollars every year, and most investors..."
       }
     ],
     "IEMG": [
