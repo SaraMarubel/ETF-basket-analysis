@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T12:49:25.467388+00:00",
-  "risk_free_rate_pct": 3.77,
+  "generated_at": "2026-09-03T19:17:54.067277+00:00",
+  "risk_free_rate_pct": 3.74,
   "etfs": {
     "VOO": {
       "ticker": "VOO",
@@ -9,23 +9,19 @@
       "aum": 1686884319232,
       "fund_family": "Vanguard",
       "avg_volume": 7999549,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 703.41,
-      "change_1d_pct": 0.45,
-      "change_1y_pct": 20.89,
-      "change_ytd_pct": 12.63,
-      "change_1m_pct": 1.01,
-      "change_3m_pct": 1.03,
-      "change_6m_pct": 12.1,
-      "change_3y_pct": 77.18,
-      "change_5y_pct": 81.26,
+      "bid": 711.1,
+      "ask": 711.07,
+      "spread_pct": -0.0042,
+      "price": 710.92,
+      "change_1d_pct": 1.07,
+      "change_1y_pct": 21.56,
+      "change_ytd_pct": 13.84,
+      "change_1m_pct": 2.09,
+      "change_3m_pct": 2.83,
+      "change_6m_pct": 14.31,
+      "change_3y_pct": 79.07,
+      "change_5y_pct": 83.19,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 655.59
-        },
         {
           "date": "2026-04-28",
           "close": 652.36
@@ -381,10 +377,14 @@
         {
           "date": "2026-09-02",
           "close": 703.41
+        },
+        {
+          "date": "2026-09-03",
+          "close": 710.92
         }
       ],
-      "volatility_pct": 12.7,
-      "sharpe_ratio": 1.26,
+      "volatility_pct": 12.74,
+      "sharpe_ratio": 1.3,
       "max_drawdown_5y_pct": -24.52,
       "beta_vs_sp500": 0.99,
       "tracking_error_pct": 0.85,
@@ -407,66 +407,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 7.55,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 7.04,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 5.36,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 4.13,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 3.24,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 2.86,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 2.62,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 1.9,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 1.46,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         },
         {
           "symbol": "BRK-B",
           "name": "Berkshire Hathaway Inc Class B",
           "weight_pct": 1.46,
-          "change_1y_pct": 0.75
+          "change_1y_pct": 1.23
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-04",
-        "atm_implied_vol_pct": 3.2,
+        "atm_implied_vol_pct": 101.5,
         "call_open_interest": 12110,
         "put_open_interest": 4420,
         "put_call_oi_ratio": 0.36,
@@ -476,13 +476,13 @@
         "symbol": "GOOGL",
         "name": "Alphabet Inc Class A",
         "weight_pct": 3.24,
-        "change_1y_pct": 46.57
+        "change_1y_pct": 49.02
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 1.9,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "IVV": {
@@ -492,23 +492,19 @@
       "aum": 869199904768,
       "fund_family": "iShares",
       "avg_volume": 7458438,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 768.81,
-      "change_1d_pct": 0.45,
-      "change_1y_pct": 20.92,
-      "change_ytd_pct": 12.64,
-      "change_1m_pct": 0.98,
-      "change_3m_pct": 1.02,
-      "change_6m_pct": 12.11,
-      "change_3y_pct": 77.2,
-      "change_5y_pct": 81.27,
+      "bid": 777.22,
+      "ask": 777.3,
+      "spread_pct": 0.0103,
+      "price": 777.09,
+      "change_1d_pct": 1.08,
+      "change_1y_pct": 21.56,
+      "change_ytd_pct": 13.85,
+      "change_1m_pct": 2.07,
+      "change_3m_pct": 2.89,
+      "change_6m_pct": 14.32,
+      "change_3y_pct": 79.1,
+      "change_5y_pct": 83.22,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 716.58
-        },
         {
           "date": "2026-04-28",
           "close": 713.04
@@ -864,10 +860,14 @@
         {
           "date": "2026-09-02",
           "close": 768.81
+        },
+        {
+          "date": "2026-09-03",
+          "close": 777.09
         }
       ],
-      "volatility_pct": 12.78,
-      "sharpe_ratio": 1.26,
+      "volatility_pct": 12.81,
+      "sharpe_ratio": 1.3,
       "max_drawdown_5y_pct": -24.53,
       "beta_vs_sp500": 1.0,
       "tracking_error_pct": 1.27,
@@ -890,66 +890,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 7.54,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 7.03,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 5.35,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 4.12,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 3.24,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 2.86,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 2.61,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 1.89,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 1.46,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         },
         {
           "symbol": "BRK-B",
           "name": "Berkshire Hathaway Inc Class B",
           "weight_pct": 1.45,
-          "change_1y_pct": 0.75
+          "change_1y_pct": 1.23
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-04",
-        "atm_implied_vol_pct": 7.0,
+        "atm_implied_vol_pct": 25.2,
         "call_open_interest": 238,
         "put_open_interest": 110,
         "put_call_oi_ratio": 0.46,
@@ -959,13 +959,13 @@
         "symbol": "GOOGL",
         "name": "Alphabet Inc Class A",
         "weight_pct": 3.24,
-        "change_1y_pct": 46.57
+        "change_1y_pct": 49.02
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 1.89,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "SPY": {
@@ -975,23 +975,19 @@
       "aum": 795306885120,
       "fund_family": "State Street Investment Management",
       "avg_volume": 50123766,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 765.16,
-      "change_1d_pct": 0.44,
-      "change_1y_pct": 20.83,
-      "change_ytd_pct": 12.6,
-      "change_1m_pct": 0.99,
-      "change_3m_pct": 1.0,
-      "change_6m_pct": 12.07,
-      "change_3y_pct": 76.79,
-      "change_5y_pct": 80.69,
+      "bid": 773.55,
+      "ask": 773.57,
+      "spread_pct": 0.0026,
+      "price": 773.37,
+      "change_1d_pct": 1.07,
+      "change_1y_pct": 21.47,
+      "change_ytd_pct": 13.8,
+      "change_1m_pct": 2.07,
+      "change_3m_pct": 2.8,
+      "change_6m_pct": 14.28,
+      "change_3y_pct": 78.69,
+      "change_5y_pct": 82.63,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 713.33
-        },
         {
           "date": "2026-04-28",
           "close": 709.86
@@ -1347,10 +1343,14 @@
         {
           "date": "2026-09-02",
           "close": 765.16
+        },
+        {
+          "date": "2026-09-03",
+          "close": 773.37
         }
       ],
-      "volatility_pct": 12.77,
-      "sharpe_ratio": 1.25,
+      "volatility_pct": 12.8,
+      "sharpe_ratio": 1.29,
       "max_drawdown_5y_pct": -24.5,
       "beta_vs_sp500": 1.0,
       "tracking_error_pct": 1.03,
@@ -1373,66 +1373,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 7.55,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 7.04,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 5.36,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 4.13,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 3.24,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 2.86,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 2.62,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 1.9,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 1.46,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         },
         {
           "symbol": "BRK-B",
           "name": "Berkshire Hathaway Inc Class B",
           "weight_pct": 1.46,
-          "change_1y_pct": 0.75
+          "change_1y_pct": 1.23
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-03",
-        "atm_implied_vol_pct": 10.0,
+        "atm_implied_vol_pct": 36.0,
         "call_open_interest": 115244,
         "put_open_interest": 166258,
         "put_call_oi_ratio": 1.44,
@@ -1442,13 +1442,13 @@
         "symbol": "GOOGL",
         "name": "Alphabet Inc Class A",
         "weight_pct": 3.24,
-        "change_1y_pct": 46.57
+        "change_1y_pct": 49.02
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 1.9,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "VTI": {
@@ -1458,27 +1458,19 @@
       "aum": 2289978572800,
       "fund_family": "Vanguard",
       "avg_volume": 3264611,
-      "bid": 376.0,
-      "ask": 377.7,
-      "spread_pct": 0.4511,
-      "price": 376.88,
-      "change_1d_pct": 0.46,
-      "change_1y_pct": 20.66,
-      "change_ytd_pct": 12.74,
-      "change_1m_pct": 0.81,
-      "change_3m_pct": 0.96,
-      "change_6m_pct": 11.8,
-      "change_3y_pct": 75.53,
-      "change_5y_pct": 72.54,
+      "bid": 381.09,
+      "ask": 381.1,
+      "spread_pct": 0.0026,
+      "price": 381.01,
+      "change_1d_pct": 1.1,
+      "change_1y_pct": 21.47,
+      "change_ytd_pct": 13.97,
+      "change_1m_pct": 1.92,
+      "change_3m_pct": 2.81,
+      "change_6m_pct": 14.17,
+      "change_3y_pct": 77.46,
+      "change_5y_pct": 74.44,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 351.04
-        },
-        {
-          "date": "2026-04-27",
-          "close": 351.52
-        },
         {
           "date": "2026-04-28",
           "close": 349.62
@@ -1820,6 +1812,10 @@
           "close": 380.63
         },
         {
+          "date": "2026-08-28",
+          "close": 379.36
+        },
+        {
           "date": "2026-08-31",
           "close": 378.15
         },
@@ -1830,10 +1826,14 @@
         {
           "date": "2026-09-02",
           "close": 376.88
+        },
+        {
+          "date": "2026-09-03",
+          "close": 381.01
         }
       ],
       "volatility_pct": 13.02,
-      "sharpe_ratio": 1.22,
+      "sharpe_ratio": 1.27,
       "max_drawdown_5y_pct": -25.36,
       "beta_vs_sp500": 1.01,
       "tracking_error_pct": null,
@@ -1856,66 +1856,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 6.4,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 6.29,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 4.78,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 3.64,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 2.89,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 2.55,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 2.31,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 1.69,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Co",
           "weight_pct": 1.35,
-          "change_1y_pct": 58.22
+          "change_1y_pct": 58.0
         },
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 1.31,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 4.1,
+        "atm_implied_vol_pct": 42.9,
         "call_open_interest": 6866,
         "put_open_interest": 5927,
         "put_call_oi_ratio": 0.86,
@@ -1925,13 +1925,13 @@
         "symbol": "LLY",
         "name": "Eli Lilly and Co",
         "weight_pct": 1.35,
-        "change_1y_pct": 58.22
+        "change_1y_pct": 58.0
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 1.69,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "QQQ": {
@@ -1944,20 +1944,16 @@
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
-      "price": 709.24,
-      "change_1d_pct": 0.23,
-      "change_1y_pct": 26.0,
-      "change_ytd_pct": 15.95,
-      "change_1m_pct": 1.31,
-      "change_3m_pct": -4.84,
-      "change_6m_pct": 16.91,
-      "change_3y_pct": 90.87,
-      "change_5y_pct": 91.53,
+      "price": 717.65,
+      "change_1d_pct": 1.19,
+      "change_1y_pct": 26.49,
+      "change_ytd_pct": 17.33,
+      "change_1m_pct": 2.51,
+      "change_3m_pct": -3.46,
+      "change_6m_pct": 19.58,
+      "change_3y_pct": 93.13,
+      "change_5y_pct": 93.8,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 663.5
-        },
         {
           "date": "2026-04-28",
           "close": 656.83
@@ -2313,10 +2309,14 @@
         {
           "date": "2026-09-02",
           "close": 709.24
+        },
+        {
+          "date": "2026-09-03",
+          "close": 717.65
         }
       ],
-      "volatility_pct": 19.57,
-      "sharpe_ratio": 1.09,
+      "volatility_pct": 19.59,
+      "sharpe_ratio": 1.11,
       "max_drawdown_5y_pct": -35.12,
       "beta_vs_sp500": 1.42,
       "tracking_error_pct": 0.68,
@@ -2339,66 +2339,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 8.04,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 7.51,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 5.71,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 4.83,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "weight_pct": 4.24,
-          "change_1y_pct": 706.62
+          "change_1y_pct": 701.19
         },
         {
           "symbol": "AMD",
           "name": "Advanced Micro Devices Inc",
           "weight_pct": 3.55,
-          "change_1y_pct": 181.91
+          "change_1y_pct": 181.56
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 3.43,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 3.22,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 3.05,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 2.73,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-03",
-        "atm_implied_vol_pct": 12.9,
+        "atm_implied_vol_pct": 43.6,
         "call_open_interest": 90000,
         "put_open_interest": 163872,
         "put_call_oi_ratio": 1.82,
@@ -2408,13 +2408,13 @@
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "weight_pct": 4.24,
-        "change_1y_pct": 706.62
+        "change_1y_pct": 701.19
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 2.73,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "IEFA": {
@@ -2424,27 +2424,19 @@
       "aum": 190108827648,
       "fund_family": "iShares",
       "avg_volume": 9005130,
-      "bid": 99.28,
-      "ask": 101.33,
-      "spread_pct": 2.0438,
-      "price": 99.88,
-      "change_1d_pct": 0.54,
-      "change_1y_pct": 22.14,
-      "change_ytd_pct": 12.36,
-      "change_1m_pct": 1.23,
-      "change_3m_pct": 3.43,
-      "change_6m_pct": 5.28,
-      "change_3y_pct": 66.49,
-      "change_5y_pct": 50.47,
+      "bid": 101.01,
+      "ask": 101.02,
+      "spread_pct": 0.0099,
+      "price": 100.95,
+      "change_1d_pct": 1.07,
+      "change_1y_pct": 23.24,
+      "change_ytd_pct": 13.56,
+      "change_1m_pct": 2.31,
+      "change_3m_pct": 5.36,
+      "change_6m_pct": 9.76,
+      "change_3y_pct": 68.28,
+      "change_5y_pct": 52.08,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 93.39
-        },
-        {
-          "date": "2026-04-27",
-          "close": 93.14
-        },
         {
           "date": "2026-04-28",
           "close": 92.76
@@ -2786,6 +2778,10 @@
           "close": 100.77
         },
         {
+          "date": "2026-08-28",
+          "close": 100.49
+        },
+        {
           "date": "2026-08-31",
           "close": 100.26
         },
@@ -2796,10 +2792,14 @@
         {
           "date": "2026-09-02",
           "close": 99.88
+        },
+        {
+          "date": "2026-09-03",
+          "close": 100.95
         }
       ],
       "volatility_pct": 15.58,
-      "sharpe_ratio": 1.12,
+      "sharpe_ratio": 1.18,
       "max_drawdown_5y_pct": -30.41,
       "beta_vs_sp500": 0.97,
       "tracking_error_pct": null,
@@ -2822,37 +2822,37 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.5,
-          "change_1y_pct": 128.93
+          "change_1y_pct": 129.12
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.41,
-          "change_1y_pct": 63.06
+          "change_1y_pct": 63.84
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.19,
-          "change_1y_pct": 37.02
+          "change_1y_pct": 36.33
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.12,
-          "change_1y_pct": 31.55
+          "change_1y_pct": 31.27
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.0,
-          "change_1y_pct": 8.46
+          "change_1y_pct": 8.44
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 1.0,
-          "change_1y_pct": 0.25
+          "change_1y_pct": -0.51
         },
         {
           "symbol": "SHEL.L",
@@ -2864,7 +2864,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.94,
-          "change_1y_pct": 20.17
+          "change_1y_pct": 20.44
         },
         {
           "symbol": "8306.T",
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 13.2,
+        "atm_implied_vol_pct": 25.1,
         "call_open_interest": 670,
         "put_open_interest": 251,
         "put_call_oi_ratio": 0.37,
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.5,
-        "change_1y_pct": 128.93
+        "change_1y_pct": 129.12
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 1.0,
-        "change_1y_pct": 0.25
+        "change_1y_pct": -0.51
       }
     },
     "VEA": {
@@ -2907,23 +2907,19 @@
       "aum": 314947534848,
       "fund_family": "Vanguard",
       "avg_volume": 10914353,
-      "bid": 72.49,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 72.59,
-      "change_1d_pct": 0.67,
-      "change_1y_pct": 28.35,
-      "change_ytd_pct": 15.66,
-      "change_1m_pct": 2.18,
-      "change_3m_pct": 0.9,
-      "change_6m_pct": 5.92,
-      "change_3y_pct": 75.53,
-      "change_5y_pct": 58.67,
+      "bid": 73.47,
+      "ask": 73.48,
+      "spread_pct": 0.0136,
+      "price": 73.43,
+      "change_1d_pct": 1.16,
+      "change_1y_pct": 29.56,
+      "change_ytd_pct": 17.0,
+      "change_1m_pct": 3.37,
+      "change_3m_pct": 3.0,
+      "change_6m_pct": 11.02,
+      "change_3y_pct": 77.58,
+      "change_5y_pct": 60.52,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 67.71
-        },
         {
           "date": "2026-04-28",
           "close": 67.38
@@ -3279,10 +3275,14 @@
         {
           "date": "2026-09-02",
           "close": 72.59
+        },
+        {
+          "date": "2026-09-03",
+          "close": 73.43
         }
       ],
-      "volatility_pct": 17.29,
-      "sharpe_ratio": 1.31,
+      "volatility_pct": 17.32,
+      "sharpe_ratio": 1.37,
       "max_drawdown_5y_pct": -29.71,
       "beta_vs_sp500": 1.09,
       "tracking_error_pct": null,
@@ -3305,49 +3305,49 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 2.48,
-          "change_1y_pct": 263.39
+          "change_1y_pct": 262.66
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 128.93
+          "change_1y_pct": 129.12
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 1.94,
-          "change_1y_pct": 516.29
+          "change_1y_pct": 509.79
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.13,
-          "change_1y_pct": 63.06
+          "change_1y_pct": 63.84
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 37.02
+          "change_1y_pct": 36.33
         },
         {
           "symbol": "RY",
           "name": "Royal Bank of Canada",
           "weight_pct": 0.9,
-          "change_1y_pct": 44.56
+          "change_1y_pct": 47.12
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.9,
-          "change_1y_pct": 31.55
+          "change_1y_pct": 31.27
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.79,
-          "change_1y_pct": 8.46
+          "change_1y_pct": 8.44
         },
         {
           "symbol": "SHEL.L",
@@ -3359,12 +3359,12 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 0.25
+          "change_1y_pct": -0.51
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 5.2,
+        "atm_implied_vol_pct": 36.3,
         "call_open_interest": 14253,
         "put_open_interest": 3322,
         "put_call_oi_ratio": 0.23,
@@ -3374,13 +3374,13 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 1.94,
-        "change_1y_pct": 516.29
+        "change_1y_pct": 509.79
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": 0.25
+        "change_1y_pct": -0.51
       }
     },
     "VUG": {
@@ -3390,27 +3390,19 @@
       "aum": 371990364160,
       "fund_family": "Vanguard",
       "avg_volume": 7154042,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 87.6,
-      "change_1d_pct": 0.26,
-      "change_1y_pct": 16.02,
-      "change_ytd_pct": 8.34,
-      "change_1m_pct": 0.6,
-      "change_3m_pct": -2.6,
-      "change_6m_pct": 13.96,
-      "change_3y_pct": 84.22,
-      "change_5y_pct": 75.0,
+      "bid": 88.99,
+      "ask": 89.0,
+      "spread_pct": 0.0112,
+      "price": 88.96,
+      "change_1d_pct": 1.55,
+      "change_1y_pct": 16.55,
+      "change_ytd_pct": 10.02,
+      "change_1m_pct": 2.15,
+      "change_3m_pct": 0.14,
+      "change_6m_pct": 16.45,
+      "change_3y_pct": 87.07,
+      "change_5y_pct": 77.7,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 83.16
-        },
-        {
-          "date": "2026-04-27",
-          "close": 83.4
-        },
         {
           "date": "2026-04-28",
           "close": 82.68
@@ -3752,6 +3744,10 @@
           "close": 88.9
         },
         {
+          "date": "2026-08-28",
+          "close": 88.54
+        },
+        {
           "date": "2026-08-31",
           "close": 88.24
         },
@@ -3762,10 +3758,14 @@
         {
           "date": "2026-09-02",
           "close": 87.6
+        },
+        {
+          "date": "2026-09-03",
+          "close": 88.96
         }
       ],
-      "volatility_pct": 17.76,
-      "sharpe_ratio": 0.72,
+      "volatility_pct": 17.75,
+      "sharpe_ratio": 0.74,
       "max_drawdown_5y_pct": -35.61,
       "beta_vs_sp500": 1.32,
       "tracking_error_pct": null,
@@ -3788,66 +3788,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 12.81,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 12.59,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 9.59,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 5.8,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
           "weight_pct": 5.15,
-          "change_1y_pct": 12.83
+          "change_1y_pct": 14.45
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 4.62,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 4.46,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 3.41,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Co",
           "weight_pct": 2.72,
-          "change_1y_pct": 58.22
+          "change_1y_pct": 58.0
         },
         {
           "symbol": "TSLA",
           "name": "Tesla Inc",
           "weight_pct": 2.44,
-          "change_1y_pct": 6.86
+          "change_1y_pct": 13.95
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 45.0,
+        "atm_implied_vol_pct": 49.6,
         "call_open_interest": 12794,
         "put_open_interest": 20484,
         "put_call_oi_ratio": 1.6,
@@ -3857,13 +3857,13 @@
         "symbol": "LLY",
         "name": "Eli Lilly and Co",
         "weight_pct": 2.72,
-        "change_1y_pct": 58.22
+        "change_1y_pct": 58.0
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 3.41,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "BND": {
@@ -3876,20 +3876,16 @@
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
-      "price": 71.83,
-      "change_1d_pct": 0.06,
-      "change_1y_pct": 1.83,
-      "change_ytd_pct": -0.36,
-      "change_1m_pct": -0.09,
-      "change_3m_pct": -0.85,
-      "change_6m_pct": -1.78,
-      "change_3y_pct": 13.59,
-      "change_5y_pct": -1.72,
+      "price": 71.94,
+      "change_1d_pct": 0.16,
+      "change_1y_pct": 1.66,
+      "change_ytd_pct": -0.2,
+      "change_1m_pct": 0.07,
+      "change_3m_pct": -0.5,
+      "change_6m_pct": -1.52,
+      "change_3y_pct": 13.77,
+      "change_5y_pct": -1.57,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 72.5
-        },
         {
           "date": "2026-04-28",
           "close": 72.48
@@ -4245,10 +4241,14 @@
         {
           "date": "2026-09-02",
           "close": 71.83
+        },
+        {
+          "date": "2026-09-03",
+          "close": 71.94
         }
       ],
-      "volatility_pct": 3.68,
-      "sharpe_ratio": -0.51,
+      "volatility_pct": 3.67,
+      "sharpe_ratio": -0.55,
       "max_drawdown_5y_pct": -17.81,
       "beta_vs_sp500": 0.11,
       "tracking_error_pct": null,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 26.2,
+        "atm_implied_vol_pct": 29.1,
         "call_open_interest": 1004,
         "put_open_interest": 455,
         "put_call_oi_ratio": 0.45,
@@ -4273,23 +4273,19 @@
       "aum": 104163942400,
       "fund_family": "Schwab ETFs",
       "avg_volume": 22086073,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 35.01,
-      "change_1d_pct": 0.57,
-      "change_1y_pct": 30.37,
-      "change_ytd_pct": 28.34,
-      "change_1m_pct": 4.32,
-      "change_3m_pct": 9.02,
-      "change_6m_pct": 11.7,
-      "change_3y_pct": 58.49,
-      "change_5y_pct": 61.39,
+      "bid": 35.1,
+      "ask": 35.11,
+      "spread_pct": 0.0285,
+      "price": 35.1,
+      "change_1d_pct": 0.24,
+      "change_1y_pct": 31.83,
+      "change_ytd_pct": 28.65,
+      "change_1m_pct": 4.57,
+      "change_3m_pct": 9.28,
+      "change_6m_pct": 12.93,
+      "change_3y_pct": 58.88,
+      "change_5y_pct": 61.79,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 30.88
-        },
         {
           "date": "2026-04-28",
           "close": 31.06
@@ -4645,10 +4641,14 @@
         {
           "date": "2026-09-02",
           "close": 35.01
+        },
+        {
+          "date": "2026-09-03",
+          "close": 35.1
         }
       ],
-      "volatility_pct": 11.04,
-      "sharpe_ratio": 2.12,
+      "volatility_pct": 11.0,
+      "sharpe_ratio": 2.23,
       "max_drawdown_5y_pct": -16.84,
       "beta_vs_sp500": 0.25,
       "tracking_error_pct": null,
@@ -4671,31 +4671,31 @@
           "symbol": "ABT",
           "name": "Abbott Laboratories",
           "weight_pct": 4.66,
-          "change_1y_pct": -14.49
+          "change_1y_pct": -15.91
         },
         {
           "symbol": "AMGN",
           "name": "Amgen Inc",
           "weight_pct": 4.41,
-          "change_1y_pct": 60.34
+          "change_1y_pct": 60.63
         },
         {
           "symbol": "MRK",
           "name": "Merck & Co Inc",
           "weight_pct": 4.35,
-          "change_1y_pct": 86.16
+          "change_1y_pct": 86.85
         },
         {
           "symbol": "KO",
           "name": "Coca-Cola Co",
           "weight_pct": 4.32,
-          "change_1y_pct": 31.52
+          "change_1y_pct": 32.84
         },
         {
           "symbol": "UNH",
           "name": "UnitedHealth Group Inc",
           "weight_pct": 4.3,
-          "change_1y_pct": 33.29
+          "change_1y_pct": 33.4
         },
         {
           "symbol": "HD",
@@ -4707,30 +4707,30 @@
           "symbol": "PG",
           "name": "Procter & Gamble Co",
           "weight_pct": 3.95,
-          "change_1y_pct": -3.91
+          "change_1y_pct": -4.04
         },
         {
           "symbol": "CVX",
           "name": "Chevron Corp",
           "weight_pct": 3.9,
-          "change_1y_pct": 39.27
+          "change_1y_pct": 39.21
         },
         {
           "symbol": "VZ",
           "name": "Verizon Communications Inc",
           "weight_pct": 3.8,
-          "change_1y_pct": 22.66
+          "change_1y_pct": 23.67
         },
         {
           "symbol": "PEP",
           "name": "PepsiCo Inc",
           "weight_pct": 3.78,
-          "change_1y_pct": -1.72
+          "change_1y_pct": -1.95
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-04",
-        "atm_implied_vol_pct": 3.1,
+        "atm_implied_vol_pct": 157.5,
         "call_open_interest": 8265,
         "put_open_interest": 2034,
         "put_call_oi_ratio": 0.25,
@@ -4740,7 +4740,7 @@
         "symbol": "MRK",
         "name": "Merck & Co Inc",
         "weight_pct": 4.35,
-        "change_1y_pct": 86.16
+        "change_1y_pct": 86.85
       },
       "weakest_holding": {
         "symbol": "HD",
@@ -4756,27 +4756,19 @@
       "aum": 152217387008,
       "fund_family": "iShares",
       "avg_volume": 11492582,
-      "bid": 81.21,
-      "ask": 81.93,
-      "spread_pct": 0.8827,
-      "price": 81.93,
-      "change_1d_pct": 0.61,
-      "change_1y_pct": 35.54,
-      "change_ytd_pct": 19.69,
-      "change_1m_pct": 4.89,
-      "change_3m_pct": -3.96,
-      "change_6m_pct": 9.49,
-      "change_3y_pct": 81.53,
-      "change_5y_pct": 45.93,
+      "bid": 82.28,
+      "ask": 82.3,
+      "spread_pct": 0.0243,
+      "price": 82.2,
+      "change_1d_pct": 0.33,
+      "change_1y_pct": 35.44,
+      "change_ytd_pct": 20.09,
+      "change_1m_pct": 5.24,
+      "change_3m_pct": -2.33,
+      "change_6m_pct": 15.44,
+      "change_3y_pct": 82.13,
+      "change_5y_pct": 46.41,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 77.55
-        },
-        {
-          "date": "2026-04-27",
-          "close": 77.4
-        },
         {
           "date": "2026-04-28",
           "close": 76.65
@@ -5118,6 +5110,10 @@
           "close": 82.42
         },
         {
+          "date": "2026-08-28",
+          "close": 81.82
+        },
+        {
           "date": "2026-08-31",
           "close": 81.73
         },
@@ -5128,12 +5124,16 @@
         {
           "date": "2026-09-02",
           "close": 81.93
+        },
+        {
+          "date": "2026-09-03",
+          "close": 82.2
         }
       ],
-      "volatility_pct": 24.09,
+      "volatility_pct": 24.04,
       "sharpe_ratio": 1.23,
       "max_drawdown_5y_pct": -33.61,
-      "beta_vs_sp500": 1.46,
+      "beta_vs_sp500": 1.45,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -5160,13 +5160,13 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 6.35,
-          "change_1y_pct": 263.39
+          "change_1y_pct": 262.66
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 4.91,
-          "change_1y_pct": 516.29
+          "change_1y_pct": 509.79
         },
         {
           "symbol": "0700.HK",
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 21.6,
+        "atm_implied_vol_pct": 31.0,
         "call_open_interest": 1716,
         "put_open_interest": 666,
         "put_call_oi_ratio": 0.39,
@@ -5223,7 +5223,7 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 4.91,
-        "change_1y_pct": 516.29
+        "change_1y_pct": 509.79
       },
       "weakest_holding": {
         "symbol": "0700.HK",
@@ -5239,23 +5239,19 @@
       "aum": 137109602304,
       "fund_family": "iShares",
       "avg_volume": 8429388,
-      "bid": 96.83,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 96.84,
-      "change_1d_pct": 0.07,
-      "change_1y_pct": 1.93,
-      "change_ytd_pct": -0.39,
-      "change_1m_pct": -0.09,
-      "change_3m_pct": -0.88,
-      "change_6m_pct": -1.83,
-      "change_3y_pct": 13.66,
-      "change_5y_pct": -1.59,
+      "bid": 97.02,
+      "ask": 97.03,
+      "spread_pct": 0.0103,
+      "price": 97.0,
+      "change_1d_pct": 0.17,
+      "change_1y_pct": 1.72,
+      "change_ytd_pct": -0.22,
+      "change_1m_pct": 0.08,
+      "change_3m_pct": -0.5,
+      "change_6m_pct": -1.56,
+      "change_3y_pct": 13.85,
+      "change_5y_pct": -1.43,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 97.77
-        },
         {
           "date": "2026-04-28",
           "close": 97.73
@@ -5611,10 +5607,14 @@
         {
           "date": "2026-09-02",
           "close": 96.84
+        },
+        {
+          "date": "2026-09-03",
+          "close": 97.0
         }
       ],
-      "volatility_pct": 3.78,
-      "sharpe_ratio": -0.47,
+      "volatility_pct": 3.76,
+      "sharpe_ratio": -0.52,
       "max_drawdown_5y_pct": -17.73,
       "beta_vs_sp500": 0.12,
       "tracking_error_pct": null,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 10.3,
+        "atm_implied_vol_pct": 15.0,
         "call_open_interest": 762,
         "put_open_interest": 430,
         "put_call_oi_ratio": 0.56,
@@ -5646,27 +5646,19 @@
       "aum": 256410894336,
       "fund_family": "Vanguard",
       "avg_volume": 2921284,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 225.41,
+      "bid": 226.93,
+      "ask": 226.94,
+      "spread_pct": 0.0044,
+      "price": 226.88,
       "change_1d_pct": 0.65,
-      "change_1y_pct": 26.02,
-      "change_ytd_pct": 18.13,
-      "change_1m_pct": 2.0,
-      "change_3m_pct": 6.21,
-      "change_6m_pct": 10.14,
-      "change_3y_pct": 69.33,
-      "change_5y_pct": 79.04,
+      "change_1y_pct": 27.41,
+      "change_ytd_pct": 18.9,
+      "change_1m_pct": 2.66,
+      "change_3m_pct": 6.89,
+      "change_6m_pct": 12.23,
+      "change_3y_pct": 70.43,
+      "change_5y_pct": 80.21,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 202.53
-        },
-        {
-          "date": "2026-04-27",
-          "close": 202.46
-        },
         {
           "date": "2026-04-28",
           "close": 202.5
@@ -6008,6 +6000,10 @@
           "close": 225.45
         },
         {
+          "date": "2026-08-28",
+          "close": 225.29
+        },
+        {
           "date": "2026-08-31",
           "close": 224.85
         },
@@ -6018,10 +6014,14 @@
         {
           "date": "2026-09-02",
           "close": 225.41
+        },
+        {
+          "date": "2026-09-03",
+          "close": 226.88
         }
       ],
-      "volatility_pct": 10.22,
-      "sharpe_ratio": 1.96,
+      "volatility_pct": 10.2,
+      "sharpe_ratio": 2.06,
       "max_drawdown_5y_pct": -17.04,
       "beta_vs_sp500": 0.56,
       "tracking_error_pct": null,
@@ -6044,66 +6044,66 @@
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 3.49,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         },
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "weight_pct": 3.44,
-          "change_1y_pct": 706.62
+          "change_1y_pct": 701.19
         },
         {
           "symbol": "BRK-B",
           "name": "Berkshire Hathaway Inc Class B",
           "weight_pct": 2.98,
-          "change_1y_pct": 0.75
+          "change_1y_pct": 1.23
         },
         {
           "symbol": "XOM",
           "name": "ExxonMobil Holdings Corp",
           "weight_pct": 2.39,
-          "change_1y_pct": 50.93
+          "change_1y_pct": 49.95
         },
         {
           "symbol": "JNJ",
           "name": "Johnson & Johnson",
           "weight_pct": 2.29,
-          "change_1y_pct": 58.1
+          "change_1y_pct": 60.09
         },
         {
           "symbol": "WMT",
           "name": "Walmart Inc",
           "weight_pct": 1.81,
-          "change_1y_pct": 7.59
+          "change_1y_pct": 10.2
         },
         {
           "symbol": "ABBV",
           "name": "AbbVie Inc",
           "weight_pct": 1.64,
-          "change_1y_pct": 27.37
+          "change_1y_pct": 26.92
         },
         {
           "symbol": "CSCO",
           "name": "Cisco Systems Inc",
           "weight_pct": 1.53,
-          "change_1y_pct": 65.1
+          "change_1y_pct": 64.32
         },
         {
           "symbol": "BAC",
           "name": "Bank of America Corp",
           "weight_pct": 1.47,
-          "change_1y_pct": 27.77
+          "change_1y_pct": 28.87
         },
         {
           "symbol": "UNH",
           "name": "UnitedHealth Group Inc",
           "weight_pct": 1.4,
-          "change_1y_pct": 33.29
+          "change_1y_pct": 33.4
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 3.6,
+        "atm_implied_vol_pct": 25.3,
         "call_open_interest": 279,
         "put_open_interest": 980,
         "put_call_oi_ratio": 3.51,
@@ -6113,13 +6113,13 @@
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "weight_pct": 3.44,
-        "change_1y_pct": 706.62
+        "change_1y_pct": 701.19
       },
       "weakest_holding": {
         "symbol": "BRK-B",
         "name": "Berkshire Hathaway Inc Class B",
         "weight_pct": 2.98,
-        "change_1y_pct": 0.75
+        "change_1y_pct": 1.23
       }
     },
     "VXUS": {
@@ -6132,24 +6132,16 @@
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
-      "price": 87.16,
-      "change_1d_pct": 0.52,
-      "change_1y_pct": 26.56,
-      "change_ytd_pct": 14.51,
-      "change_1m_pct": 2.52,
-      "change_3m_pct": 0.68,
-      "change_6m_pct": 6.36,
-      "change_3y_pct": 72.33,
-      "change_5y_pct": 52.15,
+      "price": 87.93,
+      "change_1d_pct": 0.88,
+      "change_1y_pct": 27.41,
+      "change_ytd_pct": 15.52,
+      "change_1m_pct": 3.42,
+      "change_3m_pct": 2.58,
+      "change_6m_pct": 11.13,
+      "change_3y_pct": 73.85,
+      "change_5y_pct": 53.49,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 82.12
-        },
-        {
-          "date": "2026-04-27",
-          "close": 81.97
-        },
         {
           "date": "2026-04-28",
           "close": 81.52
@@ -6491,6 +6483,10 @@
           "close": 87.93
         },
         {
+          "date": "2026-08-28",
+          "close": 87.52
+        },
+        {
           "date": "2026-08-31",
           "close": 87.32
         },
@@ -6501,10 +6497,14 @@
         {
           "date": "2026-09-02",
           "close": 87.16
+        },
+        {
+          "date": "2026-09-03",
+          "close": 87.93
         }
       ],
-      "volatility_pct": 16.93,
-      "sharpe_ratio": 1.26,
+      "volatility_pct": 16.9,
+      "sharpe_ratio": 1.3,
       "max_drawdown_5y_pct": -29.44,
       "beta_vs_sp500": 1.09,
       "tracking_error_pct": null,
@@ -6533,19 +6533,19 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 1.8,
-          "change_1y_pct": 263.39
+          "change_1y_pct": 262.66
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 128.93
+          "change_1y_pct": 129.12
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 1.41,
-          "change_1y_pct": 516.29
+          "change_1y_pct": 509.79
         },
         {
           "symbol": "0700.HK",
@@ -6557,25 +6557,25 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.82,
-          "change_1y_pct": 63.06
+          "change_1y_pct": 63.84
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 37.02
+          "change_1y_pct": 36.33
         },
         {
           "symbol": "RY",
           "name": "Royal Bank of Canada",
           "weight_pct": 0.66,
-          "change_1y_pct": 44.56
+          "change_1y_pct": 47.12
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 31.55
+          "change_1y_pct": 31.27
         },
         {
           "symbol": "9988.HK",
@@ -6586,7 +6586,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-04",
-        "atm_implied_vol_pct": 4.2,
+        "atm_implied_vol_pct": 47.9,
         "call_open_interest": 333,
         "put_open_interest": 352,
         "put_call_oi_ratio": 1.06,
@@ -6596,7 +6596,7 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 1.41,
-        "change_1y_pct": 516.29
+        "change_1y_pct": 509.79
       },
       "weakest_holding": {
         "symbol": "0700.HK",
@@ -6612,27 +6612,19 @@
       "aum": 162032336896,
       "fund_family": "Vanguard",
       "avg_volume": 7746765,
-      "bid": 60.51,
-      "ask": 60.64,
-      "spread_pct": 0.2146,
-      "price": 60.77,
-      "change_1d_pct": 0.15,
-      "change_1y_pct": 21.18,
-      "change_ytd_pct": 10.76,
-      "change_1m_pct": 2.9,
-      "change_3m_pct": -0.57,
-      "change_6m_pct": 6.29,
-      "change_3y_pct": 63.37,
-      "change_5y_pct": 34.28,
+      "bid": 60.99,
+      "ask": 61.0,
+      "spread_pct": 0.0164,
+      "price": 60.97,
+      "change_1d_pct": 0.34,
+      "change_1y_pct": 21.26,
+      "change_ytd_pct": 11.14,
+      "change_1m_pct": 3.24,
+      "change_3m_pct": 1.19,
+      "change_6m_pct": 10.53,
+      "change_3y_pct": 63.92,
+      "change_5y_pct": 34.73,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 58.95
-        },
-        {
-          "date": "2026-04-27",
-          "close": 58.66
-        },
         {
           "date": "2026-04-28",
           "close": 58.25
@@ -6974,6 +6966,10 @@
           "close": 61.01
         },
         {
+          "date": "2026-08-28",
+          "close": 60.79
+        },
+        {
           "date": "2026-08-31",
           "close": 60.52
         },
@@ -6984,12 +6980,16 @@
         {
           "date": "2026-09-02",
           "close": 60.77
+        },
+        {
+          "date": "2026-09-03",
+          "close": 60.97
         }
       ],
-      "volatility_pct": 17.58,
+      "volatility_pct": 17.54,
       "sharpe_ratio": 0.97,
       "max_drawdown_5y_pct": -30.88,
-      "beta_vs_sp500": 1.12,
+      "beta_vs_sp500": 1.11,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -7052,24 +7052,24 @@
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.77,
-          "change_1y_pct": -4.67
+          "change_1y_pct": -3.89
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.75,
-          "change_1y_pct": -24.74
+          "change_1y_pct": -25.36
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.67,
-          "change_1y_pct": 3.23
+          "change_1y_pct": 2.97
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 6.6,
+        "atm_implied_vol_pct": 54.4,
         "call_open_interest": 11391,
         "put_open_interest": 7271,
         "put_call_oi_ratio": 0.64,
@@ -7095,23 +7095,19 @@
       "aum": 130322653184,
       "fund_family": "State Street Investment Management",
       "avg_volume": 9081036,
-      "bid": 0.0,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 402.78,
-      "change_1d_pct": 1.52,
-      "change_1y_pct": 23.71,
-      "change_ytd_pct": 1.13,
-      "change_1m_pct": 8.36,
-      "change_3m_pct": -2.23,
-      "change_6m_pct": -17.8,
-      "change_3y_pct": 125.47,
-      "change_5y_pct": 135.46,
+      "bid": 410.27,
+      "ask": 410.3,
+      "spread_pct": 0.0073,
+      "price": 410.21,
+      "change_1d_pct": 1.84,
+      "change_1y_pct": 25.01,
+      "change_ytd_pct": 3.0,
+      "change_1m_pct": 10.36,
+      "change_3m_pct": 0.57,
+      "change_6m_pct": -12.37,
+      "change_3y_pct": 129.63,
+      "change_5y_pct": 139.8,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 429.89
-        },
         {
           "date": "2026-04-28",
           "close": 421.91
@@ -7467,19 +7463,23 @@
         {
           "date": "2026-09-02",
           "close": 402.78
+        },
+        {
+          "date": "2026-09-03",
+          "close": 410.21
         }
       ],
-      "volatility_pct": 29.1,
-      "sharpe_ratio": 0.75,
+      "volatility_pct": 29.15,
+      "sharpe_ratio": 0.78,
       "max_drawdown_5y_pct": -26.4,
-      "beta_vs_sp500": 0.76,
+      "beta_vs_sp500": 0.77,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {},
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-03",
-        "atm_implied_vol_pct": 23.2,
+        "atm_implied_vol_pct": 45.6,
         "call_open_interest": 7349,
         "put_open_interest": 9105,
         "put_call_oi_ratio": 1.24,
@@ -7495,27 +7495,19 @@
       "aum": 121217597440,
       "fund_family": "iShares",
       "avg_volume": 4725352,
-      "bid": 121.03,
-      "ask": 0.0,
-      "spread_pct": null,
-      "price": 121.81,
-      "change_1d_pct": 0.5,
-      "change_1y_pct": 10.72,
-      "change_ytd_pct": 3.46,
-      "change_1m_pct": 0.78,
-      "change_3m_pct": -4.97,
-      "change_6m_pct": 8.11,
-      "change_3y_pct": 75.19,
-      "change_5y_pct": 71.47,
+      "bid": 123.58,
+      "ask": 123.59,
+      "spread_pct": 0.0081,
+      "price": 123.53,
+      "change_1d_pct": 1.41,
+      "change_1y_pct": 11.17,
+      "change_ytd_pct": 4.92,
+      "change_1m_pct": 2.2,
+      "change_3m_pct": -2.36,
+      "change_6m_pct": 10.33,
+      "change_3y_pct": 77.66,
+      "change_5y_pct": 73.89,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 119.68
-        },
-        {
-          "date": "2026-04-27",
-          "close": 119.88
-        },
         {
           "date": "2026-04-28",
           "close": 118.97
@@ -7857,6 +7849,10 @@
           "close": 123.89
         },
         {
+          "date": "2026-08-28",
+          "close": 122.75
+        },
+        {
           "date": "2026-08-31",
           "close": 122.71
         },
@@ -7867,12 +7863,16 @@
         {
           "date": "2026-09-02",
           "close": 121.81
+        },
+        {
+          "date": "2026-09-03",
+          "close": 123.53
         }
       ],
-      "volatility_pct": 17.7,
-      "sharpe_ratio": 0.45,
+      "volatility_pct": 17.69,
+      "sharpe_ratio": 0.48,
       "max_drawdown_5y_pct": -32.72,
-      "beta_vs_sp500": 1.3,
+      "beta_vs_sp500": 1.29,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -7893,66 +7893,66 @@
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
           "weight_pct": 14.57,
-          "change_1y_pct": 31.7
+          "change_1y_pct": 34.75
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 7.53,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
           "weight_pct": 6.46,
-          "change_1y_pct": 46.57
+          "change_1y_pct": 49.02
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 5.63,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 5.37,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
           "weight_pct": 5.28,
-          "change_1y_pct": 44.84
+          "change_1y_pct": 47.31
         },
         {
           "symbol": "META",
           "name": "Meta Platforms Inc Class A",
           "weight_pct": 3.12,
-          "change_1y_pct": -19.3
+          "change_1y_pct": -16.57
         },
         {
           "symbol": "MU",
           "name": "Micron Technology Inc",
           "weight_pct": 2.89,
-          "change_1y_pct": 706.62
+          "change_1y_pct": 701.19
         },
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Co",
           "weight_pct": 2.85,
-          "change_1y_pct": 58.22
+          "change_1y_pct": 58.0
         },
         {
           "symbol": "TSLA",
           "name": "Tesla Inc",
           "weight_pct": 2.83,
-          "change_1y_pct": 6.86
+          "change_1y_pct": 13.95
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 4.2,
+        "atm_implied_vol_pct": 32.0,
         "call_open_interest": 5108,
         "put_open_interest": 892,
         "put_call_oi_ratio": 0.17,
@@ -7962,13 +7962,13 @@
         "symbol": "MU",
         "name": "Micron Technology Inc",
         "weight_pct": 2.89,
-        "change_1y_pct": 706.62
+        "change_1y_pct": 701.19
       },
       "weakest_holding": {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
         "weight_pct": 3.12,
-        "change_1y_pct": -19.3
+        "change_1y_pct": -16.57
       }
     },
     "IJH": {
@@ -7978,27 +7978,19 @@
       "aum": 122394140672,
       "fund_family": "iShares",
       "avg_volume": 6738009,
-      "bid": 0.0,
-      "ask": 75.26,
-      "spread_pct": null,
-      "price": 75.11,
-      "change_1d_pct": 0.68,
-      "change_1y_pct": 17.23,
-      "change_ytd_pct": 12.8,
-      "change_1m_pct": -1.31,
-      "change_3m_pct": 0.1,
-      "change_6m_pct": 4.68,
-      "change_3y_pct": 50.03,
-      "change_5y_pct": 46.37,
+      "bid": 75.68,
+      "ask": 75.68,
+      "spread_pct": 0.0,
+      "price": 75.68,
+      "change_1d_pct": 0.76,
+      "change_1y_pct": 18.32,
+      "change_ytd_pct": 13.65,
+      "change_1m_pct": -0.56,
+      "change_3m_pct": 0.98,
+      "change_6m_pct": 7.32,
+      "change_3y_pct": 51.17,
+      "change_5y_pct": 47.49,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 72.61
-        },
-        {
-          "date": "2026-04-27",
-          "close": 72.66
-        },
         {
           "date": "2026-04-28",
           "close": 71.93
@@ -8340,6 +8332,10 @@
           "close": 76.65
         },
         {
+          "date": "2026-08-28",
+          "close": 75.76
+        },
+        {
           "date": "2026-08-31",
           "close": 75.35
         },
@@ -8350,10 +8346,14 @@
         {
           "date": "2026-09-02",
           "close": 75.11
+        },
+        {
+          "date": "2026-09-03",
+          "close": 75.68
         }
       ],
-      "volatility_pct": 15.54,
-      "sharpe_ratio": 0.86,
+      "volatility_pct": 15.48,
+      "sharpe_ratio": 0.92,
       "max_drawdown_5y_pct": -24.1,
       "beta_vs_sp500": 0.98,
       "tracking_error_pct": null,
@@ -8376,66 +8376,66 @@
           "symbol": "ILMN",
           "name": "Illumina Inc",
           "weight_pct": 0.87,
-          "change_1y_pct": 121.97
+          "change_1y_pct": 128.36
         },
         {
           "symbol": "TWLO",
           "name": "Twilio Inc Class A",
           "weight_pct": 0.84,
-          "change_1y_pct": 115.46
+          "change_1y_pct": 127.57
         },
         {
           "symbol": "FTI",
           "name": "TechnipFMC PLC",
           "weight_pct": 0.8,
-          "change_1y_pct": 108.97
+          "change_1y_pct": 109.78
         },
         {
           "symbol": "CW",
           "name": "Curtiss-Wright Corp",
           "weight_pct": 0.75,
-          "change_1y_pct": 17.67
+          "change_1y_pct": 19.11
         },
         {
           "symbol": "CRS",
           "name": "Carpenter Technology Corp",
           "weight_pct": 0.72,
-          "change_1y_pct": 96.01
+          "change_1y_pct": 98.99
         },
         {
           "symbol": "ATI",
           "name": "ATI Inc",
           "weight_pct": 0.72,
-          "change_1y_pct": 163.61
+          "change_1y_pct": 166.82
         },
         {
           "symbol": "NVT",
           "name": "nVent Electric PLC",
           "weight_pct": 0.7,
-          "change_1y_pct": 66.68
+          "change_1y_pct": 70.67
         },
         {
           "symbol": "P",
           "name": "Everpure Inc Class A",
           "weight_pct": 0.68,
-          "change_1y_pct": 18.67
+          "change_1y_pct": 24.91
         },
         {
           "symbol": "OKTA",
           "name": "Okta Inc Class A",
           "weight_pct": 0.67,
-          "change_1y_pct": 81.64
+          "change_1y_pct": 87.14
         },
         {
           "symbol": "XPO",
           "name": "XPO Inc",
           "weight_pct": 0.66,
-          "change_1y_pct": 47.78
+          "change_1y_pct": 46.5
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 2.7,
+        "atm_implied_vol_pct": 27.6,
         "call_open_interest": 678,
         "put_open_interest": 149,
         "put_call_oi_ratio": 0.22,
@@ -8445,13 +8445,13 @@
         "symbol": "ATI",
         "name": "ATI Inc",
         "weight_pct": 0.72,
-        "change_1y_pct": 163.61
+        "change_1y_pct": 166.82
       },
       "weakest_holding": {
         "symbol": "CW",
         "name": "Curtiss-Wright Corp",
         "weight_pct": 0.75,
-        "change_1y_pct": 17.67
+        "change_1y_pct": 19.11
       }
     },
     "VIG": {
@@ -8461,23 +8461,19 @@
       "aum": 130902130688,
       "fund_family": "Vanguard",
       "avg_volume": 1063806,
-      "bid": 0.0,
-      "ask": 241.9,
-      "spread_pct": null,
-      "price": 241.66,
-      "change_1d_pct": 0.24,
-      "change_1y_pct": 16.9,
-      "change_ytd_pct": 10.44,
-      "change_1m_pct": 0.63,
-      "change_3m_pct": 2.86,
-      "change_6m_pct": 7.26,
-      "change_3y_pct": 57.19,
-      "change_5y_pct": 62.74,
+      "bid": 243.18,
+      "ask": 243.2,
+      "spread_pct": 0.0082,
+      "price": 243.18,
+      "change_1d_pct": 0.63,
+      "change_1y_pct": 17.54,
+      "change_ytd_pct": 11.14,
+      "change_1m_pct": 1.26,
+      "change_3m_pct": 3.7,
+      "change_6m_pct": 8.88,
+      "change_3y_pct": 58.18,
+      "change_5y_pct": 63.77,
       "history": [
-        {
-          "date": "2026-04-27",
-          "close": 225.03
-        },
         {
           "date": "2026-04-28",
           "close": 224.39
@@ -8833,10 +8829,14 @@
         {
           "date": "2026-09-02",
           "close": 241.66
+        },
+        {
+          "date": "2026-09-03",
+          "close": 243.18
         }
       ],
-      "volatility_pct": 10.03,
-      "sharpe_ratio": 1.23,
+      "volatility_pct": 10.04,
+      "sharpe_ratio": 1.29,
       "max_drawdown_5y_pct": -20.39,
       "beta_vs_sp500": 0.65,
       "tracking_error_pct": null,
@@ -8859,82 +8859,82 @@
           "symbol": "AVGO",
           "name": "Broadcom Inc",
           "weight_pct": 4.62,
-          "change_1y_pct": 22.34
+          "change_1y_pct": 18.94
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
           "weight_pct": 4.44,
-          "change_1y_pct": 36.77
+          "change_1y_pct": 37.84
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
           "weight_pct": 4.33,
-          "change_1y_pct": -0.88
+          "change_1y_pct": 2.14
         },
         {
           "symbol": "JPM",
           "name": "JPMorgan Chase & Co",
           "weight_pct": 4.06,
-          "change_1y_pct": 21.21
+          "change_1y_pct": 23.21
         },
         {
           "symbol": "LLY",
           "name": "Eli Lilly and Co",
           "weight_pct": 3.92,
-          "change_1y_pct": 58.22
+          "change_1y_pct": 58.0
         },
         {
           "symbol": "XOM",
           "name": "ExxonMobil Holdings Corp",
           "weight_pct": 2.78,
-          "change_1y_pct": 50.93
+          "change_1y_pct": 49.95
         },
         {
           "symbol": "JNJ",
           "name": "Johnson & Johnson",
           "weight_pct": 2.66,
-          "change_1y_pct": 58.1
+          "change_1y_pct": 60.09
         },
         {
           "symbol": "V",
           "name": "Visa Inc Class A",
           "weight_pct": 2.44,
-          "change_1y_pct": 8.71
+          "change_1y_pct": 9.03
         },
         {
           "symbol": "WMT",
           "name": "Walmart Inc",
           "weight_pct": 2.1,
-          "change_1y_pct": 7.59
+          "change_1y_pct": 10.2
         },
         {
           "symbol": "MA",
           "name": "Mastercard Inc Class A",
           "weight_pct": 1.99,
-          "change_1y_pct": -0.25
+          "change_1y_pct": -0.64
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 26.1,
+        "atm_implied_vol_pct": 38.6,
         "call_open_interest": 302,
         "put_open_interest": 176,
         "put_call_oi_ratio": 0.58,
         "expirations_available": 5
       },
       "strongest_holding": {
-        "symbol": "LLY",
-        "name": "Eli Lilly and Co",
-        "weight_pct": 3.92,
-        "change_1y_pct": 58.22
+        "symbol": "JNJ",
+        "name": "Johnson & Johnson",
+        "weight_pct": 2.66,
+        "change_1y_pct": 60.09
       },
       "weakest_holding": {
-        "symbol": "MSFT",
-        "name": "Microsoft Corp",
-        "weight_pct": 4.33,
-        "change_1y_pct": -0.88
+        "symbol": "MA",
+        "name": "Mastercard Inc Class A",
+        "weight_pct": 1.99,
+        "change_1y_pct": -0.64
       }
     },
     "IJR": {
@@ -8944,27 +8944,19 @@
       "aum": 109626867712,
       "fund_family": "iShares",
       "avg_volume": 3444585,
-      "bid": 143.46,
-      "ask": 144.66,
-      "spread_pct": 0.833,
-      "price": 144.31,
-      "change_1d_pct": 0.97,
-      "change_1y_pct": 24.79,
-      "change_ytd_pct": 19.45,
-      "change_1m_pct": -2.4,
-      "change_3m_pct": 3.62,
-      "change_6m_pct": 11.02,
-      "change_3y_pct": 53.06,
-      "change_5y_pct": 38.68,
+      "bid": 144.85,
+      "ask": 144.87,
+      "spread_pct": 0.0138,
+      "price": 144.8,
+      "change_1d_pct": 0.34,
+      "change_1y_pct": 25.37,
+      "change_ytd_pct": 19.85,
+      "change_1m_pct": -2.07,
+      "change_3m_pct": 4.9,
+      "change_6m_pct": 12.59,
+      "change_3y_pct": 53.58,
+      "change_5y_pct": 39.15,
       "history": [
-        {
-          "date": "2026-04-24",
-          "close": 135.89
-        },
-        {
-          "date": "2026-04-27",
-          "close": 136.15
-        },
         {
           "date": "2026-04-28",
           "close": 135.38
@@ -9306,6 +9298,10 @@
           "close": 146.78
         },
         {
+          "date": "2026-08-28",
+          "close": 145.58
+        },
+        {
           "date": "2026-08-31",
           "close": 144.52
         },
@@ -9316,12 +9312,16 @@
         {
           "date": "2026-09-02",
           "close": 144.31
+        },
+        {
+          "date": "2026-09-03",
+          "close": 144.8
         }
       ],
-      "volatility_pct": 16.67,
-      "sharpe_ratio": 1.19,
+      "volatility_pct": 16.61,
+      "sharpe_ratio": 1.22,
       "max_drawdown_5y_pct": -28.02,
-      "beta_vs_sp500": 1.0,
+      "beta_vs_sp500": 0.99,
       "tracking_error_pct": null,
       "benchmark_index": null,
       "sector_weights": {
@@ -9348,60 +9348,60 @@
           "symbol": "CORT",
           "name": "Corcept Therapeutics Inc",
           "weight_pct": 0.61,
-          "change_1y_pct": 54.79
+          "change_1y_pct": 58.7
         },
         {
           "symbol": "VSAT",
           "name": "Viasat Inc",
           "weight_pct": 0.58,
-          "change_1y_pct": 137.02
+          "change_1y_pct": 141.86
         },
         {
           "symbol": "GKOS",
           "name": "Glaukos Corp",
           "weight_pct": 0.54,
-          "change_1y_pct": 90.04
+          "change_1y_pct": 90.19
         },
         {
           "symbol": "MTCH",
           "name": "Match Group Inc Ordinary Shares - New",
           "weight_pct": 0.51,
-          "change_1y_pct": 15.52
+          "change_1y_pct": 16.47
         },
         {
           "symbol": "EAT",
           "name": "Brinker International Inc",
           "weight_pct": 0.51,
-          "change_1y_pct": 45.23
+          "change_1y_pct": 45.08
         },
         {
           "symbol": "JXN",
           "name": "Jackson Financial Inc",
           "weight_pct": 0.47,
-          "change_1y_pct": 46.59
+          "change_1y_pct": 49.56
         },
         {
           "symbol": "RHP",
           "name": "Ryman Hospitality Properties Inc",
           "weight_pct": 0.47,
-          "change_1y_pct": 28.75
+          "change_1y_pct": 28.34
         },
         {
           "symbol": "ESI",
           "name": "Element Solutions Inc",
           "weight_pct": 0.47,
-          "change_1y_pct": 38.32
+          "change_1y_pct": 40.02
         },
         {
           "symbol": "FORM",
           "name": "FormFactor Inc",
           "weight_pct": 0.46,
-          "change_1y_pct": 239.47
+          "change_1y_pct": 239.32
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 10.6,
+        "atm_implied_vol_pct": 33.0,
         "call_open_interest": 1469,
         "put_open_interest": 1843,
         "put_call_oi_ratio": 1.25,
@@ -9411,13 +9411,13 @@
         "symbol": "FORM",
         "name": "FormFactor Inc",
         "weight_pct": 0.46,
-        "change_1y_pct": 239.47
+        "change_1y_pct": 239.32
       },
       "weakest_holding": {
         "symbol": "MTCH",
         "name": "Match Group Inc Ordinary Shares - New",
         "weight_pct": 0.51,
-        "change_1y_pct": 15.52
+        "change_1y_pct": 16.47
       }
     }
   },
@@ -9438,7 +9438,7 @@
       "VTV": 0.7,
       "VXUS": 0.82,
       "VWO": 0.81,
-      "GLD": 0.32,
+      "GLD": 0.33,
       "IWF": 0.94,
       "IJH": 0.81,
       "VIG": 0.82,
@@ -9499,7 +9499,7 @@
       "VUG": 0.94,
       "BND": 0.38,
       "SCHD": 0.31,
-      "IEMG": 0.78,
+      "IEMG": 0.77,
       "AGG": 0.41,
       "VTV": 0.73,
       "VXUS": 0.83,
@@ -9519,7 +9519,7 @@
       "IEFA": 0.71,
       "VEA": 0.77,
       "VUG": 0.94,
-      "BND": 0.3,
+      "BND": 0.31,
       "SCHD": 0.06,
       "IEMG": 0.83,
       "AGG": 0.33,
@@ -9527,7 +9527,7 @@
       "VXUS": 0.8,
       "VWO": 0.81,
       "GLD": 0.32,
-      "IWF": 0.93,
+      "IWF": 0.94,
       "IJH": 0.7,
       "VIG": 0.63,
       "IJR": 0.64
@@ -9544,7 +9544,7 @@
       "BND": 0.51,
       "SCHD": 0.34,
       "IEMG": 0.81,
-      "AGG": 0.53,
+      "AGG": 0.54,
       "VTV": 0.72,
       "VXUS": 0.96,
       "VWO": 0.83,
@@ -9563,7 +9563,7 @@
       "IEFA": 0.98,
       "VEA": 1.0,
       "VUG": 0.71,
-      "BND": 0.5,
+      "BND": 0.51,
       "SCHD": 0.27,
       "IEMG": 0.89,
       "AGG": 0.53,
@@ -9603,9 +9603,9 @@
       "IVV": 0.37,
       "SPY": 0.37,
       "VTI": 0.38,
-      "QQQ": 0.3,
+      "QQQ": 0.31,
       "IEFA": 0.51,
-      "VEA": 0.5,
+      "VEA": 0.51,
       "VUG": 0.31,
       "BND": 1.0,
       "SCHD": 0.19,
@@ -9614,11 +9614,11 @@
       "VTV": 0.36,
       "VXUS": 0.49,
       "VWO": 0.38,
-      "GLD": 0.23,
+      "GLD": 0.24,
       "IWF": 0.31,
       "IJH": 0.41,
       "VIG": 0.39,
-      "IJR": 0.4
+      "IJR": 0.41
     },
     "SCHD": {
       "VOO": 0.28,
@@ -9635,7 +9635,7 @@
       "AGG": 0.2,
       "VTV": 0.72,
       "VXUS": 0.25,
-      "VWO": 0.17,
+      "VWO": 0.16,
       "GLD": 0.11,
       "IWF": 0.02,
       "IJH": 0.47,
@@ -9646,7 +9646,7 @@
       "VOO": 0.77,
       "IVV": 0.77,
       "SPY": 0.77,
-      "VTI": 0.78,
+      "VTI": 0.77,
       "QQQ": 0.83,
       "IEFA": 0.81,
       "VEA": 0.89,
@@ -9670,7 +9670,7 @@
       "SPY": 0.39,
       "VTI": 0.41,
       "QQQ": 0.33,
-      "IEFA": 0.53,
+      "IEFA": 0.54,
       "VEA": 0.53,
       "VUG": 0.33,
       "BND": 0.99,
@@ -9702,7 +9702,7 @@
       "VTV": 1.0,
       "VXUS": 0.68,
       "VWO": 0.58,
-      "GLD": 0.28,
+      "GLD": 0.29,
       "IWF": 0.45,
       "IJH": 0.84,
       "VIG": 0.9,
@@ -9724,7 +9724,7 @@
       "VTV": 0.68,
       "VXUS": 1.0,
       "VWO": 0.93,
-      "GLD": 0.51,
+      "GLD": 0.52,
       "IWF": 0.74,
       "IJH": 0.77,
       "VIG": 0.7,
@@ -9740,7 +9740,7 @@
       "VEA": 0.87,
       "VUG": 0.77,
       "BND": 0.38,
-      "SCHD": 0.17,
+      "SCHD": 0.16,
       "IEMG": 0.95,
       "AGG": 0.4,
       "VTV": 0.58,
@@ -9753,7 +9753,7 @@
       "IJR": 0.62
     },
     "GLD": {
-      "VOO": 0.32,
+      "VOO": 0.33,
       "IVV": 0.32,
       "SPY": 0.32,
       "VTI": 0.34,
@@ -9761,12 +9761,12 @@
       "IEFA": 0.48,
       "VEA": 0.51,
       "VUG": 0.29,
-      "BND": 0.23,
+      "BND": 0.24,
       "SCHD": 0.11,
       "IEMG": 0.46,
       "AGG": 0.25,
-      "VTV": 0.28,
-      "VXUS": 0.51,
+      "VTV": 0.29,
+      "VXUS": 0.52,
       "VWO": 0.47,
       "GLD": 1.0,
       "IWF": 0.29,
@@ -9779,7 +9779,7 @@
       "IVV": 0.93,
       "SPY": 0.93,
       "VTI": 0.93,
-      "QQQ": 0.93,
+      "QQQ": 0.94,
       "IEFA": 0.68,
       "VEA": 0.71,
       "VUG": 0.98,
@@ -9792,7 +9792,7 @@
       "VWO": 0.76,
       "GLD": 0.29,
       "IWF": 1.0,
-      "IJH": 0.66,
+      "IJH": 0.67,
       "VIG": 0.65,
       "IJR": 0.61
     },
@@ -9813,7 +9813,7 @@
       "VXUS": 0.77,
       "VWO": 0.7,
       "GLD": 0.31,
-      "IWF": 0.66,
+      "IWF": 0.67,
       "IJH": 1.0,
       "VIG": 0.82,
       "IJR": 0.94
@@ -9849,7 +9849,7 @@
       "IEFA": 0.7,
       "VEA": 0.7,
       "VUG": 0.61,
-      "BND": 0.4,
+      "BND": 0.41,
       "SCHD": 0.52,
       "IEMG": 0.6,
       "AGG": 0.42,

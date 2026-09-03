@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:49:50.755237+00:00",
+  "generated_at": "2026-09-03T19:18:25.740597+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,34 @@
     ],
     "QQQ": [
       {
+        "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/02/snowflake-drops-4-before-its-earnings-report-datadog-falls-6-is-the-software-selloff-the-real-story/",
+        "published_at": "2026-09-02T16:41:11Z",
+        "description": "Software's biggest winners are selling off hard today while the broader tech index barely flinches, and the disconnect between those two moves reveals someth..."
+      },
+      {
+        "title": "Magnite Rallies 6%, Trade Desk Climbs 5%, AppLovin Barely Budges: Is Agentic Ad-Tech Broadening Out?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/02/magnite-rallies-6-trade-desk-climbs-5-applovin-barely-budges-is-agentic-ad-tech-broadening-out/",
+        "published_at": "2026-09-02T16:21:26Z",
+        "description": "Magnite and Trade Desk are surging while AppLovin sits perfectly still, and the reason points to a fault line forming inside programmatic advertising that co..."
+      },
+      {
+        "title": "Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/02/palo-alto-sinks-8-despite-34-revenue-growth-crowdstrike-falls-3-fortinet-slips/",
+        "published_at": "2026-09-02T14:13:25Z",
+        "description": "Palo Alto Networks crushed revenue estimates and still got punished, while peers with weaker numbers barely flinched. The gap between what bulls expected and..."
+      },
+      {
+        "title": "Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/02/dell-surges-9-on-record-95b-ai-backlog-hewlett-packard-enterprise-climbs-4-super-micro-ticks-up/",
+        "published_at": "2026-09-02T13:20:01Z",
+        "description": "Dell just handed Wall Street a number so large it forced analysts to reopen their models on a Wednesday morning, and the ripple through enterprise hardware i..."
+      },
+      {
         "title": "These ETFs Generate the Most Revenue",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -171,34 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/01/jepqs-monthly-check-can-push-a-retiree-into-the-85-social-security-tax-zone-the-hidden-cost-of-ordinary-income/",
         "published_at": "2026-09-01T21:45:58Z",
         "description": "That generous monthly check from a popular Nasdaq income ETF could be quietly inflating your tax bill in a way most retirees never see coming, and Social Sec..."
-      },
-      {
-        "title": "Daily ETF Flows: LQD Slips",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-lqd-slips?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-01T21:00:27Z",
-        "description": "Here are the daily ETF fund flows for August 31, 2026."
-      },
-      {
-        "title": "This Popular Semiconductor ETF Has a Big Chip in Its Bull Case. How to Tell If It\u2019s Broken Beyond Repair.",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/4383282/this-popular-semiconductor-etf-has-a-big-chip-in-its-bull-case-how-to-tell-if-its-broken-beyond-repair",
-        "published_at": "2026-09-01T18:42:01Z",
-        "description": "The semiconductor industry has clearly been the engine of global equity markets for the past several years, carrying broad indexes to repeated record highs...."
-      },
-      {
-        "title": "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/01/sofi-drops-4-affirm-falls-5-as-yields-hit-balance-sheet-lenders-robinhood-holds-steady/",
-        "published_at": "2026-09-01T16:56:54Z",
-        "description": "A global bond selloff is carving a precise line through fintech, punishing two lenders while leaving one brokerage almost untouched, and the reason why revea..."
-      },
-      {
-        "title": "Apple Rises 3% on John Ternus\u2019s First Day as CEO Even While the NASDAQ Skids",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/01/apple-rises-3-on-john-ternuss-first-day-as-ceo-even-while-nasdaq-skids/",
-        "published_at": "2026-09-01T16:52:28Z",
-        "description": "John Ternus stepped into the CEO role at Apple on a day when rising Treasury yields cracked the AI infrastructure trade wide open, and the reason Apple surge..."
       }
     ],
     "IEFA": [
@@ -485,6 +485,13 @@
     ],
     "VXUS": [
       {
+        "title": "Comparing Global ETFs: Vanguard's VXUS vs. State Street's Climate-Focused NZAC",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c77ebb47d8ab685d",
+        "published_at": "2026-09-02T17:39:04Z",
+        "description": "The Vanguard Total International Stock ETF (NASDAQ:VXUS) provides broad, low-cost exposure to non-U.S. markets, while the State Street SPDR MSCI ACWI Climate Paris Aligned ETF (NASDAQ:NZAC) offers a global portfolio filtered for climate-risk mitigation.\nInves\u2026"
+      },
+      {
         "title": "Daily ETF Flows: LQD Slips",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-lqd-slips?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -518,13 +525,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/21/you-max-the-401k-own-the-house-and-still-have-cash-piling-up-these-3-etfs-are-the-next-account/",
         "published_at": "2026-08-21T22:35:57Z",
         "description": "Your 401(k) is maxed and cash keeps piling up with nowhere to go, which means your retirement engine is probably running on one cylinder without you realizin..."
-      },
-      {
-        "title": "The creator of the 4% rule for retirement details the optimal setup for your investment portfolio",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/retirment-savings-investment-portfolio-stocks-bonds-cash-spending-withdrawal-rate-2026-8#article",
-        "published_at": "2026-08-19T09:40:01Z",
-        "description": "The 4% rule for retirees is easy enough to understand in theory. But what does that look like in practice?"
       }
     ],
     "VWO": [
