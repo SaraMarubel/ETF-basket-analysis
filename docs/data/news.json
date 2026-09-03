@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:18:25.740597+00:00",
+  "generated_at": "2026-09-03T22:34:37.568026+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Snow Stocks Slide as Snowflake Drops 4% Before Earnings \u2014 Mogaz",
+        "source": "Mogazmasr.com",
+        "url": "https://www.mogazmasr.com/144546",
+        "published_at": "2026-09-02T21:04:20Z",
+        "description": "Snow stocks weakened as Snowflake fell 4% before its fiscal Q2 2027 report, while Datadog and Cloudflare also slid and QQQ edged higher."
+      },
+      {
         "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/02/snowflake-drops-4-before-its-earnings-report-datadog-falls-6-is-the-software-selloff-the-real-story/",
@@ -192,13 +199,6 @@
         "url": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-01T22:24:15Z",
         "description": "The largest ETFs by assets aren't necessarily the most profitable for issuers."
-      },
-      {
-        "title": "JEPQ\u2019s Monthly Check Can Push a Retiree Into the 85% Social Security Tax Zone: The Hidden Cost of Ordinary Income",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/01/jepqs-monthly-check-can-push-a-retiree-into-the-85-social-security-tax-zone-the-hidden-cost-of-ordinary-income/",
-        "published_at": "2026-09-01T21:45:58Z",
-        "description": "That generous monthly check from a popular Nasdaq income ETF could be quietly inflating your tax bill in a way most retirees never see coming, and Social Sec..."
       }
     ],
     "IEFA": [
@@ -620,6 +620,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/213745121343427c",
+        "published_at": "2026-09-02T21:09:20Z",
+        "description": "The post VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends appeared first on 24/7 Wall St..\nPicture a retiree sitting on $500,000 in the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG). Every quarter, another distribu\u2026"
+      },
+      {
         "title": "America's $40 trillion national debt boosts the odds of a lost decade for stocks, market researcher warns",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/national-debt-40-trillion-america-lost-decade-stock-market-sp500-2026-8#article",
@@ -653,13 +660,6 @@
         "url": "https://www.thestreet.com/investing/schd-etf-679-million-inflows-dividend-rotation-2026",
         "published_at": "2026-08-25T17:33:00Z",
         "description": "Three catalysts, one reshuffling, and a Fed that refuses to move"
-      },
-      {
-        "title": "Vanguard vs. Fidelity: Is VIG or FDVV the Better Buy for Dividend Investors?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6fe5a55bb3916e49",
-        "published_at": "2026-08-24T16:13:12Z",
-        "description": "The Vanguard Dividend Appreciation ETF (NYSEMKT:VIG) focuses on companies with a consistent history of increasing dividends, while the Fidelity High Dividend ETF (NYSEMKT:FDVV) targets stocks with the highest current yield potential.\nBoth funds offer exposure\u2026"
       }
     ],
     "IJR": []
