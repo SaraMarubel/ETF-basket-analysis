@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T04:30:18.960517+00:00",
+  "generated_at": "2026-09-04T12:43:46.427097+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,11 +159,25 @@
     ],
     "QQQ": [
       {
+        "title": "SpaceX And Tesla Investors Face Hidden 'Key Person' Risk As Elon Musk Has No Clear Successor Worth Trillions",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/musk-dilemma-tesla-spacex-without-elon-1874913",
+        "published_at": "2026-09-03T07:00:13Z",
+        "description": "As Tesla and SpaceX grow into a $3 trillion market force, concerns rise over their reliance on Elon Musk, with no clear succession plan in place, posing potential risks for investors."
+      },
+      {
         "title": "Snow Stocks Slide as Snowflake Drops 4% Before Earnings \u2014 Mogaz",
         "source": "Mogazmasr.com",
         "url": "https://www.mogazmasr.com/144546",
         "published_at": "2026-09-02T21:04:20Z",
         "description": "Snow stocks weakened as Snowflake fell 4% before its fiscal Q2 2027 report, while Datadog and Cloudflare also slid and QQQ edged higher."
+      },
+      {
+        "title": "Daily ETF Flows: $628M Flows Into GLD",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-02T21:00:05Z",
+        "description": "Here are the daily ETF fund flows for September 1, 2026."
       },
       {
         "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
@@ -185,23 +199,16 @@
         "url": "https://247wallst.com/investing/2026/09/02/palo-alto-sinks-8-despite-34-revenue-growth-crowdstrike-falls-3-fortinet-slips/",
         "published_at": "2026-09-02T14:13:25Z",
         "description": "Palo Alto Networks crushed revenue estimates and still got punished, while peers with weaker numbers barely flinched. The gap between what bulls expected and..."
-      },
-      {
-        "title": "Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/02/dell-surges-9-on-record-95b-ai-backlog-hewlett-packard-enterprise-climbs-4-super-micro-ticks-up/",
-        "published_at": "2026-09-02T13:20:01Z",
-        "description": "Dell just handed Wall Street a number so large it forced analysts to reopen their models on a Wednesday morning, and the ripple through enterprise hardware i..."
-      },
-      {
-        "title": "These ETFs Generate the Most Revenue",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-01T22:24:15Z",
-        "description": "The largest ETFs by assets aren't necessarily the most profitable for issuers."
       }
     ],
     "IEFA": [
+      {
+        "title": "Daily ETF Flows: $628M Flows Into GLD",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-02T21:00:05Z",
+        "description": "Here are the daily ETF fund flows for September 1, 2026."
+      },
       {
         "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
         "source": "Biztoc.com",
@@ -309,6 +316,20 @@
     ],
     "SCHD": [
       {
+        "title": "The Portfolio Blueprint for Building $24,000 a Month in Dividend Income",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/03/the-portfolio-blueprint-for-building-24000-a-month-in-dividend-income/",
+        "published_at": "2026-09-03T12:24:42Z",
+        "description": "Hitting $24,000 a month in dividend income means generating $288,000 a year from a portfolio, which is roughly what a two-earner professional household in a..."
+      },
+      {
+        "title": "How a 70-Year-Old\u2019s $6,980 Monthly Check From SCHD, JEPQ, and QQQI Gets Taxed Three Different Ways",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/02/how-a-70-year-olds-6980-monthly-check-from-schd-jepq-and-qqqi-gets-taxed-three-different-ways/",
+        "published_at": "2026-09-02T21:25:19Z",
+        "description": "Three popular income ETFs can deposit identical-looking checks while the IRS quietly applies three separate tax treatments, and the wrong account placement c..."
+      },
+      {
         "title": "A 59-Year-Old Built a $4,700 Monthly Paycheck The Easy Way",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/personal-finance/2026/08/31/a-59-year-old-built-a-4700-monthly-paycheck-the-easy-way/",
@@ -335,23 +356,23 @@
         "url": "https://biztoc.com/x/856c89ec54b3524b",
         "published_at": "2026-08-30T22:27:30Z",
         "description": "The post SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money? appeared first on 24/7 Wall St..\nDividend investors who held Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) through the value-stock drought of the past\u2026"
-      },
-      {
-        "title": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/30/schd-is-up-nearly-30-and-its-yield-is-back-near-3-did-dividend-investors-miss-the-easy-money/",
-        "published_at": "2026-08-30T22:25:25Z",
-        "description": "SCHD just delivered a return most dividend investors spend a decade waiting for, and that success created a problem nobody predicted. Whether fresh money bel..."
-      },
-      {
-        "title": "How a 78-Year-Old Collects $5,300 a Month From Just Three Tickers: SCHD, HTGC, and NNN",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/08/29/how-a-78-year-old-collects-5300-a-month-from-just-three-tickers-schd-htgc-and-nnn/",
-        "published_at": "2026-08-29T22:38:54Z",
-        "description": "Three tickers, three wildly different capital requirements, and one retiree pulling a five-figure monthly income without touching principal. Which one demand..."
       }
     ],
     "IEMG": [
+      {
+        "title": "Diversifying in September? iShares Emerging Markets ETF vs. iShares World ETF Compared",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7b8e2a5818fcd0af",
+        "published_at": "2026-09-03T12:12:21Z",
+        "description": "The iShares MSCI World ETF (NYSEMKT:URTH) offers broad developed-market exposure with lower historical drawdown, while the iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) provides cheaper access to higher-growth developing regions.\nThese two funds from \u2026"
+      },
+      {
+        "title": "Daily ETF Flows: $628M Flows Into GLD",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-02T21:00:05Z",
+        "description": "Here are the daily ETF fund flows for September 1, 2026."
+      },
       {
         "title": "These ETFs Generate the Most Revenue",
         "source": "Etf.com",
@@ -379,20 +400,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
         "published_at": "2026-08-25T10:03:18Z",
         "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
-      },
-      {
-        "title": "The biggest U.S. stocks have done great for you. Experts say not to get greedy",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
-        "published_at": "2026-08-22T13:26:14Z",
-        "description": "Low-cost S&P 500 index funds are the foundation of many portfolios to grow wealth, but investors should add assets to diversify and lower volatility."
-      },
-      {
-        "title": "Which International ETF Is the Better Buy: Schwab's Developed Markets SCHF or iShares' Emerging Markets IEMG?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/12184a045634bfd1",
-        "published_at": "2026-08-18T17:16:43Z",
-        "description": "Which International ETF Is the Better Buy: Schwab's Developed Markets SCHF or iShares' Emerging Markets IEMG?\nChoosing between the Schwab International Equity ETF (NYSEMKT:SCHF) and the iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) often comes down to\u2026"
       }
     ],
     "AGG": [
@@ -545,6 +552,20 @@
     ],
     "GLD": [
       {
+        "title": "The Best-Performing Commodity ETFs of 2026: Oil and Broad Baskets Lead the Pack",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/news/best-performing-commodity-etfs-2026-oil-and-broad-baskets-lead-pack?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-02T23:26:17Z",
+        "description": "Commodities have been one of 2026\u2019s strongest asset classes, but the leadership is not where the precious-metals headlines pointed. Crude oil has roughly..."
+      },
+      {
+        "title": "Daily ETF Flows: $628M Flows Into GLD",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-02T21:00:05Z",
+        "description": "Here are the daily ETF fund flows for September 1, 2026."
+      },
+      {
         "title": "\u2018The Maradona Theory of Interest Rates\u2019 Is Back: Is Kevin Warsh Playing Wall Street?",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/economy/policy/articles/maradona-theory-interest-rates-back-150101045.html",
@@ -571,20 +592,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gldm-rounds-out-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-27T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 26, 2026."
-      },
-      {
-        "title": "Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis",
-        "source": "CryptoSlate",
-        "url": "https://cryptoslate.com/investors-just-moved-7-billion-into-bitcoin-and-gold-in-five-days-to-escape-an-accelerating-dollar-crisis/",
-        "published_at": "2026-08-27T18:55:59Z",
-        "description": "GLD and IBIT supplied about 70% of the five-session record as yields and the dollar eased, leaving the hedge thesis untested under pressure.\nThe post Investors just moved $7 billion into Bitcoin and gold in five days to escape an accelerating dollar crisis ap\u2026"
-      },
-      {
-        "title": "The Best Gold ETF for 2027 Won't Surprise You. It's Still GLD",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7941b06b421e322f",
-        "published_at": "2026-08-27T12:33:36Z",
-        "description": "It's never too early to start planning, and with barely more than four months remaining in 2026, now is a good time for investors to evaluate stocks and exchange-traded funds (ETFs) that can be embraced today and held into 2027 and beyond.\nPreparation is one \u2026"
       }
     ],
     "IWF": [
