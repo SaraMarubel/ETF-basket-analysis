@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T12:43:46.427097+00:00",
+  "generated_at": "2026-09-04T18:59:48.788671+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12%",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d3fb77f1c1b7d482",
+        "published_at": "2026-09-03T17:31:35Z",
+        "description": "The post Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12% appeared first on 24/7 Wall St..\nCrypto treasury stocks are outrunning a firmer tape at midday. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) is up 5% to $45\u2026"
+      },
+      {
         "title": "These ETFs Generate the Most Revenue",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/edd95d1f0b763d46",
@@ -104,13 +111,6 @@
         "url": "https://247wallst.com/investing/2026/08/27/plug-power-gains-4-as-risk-appetite-returns-fuelcell-inches-higher-bloom-energy-holds-flat/",
         "published_at": "2026-08-27T16:29:52Z",
         "description": "Hydrogen stocks split sharply Thursday as one ticker absorbed almost every dollar of risk appetite flowing into the sector, and the reason has nothing to do..."
-      },
-      {
-        "title": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/acc9081de8abc86d",
-        "published_at": "2026-08-27T15:49:34Z",
-        "description": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up\nRisk appetite is filtering back into speculative, long-duration equities Thursday morning, and the reactor developers are the tell. The SPDR S&P 500 ETF Trust (NYSEARCA:S\u2026"
       }
     ],
     "VTI": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "The Fed\u2019s Waller Says He\u2019d Hold Rates Steady \u2014 But His \u201cIf\u201d Is Doing a Lot of Heavy Lifting",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/03/the-feds-waller-says-hed-hold-rates-steady-but-his-if-is-doing-a-lot-of-heavy-lifting/",
+        "published_at": "2026-09-03T15:18:12Z",
+        "description": "Investors have spent much of the summer trying to figure out which way the Federal Reserve will move next. Inflation remains well above the Fed\u2019s 2% target,..."
+      },
+      {
         "title": "SpaceX And Tesla Investors Face Hidden 'Key Person' Risk As Elon Musk Has No Clear Successor Worth Trillions",
         "source": "Ibtimes.com.au",
         "url": "https://www.ibtimes.com.au/musk-dilemma-tesla-spacex-without-elon-1874913",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/02/magnite-rallies-6-trade-desk-climbs-5-applovin-barely-budges-is-agentic-ad-tech-broadening-out/",
         "published_at": "2026-09-02T16:21:26Z",
         "description": "Magnite and Trade Desk are surging while AppLovin sits perfectly still, and the reason points to a fault line forming inside programmatic advertising that co..."
-      },
-      {
-        "title": "Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/02/palo-alto-sinks-8-despite-34-revenue-growth-crowdstrike-falls-3-fortinet-slips/",
-        "published_at": "2026-09-02T14:13:25Z",
-        "description": "Palo Alto Networks crushed revenue estimates and still got punished, while peers with weaker numbers barely flinched. The gap between what bulls expected and..."
       }
     ],
     "IEFA": [
