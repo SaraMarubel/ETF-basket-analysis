@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:50:23.508676+00:00",
+  "generated_at": "2026-09-05T15:12:18.688976+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "Too much AI exposure? Can Apple be the diversification play in your portfolio? What Indian investors need to know",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/money/personal-finance/too-much-ai-exposure-can-apple-be-the-diversification-play-in-your-portfolio-what-indian-investors-need-to-know-11788520636540.html",
+        "published_at": "2026-09-04T13:27:16Z",
+        "description": "Investors wary of heavy AI spending by US tech giants are turning to Apple, which offers tech exposure with lower risk. Apple shares rose 7% while spending only $6.8 billion on capex, unlike major competitors investing $30-$54 billion quarterly."
+      },
+      {
         "title": "Nobody Has Looked at the Fund Your 401(k) Picked for You at 25, So Here Are 3 ETFs a Grown-Up Would Choose Instead",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
@@ -148,16 +155,23 @@
         "url": "https://247wallst.com/investing/etf/2026/08/26/vtis-0-03-fee-hides-the-real-cost-3600-stocks-and-still-a-third-of-your-money-in-ten-companies/",
         "published_at": "2026-08-26T21:35:39Z",
         "description": "VTI's rock-bottom fee gets all the attention, but there's a second cost buried in the fund's structure that most investors never think to check before they b..."
-      },
-      {
-        "title": "Daily ETF Flows: SOXL Inflows Total $520M",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxl-inflows-total-520m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-26T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 25, 2026."
       }
     ],
     "QQQ": [
+      {
+        "title": "UiPath Tumbles 14% as Guided Slowdown Overshadows Revenue Beat",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/04/uipath-tumbles-14-as-guided-slowdown-overshadows-revenue-beat/",
+        "published_at": "2026-09-04T14:40:02Z",
+        "description": "UiPath stock is cratering despite beating Wall Street's revenue target, and the reason sitting inside the forward guidance explains why investors who rode a..."
+      },
+      {
+        "title": "AMC Rises 6% as CEO Blasts Tokenized Shares, Robinhood Slips",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/04/amc-rises-6-as-ceo-blasts-tokenized-shares-robinhood-slips/",
+        "published_at": "2026-09-04T14:10:45Z",
+        "description": "A public broadside from AMC Entertainment (NYSE:AMC) chief executive Adam Aron over tokenized shares is splitting Friday morning\u2019s tape between two retail fa..."
+      },
       {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
         "source": "Benzinga",
@@ -185,20 +199,6 @@
         "url": "https://www.ibtimes.com.au/musk-dilemma-tesla-spacex-without-elon-1874913",
         "published_at": "2026-09-03T07:00:13Z",
         "description": "As Tesla and SpaceX grow into a $3 trillion market force, concerns rise over their reliance on Elon Musk, with no clear succession plan in place, posing potential risks for investors."
-      },
-      {
-        "title": "Snow Stocks Slide as Snowflake Drops 4% Before Earnings \u2014 Mogaz",
-        "source": "Mogazmasr.com",
-        "url": "https://www.mogazmasr.com/144546",
-        "published_at": "2026-09-02T21:04:20Z",
-        "description": "Snow stocks weakened as Snowflake fell 4% before its fiscal Q2 2027 report, while Datadog and Cloudflare also slid and QQQ edged higher."
-      },
-      {
-        "title": "Daily ETF Flows: $628M Flows Into GLD",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-02T21:00:05Z",
-        "description": "Here are the daily ETF fund flows for September 1, 2026."
       }
     ],
     "IEFA": [
