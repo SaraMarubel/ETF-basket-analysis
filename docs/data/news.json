@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:21:38.676991+00:00",
+  "generated_at": "2026-09-05T04:24:39.413854+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,20 @@
     ],
     "VTI": [
       {
+        "title": "Nobody Has Looked at the Fund Your 401(k) Picked for You at 25, So Here Are 3 ETFs a Grown-Up Would Choose Instead",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
+        "published_at": "2026-09-03T21:25:44Z",
+        "description": "Auto-enrollment handed you a default fund at 25 and you never looked back, but the investment your employer chose for you may already be working against your..."
+      },
+      {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
+      {
         "title": "The Free Retirement Dinner Costs $500K in the Fine Print, but These 4 ETFs Do What the Steak Pitch Promises",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
@@ -141,23 +155,16 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-soxl-inflows-total-520m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-26T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 25, 2026."
-      },
-      {
-        "title": "Daily ETF Flows: TLT Gains",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-25T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 24, 2026."
-      },
-      {
-        "title": "Has AI gotten any better at stock picking?",
-        "source": "MarketWatch",
-        "url": "https://www.marketwatch.com/story/has-ai-gotten-any-better-at-stock-picking-a7cfb998",
-        "published_at": "2026-08-25T19:35:00Z",
-        "description": "Beating the market is difficult, even with AI\u2019s help."
       }
     ],
     "QQQ": [
+      {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
       {
         "title": "The Fed\u2019s Waller Says He\u2019d Hold Rates Steady \u2014 But His \u201cIf\u201d Is Doing a Lot of Heavy Lifting",
         "source": "24/7 Wall St.",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/02/snowflake-drops-4-before-its-earnings-report-datadog-falls-6-is-the-software-selloff-the-real-story/",
         "published_at": "2026-09-02T16:41:11Z",
         "description": "Software's biggest winners are selling off hard today while the broader tech index barely flinches, and the disconnect between those two moves reveals someth..."
-      },
-      {
-        "title": "Magnite Rallies 6%, Trade Desk Climbs 5%, AppLovin Barely Budges: Is Agentic Ad-Tech Broadening Out?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/02/magnite-rallies-6-trade-desk-climbs-5-applovin-barely-budges-is-agentic-ad-tech-broadening-out/",
-        "published_at": "2026-09-02T16:21:26Z",
-        "description": "Magnite and Trade Desk are surging while AppLovin sits perfectly still, and the reason points to a fault line forming inside programmatic advertising that co..."
       }
     ],
     "IEFA": [
@@ -272,6 +272,20 @@
     ],
     "BND": [
       {
+        "title": "Nobody Has Looked at the Fund Your 401(k) Picked for You at 25, So Here Are 3 ETFs a Grown-Up Would Choose Instead",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
+        "published_at": "2026-09-03T21:25:44Z",
+        "description": "Auto-enrollment handed you a default fund at 25 and you never looked back, but the investment your employer chose for you may already be working against your..."
+      },
+      {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
+      {
         "title": "The Bond ETF Tax Mistake Costing Retirees With a $1 Million 60/40 Portfolio ~$6,600 a Year",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/08/29/the-bond-etf-tax-mistake-costing-retirees-with-a-1-million-60-40-portfolio-6600-a-year/",
@@ -298,20 +312,6 @@
         "url": "https://biztoc.com/x/0838ea021e39e11a",
         "published_at": "2026-08-20T14:59:55Z",
         "description": "The post BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss appeared first on 24/7 Wall St..\nThe Vanguard Total Bond Market ETF (NASDAQ:BND) has spent 2026 crossing back and forth over the zero line, with a year-to-date total return that ti\u2026"
-      },
-      {
-        "title": "BND Is Flat While Stocks Soar, but Selling Now Locks in the Real Loss",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/20/bnd-is-flat-while-stocks-soar-but-selling-now-locks-in-the-real-loss/",
-        "published_at": "2026-08-20T14:55:23Z",
-        "description": "BND has barely moved while stocks surge, and the temptation to cut losses and rotate into equities is growing louder. But the math behind that decision may b..."
-      },
-      {
-        "title": "Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/55c4c1f182f00625",
-        "published_at": "2026-08-15T19:23:38Z",
-        "description": "The post Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To appeared first on 24/7 Wall St..\nThe default bond allocation in most target-date funds, robo portfolios, and 401(k) menus is Vanguard Total Bond Market ETF (NYS\u2026"
       }
     ],
     "SCHD": [
@@ -404,6 +404,13 @@
     ],
     "AGG": [
       {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
+      {
         "title": "Bond market selloff: What fixed-income investors can do to protect their money without panicking",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/09/02/bond-market-selloff-rates-fixed-income-treasury-yields.html",
@@ -478,6 +485,13 @@
     ],
     "VXUS": [
       {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
+      {
         "title": "Comparing Global ETFs: Vanguard's VXUS vs. State Street's Climate-Focused NZAC",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c77ebb47d8ab685d",
@@ -511,13 +525,6 @@
         "url": "https://biztoc.com/x/f02bd6b848f55ca2",
         "published_at": "2026-08-25T00:19:51Z",
         "description": "Vanguard International Stock ETF vs Schwab Emerging Markets ETF. Which Fund Gives You More Profitable International Exposure?\nThe Schwab Emerging Markets Equity ETF (NYSEMKT:SCHE) offers targeted exposure to high-growth developing economies, while Vanguard To\u2026"
-      },
-      {
-        "title": "You Max the 401(k), Own the House, and Still Have Cash Piling Up. These 3 ETFs Are the Next Account",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/21/you-max-the-401k-own-the-house-and-still-have-cash-piling-up-these-3-etfs-are-the-next-account/",
-        "published_at": "2026-08-21T22:35:57Z",
-        "description": "Your 401(k) is maxed and cash keeps piling up with nowhere to go, which means your retirement engine is probably running on one cylinder without you realizin..."
       }
     ],
     "VWO": [
@@ -552,6 +559,13 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-03T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 2, 2026."
+      },
+      {
         "title": "The Best-Performing Commodity ETFs of 2026: Oil and Broad Baskets Lead the Pack",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/news/best-performing-commodity-etfs-2026-oil-and-broad-baskets-lead-pack?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -585,13 +599,6 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html",
         "published_at": "2026-09-02T10:45:14Z",
         "description": "Gold (GC=F) December futures opened at $4,377.20 per troy ounce on Wednesday, September 2, 2026, down 0.4% from Tuesday's closing price. Gold slipped further..."
-      },
-      {
-        "title": "Daily ETF Flows: GLDM Rounds Out Top 10",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gldm-rounds-out-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-27T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 26, 2026."
       }
     ],
     "IWF": [
