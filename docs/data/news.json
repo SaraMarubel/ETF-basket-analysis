@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:24:39.413854+00:00",
+  "generated_at": "2026-09-05T11:50:23.508676+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61621049/stock-market-will-sp-500-open-up-or-down-today-31?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-09-04T06:04:40Z",
+        "description": "U.S. stock futures are trending slightly higher early Friday as investors brace for the critical August jobs report and monitor geopolitical developments in..."
+      },
+      {
         "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -192,13 +199,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-02T21:00:05Z",
         "description": "Here are the daily ETF fund flows for September 1, 2026."
-      },
-      {
-        "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/02/snowflake-drops-4-before-its-earnings-report-datadog-falls-6-is-the-software-selloff-the-real-story/",
-        "published_at": "2026-09-02T16:41:11Z",
-        "description": "Software's biggest winners are selling off hard today while the broader tech index barely flinches, and the disconnect between those two moves reveals someth..."
       }
     ],
     "IEFA": [
@@ -430,13 +430,6 @@
         "url": "https://247wallst.com/investing/2026/08/13/the-60-40-portfolio-was-declared-dead-american-balanced-fund-abalx-never-got-the-memo/",
         "published_at": "2026-08-13T20:50:50Z",
         "description": "While Wall Street pundits spent years writing the obituary for the balanced portfolio, one 90-year-old fund kept quietly compounding through rate shocks, dra..."
-      },
-      {
-        "title": "Daily ETF Flows: EWY Takes No. 1 Spot",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ewy-takes-no-1-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-03T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for July 31, 2026."
       }
     ],
     "VTV": [

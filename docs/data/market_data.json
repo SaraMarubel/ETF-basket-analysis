@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T04:24:14.711696+00:00",
+  "generated_at": "2026-09-05T11:49:59.138812+00:00",
   "risk_free_rate_pct": 3.76,
   "etfs": {
     "VOO": {
@@ -8,7 +8,7 @@
       "currency": "USD",
       "aum": 1741139869696,
       "fund_family": "Vanguard",
-      "avg_volume": 7985169,
+      "avg_volume": 7966461,
       "bid": 707.38,
       "ask": 708.0,
       "spread_pct": 0.0876,
@@ -949,11 +949,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-11",
-        "atm_implied_vol_pct": 18.7,
-        "call_open_interest": 119,
-        "put_open_interest": 22,
-        "put_call_oi_ratio": 0.18,
-        "expirations_available": 14
+        "atm_implied_vol_pct": 18.4,
+        "call_open_interest": 120,
+        "put_open_interest": 25,
+        "put_call_oi_ratio": 0.21,
+        "expirations_available": 15
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -972,7 +972,7 @@
       "ticker": "SPY",
       "error": null,
       "currency": "USD",
-      "aum": 795306885120,
+      "aum": 811937038336,
       "fund_family": "State Street Investment Management",
       "avg_volume": 49314745,
       "bid": 769.42,
@@ -1356,59 +1356,59 @@
       "tracking_error_pct": 1.03,
       "benchmark_index": "^GSPC",
       "sector_weights": {
-        "realestate": 1.88,
-        "consumer_cyclical": 9.57,
-        "basic_materials": 1.62,
-        "consumer_defensive": 4.61,
-        "technology": 37.4,
-        "communication_services": 9.91,
-        "financial_services": 12.24,
-        "utilities": 2.15,
-        "industrials": 8.16,
-        "energy": 3.36,
-        "healthcare": 9.1
+        "realestate": 1.8,
+        "consumer_cyclical": 9.31,
+        "basic_materials": 1.68,
+        "consumer_defensive": 4.46,
+        "technology": 38.69,
+        "communication_services": 9.5,
+        "financial_services": 12.06,
+        "utilities": 1.98,
+        "industrials": 7.75,
+        "energy": 3.48,
+        "healthcare": 9.28
       },
       "top_holdings": [
         {
           "symbol": "NVDA",
           "name": "NVIDIA Corp",
-          "weight_pct": 7.55,
+          "weight_pct": 8.08,
           "change_1y_pct": 38.11
         },
         {
           "symbol": "AAPL",
           "name": "Apple Inc",
-          "weight_pct": 7.04,
+          "weight_pct": 7.03,
           "change_1y_pct": 33.99
         },
         {
           "symbol": "MSFT",
           "name": "Microsoft Corp",
-          "weight_pct": 5.36,
+          "weight_pct": 5.69,
           "change_1y_pct": 1.78
         },
         {
           "symbol": "AMZN",
           "name": "Amazon.com Inc",
-          "weight_pct": 4.13,
+          "weight_pct": 3.84,
           "change_1y_pct": 11.27
         },
         {
           "symbol": "GOOGL",
           "name": "Alphabet Inc Class A",
-          "weight_pct": 3.24,
+          "weight_pct": 3.01,
           "change_1y_pct": 44.53
         },
         {
           "symbol": "AVGO",
           "name": "Broadcom Inc",
-          "weight_pct": 2.86,
+          "weight_pct": 2.65,
           "change_1y_pct": 7.65
         },
         {
           "symbol": "GOOG",
           "name": "Alphabet Inc Class C",
-          "weight_pct": 2.62,
+          "weight_pct": 2.4,
           "change_1y_pct": 43.08
         },
         {
@@ -1418,16 +1418,16 @@
           "change_1y_pct": -17.76
         },
         {
-          "symbol": "JPM",
-          "name": "JPMorgan Chase & Co",
-          "weight_pct": 1.46,
-          "change_1y_pct": 24.16
+          "symbol": "MU",
+          "name": "Micron Technology Inc",
+          "weight_pct": 1.63,
+          "change_1y_pct": 675.08
         },
         {
-          "symbol": "BRK-B",
-          "name": "Berkshire Hathaway Inc Class B",
-          "weight_pct": 1.46,
-          "change_1y_pct": 1.25
+          "symbol": "TSLA",
+          "name": "Tesla Inc",
+          "weight_pct": 1.56,
+          "change_1y_pct": 0.92
         }
       ],
       "options": {
@@ -1439,10 +1439,10 @@
         "expirations_available": 26
       },
       "strongest_holding": {
-        "symbol": "GOOGL",
-        "name": "Alphabet Inc Class A",
-        "weight_pct": 3.24,
-        "change_1y_pct": 44.53
+        "symbol": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 1.63,
+        "change_1y_pct": 675.08
       },
       "weakest_holding": {
         "symbol": "META",
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 488981004288,
       "fund_family": "Invesco",
-      "avg_volume": 40886125,
+      "avg_volume": 40757530,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2423,7 +2423,7 @@
       "currency": "USD",
       "aum": 194385543168,
       "fund_family": "iShares",
-      "avg_volume": 9017016,
+      "avg_volume": 8964269,
       "bid": 100.99,
       "ask": 101.05,
       "spread_pct": 0.0594,
@@ -2822,31 +2822,31 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.51,
-          "change_1y_pct": 121.23
+          "change_1y_pct": 128.07
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 62.71
+          "change_1y_pct": 64.44
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.17,
-          "change_1y_pct": 33.26
+          "change_1y_pct": 33.45
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.07,
-          "change_1y_pct": 30.21
+          "change_1y_pct": 28.49
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.97,
-          "change_1y_pct": 27.71
+          "change_1y_pct": 27.92
         },
         {
           "symbol": "NESN.SW",
@@ -2864,7 +2864,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.94,
-          "change_1y_pct": -0.33
+          "change_1y_pct": -1.48
         },
         {
           "symbol": "BHP.AX",
@@ -2876,7 +2876,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.92,
-          "change_1y_pct": 20.13
+          "change_1y_pct": 21.04
         }
       ],
       "options": {
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.51,
-        "change_1y_pct": 121.23
+        "change_1y_pct": 128.07
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.94,
-        "change_1y_pct": -0.33
+        "change_1y_pct": -1.48
       }
     },
     "VEA": {
@@ -3311,7 +3311,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 121.23
+          "change_1y_pct": 128.07
         },
         {
           "symbol": "000660.KQ",
@@ -3323,13 +3323,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.13,
-          "change_1y_pct": 62.71
+          "change_1y_pct": 64.44
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 33.26
+          "change_1y_pct": 33.45
         },
         {
           "symbol": "RY",
@@ -3341,7 +3341,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.9,
-          "change_1y_pct": 30.21
+          "change_1y_pct": 28.49
         },
         {
           "symbol": "NESN.SW",
@@ -3353,13 +3353,13 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 27.71
+          "change_1y_pct": 27.92
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": -0.33
+          "change_1y_pct": -1.48
         }
       ],
       "options": {
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": -0.33
+        "change_1y_pct": -1.48
       }
     },
     "VUG": {
@@ -3870,9 +3870,9 @@
       "ticker": "BND",
       "error": null,
       "currency": "USD",
-      "aum": 396675153920,
+      "aum": 399067512832,
       "fund_family": "Vanguard",
-      "avg_volume": 7942466,
+      "avg_volume": 7945995,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4270,9 +4270,9 @@
       "ticker": "SCHD",
       "error": null,
       "currency": "USD",
-      "aum": 104163942400,
+      "aum": 112337240064,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 22066656,
+      "avg_volume": 22104868,
       "bid": 34.74,
       "ask": 34.8,
       "spread_pct": 0.1726,
@@ -4655,77 +4655,77 @@
       "benchmark_index": null,
       "sector_weights": {
         "realestate": 0.0,
-        "consumer_cyclical": 7.35,
+        "consumer_cyclical": 6.89,
         "basic_materials": 0.0,
-        "consumer_defensive": 19.89,
-        "technology": 12.71,
-        "communication_services": 6.1,
-        "financial_services": 9.97,
-        "utilities": 0.1,
-        "industrials": 7.76,
-        "energy": 14.97,
-        "healthcare": 21.16
+        "consumer_defensive": 19.46,
+        "technology": 12.94,
+        "communication_services": 6.46,
+        "financial_services": 9.76,
+        "utilities": 0.09,
+        "industrials": 7.5,
+        "energy": 15.41,
+        "healthcare": 21.48
       },
       "top_holdings": [
         {
+          "symbol": "MRK",
+          "name": "Merck & Co Inc",
+          "weight_pct": 4.78,
+          "change_1y_pct": 83.4
+        },
+        {
           "symbol": "ABT",
           "name": "Abbott Laboratories",
-          "weight_pct": 4.66,
+          "weight_pct": 4.77,
           "change_1y_pct": -16.63
         },
         {
           "symbol": "AMGN",
           "name": "Amgen Inc",
-          "weight_pct": 4.41,
+          "weight_pct": 4.72,
           "change_1y_pct": 58.43
-        },
-        {
-          "symbol": "MRK",
-          "name": "Merck & Co Inc",
-          "weight_pct": 4.35,
-          "change_1y_pct": 83.4
         },
         {
           "symbol": "KO",
           "name": "Coca-Cola Co",
-          "weight_pct": 4.32,
+          "weight_pct": 4.2,
           "change_1y_pct": 33.26
-        },
-        {
-          "symbol": "UNH",
-          "name": "UnitedHealth Group Inc",
-          "weight_pct": 4.3,
-          "change_1y_pct": 29.29
-        },
-        {
-          "symbol": "HD",
-          "name": "The Home Depot Inc",
-          "weight_pct": 4.1,
-          "change_1y_pct": -21.2
-        },
-        {
-          "symbol": "PG",
-          "name": "Procter & Gamble Co",
-          "weight_pct": 3.95,
-          "change_1y_pct": -5.8
-        },
-        {
-          "symbol": "CVX",
-          "name": "Chevron Corp",
-          "weight_pct": 3.9,
-          "change_1y_pct": 41.1
         },
         {
           "symbol": "VZ",
           "name": "Verizon Communications Inc",
-          "weight_pct": 3.8,
+          "weight_pct": 3.97,
           "change_1y_pct": 20.7
         },
         {
-          "symbol": "PEP",
-          "name": "PepsiCo Inc",
-          "weight_pct": 3.78,
-          "change_1y_pct": -2.17
+          "symbol": "CVX",
+          "name": "Chevron Corp",
+          "weight_pct": 3.93,
+          "change_1y_pct": 41.1
+        },
+        {
+          "symbol": "HD",
+          "name": "The Home Depot Inc",
+          "weight_pct": 3.9,
+          "change_1y_pct": -21.2
+        },
+        {
+          "symbol": "COP",
+          "name": "ConocoPhillips",
+          "weight_pct": 3.86,
+          "change_1y_pct": 49.0
+        },
+        {
+          "symbol": "UNH",
+          "name": "UnitedHealth Group Inc",
+          "weight_pct": 3.85,
+          "change_1y_pct": 29.29
+        },
+        {
+          "symbol": "PG",
+          "name": "Procter & Gamble Co",
+          "weight_pct": 3.79,
+          "change_1y_pct": -5.8
         }
       ],
       "options": {
@@ -4739,13 +4739,13 @@
       "strongest_holding": {
         "symbol": "MRK",
         "name": "Merck & Co Inc",
-        "weight_pct": 4.35,
+        "weight_pct": 4.78,
         "change_1y_pct": 83.4
       },
       "weakest_holding": {
         "symbol": "HD",
         "name": "The Home Depot Inc",
-        "weight_pct": 4.1,
+        "weight_pct": 3.9,
         "change_1y_pct": -21.2
       }
     },
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 160899022848,
       "fund_family": "iShares",
-      "avg_volume": 11411030,
+      "avg_volume": 11339393,
       "bid": 83.6,
       "ask": 83.65,
       "spread_pct": 0.0598,
@@ -5226,7 +5226,7 @@
       "currency": "USD",
       "aum": 138317873152,
       "fund_family": "iShares",
-      "avg_volume": 8338267,
+      "avg_volume": 8329868,
       "bid": 96.99,
       "ask": 97.0,
       "spread_pct": 0.0103,
@@ -5612,7 +5612,7 @@
         {
           "symbol": "BISXX",
           "name": "BlackRock Cash Funds Instl SL Agency",
-          "weight_pct": 3.01,
+          "weight_pct": 2.9,
           "change_1y_pct": null
         }
       ],
@@ -6527,7 +6527,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 121.23
+          "change_1y_pct": 128.07
         },
         {
           "symbol": "000660.KQ",
@@ -6545,13 +6545,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.82,
-          "change_1y_pct": 62.71
+          "change_1y_pct": 64.44
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 33.26
+          "change_1y_pct": 33.45
         },
         {
           "symbol": "RY",
@@ -6563,7 +6563,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 30.21
+          "change_1y_pct": 28.49
         },
         {
           "symbol": "9988.HK",
@@ -6599,7 +6599,7 @@
       "currency": "USD",
       "aum": 167548715008,
       "fund_family": "Vanguard",
-      "avg_volume": 7718083,
+      "avg_volume": 7682014,
       "bid": 61.42,
       "ask": 61.54,
       "spread_pct": 0.1952,
@@ -7461,11 +7461,11 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-08",
-        "atm_implied_vol_pct": 36.9,
-        "call_open_interest": 10770,
-        "put_open_interest": 11571,
-        "put_call_oi_ratio": 1.07,
-        "expirations_available": 23
+        "atm_implied_vol_pct": 41.0,
+        "call_open_interest": 11121,
+        "put_open_interest": 12395,
+        "put_call_oi_ratio": 1.11,
+        "expirations_available": 28
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -7476,7 +7476,7 @@
       "currency": "USD",
       "aum": 125535297536,
       "fund_family": "iShares",
-      "avg_volume": 4670991,
+      "avg_volume": 4646819,
       "bid": 123.36,
       "ask": 123.55,
       "spread_pct": 0.1539,
@@ -8442,7 +8442,7 @@
       "currency": "USD",
       "aum": 132306812928,
       "fund_family": "Vanguard",
-      "avg_volume": 1061040,
+      "avg_volume": 1056511,
       "bid": 241.34,
       "ask": 242.66,
       "spread_pct": 0.5455,
@@ -9383,10 +9383,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 33.8,
-        "call_open_interest": 1462,
+        "atm_implied_vol_pct": 33.2,
+        "call_open_interest": 1602,
         "put_open_interest": 1842,
-        "put_call_oi_ratio": 1.26,
+        "put_call_oi_ratio": 1.15,
         "expirations_available": 5
       },
       "strongest_holding": {
