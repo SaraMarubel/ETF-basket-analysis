@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T15:11:54.035903+00:00",
+  "generated_at": "2026-09-05T18:16:41.064471+00:00",
   "risk_free_rate_pct": 3.76,
   "etfs": {
     "VOO": {
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 811937038336,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 49314745,
+      "avg_volume": 49071901,
       "bid": 769.42,
       "ask": 769.62,
       "spread_pct": 0.026,
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 322773549056,
       "fund_family": "Vanguard",
-      "avg_volume": 10871212,
+      "avg_volume": 10835158,
       "bid": 73.5,
       "ask": 73.85,
       "spread_pct": 0.4751,
@@ -5201,7 +5201,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 31.0,
+        "atm_implied_vol_pct": 30.7,
         "call_open_interest": 1643,
         "put_open_interest": 666,
         "put_call_oi_ratio": 0.41,
@@ -5612,13 +5612,13 @@
         {
           "symbol": "BISXX",
           "name": "BlackRock Cash Funds Instl SL Agency",
-          "weight_pct": 2.9,
+          "weight_pct": 3.01,
           "change_1y_pct": null
         }
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 15.9,
+        "atm_implied_vol_pct": 16.4,
         "call_open_interest": 753,
         "put_open_interest": 437,
         "put_call_oi_ratio": 0.58,
