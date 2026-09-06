@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:36:32.799311+00:00",
+  "generated_at": "2026-09-06T12:09:10.280662+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Forget JEPQ: The Company Behind QQQ Runs Its Own Nasdaq Income Fund",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/04/forget-jepq-the-company-behind-qqq-runs-its-own-nasdaq-income-fund/",
+        "published_at": "2026-09-04T21:45:43Z",
+        "description": "Most Nasdaq income investors default to JEPQ without realizing the company behind QQQ quietly launched its own monthly income fund built on the same index, a..."
+      },
+      {
         "title": "Bitmine Sinks 6%, Strategy Slips: Is the Crypto Treasury Trade Unwinding?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/bdd38e27d4a8473a",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/",
         "published_at": "2026-09-04T16:20:33Z",
         "description": "GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold..."
-      },
-      {
-        "title": "Invesco Powers the QQQ ETF. That Makes Its Stock a Smart Buy.",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/4447214/invesco-powers-the-qqq-etf-that-makes-its-stock-a-smart-buy",
-        "published_at": "2026-09-04T16:10:04Z",
-        "description": "Invesco (IVZ) demonstrates strong technical momentum, with shares up more than 50% over the past year. Shares are trading near a new 5-year high. Analyst sen..."
       }
     ],
     "IEFA": [
@@ -323,6 +323,20 @@
     ],
     "SCHD": [
       {
+        "title": "Is SCHD Still the Best Dividend ETF You Can Buy for Passive Income? Here's What the Data Says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/34f2be6cf5139ba0",
+        "published_at": "2026-09-05T08:44:31Z",
+        "description": "Income investors don't have to research and select individual dividend stocks. They have plenty of good exchange-traded funds (ETFs) that pay dividends to choose from. And the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has become the default pick for man\u2026"
+      },
+      {
+        "title": "SCHD vs JEPI: After Comparing America\u2019s Favorite Dividend ETF With Its Favorite Income ETF, One Is the Better Buy for Retirement",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/04/schd-vs-jepi-after-comparing-americas-favorite-dividend-etf-with-its-favorite-income-etf-one-is-the-better-buy-for-retirement/",
+        "published_at": "2026-09-04T21:55:55Z",
+        "description": "SCHD and JEPI both promise retirement income, but they run on completely different engines and reward very different kinds of investors. Picking the wrong on..."
+      },
+      {
         "title": "The Portfolio Blueprint for Building $24,000 a Month in Dividend Income",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/personal-finance/2026/09/03/the-portfolio-blueprint-for-building-24000-a-month-in-dividend-income/",
@@ -349,20 +363,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
         "published_at": "2026-08-31T21:15:17Z",
         "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
-      },
-      {
-        "title": "If You'd Invested $1,000 in SCHD 10 Years Ago, Here's How Much You'd Have Today",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6567b44b50467280",
-        "published_at": "2026-08-31T14:12:43Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is one of the most popular dividend ETFs in the world. Its selection criteria, which include consideration of balance sheet quality, yield, and dividend growth history, are among the most stringent and produ\u2026"
-      },
-      {
-        "title": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/856c89ec54b3524b",
-        "published_at": "2026-08-30T22:27:30Z",
-        "description": "The post SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money? appeared first on 24/7 Wall St..\nDividend investors who held Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) through the value-stock drought of the past\u2026"
       }
     ],
     "IEMG": [
