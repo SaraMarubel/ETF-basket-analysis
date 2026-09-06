@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:17:18.377475+00:00",
+  "generated_at": "2026-09-06T22:07:42.457707+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/qqqb-tokenized-stocks-dex-trading-volume/",
+        "published_at": "2026-09-05T21:54:08Z",
+        "description": "The surge in tokenized stock trading highlights the growing integration of traditional finance with decentralized platforms, reshaping market dynamics.\nThe post QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days appeared first on Crypto\u2026"
+      },
+      {
         "title": "Forget JEPQ: The Company Behind QQQ Runs Its Own Nasdaq Income Fund",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/04/forget-jepq-the-company-behind-qqq-runs-its-own-nasdaq-income-fund/",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/04/trade-desk-falls-4-on-15-workforce-cut-applovin-ascends-3-magnite-pulls-back/",
         "published_at": "2026-09-04T16:51:10Z",
         "description": "The Trade Desk just announced a sweeping workforce cut and a parade of executive replacements, while rivals AppLovin and Magnite pull further ahead. Whether..."
-      },
-      {
-        "title": "GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/",
-        "published_at": "2026-09-04T16:20:33Z",
-        "description": "GoPro is surging on a merger that turns a camera company into an optical-transceiver play, and a famous YouTuber just became its largest individual sharehold..."
       }
     ],
     "IEFA": [
@@ -528,6 +528,13 @@
       }
     ],
     "VWO": [
+      {
+        "title": "Vanguard's $122 billion fund has warning most holders miss",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/dcbd36522b1581b3",
+        "published_at": "2026-09-05T18:52:27Z",
+        "description": "The Vanguard FTSE Emerging Markets ETF (VWO) is held in target-date funds, robo-advisor portfolios, and retirement accounts across the country, with roughly $122 billion across roughly 6,300 emerging-market stocks as of June 30, 2026. \nFor most holders, the V\u2026"
+      },
       {
         "title": "Going Global: Vanguard Emerging Markets ETF vs. iShares World ETF Comparison",
         "source": "Biztoc.com",
