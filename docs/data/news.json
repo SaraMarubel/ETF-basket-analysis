@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:09:10.280662+00:00",
+  "generated_at": "2026-09-06T15:27:55.661346+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -323,6 +323,13 @@
     ],
     "SCHD": [
       {
+        "title": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b02ce5bfac59f122",
+        "published_at": "2026-09-05T13:19:58Z",
+        "description": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?\nThe Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) offers a higher current yield and deeper value tilt, whereas the Vanguard Dividend Appreciation ETF (\u2026"
+      },
+      {
         "title": "Is SCHD Still the Best Dividend ETF You Can Buy for Passive Income? Here's What the Data Says",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/34f2be6cf5139ba0",
@@ -356,13 +363,6 @@
         "url": "https://247wallst.com/personal-finance/2026/08/31/a-59-year-old-built-a-4700-monthly-paycheck-the-easy-way/",
         "published_at": "2026-08-31T23:38:13Z",
         "description": "Three income investments can all generate the same monthly paycheck before retirement, but the capital each one demands reveals a gap wide enough to reshape..."
-      },
-      {
-        "title": "The Free Retirement Dinner Costs $500K in the Fine Print, but These 4 ETFs Do What the Steak Pitch Promises",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
-        "published_at": "2026-08-31T21:15:17Z",
-        "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
       }
     ],
     "IEMG": [
@@ -620,6 +620,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b02ce5bfac59f122",
+        "published_at": "2026-09-05T13:19:58Z",
+        "description": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?\nThe Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) offers a higher current yield and deeper value tilt, whereas the Vanguard Dividend Appreciation ETF (\u2026"
+      },
+      {
         "title": "VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/213745121343427c",
@@ -653,13 +660,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/26/medicare-part-b-went-up-9-7-this-year-your-social-security-raise-was-2-8-these-3-etfs-close-the-gap/",
         "published_at": "2026-08-26T22:05:04Z",
         "description": "Medicare premiums are rising nearly four times faster than Social Security checks, and the gap is widening every year. Three ETFs attack that shortfall from..."
-      },
-      {
-        "title": "Schwab SCHD draws $679M as dividend ETF climbs 2.39%",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/schd-etf-679-million-inflows-dividend-rotation-2026",
-        "published_at": "2026-08-25T17:33:00Z",
-        "description": "Three catalysts, one reshuffling, and a Fed that refuses to move"
       }
     ],
     "IJR": []
