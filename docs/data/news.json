@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:27:55.661346+00:00",
+  "generated_at": "2026-09-06T18:17:18.377475+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -323,6 +323,13 @@
     ],
     "SCHD": [
       {
+        "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/etfs/schd-schwab-us-dividend-equity-etf-versus-vig-vanguard-dividend-etf",
+        "published_at": "2026-09-05T17:17:00Z",
+        "description": "Between SCHD and VIG, which one actually belongs in your portfolio?"
+      },
+      {
         "title": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/b02ce5bfac59f122",
@@ -356,13 +363,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/02/how-a-70-year-olds-6980-monthly-check-from-schd-jepq-and-qqqi-gets-taxed-three-different-ways/",
         "published_at": "2026-09-02T21:25:19Z",
         "description": "Three popular income ETFs can deposit identical-looking checks while the IRS quietly applies three separate tax treatments, and the wrong account placement c..."
-      },
-      {
-        "title": "A 59-Year-Old Built a $4,700 Monthly Paycheck The Easy Way",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/08/31/a-59-year-old-built-a-4700-monthly-paycheck-the-easy-way/",
-        "published_at": "2026-08-31T23:38:13Z",
-        "description": "Three income investments can all generate the same monthly paycheck before retirement, but the capital each one demands reveals a gap wide enough to reshape..."
       }
     ],
     "IEMG": [
@@ -620,6 +620,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/investing/etfs/schd-schwab-us-dividend-equity-etf-versus-vig-vanguard-dividend-etf",
+        "published_at": "2026-09-05T17:17:00Z",
+        "description": "Between SCHD and VIG, which one actually belongs in your portfolio?"
+      },
+      {
         "title": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/b02ce5bfac59f122",
@@ -653,13 +660,6 @@
         "url": "https://www.barchart.com/story/news/4150833/trump-made-big-trades-in-this-dividend-growth-etf-you-probably-shouldnt",
         "published_at": "2026-08-26T23:30:02Z",
         "description": "On June 22, the portfolio executed a sale of VIG valued between $5 million and $25 million."
-      },
-      {
-        "title": "Medicare Part B Went Up 9.7% This Year. Your Social Security Raise Was 2.8%. These 3 ETFs Close the Gap",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/26/medicare-part-b-went-up-9-7-this-year-your-social-security-raise-was-2-8-these-3-etfs-close-the-gap/",
-        "published_at": "2026-08-26T22:05:04Z",
-        "description": "Medicare premiums are rising nearly four times faster than Social Security checks, and the gap is widening every year. Three ETFs attack that shortfall from..."
       }
     ],
     "IJR": []
