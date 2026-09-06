@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:03:51.013048+00:00",
+  "generated_at": "2026-09-06T04:36:07.604460+00:00",
   "risk_free_rate_pct": 3.76,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-11",
-        "atm_implied_vol_pct": 50.6,
+        "atm_implied_vol_pct": 54.6,
         "call_open_interest": 2268,
         "put_open_interest": 2860,
         "put_call_oi_ratio": 1.26,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-11",
-        "atm_implied_vol_pct": 18.4,
+        "atm_implied_vol_pct": 19.9,
         "call_open_interest": 120,
         "put_open_interest": 25,
         "put_call_oi_ratio": 0.21,
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 811937038336,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 49314745,
+      "avg_volume": 49071901,
       "bid": 769.42,
       "ask": 769.62,
       "spread_pct": 0.026,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-08",
-        "atm_implied_vol_pct": 41.0,
+        "atm_implied_vol_pct": 47.4,
         "call_open_interest": 66864,
         "put_open_interest": 95102,
         "put_call_oi_ratio": 1.42,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 41.9,
+        "atm_implied_vol_pct": 43.5,
         "call_open_interest": 6956,
         "put_open_interest": 5918,
         "put_call_oi_ratio": 0.85,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-08",
-        "atm_implied_vol_pct": 30.1,
+        "atm_implied_vol_pct": 34.8,
         "call_open_interest": 50699,
         "put_open_interest": 97723,
         "put_call_oi_ratio": 1.93,
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 28.1,
+        "atm_implied_vol_pct": 29.1,
         "call_open_interest": 669,
         "put_open_interest": 251,
         "put_call_oi_ratio": 0.38,
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 322773549056,
       "fund_family": "Vanguard",
-      "avg_volume": 10871212,
+      "avg_volume": 10835158,
       "bid": 73.5,
       "ask": 73.85,
       "spread_pct": 0.4751,
@@ -3364,7 +3364,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 37.0,
+        "atm_implied_vol_pct": 38.4,
         "call_open_interest": 14344,
         "put_open_interest": 3322,
         "put_call_oi_ratio": 0.23,
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 379416805376,
       "fund_family": "Vanguard",
-      "avg_volume": 7072746,
+      "avg_volume": 7015947,
       "bid": 88.41,
       "ask": 88.44,
       "spread_pct": 0.0339,
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 52.9,
+        "atm_implied_vol_pct": 53.2,
         "call_open_interest": 12811,
         "put_open_interest": 20471,
         "put_call_oi_ratio": 1.6,
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 399067512832,
       "fund_family": "Vanguard",
-      "avg_volume": 7942466,
+      "avg_volume": 7945995,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 30.8,
+        "atm_implied_vol_pct": 31.9,
         "call_open_interest": 997,
         "put_open_interest": 455,
         "put_call_oi_ratio": 0.46,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-11",
-        "atm_implied_vol_pct": 73.2,
+        "atm_implied_vol_pct": 79.0,
         "call_open_interest": 3709,
         "put_open_interest": 1404,
         "put_call_oi_ratio": 0.38,
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 160899022848,
       "fund_family": "iShares",
-      "avg_volume": 11411030,
+      "avg_volume": 11339393,
       "bid": 83.6,
       "ask": 83.65,
       "spread_pct": 0.0598,
@@ -5201,7 +5201,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 31.0,
+        "atm_implied_vol_pct": 31.7,
         "call_open_interest": 1643,
         "put_open_interest": 666,
         "put_call_oi_ratio": 0.41,
@@ -5618,7 +5618,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 15.9,
+        "atm_implied_vol_pct": 16.5,
         "call_open_interest": 753,
         "put_open_interest": 437,
         "put_call_oi_ratio": 0.58,
@@ -6091,7 +6091,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 29.8,
+        "atm_implied_vol_pct": 27.9,
         "call_open_interest": 298,
         "put_open_interest": 967,
         "put_call_oi_ratio": 3.24,
@@ -6574,7 +6574,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-11",
-        "atm_implied_vol_pct": 36.9,
+        "atm_implied_vol_pct": 39.9,
         "call_open_interest": 174,
         "put_open_interest": 142,
         "put_call_oi_ratio": 0.82,
@@ -6599,7 +6599,7 @@
       "currency": "USD",
       "aum": 167548715008,
       "fund_family": "Vanguard",
-      "avg_volume": 7718083,
+      "avg_volume": 7682014,
       "bid": 61.42,
       "ask": 61.54,
       "spread_pct": 0.1952,
@@ -7051,7 +7051,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 54.1,
+        "atm_implied_vol_pct": 56.2,
         "call_open_interest": 11385,
         "put_open_interest": 7273,
         "put_call_oi_ratio": 0.64,
@@ -7076,7 +7076,7 @@
       "currency": "USD",
       "aum": 152861196288,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 9169864,
+      "avg_volume": 9180076,
       "bid": 406.55,
       "ask": 406.82,
       "spread_pct": 0.0664,
@@ -7461,7 +7461,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-09-08",
-        "atm_implied_vol_pct": 41.0,
+        "atm_implied_vol_pct": 47.2,
         "call_open_interest": 11121,
         "put_open_interest": 12395,
         "put_call_oi_ratio": 1.11,
@@ -7934,7 +7934,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 35.0,
+        "atm_implied_vol_pct": 36.3,
         "call_open_interest": 5117,
         "put_open_interest": 892,
         "put_call_oi_ratio": 0.17,
@@ -8417,7 +8417,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 28.5,
+        "atm_implied_vol_pct": 29.5,
         "call_open_interest": 678,
         "put_open_interest": 148,
         "put_call_oi_ratio": 0.22,
@@ -8900,7 +8900,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 46.8,
+        "atm_implied_vol_pct": 48.6,
         "call_open_interest": 310,
         "put_open_interest": 225,
         "put_call_oi_ratio": 0.73,
@@ -9383,7 +9383,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 33.2,
+        "atm_implied_vol_pct": 34.2,
         "call_open_interest": 1602,
         "put_open_interest": 1842,
         "put_call_oi_ratio": 1.15,
