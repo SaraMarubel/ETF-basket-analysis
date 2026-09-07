@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:58:04.574596+00:00",
+  "generated_at": "2026-09-07T22:50:14.512221+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "The VIX Is Playing Tricks: Why Stocks Are Volatile, But the Fear Gauge Is Sleeping",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/4467623/the-vix-is-playing-tricks-why-stocks-are-volatile-but-the-fear-gauge-is-sleeping",
+        "published_at": "2026-09-06T13:30:02Z",
+        "description": "The VIX has been one of the most frustrating puzzles for investors recently. Here's what to know and how to play it."
+      },
+      {
         "title": "QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/qqqb-tokenized-stocks-dex-trading-volume/",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/04/bitmine-sinks-6-strategy-slips-is-the-crypto-treasury-trade-unwinding/",
         "published_at": "2026-09-04T19:22:35Z",
         "description": "Bitmine just surrendered a big slice of its 37% monthly run while Strategy barely flinched, even though both coins fell together. What separates the two cryp..."
-      },
-      {
-        "title": "Snowflake Falls 5% as Traders Take Profits on Its Guidance Surge; Datadog Holds Steady",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/04/snowflake-falls-5-as-traders-take-profits-on-its-guidance-surge-datadog-holds-steady/",
-        "published_at": "2026-09-04T19:02:47Z",
-        "description": "Snowflake surged 17% on earnings night, then spent Friday giving it back while every benchmark around it barely budged. That split-screen moment raises a poi..."
       }
     ],
     "IEFA": [
