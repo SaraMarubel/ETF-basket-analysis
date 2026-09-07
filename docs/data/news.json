@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:07:42.457707+00:00",
+  "generated_at": "2026-09-07T04:38:15.826591+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,13 @@
         "description": "The surge in tokenized stock trading highlights the growing integration of traditional finance with decentralized platforms, reshaping market dynamics.\nThe post QQQb leads tokenized stocks with $1.7B in DEX trading volume over 30 days appeared first on Crypto\u2026"
       },
       {
+        "title": "Forget Stock-Picking. The Stock Market Is Just 1 Big Trade Now.",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/4463631/forget-stock-picking-the-stock-market-is-just-1-big-trade-now",
+        "published_at": "2026-09-05T20:00:02Z",
+        "description": "The modern stock market has effectively ceased to function as a venue for individual security selection. Investing being business as usual? No ma\u2019am, not in..."
+      },
+      {
         "title": "Forget JEPQ: The Company Behind QQQ Runs Its Own Nasdaq Income Fund",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/04/forget-jepq-the-company-behind-qqq-runs-its-own-nasdaq-income-fund/",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/04/snowflake-falls-5-as-traders-take-profits-on-its-guidance-surge-datadog-holds-steady/",
         "published_at": "2026-09-04T19:02:47Z",
         "description": "Snowflake surged 17% on earnings night, then spent Friday giving it back while every benchmark around it barely budged. That split-screen moment raises a poi..."
-      },
-      {
-        "title": "Trade Desk Falls 4% on 15% Workforce Cut; AppLovin Ascends 3%, Magnite Pulls Back",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/04/trade-desk-falls-4-on-15-workforce-cut-applovin-ascends-3-magnite-pulls-back/",
-        "published_at": "2026-09-04T16:51:10Z",
-        "description": "The Trade Desk just announced a sweeping workforce cut and a parade of executive replacements, while rivals AppLovin and Magnite pull further ahead. Whether..."
       }
     ],
     "IEFA": [
@@ -531,6 +531,13 @@
       {
         "title": "Vanguard's $122 billion fund has warning most holders miss",
         "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d639775591393cf8",
+        "published_at": "2026-09-05T22:11:19Z",
+        "description": "The Vanguard FTSE Emerging Markets ETF (VWO) is held in target-date funds, robo-advisor portfolios, and retirement accounts across the country, with roughly $122 billion across roughly 6,300 emerging-market stocks as of June 30, 2026.\nFor most holders, the VW\u2026"
+      },
+      {
+        "title": "Vanguard's $122 billion fund has warning most holders miss",
+        "source": "Biztoc.com",
         "url": "https://biztoc.com/x/dcbd36522b1581b3",
         "published_at": "2026-09-05T18:52:27Z",
         "description": "The Vanguard FTSE Emerging Markets ETF (VWO) is held in target-date funds, robo-advisor portfolios, and retirement accounts across the country, with roughly $122 billion across roughly 6,300 emerging-market stocks as of June 30, 2026. \nFor most holders, the V\u2026"
@@ -566,6 +573,13 @@
     ],
     "GLD": [
       {
+        "title": "Billionaire Activist Investor Dan Loeb Bought Gold, Then Dumped It 3 Months Later \u2014 Timing Hasn't Paid Off Yet",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/commodities/articles/billionaire-activist-investor-dan-loeb-140011100.html",
+        "published_at": "2026-09-05T14:00:11Z",
+        "description": "Dan Loeb\u2018s Third Point LLC fully exited a gold position in the second quarter just months after building the stake and ahead of a price rebound in the weeks..."
+      },
+      {
         "title": "Daily ETF Flows: UCBG On Top",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ucbg-top?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -599,13 +613,6 @@
         "url": "https://finance.yahoo.com/economy/policy/articles/maradona-theory-interest-rates-back-150101045.html",
         "published_at": "2026-09-02T15:01:01Z",
         "description": "The Federal Reserve may have changed the way it moves markets without changing interest rates. Kevin Warsh went to Jackson Hole to tell financial markets to..."
-      },
-      {
-        "title": "Gold bulls just found a smarter way to bet on the rally",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/markets/gold-bulls-just-found-a-smarter-way-to-bet-on-the-rally",
-        "published_at": "2026-09-02T11:03:00Z",
-        "description": "August\u2019s loudest trade in the gold market was not a bet that gold goes up."
       }
     ],
     "IWF": [
