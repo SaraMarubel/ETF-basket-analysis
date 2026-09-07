@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T14:15:00.883993+00:00",
+  "generated_at": "2026-09-07T19:57:38.824970+00:00",
   "risk_free_rate_pct": 3.76,
   "etfs": {
     "VOO": {
@@ -2822,37 +2822,37 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.51,
-          "change_1y_pct": 123.65
+          "change_1y_pct": 123.21
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 62.87
+          "change_1y_pct": 62.89
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.17,
-          "change_1y_pct": 35.3
+          "change_1y_pct": 34.92
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.07,
-          "change_1y_pct": 27.51
+          "change_1y_pct": 26.35
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.97,
-          "change_1y_pct": 32.49
+          "change_1y_pct": 32.01
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.96,
-          "change_1y_pct": 9.66
+          "change_1y_pct": 9.71
         },
         {
           "symbol": "8306.T",
@@ -2864,7 +2864,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.94,
-          "change_1y_pct": 1.15
+          "change_1y_pct": 0.62
         },
         {
           "symbol": "BHP.AX",
@@ -2876,7 +2876,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.92,
-          "change_1y_pct": 20.06
+          "change_1y_pct": 19.73
         }
       ],
       "options": {
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.51,
-        "change_1y_pct": 123.65
+        "change_1y_pct": 123.21
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.94,
-        "change_1y_pct": 1.15
+        "change_1y_pct": 0.62
       }
     },
     "VEA": {
@@ -3305,31 +3305,31 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 2.48,
-          "change_1y_pct": 269.05
+          "change_1y_pct": 290.0
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 123.65
+          "change_1y_pct": 123.21
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 1.94,
-          "change_1y_pct": 496.34
+          "change_1y_pct": 545.58
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.13,
-          "change_1y_pct": 62.87
+          "change_1y_pct": 62.89
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.95,
-          "change_1y_pct": 35.3
+          "change_1y_pct": 34.92
         },
         {
           "symbol": "RY",
@@ -3341,25 +3341,25 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.9,
-          "change_1y_pct": 27.51
+          "change_1y_pct": 26.35
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.79,
-          "change_1y_pct": 9.66
+          "change_1y_pct": 9.71
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 32.49
+          "change_1y_pct": 32.01
         },
         {
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.79,
-          "change_1y_pct": 1.15
+          "change_1y_pct": 0.62
         }
       ],
       "options": {
@@ -3374,13 +3374,13 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 1.94,
-        "change_1y_pct": 496.34
+        "change_1y_pct": 545.58
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.79,
-        "change_1y_pct": 1.15
+        "change_1y_pct": 0.62
       }
     },
     "VUG": {
@@ -5160,13 +5160,13 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 6.28,
-          "change_1y_pct": 269.05
+          "change_1y_pct": 290.0
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 4.78,
-          "change_1y_pct": 496.34
+          "change_1y_pct": 545.58
         },
         {
           "symbol": "0700.HK",
@@ -5211,7 +5211,7 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 4.78,
-        "change_1y_pct": 496.34
+        "change_1y_pct": 545.58
       },
       "weakest_holding": {
         "symbol": "0700.HK",
@@ -6521,19 +6521,19 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 1.8,
-          "change_1y_pct": 269.05
+          "change_1y_pct": 290.0
         },
         {
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 123.65
+          "change_1y_pct": 123.21
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 1.41,
-          "change_1y_pct": 496.34
+          "change_1y_pct": 545.58
         },
         {
           "symbol": "0700.HK",
@@ -6545,13 +6545,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.82,
-          "change_1y_pct": 62.87
+          "change_1y_pct": 62.89
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.69,
-          "change_1y_pct": 35.3
+          "change_1y_pct": 34.92
         },
         {
           "symbol": "RY",
@@ -6563,7 +6563,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.65,
-          "change_1y_pct": 27.51
+          "change_1y_pct": 26.35
         },
         {
           "symbol": "9988.HK",
@@ -6584,7 +6584,7 @@
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 1.41,
-        "change_1y_pct": 496.34
+        "change_1y_pct": 545.58
       },
       "weakest_holding": {
         "symbol": "0700.HK",
@@ -7034,19 +7034,19 @@
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.77,
-          "change_1y_pct": -4.57
+          "change_1y_pct": -3.66
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.75,
-          "change_1y_pct": -25.23
+          "change_1y_pct": -25.06
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.67,
-          "change_1y_pct": 2.63
+          "change_1y_pct": 2.32
         }
       ],
       "options": {
