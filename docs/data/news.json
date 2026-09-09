@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:58:46.842613+00:00",
+  "generated_at": "2026-09-09T19:17:02.048822+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/08/amc-falls-5-robinhood-barely-budges-is-the-tokenization-bounce-already-over/",
+        "published_at": "2026-09-08T16:05:16Z",
+        "description": "AMC stock is sliding back toward last week's levels while Robinhood barely flinches, and that disconnect raises a pointed question about what Friday's CEO fe..."
+      },
+      {
         "title": "Germany's AfD Wins Local Elections: A New Risk for Investors? - State Street SPDR S&P 500 ETF Trust\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d70de9831cab045c",
@@ -104,13 +111,6 @@
         "url": "https://biztoc.com/x/edd95d1f0b763d46",
         "published_at": "2026-09-01T22:37:40Z",
         "description": "The cost of holding ETFs has fallen for years amid an intense fee war among issuers. Single-digit expense ratios are commonplace now, and in some cases even those look expensive, like the 0.09% charged by the SPDR S&P 500 ETF Trust (SPY), triple what some com\u2026"
-      },
-      {
-        "title": "Deere and AGCO Rally 4% as Baird Upgrades Both on North America Row Crop Demand",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/5b46314e3bcee315",
-        "published_at": "2026-08-31T18:12:17Z",
-        "description": "The post Deere and AGCO Rally 4% as Baird Upgrades Both on North America Row Crop Demand appeared first on 24/7 Wall St..\nFarm equipment stocks caught a bid Monday afternoon after Baird upgraded both Deere (NYSE:DE) and AGCO (NYSE:AGCO) on North America row c\u2026"
       }
     ],
     "VTI": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/08/super-micro-climbs-4-hewlett-packard-enterprise-advances-5-is-the-margin-beat-already-guided-away/",
+        "published_at": "2026-09-08T15:33:17Z",
+        "description": "AI server stocks are surging while the broader market sits flat, but the margin beat driving the biggest gain carries a built-in expiration date that managem..."
+      },
+      {
         "title": "UCBG's $2.5B Record-Breaking Debut Leads ETF Flows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -192,13 +199,6 @@
         "url": "https://finance.yahoo.com/markets/articles/el-erian-sees-more-trouble-140032068.html",
         "published_at": "2026-09-07T14:00:32Z",
         "description": "Economist Mohamed El-Erian warned that markets \u201cwill continue to see upward pressures on yields,\u201d suggesting the global government-bond sell-off may not be o..."
-      },
-      {
-        "title": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here\u2019s What That Means for Your Portfolio",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/07/the-sp-100-etf-just-dumped-nike-and-colgate-for-4-ai-stocks-heres-what-that-means-for-your-portfolio/",
-        "published_at": "2026-09-07T13:52:56Z",
-        "description": "The iShares S&P 100 ETF just swapped out a toothpaste giant and a mall REIT for four AI infrastructure plays, and the move reveals something uncomfortable ab..."
       }
     ],
     "IEFA": [
