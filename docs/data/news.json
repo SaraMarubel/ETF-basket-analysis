@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T04:40:16.717126+00:00",
+  "generated_at": "2026-09-10T12:55:31.135039+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -173,6 +173,20 @@
         "description": "The post QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer appeared first on 24/7 Wall St..\nTwo Invesco funds hold identical baskets of Nasdaq-100 stocks, deliver near-identical returns, and yet one costs \u2026"
       },
       {
+        "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/",
+        "published_at": "2026-09-08T21:45:32Z",
+        "description": "Invesco offers two funds tracking the exact same Nasdaq-100 stocks with the same management team, yet one of them quietly drains thousands of dollars from a..."
+      },
+      {
+        "title": "Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/08/uber-falls-4-on-tesla-cybercab-threat-as-slovenia-clears-full-self-driving-tsla-stock-rises-4/",
+        "published_at": "2026-09-08T19:13:51Z",
+        "description": "Tesla's expanding robotaxi footprint is sending ripples through the rideshare market, and Uber shareholders are absorbing the hit even though Uber's own resu..."
+      },
+      {
         "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/08/super-micro-climbs-4-hewlett-packard-enterprise-advances-5-is-the-margin-beat-already-guided-away/",
@@ -185,20 +199,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-07T21:34:01Z",
         "description": "US-listed ETFs took in $21.3 billion last week, most of it into bonds. The standout, though, was UCBG."
-      },
-      {
-        "title": "QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bcb1d874b65c47d4",
-        "published_at": "2026-09-07T21:31:37Z",
-        "description": "The post QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change appeared first on 24/7 Wall St..\nFor years, holders of the Invesco QQQ Trust (NASDAQ:QQQ) paid an expense ratio of 0.20%. That headline fee held steady whi\u2026"
-      },
-      {
-        "title": "QQQ Charged 0.20% for Years. The Fee Only Fell After Shareholders Approved a Structural Change",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/07/qqq-charged-0-20-for-years-the-fee-only-fell-after-shareholders-approved-a-structural-change/",
-        "published_at": "2026-09-07T21:15:39Z",
-        "description": "QQQ spent years charging the same fee while cheaper rivals stole the spotlight, and it took something far bigger than a board vote to finally force a change."
       }
     ],
     "IEFA": [
@@ -337,46 +337,46 @@
     ],
     "SCHD": [
       {
+        "title": "How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d2833736b99107d2",
+        "published_at": "2026-09-09T12:26:33Z",
+        "description": "The post How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD appeared first on 24/7 Wall St..\nA 60-year-old who wants $2,700 a month from one fund and insists on that fund being the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) needs roughly \u2026"
+      },
+      {
+        "title": "How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/09/how-a-60-year-old-collects-2700-a-month-from-a-single-fund-schd/",
+        "published_at": "2026-09-09T12:12:29Z",
+        "description": "Collecting a fixed monthly income from a single ETF sounds simple until you look at what the quarterly payment calendar actually does to a budget, and what a..."
+      },
+      {
+        "title": "A 62-Year-Old Built a $6,400 Monthly Paycheck the Easy Way",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/08/a-62-year-old-built-a-6400-monthly-paycheck-the-easy-way/",
+        "published_at": "2026-09-08T23:12:55Z",
+        "description": "A five-ETF portfolio can deposit a serious monthly paycheck without touching the principal, but the age of the person collecting it changes everything about..."
+      },
+      {
+        "title": "How a 69-Year-Old Collects $7,300 a Month From Just Three Tickers: SCHD, JEPQ, and O",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/08/how-a-69-year-old-collects-7300-a-month-from-just-three-tickers-schd-jepq-and-o/",
+        "published_at": "2026-09-08T22:59:08Z",
+        "description": "Three tickers, one retirement paycheck, and a yield gap that can quietly unravel the whole plan before a single RMD arrives. Here is what the headline number..."
+      },
+      {
+        "title": "Live on the Dividends or Sell Shares Every Year? Retirees Have Argued About It Forever, but These 4 ETFs End the Argument",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/08/live-on-the-dividends-or-sell-shares-every-year-retirees-have-argued-about-it-forever-but-these-4-etfs-end-the-argument/",
+        "published_at": "2026-09-08T21:25:01Z",
+        "description": "Dividend investors and total-return investors have been fighting the same retirement argument for decades, and both sides have real ammunition. Four ETFs exp..."
+      },
+      {
         "title": "Where Will SCHD Stock Be in 5 Years?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/17165efd2e1ba66e",
         "published_at": "2026-09-06T17:11:15Z",
         "description": "With a total return of 57% over the last three years, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has been a boon for income-focused investors who value stability and diversification. Those who already own the fund should probably hold on to it for th\u2026"
-      },
-      {
-        "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/investing/etfs/schd-schwab-us-dividend-equity-etf-versus-vig-vanguard-dividend-etf",
-        "published_at": "2026-09-05T17:17:00Z",
-        "description": "Between SCHD and VIG, which one actually belongs in your portfolio?"
-      },
-      {
-        "title": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b02ce5bfac59f122",
-        "published_at": "2026-09-05T13:19:58Z",
-        "description": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?\nThe Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) offers a higher current yield and deeper value tilt, whereas the Vanguard Dividend Appreciation ETF (\u2026"
-      },
-      {
-        "title": "Is SCHD Still the Best Dividend ETF You Can Buy for Passive Income? Here's What the Data Says",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/34f2be6cf5139ba0",
-        "published_at": "2026-09-05T08:44:31Z",
-        "description": "Income investors don't have to research and select individual dividend stocks. They have plenty of good exchange-traded funds (ETFs) that pay dividends to choose from. And the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has become the default pick for man\u2026"
-      },
-      {
-        "title": "SCHD vs JEPI: After Comparing America\u2019s Favorite Dividend ETF With Its Favorite Income ETF, One Is the Better Buy for Retirement",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/04/schd-vs-jepi-after-comparing-americas-favorite-dividend-etf-with-its-favorite-income-etf-one-is-the-better-buy-for-retirement/",
-        "published_at": "2026-09-04T21:55:55Z",
-        "description": "SCHD and JEPI both promise retirement income, but they run on completely different engines and reward very different kinds of investors. Picking the wrong on..."
-      },
-      {
-        "title": "The Portfolio Blueprint for Building $24,000 a Month in Dividend Income",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/03/the-portfolio-blueprint-for-building-24000-a-month-in-dividend-income/",
-        "published_at": "2026-09-03T12:24:42Z",
-        "description": "Hitting $24,000 a month in dividend income means generating $288,000 a year from a portfolio, which is roughly what a two-earner professional household in a..."
       }
     ],
     "IEMG": [
@@ -424,6 +424,13 @@
       }
     ],
     "AGG": [
+      {
+        "title": "Spend the IRA First and Delay Social Security, or the Reverse? The Wrong Order Costs Six Figures and These 4 ETFs Fund the Wait",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/08/spend-the-ira-first-and-delay-social-security-or-the-reverse-the-wrong-order-costs-six-figures-and-these-4-etfs-fund-the-wait/",
+        "published_at": "2026-09-08T21:55:22Z",
+        "description": "The sequence in which you tap your IRA versus your Social Security benefit can silently reshape your entire retirement, and most people guess wrong. Four ETF..."
+      },
       {
         "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
         "source": "Etf.com",
@@ -587,6 +594,13 @@
     ],
     "GLD": [
       {
+        "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-iranian-oil-tankers-104123795.html",
+        "published_at": "2026-09-09T10:41:23Z",
+        "description": "Gold futures opened at $4,399 per troy ounce on Wednesday, September 9, 2026, down 0.9% from Tuesday's closing price. Gold moved back higher in early trading..."
+      },
+      {
         "title": "UCBG's $2.5B Record-Breaking Debut Leads ETF Flows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -620,13 +634,6 @@
         "url": "http://www.etf.com/sections/news/best-performing-commodity-etfs-2026-oil-and-broad-baskets-lead-pack?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-02T23:26:17Z",
         "description": "Commodities have been one of 2026\u2019s strongest asset classes, but the leadership is not where the precious-metals headlines pointed. Crude oil has roughly..."
-      },
-      {
-        "title": "Daily ETF Flows: $628M Flows Into GLD",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-02T21:00:05Z",
-        "description": "Here are the daily ETF fund flows for September 1, 2026."
       }
     ],
     "IWF": [
@@ -647,6 +654,13 @@
     ],
     "IJH": [],
     "VIG": [
+      {
+        "title": "The IRS Lets You Send Your RMD Straight to Charity and Skip the Tax Entirely. These 3 ETFs Replace the Income You Gave Away",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/08/the-irs-lets-you-send-your-rmd-straight-to-charity-and-skip-the-tax-entirely-these-3-etfs-replace-the-income-you-gave-away/",
+        "published_at": "2026-09-08T21:15:05Z",
+        "description": "A Qualified Charitable Distribution can wipe your RMD off your tax return entirely, but it also kills the income you were counting on. Three ETFs can rebuild..."
+      },
       {
         "title": "Schwab Dividend ETF holders: Compare it to Vanguard dividend ETF",
         "source": "TheStreet",
@@ -681,13 +695,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/28/a-10000-investment-in-schd-at-launch-now-pays-this-much-every-single-year-without-you-adding-a-dime/",
         "published_at": "2026-08-28T21:25:02Z",
         "description": "A $10,000 stake in a single dividend ETF at launch now generates a level of annual income that no fresh investment in any comparable fund can realistically m..."
-      },
-      {
-        "title": "Trump Made Big Trades in This Dividend Growth ETF. You Probably Shouldn\u2019t.",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/4150833/trump-made-big-trades-in-this-dividend-growth-etf-you-probably-shouldnt",
-        "published_at": "2026-08-26T23:30:02Z",
-        "description": "On June 22, the portfolio executed a sale of VIG valued between $5 million and $25 million."
       }
     ],
     "IJR": []
