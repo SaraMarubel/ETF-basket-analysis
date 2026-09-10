@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:33:38.097452+00:00",
+  "generated_at": "2026-09-10T04:40:16.717126+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "Trump Approval Rating Falls Despite Stock Market Gains - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f293c76b036d4a12",
+        "published_at": "2026-09-08T22:38:32Z",
+        "description": "The approval rating for President Donald Trump has fallen in a new NBC News poll, with the handling of the Iran War contributing to the lower ratings.\nTrump\u2019s Approval Rating Falls\nSimilar to other polls in recent months, the approval rating of Trump continue\u2026"
+      },
+      {
         "title": "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/08/amc-falls-5-robinhood-barely-budges-is-the-tokenization-bounce-already-over/",
@@ -104,13 +111,6 @@
         "url": "https://biztoc.com/x/d3fb77f1c1b7d482",
         "published_at": "2026-09-03T17:31:35Z",
         "description": "The post Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12% appeared first on 24/7 Wall St..\nCrypto treasury stocks are outrunning a firmer tape at midday. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) is up 5% to $45\u2026"
-      },
-      {
-        "title": "These ETFs Generate the Most Revenue",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/edd95d1f0b763d46",
-        "published_at": "2026-09-01T22:37:40Z",
-        "description": "The cost of holding ETFs has fallen for years amid an intense fee war among issuers. Single-digit expense ratios are commonplace now, and in some cases even those look expensive, like the 0.09% charged by the SPDR S&P 500 ETF Trust (SPY), triple what some com\u2026"
       }
     ],
     "VTI": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "SpaceX shares could get a boost from Nasdaq 100 rebalancing",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-get-a-boost-from-nasdaq-100-rebalancing/articleshow/133947064.cms",
+        "published_at": "2026-09-09T00:30:12Z",
+        "description": "SpaceX stock may see increased buying pressure soon.  Nasdaq 100 rebalancing is expected to boost its index weighting.  More than one billion shares have been released from lockups.  This change could force significant passive buying from index funds.  Future\u2026"
+      },
+      {
         "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee \u2013 and the Math Says One Leaves You Thousands Richer",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cf2d804c85644101",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/07/qqq-charged-0-20-for-years-the-fee-only-fell-after-shareholders-approved-a-structural-change/",
         "published_at": "2026-09-07T21:15:39Z",
         "description": "QQQ spent years charging the same fee while cheaper rivals stole the spotlight, and it took something far bigger than a board vote to finally force a change."
-      },
-      {
-        "title": "This ETF Would Have Increased Your Investment by 6x Over the Past 10 Years -- and It's Still Soaring",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/714236f8d05473fb",
-        "published_at": "2026-09-07T18:46:50Z",
-        "description": "This ETF Would Have Increased Your Investment by 6x Over the Past 10 Years -- and It's Still Soaring\nThe Invesco QQQ Trust (NASDAQ: QQQ) is a tech-heavy Nasdaq-100 exchange-traded fund (ETF) that has impressively -- yet quietly -- turned long-term investors i\u2026"
       }
     ],
     "IEFA": [
