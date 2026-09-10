@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:55:31.135039+00:00",
+  "generated_at": "2026-09-10T19:08:47.554316+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "Brent hits $100, Apple's big launch, Trump's energy investments and more in Morning Squawk - CNBC",
+        "source": "Slashdot.org",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185558770",
+        "published_at": "2026-09-09T14:32:50Z",
+        "description": "Brent hits $100, Apple's big launch, Trump's energy investments and more in Morning SquawkCNBC Stock Market Today: Dow falls 300 points, S&P 500 and Nasdaq lower for third day as Brent crude hits $100; Treasury buyback details and Apple launch event loomMarke\u2026"
+      },
+      {
         "title": "Trump Approval Rating Falls Despite Stock Market Gains - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f293c76b036d4a12",
@@ -104,13 +111,6 @@
         "url": "https://biztoc.com/x/80541753da8df375",
         "published_at": "2026-09-04T16:14:55Z",
         "description": "The post IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2% appeared first on 24/7 Wall St..\nCloud and AI infrastructure names are pushing higher midday Friday against a softer broad tape. The SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is \u2026"
-      },
-      {
-        "title": "Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d3fb77f1c1b7d482",
-        "published_at": "2026-09-03T17:31:35Z",
-        "description": "The post Crypto Treasury Stocks Rally as Bitcoin Fund Jumps 5%: Strategy Surges 14%, Bitmine Climbs 12% appeared first on 24/7 Wall St..\nCrypto treasury stocks are outrunning a firmer tape at midday. The iShares Bitcoin Trust ETF (NASDAQ:IBIT) is up 5% to $45\u2026"
       }
     ],
     "VTI": [
@@ -159,6 +159,27 @@
     ],
     "QQQ": [
       {
+        "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/09/cloudflare-surges-9-on-openai-security-partnership-zscaler-rises-3/",
+        "published_at": "2026-09-09T15:28:01Z",
+        "description": "A security partnership with OpenAI sent Cloudflare shares surging while cybersecurity giants CrowdStrike and Palo Alto sat out the rally entirely, raising a..."
+      },
+      {
+        "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
+        "published_at": "2026-09-09T14:45:21Z",
+        "description": "AMD's CFO just reshaped how big the AI chip market could get, and investors sent the stock surging past a key technical level while quietly slamming a door o..."
+      },
+      {
+        "title": "Meta Rises 6% as Muse AI Agent Arrives With Paid Subscription Tiers; Alphabet Falls 2%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/09/meta-rises-6-as-muse-ai-agent-arrives-with-paid-subscription-tiers-alphabet-falls-2/",
+        "published_at": "2026-09-09T13:19:27Z",
+        "description": "Meta just attached a price tag to its AI ambitions, and traders are now asking whether a consumer subscription can justify one of the biggest capital budgets..."
+      },
+      {
         "title": "SpaceX shares could get a boost from Nasdaq 100 rebalancing",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-could-get-a-boost-from-nasdaq-100-rebalancing/articleshow/133947064.cms",
@@ -178,27 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/",
         "published_at": "2026-09-08T21:45:32Z",
         "description": "Invesco offers two funds tracking the exact same Nasdaq-100 stocks with the same management team, yet one of them quietly drains thousands of dollars from a..."
-      },
-      {
-        "title": "Uber Falls 4% on Tesla Cybercab Threat as Slovenia Clears Full Self-Driving; TSLA Stock Rises 4%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/08/uber-falls-4-on-tesla-cybercab-threat-as-slovenia-clears-full-self-driving-tsla-stock-rises-4/",
-        "published_at": "2026-09-08T19:13:51Z",
-        "description": "Tesla's expanding robotaxi footprint is sending ripples through the rideshare market, and Uber shareholders are absorbing the hit even though Uber's own resu..."
-      },
-      {
-        "title": "Super Micro Climbs 4%, Hewlett Packard Enterprise Advances 5%: Is the Margin Beat Already Guided Away?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/08/super-micro-climbs-4-hewlett-packard-enterprise-advances-5-is-the-margin-beat-already-guided-away/",
-        "published_at": "2026-09-08T15:33:17Z",
-        "description": "AI server stocks are surging while the broader market sits flat, but the margin beat driving the biggest gain carries a built-in expiration date that managem..."
-      },
-      {
-        "title": "UCBG's $2.5B Record-Breaking Debut Leads ETF Flows",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-07T21:34:01Z",
-        "description": "US-listed ETFs took in $21.3 billion last week, most of it into bonds. The standout, though, was UCBG."
       }
     ],
     "IEFA": [
@@ -293,6 +293,13 @@
     ],
     "BND": [
       {
+        "title": "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/09/being-too-prudent-is-actually-reckless-cramer-as-the-safe-bond-fund-loses-money-over-5-years/",
+        "published_at": "2026-09-09T14:34:32Z",
+        "description": "Jim Cramer told a caller that playing it safe with bonds can be the most dangerous move a young investor makes, and five years of market data back him up in..."
+      },
+      {
         "title": "UCBG's $2.5B Record-Breaking Debut Leads ETF Flows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -326,13 +333,6 @@
         "url": "https://247wallst.com/investing/2026/08/29/the-bond-etf-tax-mistake-costing-retirees-with-a-1-million-60-40-portfolio-6600-a-year/",
         "published_at": "2026-08-29T18:46:26Z",
         "description": "Holding a popular bond ETF in a taxable brokerage account could be quietly draining far more from your retirement portfolio than you realize, and most retire..."
-      },
-      {
-        "title": "Daily ETF Flows: TLT Gains",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-25T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 24, 2026."
       }
     ],
     "SCHD": [
@@ -424,6 +424,13 @@
       }
     ],
     "AGG": [
+      {
+        "title": "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/09/being-too-prudent-is-actually-reckless-cramer-as-the-safe-bond-fund-loses-money-over-5-years/",
+        "published_at": "2026-09-09T14:34:32Z",
+        "description": "Jim Cramer told a caller that playing it safe with bonds can be the most dangerous move a young investor makes, and five years of market data back him up in..."
+      },
       {
         "title": "Spend the IRA First and Delay Social Security, or the Reverse? The Wrong Order Costs Six Figures and These 4 ETFs Fund the Wait",
         "source": "24/7 Wall St.",
