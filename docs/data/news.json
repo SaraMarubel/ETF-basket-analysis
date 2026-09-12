@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:10:17.953595+00:00",
+  "generated_at": "2026-09-12T15:31:02.222193+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,34 @@
     ],
     "QQQ": [
       {
+        "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle\u2019s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
+        "published_at": "2026-09-11T14:51:18Z",
+        "description": "Oracle just revealed a staggering capital spending plan, and the shockwaves landed hardest not on Oracle itself but on three server makers that had no news o..."
+      },
+      {
+        "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/11/intel-climbs-3-on-chip-price-hike-report-a-day-after-piper-sandler-went-neutral-amd-rises-2-taiwan-semiconductor-drifts/",
+        "published_at": "2026-09-11T14:17:44Z",
+        "description": "A report of Intel raising chip prices sent shares surging 3% and erased the prior session's Piper Sandler-driven selloff, but the real question is whether th..."
+      },
+      {
+        "title": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/11/skyworks-rises-7-qorvo-gains-5-as-ceo-says-22b-merger-is-in-final-stages-qualcomm-ticks-up/",
+        "published_at": "2026-09-11T14:11:01Z",
+        "description": "Skyworks CEO Phil Brace just went on the record at an investor conference with a statement that sent both SWKS and QRVO surging, and it shifts the entire ris..."
+      },
+      {
+        "title": "Adobe Pulls Back, Then Recovers as CEO Handoff Meets Soft Q4 Outlook; Intuit and ServiceNow Hold Steady",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/11/adobe-pulls-back-then-recovers-as-ceo-handoff-meets-soft-q4-outlook-intuit-and-servicenow-hold-steady/",
+        "published_at": "2026-09-11T14:06:12Z",
+        "description": "Adobe beat estimates and raised its full-year outlook, yet the stock still stumbled out of the gate Friday morning. A soft Q4 guide and a simultaneous CEO an..."
+      },
+      {
         "title": "Tesla\u2019s Drag on XLY Was Softened by Amazon\u2019s Gain; QQQ Felt Almost Nothing",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/dca6960d633759d5",
@@ -171,34 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/10/qqqis-14-yield-loses-its-only-tax-break-inside-an-ira-every-dollar-comes-out-as-ordinary-income/",
         "published_at": "2026-09-10T21:45:27Z",
         "description": "QQQI's headline yield and tax-friendly distributions have attracted billions in retirement account money, but the IRA wrapper quietly cancels the very featur..."
-      },
-      {
-        "title": "Daily ETF Flows: GDX Registers Outflows",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-10T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for September 9, 2026."
-      },
-      {
-        "title": "Salesforce Just Gained 23% in a Month: Take Profits, or Buy More?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/salesforce-just-gained-23-in-a-month-take-profits-or-buy-more/",
-        "published_at": "2026-09-10T19:01:15Z",
-        "description": "Salesforce just posted a blowout quarter and rocketed while the rest of enterprise software slid, but a closer look at what actually drove the earnings beat..."
-      },
-      {
-        "title": "CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/coreweave-sinks-5-despite-burry-pulling-in-his-ai-short-oracle-eases-into-earnings-cloudflare-holds-steady/",
-        "published_at": "2026-09-10T17:01:02Z",
-        "description": "Michael Burry just closed his most prominent AI short, the kind of move that typically sparks a relief rally, yet CoreWeave kept falling. What that silence s..."
-      },
-      {
-        "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/skyworks-solutions-surges-10-qorvo-climbs-6-while-chip-stocks-fall-is-the-merger-finally-clearing/",
-        "published_at": "2026-09-10T16:47:26Z",
-        "description": "Skyworks and Qorvo are surging while the rest of the chip sector bleeds red, and the divergence points to something specific happening behind the scenes of t..."
       }
     ],
     "IEFA": [
