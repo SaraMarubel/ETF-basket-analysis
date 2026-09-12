@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T22:34:50.642546+00:00",
+  "generated_at": "2026-09-12T04:32:28.350895+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -115,6 +115,13 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: GDX Registers Outflows",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-10T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 9, 2026."
+      },
+      {
         "title": "UCBG's $2.5B Record-Breaking Debut Leads ETF Flows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -148,16 +155,30 @@
         "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
         "published_at": "2026-08-31T21:15:17Z",
         "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
-      },
-      {
-        "title": "VTI\u2019s 0.03% Fee Hides the Real Cost: 3,600 Stocks and Still a Third of Your Money in Ten Companies",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/73abe872d26d7d4e",
-        "published_at": "2026-08-26T21:37:14Z",
-        "description": "The post VTI\u2019s 0.03% Fee Hides the Real Cost: 3,600 Stocks and Still a Third of Your Money in Ten Companies appeared first on 24/7 Wall St..\nYou bought Vanguard Total Stock Market ETF (NYSEARCA:VTI) because the 0.03% fee promised the entire US market for penn\u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "QQQI\u2019s 14% Yield Loses Its Only Tax Break Inside an IRA: Every Dollar Comes Out as Ordinary Income",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/10/qqqis-14-yield-loses-its-only-tax-break-inside-an-ira-every-dollar-comes-out-as-ordinary-income/",
+        "published_at": "2026-09-10T21:45:27Z",
+        "description": "QQQI's headline yield and tax-friendly distributions have attracted billions in retirement account money, but the IRA wrapper quietly cancels the very featur..."
+      },
+      {
+        "title": "Daily ETF Flows: GDX Registers Outflows",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-10T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 9, 2026."
+      },
+      {
+        "title": "Salesforce Just Gained 23% in a Month: Take Profits, or Buy More?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/10/salesforce-just-gained-23-in-a-month-take-profits-or-buy-more/",
+        "published_at": "2026-09-10T19:01:15Z",
+        "description": "Salesforce just posted a blowout quarter and rocketed while the rest of enterprise software slid, but a closer look at what actually drove the earnings beat..."
+      },
       {
         "title": "CoreWeave Sinks 5% Despite Burry Pulling In His AI Short, Oracle Eases Into Earnings, Cloudflare Holds Steady",
         "source": "24/7 Wall St.",
@@ -178,27 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/10/is-michael-burry-waving-a-white-flag-big-short-investor-reduces-bearish-bets-on-nvda-crwv/",
         "published_at": "2026-09-10T15:16:08Z",
         "description": "Michael Burry, the Scion Asset Management founder made famous by The Big Short, is trimming his sails. In a Substack post cited this week, Burry said he \u201cpul..."
-      },
-      {
-        "title": "Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/crypto-mining-stocks-fall-harder-than-bitcoin-on-a-risk-off-tape-cipher-mining-sinks-6-mara-and-riot-drop-4/",
-        "published_at": "2026-09-10T14:54:23Z",
-        "description": "Cipher Mining (NASDAQ:CIFR) stock is down 6% to $15.92 in the regular session this Thursday morning, leading the Bitcoin (CRYPTO:BTC) miner group lower on a..."
-      },
-      {
-        "title": "Intel Sinks 6% as Profit Taking Hits a Parabolic Run; NVIDIA and AMD Retreat 3%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/intel-sinks-6-as-profit-taking-hits-a-parabolic-run-nvidia-and-amd-retreat-3/",
-        "published_at": "2026-09-10T14:01:35Z",
-        "description": "After a 188% year-to-date surge, Intel is suddenly retreating hard on a Thursday that turned risk-off fast, and NVIDIA and AMD are getting dragged down with..."
-      },
-      {
-        "title": "Michael Burry pulls back on risk, says he\u2019s happy to sit on cash. Is Big Short investor reversing his bearish AI bets?",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-pulls-back-on-risk-says-hes-happy-to-sit-on-cash-is-big-short-investor-reversing-his-bearish-ai-bets/articleshow/134000079.cms",
-        "published_at": "2026-09-10T08:29:49Z",
-        "description": "Michael Burry is pulling back on portfolio risk, exiting December 2026 put options on Nvidia and Palantir without rolling them over. The \u2018Big Short\u2019 investor said he is \u201chappy to sit on cash\u201d while continuing to hold 2027 Palantir puts and QQQ puts, amid rene\u2026"
       }
     ],
     "IEFA": [
@@ -344,6 +344,13 @@
     ],
     "SCHD": [
       {
+        "title": "We Did the Math on What $100,000 Earns in the 5 Most Popular Dividend ETFs, and the Best Pays More Than Double the Worst",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
+        "published_at": "2026-09-10T21:25:48Z",
+        "description": "Not all dividend ETFs are built the same, and parking $100,000 in the wrong one could mean leaving thousands of dollars in annual income on the table compare..."
+      },
+      {
         "title": "How a 68-Year-Old\u2019s $750,000 in SCHD Pays Her Every Quarter: March\u2019s Reshuffle Changed What She Owns",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/699c704d7558e92c",
@@ -377,16 +384,16 @@
         "url": "https://247wallst.com/personal-finance/2026/09/08/a-62-year-old-built-a-6400-monthly-paycheck-the-easy-way/",
         "published_at": "2026-09-08T23:12:55Z",
         "description": "A five-ETF portfolio can deposit a serious monthly paycheck without touching the principal, but the age of the person collecting it changes everything about..."
-      },
-      {
-        "title": "How a 69-Year-Old Collects $7,300 a Month From Just Three Tickers: SCHD, JEPQ, and O",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/08/how-a-69-year-old-collects-7300-a-month-from-just-three-tickers-schd-jepq-and-o/",
-        "published_at": "2026-09-08T22:59:08Z",
-        "description": "Three tickers, one retirement paycheck, and a yield gap that can quietly unravel the whole plan before a single RMD arrives. Here is what the headline number..."
       }
     ],
     "IEMG": [
+      {
+        "title": "Daily ETF Flows: GDX Registers Outflows",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-10T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 9, 2026."
+      },
       {
         "title": "Diversifying in September? iShares Emerging Markets ETF vs. iShares World ETF Compared",
         "source": "Biztoc.com",
@@ -421,13 +428,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-08-25T21:00:04Z",
         "description": "Here are the daily ETF fund flows for August 24, 2026."
-      },
-      {
-        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
-        "published_at": "2026-08-25T10:03:18Z",
-        "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
       }
     ],
     "AGG": [
@@ -520,6 +520,13 @@
     ],
     "VXUS": [
       {
+        "title": "Daily ETF Flows: GDX Registers Outflows",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-10T21:00:04Z",
+        "description": "Here are the daily ETF fund flows for September 9, 2026."
+      },
+      {
         "title": "Daily ETF Flows: JPST Edges Into Top 10",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-jpst-edges-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -553,13 +560,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-lqd-slips?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-01T21:00:27Z",
         "description": "Here are the daily ETF fund flows for August 31, 2026."
-      },
-      {
-        "title": "VXUS Holders Lose the Foreign Tax Credit on Every Dividend Paid Inside an IRA",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/b0fa4f307dd7c5a5",
-        "published_at": "2026-08-28T22:25:58Z",
-        "description": "The post VXUS Holders Lose the Foreign Tax Credit on Every Dividend Paid Inside an IRA appeared first on 24/7 Wall St..\nIf you hold Vanguard Total International Stock ETF (NASDAQ:VXUS) inside a traditional IRA or Roth IRA, you are almost certainly paying a ta\u2026"
       }
     ],
     "VWO": [
@@ -669,6 +669,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "We Did the Math on What $100,000 Earns in the 5 Most Popular Dividend ETFs, and the Best Pays More Than Double the Worst",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
+        "published_at": "2026-09-10T21:25:48Z",
+        "description": "Not all dividend ETFs are built the same, and parking $100,000 in the wrong one could mean leaving thousands of dollars in annual income on the table compare..."
+      },
+      {
         "title": "The IRS Lets You Send Your RMD Straight to Charity and Skip the Tax Entirely. These 3 ETFs Replace the Income You Gave Away",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/08/the-irs-lets-you-send-your-rmd-straight-to-charity-and-skip-the-tax-entirely-these-3-etfs-replace-the-income-you-gave-away/",
@@ -702,13 +709,6 @@
         "url": "https://www.businessinsider.com/national-debt-40-trillion-america-lost-decade-stock-market-sp500-2026-8#article",
         "published_at": "2026-08-29T09:15:01Z",
         "description": "The national debt has reached $40 trillion, doubling in about 10 years. The gloomy fiscal situation is a risk for stocks, one researcher says."
-      },
-      {
-        "title": "A $10,000 Investment in SCHD at Launch Now Pays This Much Every Single Year Without You Adding a Dime",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/28/a-10000-investment-in-schd-at-launch-now-pays-this-much-every-single-year-without-you-adding-a-dime/",
-        "published_at": "2026-08-28T21:25:02Z",
-        "description": "A $10,000 stake in a single dividend ETF at launch now generates a level of annual income that no fresh investment in any comparable fund can realistically m..."
       }
     ],
     "IJR": []
