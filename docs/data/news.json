@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:32:28.350895+00:00",
+  "generated_at": "2026-09-12T12:10:17.953595+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Tesla\u2019s Drag on XLY Was Softened by Amazon\u2019s Gain; QQQ Felt Almost Nothing",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/dca6960d633759d5",
+        "published_at": "2026-09-11T12:07:47Z",
+        "description": "The post Tesla\u2019s Drag on XLY Was Softened by Amazon\u2019s Gain; QQQ Felt Almost Nothing appeared first on 24/7 Wall St..\nThe Consumer Discretionary Select Sector SPDR Fund (NYSEARCA:XLY) is off 5.4% year to date. The Invesco QQQ Trust, Series 1 (NASDAQ:QQQ) is up\u2026"
+      },
+      {
         "title": "QQQI\u2019s 14% Yield Loses Its Only Tax Break Inside an IRA: Every Dollar Comes Out as Ordinary Income",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/10/qqqis-14-yield-loses-its-only-tax-break-inside-an-ira-every-dollar-comes-out-as-ordinary-income/",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/10/skyworks-solutions-surges-10-qorvo-climbs-6-while-chip-stocks-fall-is-the-merger-finally-clearing/",
         "published_at": "2026-09-10T16:47:26Z",
         "description": "Skyworks and Qorvo are surging while the rest of the chip sector bleeds red, and the divergence points to something specific happening behind the scenes of t..."
-      },
-      {
-        "title": "Is Michael Burry Waving a White Flag? \u2018Big Short\u2019 Investor Reduces Bearish Bets on NVDA, CRWV",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/10/is-michael-burry-waving-a-white-flag-big-short-investor-reduces-bearish-bets-on-nvda-crwv/",
-        "published_at": "2026-09-10T15:16:08Z",
-        "description": "Michael Burry, the Scion Asset Management founder made famous by The Big Short, is trimming his sails. In a Substack post cited this week, Burry said he \u201cpul..."
       }
     ],
     "IEFA": [
@@ -650,22 +650,7 @@
         "description": "Here are the daily ETF fund flows for September 2, 2026."
       }
     ],
-    "IWF": [
-      {
-        "title": "Growth Is Flat in 2026. Vanguard\u2019s Deep-Value Fund Is Up 22%, and Almost Nobody Owns It",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2d262e1a88c59e10",
-        "published_at": "2026-08-10T19:21:10Z",
-        "description": "The post Growth Is Flat in 2026. Vanguard\u2019s Deep-Value Fund Is Up 22%, and Almost Nobody Owns It appeared first on 24/7 Wall St..\nThe iShares Russell 1000 Growth ETF (NYSEARCA:IWF) has been the default large-cap growth vehicle for a generation of investors. I\u2026"
-      },
-      {
-        "title": "Growth Is Flat in 2026. Vanguard\u2019s Deep-Value Fund Is Up 22%, and Almost Nobody Owns It",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/08/10/growth-is-flat-in-2026-vanguards-deep-value-fund-is-up-22-and-almost-nobody-owns-it/",
-        "published_at": "2026-08-10T19:08:14Z",
-        "description": "While IWF investors have spent 2026 watching the Magnificent 7 sputter, one overlooked Vanguard fund running the opposite playbook has quietly outpaced nearl..."
-      }
-    ],
+    "IWF": [],
     "IJH": [],
     "VIG": [
       {
