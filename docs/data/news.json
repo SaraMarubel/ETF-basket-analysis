@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-13T04:45:35.338230+00:00",
+  "generated_at": "2026-09-13T13:18:45.884209+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "4 Vanguard Funds With Rock-Bottom Fees That Do Most of the Work for You",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a308d987fbc57d1f",
+        "published_at": "2026-09-12T12:12:59Z",
+        "description": "The post 4 Vanguard Funds With Rock-Bottom Fees That Do Most of the Work for You appeared first on 24/7 Wall St..\nIf you want a portfolio you can mostly ignore, Vanguard built the toolkit. Four funds do the heavy lifting for pennies on the dollar:\nVanguard S&\u2026"
+      },
       {
         "title": "Investors Just Poured $43.6 Billion Into VOO in One Month. Here\u2019s Why They Ignored the Selloff Talk",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/b49a410fcdc8a7e9",
         "published_at": "2026-09-06T08:48:40Z",
         "description": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What 106 Years of History Suggests.\nThe Vanguard S&P 500 ETF (NYSEMKT: VOO) is one of the most popular ETFs in existence, and for good reason.\nIt tracks the S&P 500 (SNPINDEX: ^GSPC), holding st\u2026"
-      },
-      {
-        "title": "Nvidia Is 7.6% of the Vanguard S&P 500 ETF (VOO) but Over 12% of These 5 Magnificent Low-Cost Vanguard ETFs. Here's My Top Pick to Buy Now",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/85e592e8d580626b",
-        "published_at": "2026-09-01T09:15:48Z",
-        "description": "Nvidia Is 7.6% of the Vanguard S&P 500 ETF (VOO) but Over 12% of These 5 Magnificent Low-Cost Vanguard ETFs. Here's My Top Pick to Buy Now.\nNvidia (NASDAQ: NVDA) soared 8.7% on Aug. 27, after the company delivered blowout second-quarter fiscal 2027 earnings. \u2026"
       }
     ],
     "IVV": [
@@ -159,6 +159,20 @@
     ],
     "QQQ": [
       {
+        "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/11/sell-the-nvidia-shares-that-made-your-retirement-or-ride-them-into-it-these-3-etfs-are-the-middle-path/",
+        "published_at": "2026-09-11T21:55:31Z",
+        "description": "A position that started as a small allocation now controls your retirement, and selling everything creates its own disaster. Three ETFs offer a way to stay i..."
+      },
+      {
+        "title": "How a 66-Year-Old\u2019s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/11/how-a-66-year-olds-800000-in-jepq-and-qqqi-pays-8200-a-month-and-the-irs-only-sees-half-of-it/",
+        "published_at": "2026-09-11T21:45:35Z",
+        "description": "An $800,000 split between two Nasdaq-100 income ETFs generates a stunning monthly payout, but the tax bill tells a completely different story than the distri..."
+      },
+      {
         "title": "Daily ETF Flows: AVLV Notches $455M",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-avlv-notches-455m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -185,20 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/11/apple-advances-3-as-first-foldable-iphone-arrives-at-its-highest-price-ever-skyworks-rallies-9-alphabet-ticks-up/",
         "published_at": "2026-09-11T15:37:41Z",
         "description": "Apple just repriced the entire iPhone lineup from the top down, and the supplier shockwaves are already hitting the tape in ways that go beyond the usual lau..."
-      },
-      {
-        "title": "Hewlett Packard Enterprise and Dell Surge 11% as Oracle\u2019s Capex Guidance Lifts AI Server Demand, Super Micro Climbs 7%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/11/hewlett-packard-enterprise-and-dell-surge-11-as-oracles-capex-guidance-lifts-ai-server-demand-super-micro-climbs-7/",
-        "published_at": "2026-09-11T14:51:18Z",
-        "description": "Oracle just revealed a staggering capital spending plan, and the shockwaves landed hardest not on Oracle itself but on three server makers that had no news o..."
-      },
-      {
-        "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/11/intel-climbs-3-on-chip-price-hike-report-a-day-after-piper-sandler-went-neutral-amd-rises-2-taiwan-semiconductor-drifts/",
-        "published_at": "2026-09-11T14:17:44Z",
-        "description": "A report of Intel raising chip prices sent shares surging 3% and erased the prior session's Piper Sandler-driven selloff, but the real question is whether th..."
       }
     ],
     "IEFA": [
@@ -300,6 +300,13 @@
     ],
     "BND": [
       {
+        "title": "How Much Do You Need Invested to Out-Earn a Married Couple\u2019s Combined Social Security Checks With Dividends?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/11/how-much-do-you-need-invested-to-out-earn-a-married-couples-combined-social-security-checks-with-dividends/",
+        "published_at": "2026-09-11T22:35:58Z",
+        "description": "Most retirees assume dividend income is the safe, predictable answer to a shrinking Social Security check, but the yield tier you pick quietly determines whe..."
+      },
+      {
         "title": "Daily ETF Flows: JPST Edges Into Top 10",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-jpst-edges-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -333,13 +340,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
         "published_at": "2026-09-03T21:25:44Z",
         "description": "Auto-enrollment handed you a default fund at 25 and you never looked back, but the investment your employer chose for you may already be working against your..."
-      },
-      {
-        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-03T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for September 2, 2026."
       }
     ],
     "SCHD": [
