@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:17:24.517930+00:00",
+  "generated_at": "2026-09-13T04:45:35.338230+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Daily ETF Flows: AVLV Notches $455M",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-avlv-notches-455m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-11T21:00:08Z",
+        "description": "Here are the daily ETF fund flows for September 10, 2026."
+      },
+      {
         "title": "Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/11/marvell-rises-5-as-piper-sandler-starts-coverage-with-270-target-broadcom-edges-higher-nvidia-holds-steady/",
@@ -192,16 +199,16 @@
         "url": "https://247wallst.com/investing/2026/09/11/intel-climbs-3-on-chip-price-hike-report-a-day-after-piper-sandler-went-neutral-amd-rises-2-taiwan-semiconductor-drifts/",
         "published_at": "2026-09-11T14:17:44Z",
         "description": "A report of Intel raising chip prices sent shares surging 3% and erased the prior session's Piper Sandler-driven selloff, but the real question is whether th..."
-      },
-      {
-        "title": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/11/skyworks-rises-7-qorvo-gains-5-as-ceo-says-22b-merger-is-in-final-stages-qualcomm-ticks-up/",
-        "published_at": "2026-09-11T14:11:01Z",
-        "description": "Skyworks CEO Phil Brace just went on the record at an investor conference with a statement that sent both SWKS and QRVO surging, and it shifts the entire ris..."
       }
     ],
     "IEFA": [
+      {
+        "title": "Daily ETF Flows: AVLV Notches $455M",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-avlv-notches-455m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-11T21:00:08Z",
+        "description": "Here are the daily ETF fund flows for September 10, 2026."
+      },
       {
         "title": "Daily ETF Flows: JPST Edges Into Top 10",
         "source": "Etf.com",
@@ -236,13 +243,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-02T21:00:05Z",
         "description": "Here are the daily ETF fund flows for September 1, 2026."
-      },
-      {
-        "title": "Better International ETF: the iShares IEFA vs. State Street's SPDW",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/398a2e5965d5f28d",
-        "published_at": "2026-08-29T21:42:18Z",
-        "description": "The iShares Core MSCI EAFE ETF (NYSEMKT:IEFA) provides massive liquidity and a slightly higher yield, while the State Street SPDR Portfolio Developed World ex-US ETF (NYSEMKT:SPDW) offers a lower expense ratio and stronger one-year performance.\nBoth IEFA and \u2026"
       }
     ],
     "VEA": [
@@ -351,6 +351,20 @@
         "description": "The post SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) both land in the same corner of an i\u2026"
       },
       {
+        "title": "SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/11/schd-and-jepi-both-pay-you-to-wait-yet-only-one-raises-its-payout-every-year/",
+        "published_at": "2026-09-11T21:18:39Z",
+        "description": "SCHD and JEPI sit side by side in countless income portfolios, yet they are built on fundamentally different bets about where returns come from. Confusing th..."
+      },
+      {
+        "title": "Fire the Adviser at Retirement or Keep Paying 1% on Money You Are Now Spending? These 3 ETFs Do the Job for Almost Nothing",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/11/fire-the-adviser-at-retirement-or-keep-paying-1-on-money-you-are-now-spending-these-3-etfs-do-the-job-for-almost-nothing/",
+        "published_at": "2026-09-11T21:15:51Z",
+        "description": "The fee that made sense while your portfolio grew now runs against a balance you are actively spending down, and the math shifts in ways most retirees never..."
+      },
+      {
         "title": "SCHD\u2019s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/3c048dafe8fcf691",
@@ -358,32 +372,18 @@
         "description": "The post SCHD\u2019s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss appeared first on 24/7 Wall St..\nDividend investors are drawn to a simple pitch: a 3% yield, a low fee, and the familiar Schwab brand. Holders of the Schwab U.S. Dividend Equ\u2026"
       },
       {
-        "title": "We Did the Math on What $100,000 Earns in the 5 Most Popular Dividend ETFs, and the Best Pays More Than Double the Worst",
+        "title": "SCHD\u2019s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
-        "published_at": "2026-09-10T21:25:48Z",
-        "description": "Not all dividend ETFs are built the same, and parking $100,000 in the wrong one could mean leaving thousands of dollars in annual income on the table compare..."
+        "url": "https://247wallst.com/investing/etf/2026/09/11/schds-3-yield-hides-a-216000-decade-long-performance-gap-investors-miss/",
+        "published_at": "2026-09-11T21:05:32Z",
+        "description": "Most SCHD holders track the quarterly payout and call it a win, but a decade of reinvested dividends tells a story the fund's marketing materials never menti..."
       },
       {
-        "title": "How a 68-Year-Old\u2019s $750,000 in SCHD Pays Her Every Quarter: March\u2019s Reshuffle Changed What She Owns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/699c704d7558e92c",
-        "published_at": "2026-09-10T21:20:45Z",
-        "description": "The post How a 68-Year-Old\u2019s $750,000 in SCHD Pays Her Every Quarter: March\u2019s Reshuffle Changed What She Owns appeared first on 24/7 Wall St..\nPicture a 68-year-old retiree with $750,000 invested in the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD). The Mar\u2026"
-      },
-      {
-        "title": "SCHD Has an International Twin. It Returned 28% in a Year, Yields 3.7%, and Charges 0.08%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/7ccd523bd44ce22d",
-        "published_at": "2026-09-09T22:13:56Z",
-        "description": "The post SCHD Has an International Twin. It Returned 28% in a Year, Yields 3.7%, and Charges 0.08% appeared first on 24/7 Wall St..\nIf you own the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), you own one of the most popular quality-dividend vehicles ever \u2026"
-      },
-      {
-        "title": "How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d2833736b99107d2",
-        "published_at": "2026-09-09T12:26:33Z",
-        "description": "The post How a 60-Year-Old Collects $2,700 a Month From a Single Fund: SCHD appeared first on 24/7 Wall St..\nA 60-year-old who wants $2,700 a month from one fund and insists on that fund being the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) needs roughly \u2026"
+        "title": "The Simplest Way to Build $7,700 a Month in Dividend Income: Just Two Funds",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/11/the-simplest-way-to-build-7700-a-month-in-dividend-income-just-two-funds/",
+        "published_at": "2026-09-11T19:55:14Z",
+        "description": "Two funds and a single brokerage screen sound like the easiest path to four-figure monthly income, but the number that determines whether this plan actually..."
       }
     ],
     "IEMG": [
@@ -654,6 +654,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "SCHD\u2019s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/11/schds-3-yield-hides-a-216000-decade-long-performance-gap-investors-miss/",
+        "published_at": "2026-09-11T21:05:32Z",
+        "description": "Most SCHD holders track the quarterly payout and call it a win, but a decade of reinvested dividends tells a story the fund's marketing materials never menti..."
+      },
+      {
         "title": "We Did the Math on What $100,000 Earns in the 5 Most Popular Dividend ETFs, and the Best Pays More Than Double the Worst",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
@@ -687,13 +694,6 @@
         "url": "https://biztoc.com/x/213745121343427c",
         "published_at": "2026-09-02T21:09:20Z",
         "description": "The post VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends appeared first on 24/7 Wall St..\nPicture a retiree sitting on $500,000 in the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG). Every quarter, another distribu\u2026"
-      },
-      {
-        "title": "America's $40 trillion national debt boosts the odds of a lost decade for stocks, market researcher warns",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/national-debt-40-trillion-america-lost-decade-stock-market-sp500-2026-8#article",
-        "published_at": "2026-08-29T09:15:01Z",
-        "description": "The national debt has reached $40 trillion, doubling in about 10 years. The gloomy fiscal situation is a risk for stocks, one researcher says."
       }
     ],
     "IJR": []
