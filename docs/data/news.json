@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T04:53:48.424745+00:00",
+  "generated_at": "2026-09-14T15:01:09.179223+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,11 +166,25 @@
         "description": "Its weighting is expected to rise to about 2.82% from roughly 1.28%, based on pro forma data from Nasdaq's Global Index Watch circulated late Friday"
       },
       {
+        "title": "You Can\u2019t Spell SPY Without AI: How the Stock Market Became a 1-Way Bet on the Future",
+        "source": "Barchart.com",
+        "url": "https://www.barchart.com/story/news/4576680/you-cant-spell-spy-without-ai-how-the-stock-market-became-a-1-way-bet-on-the-future",
+        "published_at": "2026-09-13T01:00:02Z",
+        "description": "If you think you're investing in the S&P 500 for a broadly diversified portfolio, think again."
+      },
+      {
         "title": "SpaceX set for larger weighting in Nasdaq 100 this month as lockup expirations expand float",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/spacex-nasdaq-100-weight-increase-rebalance/",
         "published_at": "2026-09-12T18:14:32Z",
         "description": "SpaceX's increased Nasdaq 100 weighting may drive significant market activity, impacting passive funds and investor strategies.\nThe post SpaceX set for larger weighting in Nasdaq 100 this month as lockup expirations expand float appeared first on Crypto Brief\u2026"
+      },
+      {
+        "title": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-weighting-boost-nasdaq-100-175851733.html",
+        "published_at": "2026-09-12T17:58:51Z",
+        "description": "SpaceX is set to get a larger weighting in the Nasdaq 100 later this month, a change that could trigger billions of dollars of buying by passive funds tied t..."
       },
       {
         "title": "Sell the Nvidia Shares That Made Your Retirement or Ride Them Into It? These 3 ETFs Are the Middle Path",
@@ -185,20 +199,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/11/how-a-66-year-olds-800000-in-jepq-and-qqqi-pays-8200-a-month-and-the-irs-only-sees-half-of-it/",
         "published_at": "2026-09-11T21:45:35Z",
         "description": "An $800,000 split between two Nasdaq-100 income ETFs generates a stunning monthly payout, but the tax bill tells a completely different story than the distri..."
-      },
-      {
-        "title": "Daily ETF Flows: AVLV Notches $455M",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-avlv-notches-455m?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-11T21:00:08Z",
-        "description": "Here are the daily ETF fund flows for September 10, 2026."
-      },
-      {
-        "title": "Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/11/marvell-rises-5-as-piper-sandler-starts-coverage-with-270-target-broadcom-edges-higher-nvidia-holds-steady/",
-        "published_at": "2026-09-11T16:54:59Z",
-        "description": "Piper Sandler just put a fresh bullish stamp on Marvell with a new price target, and CEO Matt Murphy is calling the company the Switzerland of AI silicon. Wh..."
       }
     ],
     "IEFA": [
@@ -344,6 +344,13 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD's Stunning Reversal: Schwab's Flagship Dividend ETF Is Up 29% and Climbing",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/36c2c1bf6c22e1e4",
+        "published_at": "2026-09-13T07:14:38Z",
+        "description": "Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is enjoying a massive breakout year, trading at roughly $34 at this writing and boasting a year-to-date (YTD) return of 29.29%. A look at SCHD's returns since its 2011 inception shows a steady record of healthy \u2026"
+      },
+      {
         "title": "SCHD ETF quietly beats rival VYM in total returns",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d1c935905a24c18a",
@@ -377,13 +384,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/11/schd-and-jepi-both-pay-you-to-wait-yet-only-one-raises-its-payout-every-year/",
         "published_at": "2026-09-11T21:18:39Z",
         "description": "SCHD and JEPI sit side by side in countless income portfolios, yet they are built on fundamentally different bets about where returns come from. Confusing th..."
-      },
-      {
-        "title": "Fire the Adviser at Retirement or Keep Paying 1% on Money You Are Now Spending? These 3 ETFs Do the Job for Almost Nothing",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/11/fire-the-adviser-at-retirement-or-keep-paying-1-on-money-you-are-now-spending-these-3-etfs-do-the-job-for-almost-nothing/",
-        "published_at": "2026-09-11T21:15:51Z",
-        "description": "The fee that made sense while your portfolio grew now runs against a balance you are actively spending down, and the math shifts in ways most retirees never..."
       }
     ],
     "IEMG": [
