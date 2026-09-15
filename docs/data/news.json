@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:32:31.429005+00:00",
+  "generated_at": "2026-09-15T19:42:26.454238+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -159,46 +159,46 @@
     ],
     "QQQ": [
       {
+        "title": "C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/14/c3-ai-jumps-7-as-software-rally-lifts-beaten-down-ai-names-uipath-climbs-8-soundhound-ai-gains-5/",
+        "published_at": "2026-09-14T17:34:58Z",
+        "description": "A sharp split between software and large-cap tech is driving unusual gains across enterprise AI names today, and the reason behind it traces back to a weeken..."
+      },
+      {
+        "title": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/14/marvell-falls-7-as-ai-pacing-debate-collides-with-fed-week-broadcom-drops-4-nvidia-pulls-back/",
+        "published_at": "2026-09-14T16:43:30Z",
+        "description": "A weekend debate over AI pacing collided with a Federal Reserve rate decision, and the chip sector is now sorting winners from losers in a way that reveals e..."
+      },
+      {
+        "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/14/meta-alphabet-and-microsoft-rise-while-nvidia-falls-after-three-ai-chiefs-call-for-slowing-down-frontier-models/",
+        "published_at": "2026-09-14T14:24:44Z",
+        "description": "Three AI chief executives agreed on one thing over the weekend, and by Monday morning billions in market value had shifted away from chips and toward softwar..."
+      },
+      {
+        "title": "Oracle Slides 5% as Layoff Costs Outweigh Ellison\u2019s Canceled $7.5B Stock Sale; Nebius and CoreWeave Fall 5%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/14/oracle-slides-5-as-layoff-costs-outweigh-ellisons-canceled-7-5b-stock-sale-nebius-and-coreweave-fall-5/",
+        "published_at": "2026-09-14T14:19:33Z",
+        "description": "Larry Ellison just canceled a plan to sell billions in Oracle stock, but the market is punishing shares anyway as a surprise cost disclosure threatens to ove..."
+      },
+      {
+        "title": "ServiceNow Climbs 5% as Software Sidesteps AI Selloff; Adobe Gains 4%, Salesforce Ticks Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/14/servicenow-climbs-5-as-software-sidesteps-ai-selloff-adobe-gains-4-salesforce-ticks-up/",
+        "published_at": "2026-09-14T14:11:46Z",
+        "description": "Anthropic's CEO just handed enterprise software names an unexpected lifeline while hammering AI hardware stocks, and the split inside technology this Monday..."
+      },
+      {
         "title": "Rumble Soars 10% on Report Anthropic Is the $13.7B Compute Customer; CoreWeave and Nebius Drop 9%",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/14/rumble-soars-10-on-report-anthropic-is-the-13-7b-compute-customer-coreweave-and-nebius-drop-9/",
         "published_at": "2026-09-14T13:27:51Z",
         "description": "A media report naming a marquee AI lab as the mystery customer behind Rumble's massive six-year compute contract is sending one small-cap stock sharply highe..."
-      },
-      {
-        "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/14/chip-stocks-tumble-as-ai-pacing-call-reaches-beyond-memory-intel-drops-7-amd-sinks-6-nvidia-pulls-back/",
-        "published_at": "2026-09-14T13:23:34Z",
-        "description": "A weekend essay from an AI CEO that never named a single chipmaker just sent Intel, AMD, and NVIDIA sliding in unison, and the order in which they fell tells..."
-      },
-      {
-        "title": "Gold Is Down Since the Iran War Began. This Obscure Shipping ETF Is Up 1,168%.",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/14/gold-is-down-since-the-iran-war-began-this-obscure-shipping-etf-is-up-1168/",
-        "published_at": "2026-09-14T10:32:51Z",
-        "description": "When the US and Israel began striking Iran, gold did what every financial advisor said it would. Then something strange happened in an obscure corner of the..."
-      },
-      {
-        "title": "SpaceX set to get weighting boost in Nasdaq 100 after index rebalance",
-        "source": "Business Standard",
-        "url": "https://www.business-standard.com/world-news/spacex-set-to-get-weighting-boost-in-nasdaq-100-after-index-rebalance-126091300046_1.html",
-        "published_at": "2026-09-13T02:15:47Z",
-        "description": "Its weighting is expected to rise to about 2.82% from roughly 1.28%, based on pro forma data from Nasdaq's Global Index Watch circulated late Friday"
-      },
-      {
-        "title": "You Can\u2019t Spell SPY Without AI: How the Stock Market Became a 1-Way Bet on the Future",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/4576680/you-cant-spell-spy-without-ai-how-the-stock-market-became-a-1-way-bet-on-the-future",
-        "published_at": "2026-09-13T01:00:02Z",
-        "description": "If you think you're investing in the S&P 500 for a broadly diversified portfolio, think again."
-      },
-      {
-        "title": "SpaceX set for larger weighting in Nasdaq 100 this month as lockup expirations expand float",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/spacex-nasdaq-100-weight-increase-rebalance/",
-        "published_at": "2026-09-12T18:14:32Z",
-        "description": "SpaceX's increased Nasdaq 100 weighting may drive significant market activity, impacting passive funds and investor strategies.\nThe post SpaceX set for larger weighting in Nasdaq 100 this month as lockup expirations expand float appeared first on Crypto Brief\u2026"
       }
     ],
     "IEFA": [
@@ -344,6 +344,13 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/14d690e41326726c",
+        "published_at": "2026-09-14T18:52:39Z",
+        "description": "The post SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV appeared first on 24/7 Wall St..\nI\u2019ve got nothing bad to say about the Schwab U.S. Dividend Equity ETF (SCHD). It charges just a 0.06% expense ratio and follows a solid methodology\u2026"
+      },
+      {
         "title": "$10,000 Invested in SCHD a Decade Ago Would Be Worth This Much Today",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f119faabeb9dff08",
@@ -377,16 +384,16 @@
         "url": "https://biztoc.com/x/6d06b468c1b49041",
         "published_at": "2026-09-12T13:29:45Z",
         "description": "Dividend growth exchange-traded funds (ETFs) are having their day in the sun, often outperforming the broad market. For example, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has delivered a one-year total return of 28.7% (through Sept. 10, 2026), compa\u2026"
-      },
-      {
-        "title": "SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/060e189afa4b732b",
-        "published_at": "2026-09-11T21:25:41Z",
-        "description": "The post SCHD and JEPI Both Pay You to Wait, Yet Only One Raises Its Payout Every Year appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and JPMorgan Equity Premium Income ETF (NYSEARCA:JEPI) both land in the same corner of an i\u2026"
       }
     ],
     "IEMG": [
+      {
+        "title": "IEMG vs SCHE: Which Emerging Markets ETF Is the Smarter Choice Right Now?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/aad3df18b15030b3",
+        "published_at": "2026-09-14T16:53:48Z",
+        "description": "Both the iShares Core MSCI Emerging Markets ETF (NYSEMKT:IEMG) and the Schwab Emerging Markets Equity ETF (NYSEMKT:SCHE)serve as core building blocks for international diversification, targeting stocks across developing nations.\nWhile they share similar goals\u2026"
+      },
       {
         "title": "Daily ETF Flows: GDX Registers Outflows",
         "source": "Etf.com",
@@ -421,13 +428,6 @@
         "url": "https://www.businessinsider.com/national-debt-40-trillion-america-lost-decade-stock-market-sp500-2026-8#article",
         "published_at": "2026-08-29T09:15:01Z",
         "description": "The national debt has reached $40 trillion, doubling in about 10 years. The gloomy fiscal situation is a risk for stocks, one researcher says."
-      },
-      {
-        "title": "Daily ETF Flows: TLT Gains",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-25T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 24, 2026."
       }
     ],
     "AGG": [
