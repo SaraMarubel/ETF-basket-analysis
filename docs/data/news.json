@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-15T19:42:26.454238+00:00",
+  "generated_at": "2026-09-15T22:54:02.221755+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f61bb5124e4a9656",
+        "published_at": "2026-09-14T21:38:25Z",
+        "description": "The post VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy? appeared first on 24/7 Wall St..\nVanguard S&P 500 ETF (NYSEARCA:VOO) and iShares Core S&P 500 ETF (NYSEARCA:IVV) track the identical index at the identical published fee o\u2026"
+      },
       {
         "title": "Investing in the Vanguard S&P 500 ETF (VOO)? Beware of This 1 Sneaky Risk",
         "source": "Biztoc.com",
@@ -37,16 +44,16 @@
         "url": "https://cryptobriefing.com/vanguard-voo-etf-record-inflows/",
         "published_at": "2026-09-11T15:36:31Z",
         "description": "Vanguard's ETF dominance highlights a shift towards low-cost investing, pressuring competitors to rethink strategies amid rising equity demand.\nThe post Vanguard S&P 500 ETF sees record inflows of $13B in a single week appeared first on Crypto Briefing."
-      },
-      {
-        "title": "What a $10,000 Investment in the Vanguard S&P 500 ETF (VOO) a Decade Ago Is Worth Today",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1b8b28432b8195d3",
-        "published_at": "2026-09-06T23:44:43Z",
-        "description": "You've probably run across recommendations to buy into the Vanguard S&P 500 ETF (NYSEMKT: VOO) plenty of times. Even Warren Buffett has recommended low-fee S&P 500 index funds, citing Vanguard's as a prime example. In his 2013 letter to shareholders, he wrote\u2026"
       }
     ],
     "IVV": [
+      {
+        "title": "VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f61bb5124e4a9656",
+        "published_at": "2026-09-14T21:38:25Z",
+        "description": "The post VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy? appeared first on 24/7 Wall St..\nVanguard S&P 500 ETF (NYSEARCA:VOO) and iShares Core S&P 500 ETF (NYSEARCA:IVV) track the identical index at the identical published fee o\u2026"
+      },
       {
         "title": "If You'd Invested $1,000 in VOO 10 Years Ago, Here's How Much You'd Have Today",
         "source": "Biztoc.com",
@@ -159,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs",
+        "published_at": "2026-09-14T20:54:10Z",
+        "description": "Kraken launches xStocks vaults that let investors earn yield on tokenized Nvidia shares and US stock market ETFs by lending the assets through DeFi markets."
+      },
+      {
         "title": "C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/14/c3-ai-jumps-7-as-software-rally-lifts-beaten-down-ai-names-uipath-climbs-8-soundhound-ai-gains-5/",
@@ -192,13 +206,6 @@
         "url": "https://247wallst.com/investing/2026/09/14/servicenow-climbs-5-as-software-sidesteps-ai-selloff-adobe-gains-4-salesforce-ticks-up/",
         "published_at": "2026-09-14T14:11:46Z",
         "description": "Anthropic's CEO just handed enterprise software names an unexpected lifeline while hammering AI hardware stocks, and the split inside technology this Monday..."
-      },
-      {
-        "title": "Rumble Soars 10% on Report Anthropic Is the $13.7B Compute Customer; CoreWeave and Nebius Drop 9%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/14/rumble-soars-10-on-report-anthropic-is-the-13-7b-compute-customer-coreweave-and-nebius-drop-9/",
-        "published_at": "2026-09-14T13:27:51Z",
-        "description": "A media report naming a marquee AI lab as the mystery customer behind Rumble's massive six-year compute contract is sending one small-cap stock sharply highe..."
       }
     ],
     "IEFA": [
@@ -344,6 +351,13 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD\u2019s 0.06% Fee Hides the Real Cost: March\u2019s 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fd1e3d4bf505933d",
+        "published_at": "2026-09-14T21:08:12Z",
+        "description": "The post SCHD\u2019s 0.06% Fee Hides the Real Cost: March\u2019s 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders appeared first on 24/7 Wall St..\nSCHD holders got a pointed lesson this year. The cheapest thing about an ETF is often the expense ratio. The \u2026"
+      },
+      {
         "title": "SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/14d690e41326726c",
@@ -377,13 +391,6 @@
         "url": "https://biztoc.com/x/114f956eacfd3119",
         "published_at": "2026-09-12T22:59:11Z",
         "description": "Dividend investing has a reputation for being unglamorous. However, the strategy is a steady way to build long-term wealth. \nInvestors can either identify individual dividend stocks or own exchange-traded funds which offer diversification. \nTwo popular divide\u2026"
-      },
-      {
-        "title": "Some Dividend Growth ETFs Are Beating the Broad Market -- Is It Sustainable?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6d06b468c1b49041",
-        "published_at": "2026-09-12T13:29:45Z",
-        "description": "Dividend growth exchange-traded funds (ETFs) are having their day in the sun, often outperforming the broad market. For example, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) has delivered a one-year total return of 28.7% (through Sept. 10, 2026), compa\u2026"
       }
     ],
     "IEMG": [
