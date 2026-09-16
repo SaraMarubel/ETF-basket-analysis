@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-16T13:30:34.256668+00:00",
+  "generated_at": "2026-09-16T19:34:00.438991+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "The Fed Is Expected to Raise Interest Rates Wednesday. Should You Buy the S&P 500 Before It Does?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1bc936fdaa74f0b2",
+        "published_at": "2026-09-15T14:32:16Z",
+        "description": "Just one month ago, most economists expected the Federal Reserve to leave interest rates unchanged at its meeting this week. As of Monday, the futures market had priced in a 90% probability of a quarter-point rate hike.\nIf you're considering buying (or contin\u2026"
+      },
       {
         "title": "VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy?",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/11/investors-just-poured-43-6-billion-into-voo-in-one-month-heres-why-they-ignored-the-selloff-talk/",
         "published_at": "2026-09-11T15:59:04Z",
         "description": "Investors funneled $43.6 billion into the Vanguard S&P 500 ETF (NYSEARCA:VOO) over the trailing thirty days, according to Eric Balchunas at Bloomberg, even a..."
-      },
-      {
-        "title": "Vanguard S&P 500 ETF sees record inflows of $13B in a single week",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/vanguard-voo-etf-record-inflows/",
-        "published_at": "2026-09-11T15:36:31Z",
-        "description": "Vanguard's ETF dominance highlights a shift towards low-cost investing, pressuring competitors to rethink strategies amid rising equity demand.\nThe post Vanguard S&P 500 ETF sees record inflows of $13B in a single week appeared first on Crypto Briefing."
       }
     ],
     "IVV": [
@@ -122,6 +122,13 @@
     ],
     "VTI": [
       {
+        "title": "This Is the No. 1 Reason I'm Buying and Holding the Vanguard Total Stock Market ETF (VTI) Right Now",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/96190ccbabcd08ad",
+        "published_at": "2026-09-15T16:48:17Z",
+        "description": "There are plenty of reasons for investors to be nervous about stocks right now. Inflation remains stubbornly high. Treasury yields are climbing. And traders now see a 90% probability that the Federal Reserve raises interest rates at its September meeting this\u2026"
+      },
+      {
         "title": "Daily ETF Flows: Investors Scoop Up TLT",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -155,16 +162,16 @@
         "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
         "published_at": "2026-09-03T21:25:44Z",
         "description": "Auto-enrollment handed you a default fund at 25 and you never looked back, but the investment your employer chose for you may already be working against your..."
-      },
-      {
-        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-03T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for September 2, 2026."
       }
     ],
     "QQQ": [
+      {
+        "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/",
+        "published_at": "2026-09-15T15:55:13Z",
+        "description": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reas..."
+      },
       {
         "title": "Daily ETF Flows: Investors Scoop Up TLT",
         "source": "Etf.com",
@@ -199,13 +206,6 @@
         "url": "https://www.barchart.com/story/news/4593897/what-old-school-chart-analysis-and-gamma-exposure-tell-us-about-qqq-this-fed-week",
         "published_at": "2026-09-14T16:55:34Z",
         "description": "Our top chart expert highlights the Nasdaq-100 levels for traders to keep on the radar."
-      },
-      {
-        "title": "Marvell Falls 7% as AI Pacing Debate Collides With Fed Week; Broadcom Drops 4%, NVIDIA Pulls Back",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/14/marvell-falls-7-as-ai-pacing-debate-collides-with-fed-week-broadcom-drops-4-nvidia-pulls-back/",
-        "published_at": "2026-09-14T16:43:30Z",
-        "description": "A weekend debate over AI pacing collided with a Federal Reserve rate decision, and the chip sector is now sorting winners from losers in a way that reveals e..."
       }
     ],
     "IEFA": [
@@ -314,6 +314,13 @@
     ],
     "BND": [
       {
+        "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
+        "published_at": "2026-09-15T16:53:56Z",
+        "description": "Rising yields across the bond market have spooked investors, but the surge from zero interest rates since Covid suggests fixed-income risk-reward has improved."
+      },
+      {
         "title": "How Much Do You Need Invested to Out-Earn a Married Couple\u2019s Combined Social Security Checks With Dividends?",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/personal-finance/2026/09/11/how-much-do-you-need-invested-to-out-earn-a-married-couples-combined-social-security-checks-with-dividends/",
@@ -347,13 +354,6 @@
         "url": "https://biztoc.com/x/51ffdcc9ddcfba61",
         "published_at": "2026-09-04T18:48:02Z",
         "description": "The post BND Pays More Than BSV Again. Is the Extra Rate Risk Finally Worth It? appeared first on 24/7 Wall St..\nThe Vanguard Total Bond Market ETF (NASDAQ:BND) is once again paying a higher 30-day SEC yield than the Vanguard Short-Term Bond ETF (NYSEARCA:BSV\u2026"
-      },
-      {
-        "title": "Nobody Has Looked at the Fund Your 401(k) Picked for You at 25, So Here Are 3 ETFs a Grown-Up Would Choose Instead",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/03/nobody-has-looked-at-the-fund-your-401k-picked-for-you-at-25-so-here-are-3-etfs-a-grown-up-would-choose-instead/",
-        "published_at": "2026-09-03T21:25:44Z",
-        "description": "Auto-enrollment handed you a default fund at 25 and you never looked back, but the investment your employer chose for you may already be working against your..."
       }
     ],
     "SCHD": [
@@ -445,6 +445,13 @@
       }
     ],
     "AGG": [
+      {
+        "title": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
+        "published_at": "2026-09-15T16:53:56Z",
+        "description": "Rising yields across the bond market have spooked investors, but the surge from zero interest rates since Covid suggests fixed-income risk-reward has improved."
+      },
       {
         "title": "\u201cBeing Too Prudent Is Actually Reckless\u201d: Cramer as the Safe Bond Fund Loses Money Over 5 Years",
         "source": "24/7 Wall St.",
@@ -615,6 +622,20 @@
     ],
     "GLD": [
       {
+        "title": "Steve Eisman's 'Big Short' Partners Warn Anthropic, SpaceX IPOs Could Hurt Stocks",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61797441/ipo-flood-stocks-big-short-gold?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-09-15T16:32:52Z",
+        "description": "Steve Eisman\u2019s former \u201cBig Short\u201d partners are warning that the wave of giant IPOs could put pressure on stocks by flooding the market with new shares. Porte..."
+      },
+      {
+        "title": "Bitcoin and gold touted as hedges against currency debasement as US debt tops $40 trillion",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bitcoin-gold-hedges-currency-debasement/",
+        "published_at": "2026-09-15T15:59:27Z",
+        "description": "As US debt rises, investors increasingly view Bitcoin and gold as strategic assets, highlighting a shift in risk management and portfolio diversification.\nThe post Bitcoin and gold touted as hedges against currency debasement as US debt tops $40 trillion appe\u2026"
+      },
+      {
         "title": "Daily ETF Flows: Investors Scoop Up TLT",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -641,20 +662,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-07T21:34:01Z",
         "description": "US-listed ETFs took in $21.3 billion last week, most of it into bonds. The standout, though, was UCBG."
-      },
-      {
-        "title": "Billionaire Activist Investor Dan Loeb Bought Gold, Then Dumped It 3 Months Later \u2014 Timing Hasn't Paid Off Yet",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/commodities/articles/billionaire-activist-investor-dan-loeb-140011100.html",
-        "published_at": "2026-09-05T14:00:11Z",
-        "description": "Dan Loeb\u2018s Third Point LLC fully exited a gold position in the second quarter just months after building the stake and ahead of a price rebound in the weeks..."
-      },
-      {
-        "title": "Daily ETF Flows: UCBG On Top",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ucbg-top?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-04T21:00:11Z",
-        "description": "Here are the daily ETF fund flows for September 3, 2026."
       }
     ],
     "IWF": [],
