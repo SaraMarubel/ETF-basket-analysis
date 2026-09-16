@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:47:45.479693+00:00",
+  "generated_at": "2026-09-16T13:30:34.256668+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -122,6 +122,13 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: Investors Scoop Up TLT",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-15T00:38:14Z",
+        "description": "Here are the daily ETF fund flows for September 11, 2026."
+      },
+      {
         "title": "Daily ETF Flows: GDX Registers Outflows",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gdx-registers-outflows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -155,22 +162,29 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-03T21:00:04Z",
         "description": "Here are the daily ETF fund flows for September 2, 2026."
-      },
-      {
-        "title": "The Free Retirement Dinner Costs $500K in the Fine Print, but These 4 ETFs Do What the Steak Pitch Promises",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/31/the-free-retirement-dinner-costs-500k-in-the-fine-print-but-these-4-etfs-do-what-the-steak-pitch-promises/",
-        "published_at": "2026-08-31T21:15:17Z",
-        "description": "That free retirement dinner comes with a hidden invoice most investors never see until it's too late, and the annuity pitch promising guaranteed income and m..."
       }
     ],
     "QQQ": [
+      {
+        "title": "Daily ETF Flows: Investors Scoop Up TLT",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-15T00:38:14Z",
+        "description": "Here are the daily ETF fund flows for September 11, 2026."
+      },
       {
         "title": "Kraken brings DeFi yield to tokenized stocks and ETFs",
         "source": "Cointelegraph",
         "url": "https://cointelegraph.com/news/kraken-brings-defi-yield-to-tokenized-stocks-and-etfs",
         "published_at": "2026-09-14T20:54:10Z",
         "description": "Kraken launches xStocks vaults that let investors earn yield on tokenized Nvidia shares and US stock market ETFs by lending the assets through DeFi markets."
+      },
+      {
+        "title": "Meta\u2019s AI Agents Are Coming for Your Shopping Cart. These ETFs Could Cash In",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-agents-coming-shopping-203040358.html",
+        "published_at": "2026-09-14T20:30:40Z",
+        "description": "Meta Platforms Inc\u2019s latest AI push is moving beyond chatbots, creating a potential new catalyst for ETFs with sizeable exposure to the social-media giant. T..."
       },
       {
         "title": "C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%",
@@ -192,20 +206,6 @@
         "url": "https://247wallst.com/investing/2026/09/14/marvell-falls-7-as-ai-pacing-debate-collides-with-fed-week-broadcom-drops-4-nvidia-pulls-back/",
         "published_at": "2026-09-14T16:43:30Z",
         "description": "A weekend debate over AI pacing collided with a Federal Reserve rate decision, and the chip sector is now sorting winners from losers in a way that reveals e..."
-      },
-      {
-        "title": "AI Scare Threatens Fund Flows Beating Rest of Market 13-to-1",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/ai-scare-threatens-fund-flows-162655054.html",
-        "published_at": "2026-09-14T16:26:55Z",
-        "description": "For months, AI-obsessed investors have thrown billions of dollars into technology stocks and largely ignored the rest of the stock market. Monday\u2019s rout in t..."
-      },
-      {
-        "title": "Meta, Alphabet and Microsoft Rise While Nvidia Falls After Three AI Chiefs Call For Slowing Down Frontier Models",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/14/meta-alphabet-and-microsoft-rise-while-nvidia-falls-after-three-ai-chiefs-call-for-slowing-down-frontier-models/",
-        "published_at": "2026-09-14T14:24:44Z",
-        "description": "Three AI chief executives agreed on one thing over the weekend, and by Monday morning billions in market value had shifted away from chips and toward softwar..."
       }
     ],
     "IEFA": [
@@ -253,6 +253,13 @@
       }
     ],
     "VEA": [
+      {
+        "title": "Legendary investor made an estimated $100 million on 1987 crash, now says investors could see 'negative 10-year returns'",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
+        "published_at": "2026-09-15T10:15:00Z",
+        "description": "The man who predicted Black Monday says the stock market's best decade may already be behind us \u2014 and the math backs him up."
+      },
       {
         "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
         "source": "Etf.com",
@@ -358,11 +365,25 @@
         "description": "The post SCHD\u2019s 0.06% Fee Hides the Real Cost: March\u2019s 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders appeared first on 24/7 Wall St..\nSCHD holders got a pointed lesson this year. The cheapest thing about an ETF is often the expense ratio. The \u2026"
       },
       {
+        "title": "How Much of a $9,100 Monthly Dividend Paycheck Do You Actually Keep After Taxes?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/14/how-much-of-a-9100-monthly-dividend-paycheck-do-you-actually-keep-after-taxes/",
+        "published_at": "2026-09-14T20:22:44Z",
+        "description": "Two portfolios generating identical dividend income can leave one investor thousands of dollars richer than the other, and the difference has nothing to do w..."
+      },
+      {
         "title": "SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/14d690e41326726c",
         "published_at": "2026-09-14T18:52:39Z",
         "description": "The post SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV appeared first on 24/7 Wall St..\nI\u2019ve got nothing bad to say about the Schwab U.S. Dividend Equity ETF (SCHD). It charges just a 0.06% expense ratio and follows a solid methodology\u2026"
+      },
+      {
+        "title": "SCHD Pays About 3%. This Covered Call ETF Pays 6% Without Eroding NAV",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/14/schd-pays-about-3-this-covered-call-etf-pays-6-without-eroding-nav/",
+        "published_at": "2026-09-14T18:43:02Z",
+        "description": "SCHD is a fine dividend ETF, but investors chasing higher income often stumble into covered call funds that quietly erode their principal with every distribu..."
       },
       {
         "title": "$10,000 Invested in SCHD a Decade Ago Would Be Worth This Much Today",
@@ -377,20 +398,6 @@
         "url": "https://biztoc.com/x/36c2c1bf6c22e1e4",
         "published_at": "2026-09-13T07:14:38Z",
         "description": "Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is enjoying a massive breakout year, trading at roughly $34 at this writing and boasting a year-to-date (YTD) return of 29.29%. A look at SCHD's returns since its 2011 inception shows a steady record of healthy \u2026"
-      },
-      {
-        "title": "SCHD ETF quietly beats rival VYM in total returns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d1c935905a24c18a",
-        "published_at": "2026-09-13T02:15:22Z",
-        "description": "Dividend investing has a reputation for being unglamorous. However, the strategy is a steady way to build long-term wealth.\nInvestors can either identify individual dividend stocks or own exchange-traded funds which offer diversification.\nTwo popular dividend\u2026"
-      },
-      {
-        "title": "SCHD ETF quietly beats rival VYM in total returns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/114f956eacfd3119",
-        "published_at": "2026-09-12T22:59:11Z",
-        "description": "Dividend investing has a reputation for being unglamorous. However, the strategy is a steady way to build long-term wealth. \nInvestors can either identify individual dividend stocks or own exchange-traded funds which offer diversification. \nTwo popular divide\u2026"
       }
     ],
     "IEMG": [
@@ -608,6 +615,13 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: Investors Scoop Up TLT",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-investors-scoop-tlt?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-15T00:38:14Z",
+        "description": "Here are the daily ETF fund flows for September 11, 2026."
+      },
+      {
         "title": "Daily ETF Flows: JPST Edges Into Top 10",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-jpst-edges-top-10?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -641,18 +655,18 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ucbg-top?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-04T21:00:11Z",
         "description": "Here are the daily ETF fund flows for September 3, 2026."
-      },
-      {
-        "title": "Daily ETF Flows: SGOV Takes No. 2 Spot",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-sgov-takes-no-2-spot?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-03T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for September 2, 2026."
       }
     ],
     "IWF": [],
     "IJH": [],
     "VIG": [
+      {
+        "title": "Want to Generate Thousands of Dollars in Passive Income While Barely Lifting a Finger? This Dividend ETF Could Get You There",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/30cb6c5d9cc7ec07",
+        "published_at": "2026-09-15T09:44:31Z",
+        "description": "Want to Generate Thousands of Dollars in Passive Income While Barely Lifting a Finger? This Dividend ETF Could Get You There.\nA $50,000 investment in the Vanguard Dividend Appreciation ETF (NYSEMKT: VIG) would generate around $850 in annual dividend income at\u2026"
+      },
       {
         "title": "SCHD\u2019s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
         "source": "24/7 Wall St.",
@@ -687,13 +701,6 @@
         "url": "https://biztoc.com/x/b02ce5bfac59f122",
         "published_at": "2026-09-05T13:19:58Z",
         "description": "Schwab U.S. Dividend Equity vs. Vanguard Dividend Appreciation: Which ETF Looks Better for Your Portfolio?\nThe Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) offers a higher current yield and deeper value tilt, whereas the Vanguard Dividend Appreciation ETF (\u2026"
-      },
-      {
-        "title": "VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/213745121343427c",
-        "published_at": "2026-09-02T21:09:20Z",
-        "description": "The post VIG Pays Less Than Half of SCHD by Design: What $500,000 Gives Up Every Year in Dividends appeared first on 24/7 Wall St..\nPicture a retiree sitting on $500,000 in the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG). Every quarter, another distribu\u2026"
       }
     ],
     "IJR": []
