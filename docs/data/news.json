@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T12:29:56.391262+00:00",
+  "generated_at": "2026-09-19T18:36:49.544275+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -78,6 +78,13 @@
     ],
     "SPY": [
       {
+        "title": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cb3ec36f6458fe81",
+        "published_at": "2026-09-18T13:20:42Z",
+        "description": "The post Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3% appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is down 0.3% Friday morning, but Ethereum treasury stocks are catching a bid. Bitmine Imm\u2026"
+      },
+      {
         "title": "TeraWulf Rallies 7% as AI Hosting Bid Returns; Core Scientific Jumps 7%, IREN Rises 3%",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/16/terawulf-rallies-7-as-ai-hosting-bid-returns-core-scientific-jumps-7-iren-rises-3/",
@@ -111,13 +118,6 @@
         "url": "https://biztoc.com/x/f293c76b036d4a12",
         "published_at": "2026-09-08T22:38:32Z",
         "description": "The approval rating for President Donald Trump has fallen in a new NBC News poll, with the handling of the Iran War contributing to the lower ratings.\nTrump\u2019s Approval Rating Falls\nSimilar to other polls in recent months, the approval rating of Trump continue\u2026"
-      },
-      {
-        "title": "AMC Falls 5%, Robinhood Barely Budges: Is the Tokenization Bounce Already Over?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/08/amc-falls-5-robinhood-barely-budges-is-the-tokenization-bounce-already-over/",
-        "published_at": "2026-09-08T16:05:16Z",
-        "description": "AMC stock is sliding back toward last week's levels while Robinhood barely flinches, and that disconnect raises a pointed question about what Friday's CEO fe..."
       }
     ],
     "VTI": [
@@ -166,6 +166,20 @@
     ],
     "QQQ": [
       {
+        "title": "Amazon\u2019s AI Bet is Already Starting to Pay Off",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/18/amazons-ai-bet-is-already-starting-to-pay-off/",
+        "published_at": "2026-09-18T15:29:46Z",
+        "description": "AWS just posted its fastest growth in 18 quarters while Amazon is burning through capex at a rate that swung free cash flow negative. Here is why that tensio..."
+      },
+      {
+        "title": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/18/alphabet-rises-3-meta-and-microsoft-slip-is-this-a-momentum-run-rather-than-a-tech-rally/",
+        "published_at": "2026-09-18T13:54:20Z",
+        "description": "Alphabet surged Friday while Meta and Microsoft both slipped into the red, leaving traders to figure out whether one mega-cap is breaking away from the pack..."
+      },
+      {
         "title": "ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/etfs-surpass-1-5-trillion-record-flows/",
@@ -192,20 +206,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/17/qqqis-0-65-monthly-check-hides-10-97-per-share-in-forgone-gains/",
         "published_at": "2026-09-17T22:05:09Z",
         "description": "QQQI investors collect a monthly distribution check and feel like they are winning, but two and a half years of data reveal a quiet cost hiding beneath every..."
-      },
-      {
-        "title": "If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/68e48efb36060856",
-        "published_at": "2026-09-17T19:09:43Z",
-        "description": "The post If QQQ Repeats Its Last Decade, $100,000 at 40 Could Hit $1 Million by 52 appeared first on 24/7 Wall St..\nA 40-year-old drops $100,000 into QQQ, never adds another dollar, and reaches $1 million by 52. That is the arithmetic if Invesco QQQ Trust (NA\u2026"
-      },
-      {
-        "title": "AMD Jumps 7% as Semiconductor Rebound Reaches a Third Session; Broadcom Rises 3%, NVIDIA Edges Higher",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/",
-        "published_at": "2026-09-17T17:37:07Z",
-        "description": "Advanced Micro Devices (NASDAQ:AMD) is leading a third consecutive session of gains for semiconductor stocks, with AMD stock up 7% to $548.76 in Thursday aft..."
       }
     ],
     "IEFA": [
@@ -358,6 +358,27 @@
     ],
     "SCHD": [
       {
+        "title": "How to Build $6,350 a Month in Dividend Income Without Owning a Single Yield Trap",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/18/how-to-build-6350-a-month-in-dividend-income-without-owning-a-single-yield-trap/",
+        "published_at": "2026-09-18T17:34:09Z",
+        "description": "Most investors chasing high dividend yields are quietly funding their own losses without realizing it. Before you build a retirement income portfolio, there..."
+      },
+      {
+        "title": "Portfolio Fit: HQDG",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-hqdg/",
+        "published_at": "2026-09-18T14:20:48Z",
+        "description": "A brand-new actively managed dividend ETF just launched into a space dominated by funds charging a fraction of its fee, and the math it needs to overcome bef..."
+      },
+      {
+        "title": "Portfolio Fit: DIVH",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-divh/",
+        "published_at": "2026-09-18T14:00:51Z",
+        "description": "A new active dividend ETF just hit the market promising decades of dividend growth, but it enters at a moment when the risk-free competition has never been m..."
+      },
+      {
         "title": "These \u2018High-Yield\u2019 ETFs Pay 5%\u20139% While Quietly Shrinking Your Principal. Here\u2019s What to Own Instead",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/18/these-high-yield-etfs-pay-5-9-while-quietly-shrinking-your-principal-heres-what-to-own-instead/",
@@ -377,30 +398,16 @@
         "url": "https://247wallst.com/investing/etf/2026/09/17/schds-international-twin-has-rivals-from-vanguard-fidelity-and-blackrock-we-ranked-all-four/",
         "published_at": "2026-09-17T21:15:40Z",
         "description": "SCHY was built to be SCHD's international twin, but three rivals from Vanguard, Fidelity, and BlackRock have quietly challenged its crown, and one of them be..."
-      },
-      {
-        "title": "Stocks Look Priced for Perfection. These 3 Dividend ETFs Are Built for the Pullback",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/17/stocks-look-priced-for-perfection-these-3-dividend-etfs-are-built-for-the-pullback/",
-        "published_at": "2026-09-17T16:48:44Z",
-        "description": "Premium valuations leave almost no margin for error, and a single disappointing earnings season could punish investors holding the wrong stocks. Three divide..."
-      },
-      {
-        "title": "Here's Exactly How Much You'd Need to Invest in SCHD to Build $500 Per Month in Passive Dividend Income",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ce150b20571c5f70",
-        "published_at": "2026-09-17T12:07:56Z",
-        "description": "Here's Exactly How Much You'd Need to Invest in SCHD to Build $500 Per Month in Passive Dividend Income\nThe Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is one of the most popular dividend-focused ETFs. That's because it offers a high current yield (3% ove\u2026"
-      },
-      {
-        "title": "SPHD and SCHD Both Promise High Dividends, Yet One Has Barely Made Investors Any Money in a Decade",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bd104affeed6eda2",
-        "published_at": "2026-09-17T01:47:20Z",
-        "description": "The post SPHD and SCHD Both Promise High Dividends, Yet One Has Barely Made Investors Any Money in a Decade appeared first on 24/7 Wall St..\nOn the surface, the Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) and the Schwab U.S. Dividend Equi\u2026"
       }
     ],
     "IEMG": [
+      {
+        "title": "Portfolio Fit: VEEM",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-veem/",
+        "published_at": "2026-09-18T16:40:47Z",
+        "description": "VanEck just launched an ETF that bets analyst sentiment can beat the MSCI Emerging Markets index at its own game, but with no track record and a strategy tha..."
+      },
       {
         "title": "Want to Leave Each Grandkid $100,000 Without Hiring a Lawyer? These 3 ETFs and a Custodial Account Do It",
         "source": "24/7 Wall St.",
@@ -435,13 +442,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-628m-flows-gld?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-02T21:00:05Z",
         "description": "Here are the daily ETF fund flows for September 1, 2026."
-      },
-      {
-        "title": "These ETFs Generate the Most Revenue",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/features/these-etfs-generate-most-revenue?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-01T22:24:15Z",
-        "description": "The largest ETFs by assets aren't necessarily the most profitable for issuers."
       }
     ],
     "AGG": [
@@ -578,6 +578,13 @@
     ],
     "VWO": [
       {
+        "title": "Portfolio Fit: VEEM",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-veem/",
+        "published_at": "2026-09-18T16:40:47Z",
+        "description": "VanEck just launched an ETF that bets analyst sentiment can beat the MSCI Emerging Markets index at its own game, but with no track record and a strategy tha..."
+      },
+      {
         "title": "Vanguard's $122 billion fund has warning most holders miss",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d639775591393cf8",
@@ -611,16 +618,16 @@
         "url": "https://biztoc.com/x/d4c0dc7247a17101",
         "published_at": "2026-08-25T10:09:00Z",
         "description": "The post This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock appeared first on 24/7 Wall St..\nThe Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO) has quietly become one of the more interesting concentration stories in passive inves\u2026"
-      },
-      {
-        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/08/25/this-105-billion-vanguard-fund-warns-it-could-become-a-bet-on-a-single-stock/",
-        "published_at": "2026-08-25T10:03:18Z",
-        "description": "A single line buried in Vanguard's prospectus reveals how a $105 billion emerging markets fund can quietly transform into a concentrated bet on one company w..."
       }
     ],
     "GLD": [
+      {
+        "title": "JPMorgan says one asset class could soon beat gold",
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/markets/jpmorgan-says-one-asset-class-could-soon-beat-gold",
+        "published_at": "2026-09-18T16:18:36Z",
+        "description": "JPMorgan says stubborn investor caution could create an opportunity in a major macro trade."
+      },
       {
         "title": "JPMorgan says Bitcoin has more upside than gold, and short sellers are the reason",
         "source": "Crypto Briefing",
@@ -655,18 +662,18 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
         "published_at": "2026-09-16T10:40:38Z",
         "description": "Gold futures opened at $4,333 per troy ounce on Wednesday, September 16, 2026, flat from Tuesday's close. Gold moved higher in early trading this morning to..."
-      },
-      {
-        "title": "Steve Eisman's 'Big Short' Partners Warn Anthropic, SpaceX IPOs Could Hurt Stocks",
-        "source": "Benzinga",
-        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61797441/ipo-flood-stocks-big-short-gold?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
-        "published_at": "2026-09-15T16:32:52Z",
-        "description": "Steve Eisman\u2019s former \u201cBig Short\u201d partners are warning that the wave of giant IPOs could put pressure on stocks by flooding the market with new shares. Porte..."
       }
     ],
     "IWF": [],
     "IJH": [],
     "VIG": [
+      {
+        "title": "Portfolio Fit: HQDG",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-hqdg/",
+        "published_at": "2026-09-18T14:20:48Z",
+        "description": "A brand-new actively managed dividend ETF just launched into a space dominated by funds charging a fraction of its fee, and the math it needs to overcome bef..."
+      },
       {
         "title": "These \u2018High-Yield\u2019 ETFs Pay 5%\u20139% While Quietly Shrinking Your Principal. Here\u2019s What to Own Instead",
         "source": "24/7 Wall St.",
@@ -701,13 +708,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/11/schds-3-yield-hides-a-216000-decade-long-performance-gap-investors-miss/",
         "published_at": "2026-09-11T21:05:32Z",
         "description": "Most SCHD holders track the quarterly payout and call it a win, but a decade of reinvested dividends tells a story the fund's marketing materials never menti..."
-      },
-      {
-        "title": "We Did the Math on What $100,000 Earns in the 5 Most Popular Dividend ETFs, and the Best Pays More Than Double the Worst",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
-        "published_at": "2026-09-10T21:25:48Z",
-        "description": "Not all dividend ETFs are built the same, and parking $100,000 in the wrong one could mean leaving thousands of dollars in annual income on the table compare..."
       }
     ],
     "IJR": []
