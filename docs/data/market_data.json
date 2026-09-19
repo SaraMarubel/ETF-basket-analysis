@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:35:21.381563+00:00",
+  "generated_at": "2026-09-19T12:29:31.525662+00:00",
   "risk_free_rate_pct": 3.98,
   "etfs": {
     "VOO": {
@@ -2423,7 +2423,7 @@
       "currency": "USD",
       "aum": 194385543168,
       "fund_family": "iShares",
-      "avg_volume": 8429614,
+      "avg_volume": 8413457,
       "bid": 97.97,
       "ask": 98.46,
       "spread_pct": 0.4989,
@@ -2822,13 +2822,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.51,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 50.97
+          "change_1y_pct": 48.53
         },
         {
           "symbol": "ROP.SW",
@@ -2846,7 +2846,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.97,
-          "change_1y_pct": 36.22
+          "change_1y_pct": 35.0
         },
         {
           "symbol": "NESN.SW",
@@ -2864,7 +2864,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.94,
-          "change_1y_pct": 10.51
+          "change_1y_pct": 11.15
         },
         {
           "symbol": "BHP.AX",
@@ -2876,7 +2876,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.92,
-          "change_1y_pct": 16.68
+          "change_1y_pct": 18.25
         }
       ],
       "options": {
@@ -2891,7 +2891,7 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.51,
-        "change_1y_pct": 76.99
+        "change_1y_pct": 83.31
       },
       "weakest_holding": {
         "symbol": "NESN.SW",
@@ -3317,13 +3317,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.05,
-          "change_1y_pct": 50.97
+          "change_1y_pct": 48.53
         },
         {
           "symbol": "ROP.SW",
@@ -3347,7 +3347,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.77,
-          "change_1y_pct": 36.22
+          "change_1y_pct": 35.0
         },
         {
           "symbol": "NESN.SW",
@@ -4755,13 +4755,13 @@
       "currency": "USD",
       "aum": 160899022848,
       "fund_family": "iShares",
-      "avg_volume": 10918700,
+      "avg_volume": 10853626,
       "bid": 80.54,
       "ask": 81.66,
       "spread_pct": 1.381,
       "price": 81.66,
       "change_1d_pct": 0.2,
-      "change_1y_pct": 27.22,
+      "change_1y_pct": 27.21,
       "change_ytd_pct": 19.3,
       "change_1m_pct": 2.55,
       "change_3m_pct": -4.64,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "0700.HK",
@@ -6557,7 +6557,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.76,
-          "change_1y_pct": 50.97
+          "change_1y_pct": 48.53
         },
         {
           "symbol": "ROP.SW",

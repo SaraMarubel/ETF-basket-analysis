@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T04:35:46.468836+00:00",
+  "generated_at": "2026-09-19T12:29:56.391262+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,27 @@
     ],
     "QQQ": [
       {
+        "title": "ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/etfs-surpass-1-5-trillion-record-flows/",
+        "published_at": "2026-09-18T11:59:12Z",
+        "description": "The ETF surge underscores a shift towards cost-effective, flexible investment vehicles, potentially reshaping global asset management dynamics.\nThe post ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026 appeared first on Crypto Brie\u2026"
+      },
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today?",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61860116/stock-market-will-sp-500-open-up-or-down-today-40?utm_source=yahooFinance&amp;utm_campaign=partner_feed&amp;utm_medium=referral",
+        "published_at": "2026-09-18T05:42:41Z",
+        "description": "U.S. stock futures are posting slight gains early Friday as investors digest targeted geopolitical sanctions, debates over Federal Reserve independence, and..."
+      },
+      {
+        "title": "$500,000 Split Between VOO and QQQ Owns the Same Seven Stocks Twice, and Nobody Adds Up the Overlap",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/17/500000-split-between-voo-and-qqq-owns-the-same-seven-stocks-twice-and-nobody-adds-up-the-overlap/",
+        "published_at": "2026-09-17T22:15:09Z",
+        "description": "Splitting a half-million dollars between two popular ETFs feels like textbook diversification, but a quiet look under the hood reveals something most investo..."
+      },
+      {
         "title": "QQQI\u2019s $0.65 Monthly Check Hides $10.97 Per Share in Forgone Gains",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/17/qqqis-0-65-monthly-check-hides-10-97-per-share-in-forgone-gains/",
@@ -185,27 +206,6 @@
         "url": "https://247wallst.com/investing/2026/09/17/amd-jumps-7-as-semiconductor-rebound-reaches-a-third-session-broadcom-rises-3-nvidia-edges-higher/",
         "published_at": "2026-09-17T17:37:07Z",
         "description": "Advanced Micro Devices (NASDAQ:AMD) is leading a third consecutive session of gains for semiconductor stocks, with AMD stock up 7% to $548.76 in Thursday aft..."
-      },
-      {
-        "title": "IonQ Climbs 9% on Quantum Optimization Work With NVIDIA; D-Wave Rises 8%, Rigetti Gains 7%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/17/ionq-climbs-9-on-quantum-optimization-work-with-nvidia-d-wave-rises-8-rigetti-gains-7/",
-        "published_at": "2026-09-17T15:50:57Z",
-        "description": "Quantum computing stocks are trading like a thematic basket this morning, not like an industry being repriced. IonQ (NYSE:IONQ) is at the center of the move,..."
-      },
-      {
-        "title": "BlackRock\u2019s Rick Rieder Turns Cautious on US Stocks, Warns $40 Trillion Debt Is Becoming a \u2018Compounding\u2026Problem\u2019 (CORRECTED)",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-rick-rieder-turns-cautious-150016926.html",
-        "published_at": "2026-09-17T15:00:16Z",
-        "description": "Editor\u2019s note: This story has been updated to more accurately reflect Rick Rieder\u2019s comments on 10-year Treasury yields. BlackRock Chief Investment Officer R..."
-      },
-      {
-        "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/17/ai-server-stocks-rally-as-the-hardware-bid-broadens-hewlett-packard-enterprise-jumps-9-super-micro-climbs-6-dell-rises-3/",
-        "published_at": "2026-09-17T14:53:46Z",
-        "description": "A rally that started in memory chips has jumped to server makers, but the same force lifting these AI hardware stocks is quietly making their underlying busi..."
       }
     ],
     "IEFA": [
@@ -314,6 +314,13 @@
     ],
     "BND": [
       {
+        "title": "ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/etfs-surpass-1-5-trillion-record-flows/",
+        "published_at": "2026-09-18T11:59:12Z",
+        "description": "The ETF surge underscores a shift towards cost-effective, flexible investment vehicles, potentially reshaping global asset management dynamics.\nThe post ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026 appeared first on Crypto Brie\u2026"
+      },
+      {
         "title": "My Bond Portfolio Allocation Explained: Short-Term Treasury ETF",
         "source": "Mymoneyblog.com",
         "url": "https://www.mymoneyblog.com/my-bond-portfolio-allocation-explained-short-term-treasury-etf.html",
@@ -347,16 +354,16 @@
         "url": "https://biztoc.com/x/5e02e9b4471f5c6c",
         "published_at": "2026-09-16T17:46:06Z",
         "description": "The post BND and SGOV Are Both \u201cSafe\u201d Bond ETFs, Yet Only One Has Never Had a Losing Year appeared first on 24/7 Wall St..\nBoth Vanguard Total Bond Market ETF (NASDAQ:BND) and iShares 0-3 Month Treasury Bond ETF (NYSEARCA:SGOV) get filed under \u201csafe\u201d in most \u2026"
-      },
-      {
-        "title": "BND and SGOV Are Both \u201cSafe\u201d Bond ETFs, Yet Only One Has Never Had a Losing Year",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/16/bnd-and-sgov-are-both-safe-bond-etfs-yet-only-one-has-never-had-a-losing-year/",
-        "published_at": "2026-09-16T17:42:41Z",
-        "description": "Both ETFs carry the \"safe\" label, but they behave like completely different animals when interest rates move. Understanding why one has sailed through every..."
       }
     ],
     "SCHD": [
+      {
+        "title": "These \u2018High-Yield\u2019 ETFs Pay 5%\u20139% While Quietly Shrinking Your Principal. Here\u2019s What to Own Instead",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/these-high-yield-etfs-pay-5-9-while-quietly-shrinking-your-principal-heres-what-to-own-instead/",
+        "published_at": "2026-09-18T10:50:14Z",
+        "description": "That 9% yield looks like a dream until you check what happened to the principal underneath it. Some of today's most popular high-yield ETFs have a track reco..."
+      },
       {
         "title": "CGDV vs. SCHD: Can an Active Dividend ETF Dethrone the Index Favorite?",
         "source": "Biztoc.com",
@@ -391,13 +398,6 @@
         "url": "https://biztoc.com/x/bd104affeed6eda2",
         "published_at": "2026-09-17T01:47:20Z",
         "description": "The post SPHD and SCHD Both Promise High Dividends, Yet One Has Barely Made Investors Any Money in a Decade appeared first on 24/7 Wall St..\nOn the surface, the Invesco S&P 500 High Dividend Low Volatility ETF (NYSEARCA:SPHD) and the Schwab U.S. Dividend Equi\u2026"
-      },
-      {
-        "title": "Your Winners Pushed You to 80% Stocks at 68. Sell Them Now or Let Them Ride? These 4 ETFs Make the Trim Painless",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/16/your-winners-pushed-you-to-80-stocks-at-68-sell-them-now-or-let-them-ride-these-4-etfs-make-the-trim-painless/",
-        "published_at": "2026-09-16T21:55:52Z",
-        "description": "A decade of gains left your portfolio at 80% stocks at age 68, and simply cashing out your winners could trigger a tax bill you never saw coming. Four ETFs o..."
       }
     ],
     "IEMG": [
@@ -668,6 +668,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "These \u2018High-Yield\u2019 ETFs Pay 5%\u20139% While Quietly Shrinking Your Principal. Here\u2019s What to Own Instead",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/18/these-high-yield-etfs-pay-5-9-while-quietly-shrinking-your-principal-heres-what-to-own-instead/",
+        "published_at": "2026-09-18T10:50:14Z",
+        "description": "That 9% yield looks like a dream until you check what happened to the principal underneath it. Some of today's most popular high-yield ETFs have a track reco..."
+      },
+      {
         "title": "Only 11 of 237 Active Dividend Funds Beat SCHD\u2019s Index",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/16/only-11-of-237-active-dividend-funds-beat-schds-index/",
@@ -701,13 +708,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/10/we-did-the-math-on-what-100000-earns-in-the-5-most-popular-dividend-etfs-and-the-best-pays-more-than-double-the-worst/",
         "published_at": "2026-09-10T21:25:48Z",
         "description": "Not all dividend ETFs are built the same, and parking $100,000 in the wrong one could mean leaving thousands of dollars in annual income on the table compare..."
-      },
-      {
-        "title": "The IRS Lets You Send Your RMD Straight to Charity and Skip the Tax Entirely. These 3 ETFs Replace the Income You Gave Away",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/08/the-irs-lets-you-send-your-rmd-straight-to-charity-and-skip-the-tax-entirely-these-3-etfs-replace-the-income-you-gave-away/",
-        "published_at": "2026-09-08T21:15:05Z",
-        "description": "A Qualified Charitable Distribution can wipe your RMD off your tax return entirely, but it also kills the income you were counting on. Three ETFs can rebuild..."
       }
     ],
     "IJR": []
