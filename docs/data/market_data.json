@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:34:24.003827+00:00",
+  "generated_at": "2026-09-19T04:35:21.381563+00:00",
   "risk_free_rate_pct": 3.98,
   "etfs": {
     "VOO": {
@@ -8,10 +8,10 @@
       "currency": "USD",
       "aum": 1756880437248,
       "fund_family": "Vanguard",
-      "avg_volume": 7268109,
-      "bid": 701.98,
-      "ask": 702.99,
-      "spread_pct": 0.1438,
+      "avg_volume": 7305095,
+      "bid": 702.81,
+      "ask": 703.0,
+      "spread_pct": 0.027,
       "price": 701.78,
       "change_1d_pct": 0.11,
       "change_1y_pct": 16.61,
@@ -465,12 +465,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 225.2,
-        "call_open_interest": 8539,
-        "put_open_interest": 10112,
-        "put_call_oi_ratio": 1.18,
-        "expirations_available": 15
+        "nearest_expiration": "2026-09-25",
+        "atm_implied_vol_pct": 32.1,
+        "call_open_interest": 2252,
+        "put_open_interest": 2174,
+        "put_call_oi_ratio": 0.97,
+        "expirations_available": 14
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -491,10 +491,10 @@
       "currency": "USD",
       "aum": 883985416192,
       "fund_family": "iShares",
-      "avg_volume": 6757203,
+      "avg_volume": 6754606,
       "bid": 765.57,
-      "ask": 764.99,
-      "spread_pct": -0.0758,
+      "ask": 766.86,
+      "spread_pct": 0.1684,
       "price": 764.92,
       "change_1d_pct": 0.11,
       "change_1y_pct": 16.61,
@@ -948,12 +948,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 133.4,
-        "call_open_interest": 1566,
-        "put_open_interest": 1194,
-        "put_call_oi_ratio": 0.76,
-        "expirations_available": 15
+        "nearest_expiration": "2026-09-25",
+        "atm_implied_vol_pct": 23.5,
+        "call_open_interest": 143,
+        "put_open_interest": 114,
+        "put_call_oi_ratio": 0.8,
+        "expirations_available": 14
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -974,375 +974,375 @@
       "currency": "USD",
       "aum": 811937038336,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 45508896,
-      "bid": 761.61,
-      "ask": 763.04,
-      "spread_pct": 0.1876,
+      "avg_volume": 45823836,
+      "bid": 762.9,
+      "ask": 762.99,
+      "spread_pct": 0.0118,
       "price": 761.69,
-      "change_1d_pct": -0.12,
-      "change_1y_pct": 16.29,
-      "change_ytd_pct": 12.09,
-      "change_1m_pct": -0.75,
-      "change_3m_pct": 2.0,
-      "change_6m_pct": 15.77,
-      "change_3y_pct": 77.59,
-      "change_5y_pct": 87.16,
+      "change_1d_pct": 0.13,
+      "change_1y_pct": 16.58,
+      "change_ytd_pct": 12.36,
+      "change_1m_pct": -0.5,
+      "change_3m_pct": 2.26,
+      "change_6m_pct": 16.06,
+      "change_3y_pct": 78.03,
+      "change_5y_pct": 87.63,
       "history": [
         {
           "date": "2026-05-12",
-          "close": 736.28
+          "close": 734.46
         },
         {
           "date": "2026-05-13",
-          "close": 740.4
+          "close": 738.57
         },
         {
           "date": "2026-05-14",
-          "close": 746.25
+          "close": 744.4
         },
         {
           "date": "2026-05-15",
-          "close": 737.27
+          "close": 735.44
         },
         {
           "date": "2026-05-18",
-          "close": 736.75
+          "close": 734.93
         },
         {
           "date": "2026-05-19",
-          "close": 731.84
+          "close": 730.03
         },
         {
           "date": "2026-05-20",
-          "close": 739.35
+          "close": 737.51
         },
         {
           "date": "2026-05-21",
-          "close": 740.81
+          "close": 738.98
         },
         {
           "date": "2026-05-22",
-          "close": 743.72
+          "close": 741.88
         },
         {
           "date": "2026-05-26",
-          "close": 748.66
+          "close": 746.81
         },
         {
           "date": "2026-05-27",
-          "close": 748.53
+          "close": 746.68
         },
         {
           "date": "2026-05-28",
-          "close": 752.66
+          "close": 750.8
         },
         {
           "date": "2026-05-29",
-          "close": 754.54
+          "close": 752.67
         },
         {
           "date": "2026-06-01",
-          "close": 756.59
+          "close": 754.72
         },
         {
           "date": "2026-06-02",
-          "close": 757.62
+          "close": 755.74
         },
         {
           "date": "2026-06-03",
-          "close": 752.3
+          "close": 750.44
         },
         {
           "date": "2026-06-04",
-          "close": 755.14
+          "close": 753.27
         },
         {
           "date": "2026-06-05",
-          "close": 735.65
+          "close": 733.83
         },
         {
           "date": "2026-06-08",
-          "close": 737.32
+          "close": 735.49
         },
         {
           "date": "2026-06-09",
-          "close": 735.16
+          "close": 733.34
         },
         {
           "date": "2026-06-10",
-          "close": 723.57
+          "close": 721.77
         },
         {
           "date": "2026-06-11",
-          "close": 735.86
+          "close": 734.04
         },
         {
           "date": "2026-06-12",
-          "close": 739.84
+          "close": 738.01
         },
         {
           "date": "2026-06-15",
-          "close": 752.89
+          "close": 751.03
         },
         {
           "date": "2026-06-16",
-          "close": 748.4
+          "close": 746.55
         },
         {
           "date": "2026-06-17",
-          "close": 739.06
+          "close": 737.23
         },
         {
           "date": "2026-06-18",
-          "close": 746.74
+          "close": 744.89
         },
         {
           "date": "2026-06-22",
-          "close": 744.39
+          "close": 742.55
         },
         {
           "date": "2026-06-23",
-          "close": 733.58
+          "close": 731.76
         },
         {
           "date": "2026-06-24",
-          "close": 733.24
+          "close": 731.42
         },
         {
           "date": "2026-06-25",
-          "close": 734.3
+          "close": 732.48
         },
         {
           "date": "2026-06-26",
-          "close": 728.99
+          "close": 727.18
         },
         {
           "date": "2026-06-29",
-          "close": 741.0
+          "close": 739.16
         },
         {
           "date": "2026-06-30",
-          "close": 746.77
+          "close": 744.92
         },
         {
           "date": "2026-07-01",
-          "close": 745.76
+          "close": 743.91
         },
         {
           "date": "2026-07-02",
-          "close": 744.78
+          "close": 742.94
         },
         {
           "date": "2026-07-06",
-          "close": 751.28
+          "close": 749.42
         },
         {
           "date": "2026-07-07",
-          "close": 747.71
+          "close": 745.86
         },
         {
           "date": "2026-07-08",
-          "close": 745.4
+          "close": 743.55
         },
         {
           "date": "2026-07-09",
-          "close": 751.71
+          "close": 749.85
         },
         {
           "date": "2026-07-10",
-          "close": 754.95
+          "close": 753.08
         },
         {
           "date": "2026-07-13",
-          "close": 749.17
+          "close": 747.31
         },
         {
           "date": "2026-07-14",
-          "close": 751.83
+          "close": 749.97
         },
         {
           "date": "2026-07-15",
-          "close": 754.81
+          "close": 752.94
         },
         {
           "date": "2026-07-16",
-          "close": 750.72
+          "close": 748.86
         },
         {
           "date": "2026-07-17",
-          "close": 743.29
+          "close": 741.45
         },
         {
           "date": "2026-07-20",
-          "close": 742.09
+          "close": 740.25
         },
         {
           "date": "2026-07-21",
-          "close": 748.28
+          "close": 746.43
         },
         {
           "date": "2026-07-22",
-          "close": 747.41
+          "close": 745.56
         },
         {
           "date": "2026-07-23",
-          "close": 738.18
+          "close": 736.35
         },
         {
           "date": "2026-07-24",
-          "close": 738.93
+          "close": 737.1
         },
         {
           "date": "2026-07-27",
-          "close": 739.09
+          "close": 737.26
         },
         {
           "date": "2026-07-28",
-          "close": 740.86
+          "close": 739.02
         },
         {
           "date": "2026-07-29",
-          "close": 729.46
+          "close": 727.65
         },
         {
           "date": "2026-07-30",
-          "close": 741.69
+          "close": 739.85
         },
         {
           "date": "2026-07-31",
-          "close": 747.03
+          "close": 745.18
         },
         {
           "date": "2026-08-03",
-          "close": 757.67
+          "close": 755.79
         },
         {
           "date": "2026-08-04",
-          "close": 771.33
+          "close": 769.42
         },
         {
           "date": "2026-08-05",
-          "close": 769.79
+          "close": 767.88
         },
         {
           "date": "2026-08-06",
-          "close": 768.56
+          "close": 766.66
         },
         {
           "date": "2026-08-07",
-          "close": 773.26
+          "close": 771.34
         },
         {
           "date": "2026-08-10",
-          "close": 773.03
+          "close": 771.12
         },
         {
           "date": "2026-08-11",
-          "close": 770.56
+          "close": 768.65
         },
         {
           "date": "2026-08-12",
-          "close": 772.49
+          "close": 770.58
         },
         {
           "date": "2026-08-13",
-          "close": 777.88
+          "close": 775.95
         },
         {
           "date": "2026-08-14",
-          "close": 776.34
+          "close": 774.42
         },
         {
           "date": "2026-08-17",
-          "close": 772.67
+          "close": 770.76
         },
         {
           "date": "2026-08-18",
-          "close": 767.45
+          "close": 765.55
         },
         {
           "date": "2026-08-19",
-          "close": 769.06
+          "close": 767.15
         },
         {
           "date": "2026-08-20",
-          "close": 762.6
+          "close": 760.71
         },
         {
           "date": "2026-08-21",
-          "close": 765.72
+          "close": 763.82
         },
         {
           "date": "2026-08-24",
-          "close": 763.47
+          "close": 761.58
         },
         {
           "date": "2026-08-25",
-          "close": 765.91
+          "close": 764.01
         },
         {
           "date": "2026-08-26",
-          "close": 766.08
+          "close": 764.18
         },
         {
           "date": "2026-08-27",
-          "close": 771.1
+          "close": 769.19
         },
         {
           "date": "2026-08-28",
-          "close": 769.35
+          "close": 767.44
         },
         {
           "date": "2026-08-31",
-          "close": 767.05
+          "close": 765.15
         },
         {
           "date": "2026-09-01",
-          "close": 761.78
+          "close": 759.89
         },
         {
           "date": "2026-09-02",
-          "close": 765.16
+          "close": 763.26
         },
         {
           "date": "2026-09-03",
-          "close": 773.17
+          "close": 771.25
         },
         {
           "date": "2026-09-04",
-          "close": 770.19
+          "close": 768.28
         },
         {
           "date": "2026-09-08",
-          "close": 765.96
+          "close": 764.06
         },
         {
           "date": "2026-09-09",
-          "close": 762.4
+          "close": 760.51
         },
         {
           "date": "2026-09-10",
-          "close": 757.83
+          "close": 755.95
         },
         {
           "date": "2026-09-11",
-          "close": 764.29
+          "close": 762.4
         },
         {
           "date": "2026-09-14",
-          "close": 760.88
+          "close": 759.0
         },
         {
           "date": "2026-09-15",
-          "close": 757.39
+          "close": 755.51
         },
         {
           "date": "2026-09-16",
-          "close": 754.05
+          "close": 752.18
         },
         {
           "date": "2026-09-17",
-          "close": 762.6
+          "close": 760.71
         },
         {
           "date": "2026-09-18",
@@ -1350,10 +1350,10 @@
         }
       ],
       "volatility_pct": 12.91,
-      "sharpe_ratio": 0.93,
+      "sharpe_ratio": 0.95,
       "max_drawdown_5y_pct": -24.5,
       "beta_vs_sp500": 1.0,
-      "tracking_error_pct": 1.07,
+      "tracking_error_pct": 1.03,
       "benchmark_index": "^GSPC",
       "sector_weights": {
         "realestate": 1.8,
@@ -1431,12 +1431,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 177.2,
-        "call_open_interest": 1086778,
-        "put_open_interest": 4088011,
-        "put_call_oi_ratio": 3.76,
-        "expirations_available": 28
+        "nearest_expiration": "2026-09-21",
+        "atm_implied_vol_pct": 24.2,
+        "call_open_interest": 113639,
+        "put_open_interest": 108706,
+        "put_call_oi_ratio": 0.96,
+        "expirations_available": 27
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -1457,10 +1457,10 @@
       "currency": "USD",
       "aum": 2343736705024,
       "fund_family": "Vanguard",
-      "avg_volume": 3089435,
-      "bid": 376.0,
-      "ask": 375.72,
-      "spread_pct": -0.0745,
+      "avg_volume": 3076736,
+      "bid": 375.86,
+      "ask": 376.14,
+      "spread_pct": 0.0745,
       "price": 375.43,
       "change_1d_pct": 0.02,
       "change_1y_pct": 16.08,
@@ -1914,12 +1914,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 249.2,
-        "call_open_interest": 6784,
-        "put_open_interest": 5623,
-        "put_call_oi_ratio": 0.83,
-        "expirations_available": 8
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 24.1,
+        "call_open_interest": 2736,
+        "put_open_interest": 1197,
+        "put_call_oi_ratio": 0.44,
+        "expirations_available": 7
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 488981004288,
       "fund_family": "Invesco",
-      "avg_volume": 37001706,
+      "avg_volume": 37183288,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2397,12 +2397,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 219.6,
-        "call_open_interest": 1186891,
-        "put_open_interest": 1576365,
-        "put_call_oi_ratio": 1.33,
-        "expirations_available": 27
+        "nearest_expiration": "2026-09-21",
+        "atm_implied_vol_pct": 22.5,
+        "call_open_interest": 61419,
+        "put_open_interest": 146995,
+        "put_call_oi_ratio": 2.39,
+        "expirations_available": 26
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -2828,31 +2828,31 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 48.53
+          "change_1y_pct": 50.97
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.17,
-          "change_1y_pct": 42.87
+          "change_1y_pct": 40.62
         },
         {
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.07,
-          "change_1y_pct": 23.63
+          "change_1y_pct": 22.65
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.97,
-          "change_1y_pct": 35.0
+          "change_1y_pct": 36.22
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.96,
-          "change_1y_pct": 12.45
+          "change_1y_pct": 10.44
         },
         {
           "symbol": "8306.T",
@@ -2864,7 +2864,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.94,
-          "change_1y_pct": 11.15
+          "change_1y_pct": 10.51
         },
         {
           "symbol": "BHP.AX",
@@ -2880,12 +2880,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 175.3,
-        "call_open_interest": 608,
-        "put_open_interest": 250,
-        "put_call_oi_ratio": 0.41,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 32.5,
+        "call_open_interest": 119,
+        "put_open_interest": 35,
+        "put_call_oi_ratio": 0.29,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "ASML.AS",
@@ -2894,10 +2894,10 @@
         "change_1y_pct": 76.99
       },
       "weakest_holding": {
-        "symbol": "AZN.L",
-        "name": "AstraZeneca PLC",
-        "weight_pct": 0.94,
-        "change_1y_pct": 11.15
+        "symbol": "NESN.SW",
+        "name": "Nestle SA",
+        "weight_pct": 0.96,
+        "change_1y_pct": 10.44
       }
     },
     "VEA": {
@@ -2906,383 +2906,383 @@
       "currency": "USD",
       "aum": 323821109248,
       "fund_family": "Vanguard",
-      "avg_volume": 10389974,
+      "avg_volume": 10343053,
       "bid": 71.39,
       "ask": 71.39,
       "spread_pct": 0.0,
       "price": 71.38,
-      "change_1d_pct": -1.07,
-      "change_1y_pct": 21.98,
-      "change_ytd_pct": 13.73,
-      "change_1m_pct": -1.4,
-      "change_3m_pct": -1.29,
-      "change_6m_pct": 11.82,
-      "change_3y_pct": 72.08,
-      "change_5y_pct": 62.58,
+      "change_1d_pct": -0.82,
+      "change_1y_pct": 22.28,
+      "change_ytd_pct": 14.01,
+      "change_1m_pct": -1.15,
+      "change_3m_pct": -1.04,
+      "change_6m_pct": 12.1,
+      "change_3y_pct": 72.51,
+      "change_5y_pct": 62.98,
       "history": [
         {
           "date": "2026-05-12",
-          "close": 69.6
+          "close": 69.43
         },
         {
           "date": "2026-05-13",
-          "close": 70.26
-        },
-        {
-          "date": "2026-05-14",
-          "close": 70.19
-        },
-        {
-          "date": "2026-05-15",
-          "close": 68.72
-        },
-        {
-          "date": "2026-05-18",
-          "close": 69.16
-        },
-        {
-          "date": "2026-05-19",
-          "close": 68.63
-        },
-        {
-          "date": "2026-05-20",
-          "close": 69.83
-        },
-        {
-          "date": "2026-05-21",
-          "close": 70.32
-        },
-        {
-          "date": "2026-05-22",
           "close": 70.09
         },
         {
+          "date": "2026-05-14",
+          "close": 70.02
+        },
+        {
+          "date": "2026-05-15",
+          "close": 68.55
+        },
+        {
+          "date": "2026-05-18",
+          "close": 68.99
+        },
+        {
+          "date": "2026-05-19",
+          "close": 68.46
+        },
+        {
+          "date": "2026-05-20",
+          "close": 69.66
+        },
+        {
+          "date": "2026-05-21",
+          "close": 70.15
+        },
+        {
+          "date": "2026-05-22",
+          "close": 69.92
+        },
+        {
           "date": "2026-05-26",
-          "close": 71.4
+          "close": 71.23
         },
         {
           "date": "2026-05-27",
-          "close": 71.04
+          "close": 70.86
         },
         {
           "date": "2026-05-28",
-          "close": 71.28
+          "close": 71.11
         },
         {
           "date": "2026-05-29",
-          "close": 71.39
+          "close": 71.22
         },
         {
           "date": "2026-06-01",
-          "close": 71.49
+          "close": 71.32
         },
         {
           "date": "2026-06-02",
-          "close": 71.94
+          "close": 71.76
         },
         {
           "date": "2026-06-03",
-          "close": 71.29
+          "close": 71.12
         },
         {
           "date": "2026-06-04",
-          "close": 71.46
+          "close": 71.29
         },
         {
           "date": "2026-06-05",
-          "close": 68.81
+          "close": 68.64
         },
         {
           "date": "2026-06-08",
-          "close": 69.49
+          "close": 69.32
         },
         {
           "date": "2026-06-09",
-          "close": 69.47
+          "close": 69.3
         },
         {
           "date": "2026-06-10",
-          "close": 68.45
+          "close": 68.28
         },
         {
           "date": "2026-06-11",
-          "close": 70.94
+          "close": 70.76
         },
         {
           "date": "2026-06-12",
-          "close": 71.18
+          "close": 71.0
         },
         {
           "date": "2026-06-15",
-          "close": 72.01
+          "close": 71.83
         },
         {
           "date": "2026-06-16",
-          "close": 71.94
+          "close": 71.76
         },
         {
           "date": "2026-06-17",
-          "close": 71.62
+          "close": 71.45
         },
         {
           "date": "2026-06-18",
-          "close": 72.31
+          "close": 72.13
         },
         {
           "date": "2026-06-22",
-          "close": 72.39
+          "close": 72.21
         },
         {
           "date": "2026-06-23",
-          "close": 70.17
-        },
-        {
-          "date": "2026-06-24",
-          "close": 70.28
-        },
-        {
-          "date": "2026-06-25",
-          "close": 71.16
-        },
-        {
-          "date": "2026-06-26",
-          "close": 70.56
-        },
-        {
-          "date": "2026-06-29",
-          "close": 70.92
-        },
-        {
-          "date": "2026-06-30",
-          "close": 71.25
-        },
-        {
-          "date": "2026-07-01",
-          "close": 70.36
-        },
-        {
-          "date": "2026-07-02",
-          "close": 70.81
-        },
-        {
-          "date": "2026-07-06",
-          "close": 71.89
-        },
-        {
-          "date": "2026-07-07",
-          "close": 70.78
-        },
-        {
-          "date": "2026-07-08",
-          "close": 70.34
-        },
-        {
-          "date": "2026-07-09",
-          "close": 70.73
-        },
-        {
-          "date": "2026-07-10",
-          "close": 70.99
-        },
-        {
-          "date": "2026-07-13",
-          "close": 69.76
-        },
-        {
-          "date": "2026-07-14",
-          "close": 70.6
-        },
-        {
-          "date": "2026-07-15",
-          "close": 70.82
-        },
-        {
-          "date": "2026-07-16",
-          "close": 70.03
-        },
-        {
-          "date": "2026-07-17",
-          "close": 69.7
-        },
-        {
-          "date": "2026-07-20",
-          "close": 69.23
-        },
-        {
-          "date": "2026-07-21",
-          "close": 70.47
-        },
-        {
-          "date": "2026-07-22",
-          "close": 70.49
-        },
-        {
-          "date": "2026-07-23",
-          "close": 69.78
-        },
-        {
-          "date": "2026-07-24",
-          "close": 69.71
-        },
-        {
-          "date": "2026-07-27",
           "close": 70.0
         },
         {
+          "date": "2026-06-24",
+          "close": 70.11
+        },
+        {
+          "date": "2026-06-25",
+          "close": 70.98
+        },
+        {
+          "date": "2026-06-26",
+          "close": 70.39
+        },
+        {
+          "date": "2026-06-29",
+          "close": 70.75
+        },
+        {
+          "date": "2026-06-30",
+          "close": 71.07
+        },
+        {
+          "date": "2026-07-01",
+          "close": 70.19
+        },
+        {
+          "date": "2026-07-02",
+          "close": 70.64
+        },
+        {
+          "date": "2026-07-06",
+          "close": 71.71
+        },
+        {
+          "date": "2026-07-07",
+          "close": 70.61
+        },
+        {
+          "date": "2026-07-08",
+          "close": 70.17
+        },
+        {
+          "date": "2026-07-09",
+          "close": 70.56
+        },
+        {
+          "date": "2026-07-10",
+          "close": 70.81
+        },
+        {
+          "date": "2026-07-13",
+          "close": 69.59
+        },
+        {
+          "date": "2026-07-14",
+          "close": 70.43
+        },
+        {
+          "date": "2026-07-15",
+          "close": 70.65
+        },
+        {
+          "date": "2026-07-16",
+          "close": 69.86
+        },
+        {
+          "date": "2026-07-17",
+          "close": 69.53
+        },
+        {
+          "date": "2026-07-20",
+          "close": 69.06
+        },
+        {
+          "date": "2026-07-21",
+          "close": 70.3
+        },
+        {
+          "date": "2026-07-22",
+          "close": 70.32
+        },
+        {
+          "date": "2026-07-23",
+          "close": 69.61
+        },
+        {
+          "date": "2026-07-24",
+          "close": 69.54
+        },
+        {
+          "date": "2026-07-27",
+          "close": 69.83
+        },
+        {
           "date": "2026-07-28",
-          "close": 69.6
+          "close": 69.43
         },
         {
           "date": "2026-07-29",
-          "close": 68.95
+          "close": 68.78
         },
         {
           "date": "2026-07-30",
-          "close": 71.09
+          "close": 70.91
         },
         {
           "date": "2026-07-31",
-          "close": 70.62
+          "close": 70.45
         },
         {
           "date": "2026-08-03",
-          "close": 71.04
+          "close": 70.86
         },
         {
           "date": "2026-08-04",
-          "close": 72.22
+          "close": 72.04
         },
         {
           "date": "2026-08-05",
-          "close": 72.35
+          "close": 72.17
         },
         {
           "date": "2026-08-06",
-          "close": 72.12
+          "close": 71.94
         },
         {
           "date": "2026-08-07",
-          "close": 72.89
+          "close": 72.71
         },
         {
           "date": "2026-08-10",
-          "close": 72.5
+          "close": 72.32
         },
         {
           "date": "2026-08-11",
-          "close": 72.69
+          "close": 72.51
         },
         {
           "date": "2026-08-12",
-          "close": 73.3
+          "close": 73.12
         },
         {
           "date": "2026-08-13",
-          "close": 73.54
+          "close": 73.36
         },
         {
           "date": "2026-08-14",
-          "close": 73.58
+          "close": 73.4
         },
         {
           "date": "2026-08-17",
-          "close": 73.69
+          "close": 73.51
         },
         {
           "date": "2026-08-18",
-          "close": 72.39
+          "close": 72.21
         },
         {
           "date": "2026-08-19",
-          "close": 72.83
+          "close": 72.65
         },
         {
           "date": "2026-08-20",
-          "close": 72.84
+          "close": 72.66
         },
         {
           "date": "2026-08-21",
-          "close": 73.42
+          "close": 73.24
         },
         {
           "date": "2026-08-24",
-          "close": 73.06
+          "close": 72.88
         },
         {
           "date": "2026-08-25",
-          "close": 73.79
+          "close": 73.61
         },
         {
           "date": "2026-08-26",
-          "close": 73.45
+          "close": 73.27
         },
         {
           "date": "2026-08-27",
-          "close": 73.42
+          "close": 73.24
         },
         {
           "date": "2026-08-28",
-          "close": 73.06
+          "close": 72.88
         },
         {
           "date": "2026-08-31",
-          "close": 72.92
+          "close": 72.74
         },
         {
           "date": "2026-09-01",
-          "close": 72.11
+          "close": 71.93
         },
         {
           "date": "2026-09-02",
-          "close": 72.59
+          "close": 72.41
         },
         {
           "date": "2026-09-03",
-          "close": 73.44
+          "close": 73.26
         },
         {
           "date": "2026-09-04",
-          "close": 73.76
+          "close": 73.58
         },
         {
           "date": "2026-09-08",
-          "close": 73.45
+          "close": 73.27
         },
         {
           "date": "2026-09-09",
-          "close": 72.82
+          "close": 72.64
         },
         {
           "date": "2026-09-10",
-          "close": 71.92
+          "close": 71.74
         },
         {
           "date": "2026-09-11",
-          "close": 72.69
+          "close": 72.51
         },
         {
           "date": "2026-09-14",
-          "close": 71.72
+          "close": 71.54
         },
         {
           "date": "2026-09-15",
-          "close": 71.53
+          "close": 71.35
         },
         {
           "date": "2026-09-16",
-          "close": 71.26
+          "close": 71.08
         },
         {
           "date": "2026-09-17",
-          "close": 72.15
+          "close": 71.97
         },
         {
           "date": "2026-09-18",
           "close": 71.38
         }
       ],
-      "volatility_pct": 17.52,
-      "sharpe_ratio": 1.0,
+      "volatility_pct": 17.51,
+      "sharpe_ratio": 1.01,
       "max_drawdown_5y_pct": -29.34,
       "beta_vs_sp500": 1.09,
       "tracking_error_pct": null,
@@ -3323,13 +3323,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.05,
-          "change_1y_pct": 48.53
+          "change_1y_pct": 50.97
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.92,
-          "change_1y_pct": 42.87
+          "change_1y_pct": 40.62
         },
         {
           "symbol": "RY",
@@ -3341,19 +3341,19 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.85,
-          "change_1y_pct": 23.63
+          "change_1y_pct": 22.65
         },
         {
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.77,
-          "change_1y_pct": 35.0
+          "change_1y_pct": 36.22
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.75,
-          "change_1y_pct": 12.45
+          "change_1y_pct": 10.44
         },
         {
           "symbol": "8306.T",
@@ -3363,12 +3363,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 146.3,
-        "call_open_interest": 5861,
-        "put_open_interest": 3438,
-        "put_call_oi_ratio": 0.59,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 30.9,
+        "call_open_interest": 2670,
+        "put_open_interest": 246,
+        "put_call_oi_ratio": 0.09,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
@@ -3380,7 +3380,7 @@
         "symbol": "NESN.SW",
         "name": "Nestle SA",
         "weight_pct": 0.75,
-        "change_1y_pct": 12.45
+        "change_1y_pct": 10.44
       }
     },
     "VUG": {
@@ -3389,10 +3389,10 @@
       "currency": "USD",
       "aum": 384533856256,
       "fund_family": "Vanguard",
-      "avg_volume": 6585320,
-      "bid": 88.67,
-      "ask": 88.78,
-      "spread_pct": 0.124,
+      "avg_volume": 6542803,
+      "bid": 88.63,
+      "ask": 88.83,
+      "spread_pct": 0.2254,
       "price": 88.75,
       "change_1d_pct": 0.36,
       "change_1y_pct": 12.34,
@@ -3846,12 +3846,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 137.8,
-        "call_open_interest": 10542,
-        "put_open_interest": 20275,
-        "put_call_oi_ratio": 1.92,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 26.9,
+        "call_open_interest": 1374,
+        "put_open_interest": 441,
+        "put_call_oi_ratio": 0.32,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "LLY",
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 398834597888,
       "fund_family": "Vanguard",
-      "avg_volume": 8221430,
+      "avg_volume": 8197096,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4256,12 +4256,12 @@
       "sector_weights": {},
       "top_holdings": [],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 127.7,
-        "call_open_interest": 1075,
-        "put_open_interest": 325,
-        "put_call_oi_ratio": 0.3,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 11.2,
+        "call_open_interest": 188,
+        "put_open_interest": 41,
+        "put_call_oi_ratio": 0.22,
+        "expirations_available": 3
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -4272,10 +4272,10 @@
       "currency": "USD",
       "aum": 112337240064,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 22205848,
+      "avg_volume": 22208612,
       "bid": 33.67,
-      "ask": 33.69,
-      "spread_pct": 0.0594,
+      "ask": 33.73,
+      "spread_pct": 0.178,
       "price": 33.68,
       "change_1d_pct": -0.62,
       "change_1y_pct": 27.2,
@@ -4729,12 +4729,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 181.1,
-        "call_open_interest": 10039,
-        "put_open_interest": 7533,
-        "put_call_oi_ratio": 0.75,
-        "expirations_available": 10
+        "nearest_expiration": "2026-09-25",
+        "atm_implied_vol_pct": 55.0,
+        "call_open_interest": 4997,
+        "put_open_interest": 3438,
+        "put_call_oi_ratio": 0.69,
+        "expirations_available": 9
       },
       "strongest_holding": {
         "symbol": "MRK",
@@ -4761,7 +4761,7 @@
       "spread_pct": 1.381,
       "price": 81.66,
       "change_1d_pct": 0.2,
-      "change_1y_pct": 27.21,
+      "change_1y_pct": 27.22,
       "change_ytd_pct": 19.3,
       "change_1m_pct": 2.55,
       "change_3m_pct": -4.64,
@@ -5212,12 +5212,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 123.7,
-        "call_open_interest": 1594,
-        "put_open_interest": 635,
-        "put_call_oi_ratio": 0.4,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 29.7,
+        "call_open_interest": 233,
+        "put_open_interest": 21,
+        "put_call_oi_ratio": 0.09,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
@@ -5238,7 +5238,7 @@
       "currency": "USD",
       "aum": 138317873152,
       "fund_family": "iShares",
-      "avg_volume": 8639400,
+      "avg_volume": 8599861,
       "bid": 95.86,
       "ask": 95.97,
       "spread_pct": 0.1147,
@@ -5629,12 +5629,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 65.7,
-        "call_open_interest": 771,
-        "put_open_interest": 435,
-        "put_call_oi_ratio": 0.56,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 7.2,
+        "call_open_interest": 604,
+        "put_open_interest": 401,
+        "put_call_oi_ratio": 0.66,
+        "expirations_available": 3
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -5645,10 +5645,10 @@
       "currency": "USD",
       "aum": 262299090944,
       "fund_family": "Vanguard",
-      "avg_volume": 2729541,
+      "avg_volume": 2725504,
       "bid": 220.49,
-      "ask": 222.22,
-      "spread_pct": 0.7815,
+      "ask": 221.98,
+      "spread_pct": 0.6735,
       "price": 221.25,
       "change_1d_pct": -0.24,
       "change_1y_pct": 21.55,
@@ -6102,12 +6102,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 78.0,
-        "call_open_interest": 287,
-        "put_open_interest": 596,
-        "put_call_oi_ratio": 2.08,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 16.6,
+        "call_open_interest": 87,
+        "put_open_interest": 46,
+        "put_call_oi_ratio": 0.53,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -6128,375 +6128,375 @@
       "currency": "USD",
       "aum": 665693061120,
       "fund_family": "Vanguard",
-      "avg_volume": 5354467,
+      "avg_volume": 5345628,
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
       "price": 85.88,
-      "change_1d_pct": -0.72,
-      "change_1y_pct": 19.86,
-      "change_ytd_pct": 12.82,
-      "change_1m_pct": -0.65,
-      "change_3m_pct": -1.03,
-      "change_6m_pct": 11.79,
-      "change_3y_pct": 69.73,
-      "change_5y_pct": 57.02,
+      "change_1d_pct": -0.54,
+      "change_1y_pct": 20.08,
+      "change_ytd_pct": 13.03,
+      "change_1m_pct": -0.47,
+      "change_3m_pct": -0.85,
+      "change_6m_pct": 11.99,
+      "change_3y_pct": 70.03,
+      "change_5y_pct": 57.3,
       "history": [
         {
           "date": "2026-05-12",
-          "close": 83.85
+          "close": 83.7
         },
         {
           "date": "2026-05-13",
-          "close": 84.7
+          "close": 84.55
         },
         {
           "date": "2026-05-14",
-          "close": 84.64
+          "close": 84.49
         },
         {
           "date": "2026-05-15",
-          "close": 82.74
+          "close": 82.59
         },
         {
           "date": "2026-05-18",
-          "close": 83.16
+          "close": 83.01
         },
         {
           "date": "2026-05-19",
-          "close": 82.43
+          "close": 82.28
         },
         {
           "date": "2026-05-20",
-          "close": 83.79
+          "close": 83.64
         },
         {
           "date": "2026-05-21",
-          "close": 84.2
+          "close": 84.05
         },
         {
           "date": "2026-05-22",
-          "close": 84.08
+          "close": 83.93
         },
         {
           "date": "2026-05-26",
-          "close": 85.72
+          "close": 85.57
         },
         {
           "date": "2026-05-27",
-          "close": 85.47
+          "close": 85.31
         },
         {
           "date": "2026-05-28",
-          "close": 85.6
+          "close": 85.45
         },
         {
           "date": "2026-05-29",
-          "close": 85.67
+          "close": 85.52
         },
         {
           "date": "2026-06-01",
-          "close": 85.92
+          "close": 85.77
         },
         {
           "date": "2026-06-02",
-          "close": 86.57
+          "close": 86.41
         },
         {
           "date": "2026-06-03",
-          "close": 85.71
+          "close": 85.56
         },
         {
           "date": "2026-06-04",
-          "close": 85.86
+          "close": 85.71
         },
         {
           "date": "2026-06-05",
-          "close": 82.66
+          "close": 82.51
         },
         {
           "date": "2026-06-08",
-          "close": 83.36
+          "close": 83.21
         },
         {
           "date": "2026-06-09",
-          "close": 83.44
+          "close": 83.29
         },
         {
           "date": "2026-06-10",
-          "close": 82.22
+          "close": 82.07
         },
         {
           "date": "2026-06-11",
-          "close": 84.96
+          "close": 84.8
         },
         {
           "date": "2026-06-12",
-          "close": 85.3
+          "close": 85.14
         },
         {
           "date": "2026-06-15",
-          "close": 86.59
+          "close": 86.43
         },
         {
           "date": "2026-06-16",
-          "close": 86.24
+          "close": 86.09
         },
         {
           "date": "2026-06-17",
-          "close": 85.76
+          "close": 85.61
         },
         {
           "date": "2026-06-18",
-          "close": 86.77
+          "close": 86.61
         },
         {
           "date": "2026-06-22",
-          "close": 87.06
+          "close": 86.9
         },
         {
           "date": "2026-06-23",
-          "close": 84.41
+          "close": 84.26
         },
         {
           "date": "2026-06-24",
-          "close": 84.34
+          "close": 84.19
         },
         {
           "date": "2026-06-25",
-          "close": 85.08
-        },
-        {
-          "date": "2026-06-26",
-          "close": 84.48
-        },
-        {
-          "date": "2026-06-29",
           "close": 84.93
         },
         {
+          "date": "2026-06-26",
+          "close": 84.33
+        },
+        {
+          "date": "2026-06-29",
+          "close": 84.78
+        },
+        {
           "date": "2026-06-30",
-          "close": 85.49
-        },
-        {
-          "date": "2026-07-01",
-          "close": 84.53
-        },
-        {
-          "date": "2026-07-02",
-          "close": 84.84
-        },
-        {
-          "date": "2026-07-06",
-          "close": 86.17
-        },
-        {
-          "date": "2026-07-07",
-          "close": 84.65
-        },
-        {
-          "date": "2026-07-08",
-          "close": 84.44
-        },
-        {
-          "date": "2026-07-09",
-          "close": 84.9
-        },
-        {
-          "date": "2026-07-10",
           "close": 85.34
         },
         {
+          "date": "2026-07-01",
+          "close": 84.38
+        },
+        {
+          "date": "2026-07-02",
+          "close": 84.69
+        },
+        {
+          "date": "2026-07-06",
+          "close": 86.01
+        },
+        {
+          "date": "2026-07-07",
+          "close": 84.5
+        },
+        {
+          "date": "2026-07-08",
+          "close": 84.29
+        },
+        {
+          "date": "2026-07-09",
+          "close": 84.75
+        },
+        {
+          "date": "2026-07-10",
+          "close": 85.19
+        },
+        {
           "date": "2026-07-13",
-          "close": 83.78
+          "close": 83.63
         },
         {
           "date": "2026-07-14",
-          "close": 84.66
+          "close": 84.51
         },
         {
           "date": "2026-07-15",
-          "close": 84.99
+          "close": 84.84
         },
         {
           "date": "2026-07-16",
-          "close": 84.06
+          "close": 83.91
         },
         {
           "date": "2026-07-17",
-          "close": 83.37
+          "close": 83.22
         },
         {
           "date": "2026-07-20",
-          "close": 83.07
+          "close": 82.92
         },
         {
           "date": "2026-07-21",
-          "close": 84.45
+          "close": 84.3
         },
         {
           "date": "2026-07-22",
-          "close": 84.46
+          "close": 84.31
         },
         {
           "date": "2026-07-23",
-          "close": 83.62
+          "close": 83.47
         },
         {
           "date": "2026-07-24",
-          "close": 83.4
-        },
-        {
-          "date": "2026-07-27",
-          "close": 83.79
-        },
-        {
-          "date": "2026-07-28",
           "close": 83.25
         },
         {
+          "date": "2026-07-27",
+          "close": 83.64
+        },
+        {
+          "date": "2026-07-28",
+          "close": 83.1
+        },
+        {
           "date": "2026-07-29",
-          "close": 82.39
+          "close": 82.24
         },
         {
           "date": "2026-07-30",
-          "close": 84.77
+          "close": 84.62
         },
         {
           "date": "2026-07-31",
-          "close": 84.59
+          "close": 84.44
         },
         {
           "date": "2026-08-03",
-          "close": 85.02
+          "close": 84.87
         },
         {
           "date": "2026-08-04",
-          "close": 86.45
+          "close": 86.29
         },
         {
           "date": "2026-08-05",
-          "close": 86.51
+          "close": 86.35
         },
         {
           "date": "2026-08-06",
-          "close": 86.32
+          "close": 86.16
         },
         {
           "date": "2026-08-07",
-          "close": 87.21
+          "close": 87.05
         },
         {
           "date": "2026-08-10",
-          "close": 86.83
+          "close": 86.67
         },
         {
           "date": "2026-08-11",
-          "close": 86.92
+          "close": 86.76
         },
         {
           "date": "2026-08-12",
-          "close": 87.54
+          "close": 87.38
         },
         {
           "date": "2026-08-13",
-          "close": 87.72
+          "close": 87.56
         },
         {
           "date": "2026-08-14",
-          "close": 87.7
+          "close": 87.54
         },
         {
           "date": "2026-08-17",
-          "close": 87.87
-        },
-        {
-          "date": "2026-08-18",
-          "close": 86.44
-        },
-        {
-          "date": "2026-08-19",
-          "close": 86.97
-        },
-        {
-          "date": "2026-08-20",
-          "close": 87.03
-        },
-        {
-          "date": "2026-08-21",
           "close": 87.71
         },
         {
-          "date": "2026-08-24",
-          "close": 87.2
-        },
-        {
-          "date": "2026-08-25",
-          "close": 88.12
-        },
-        {
-          "date": "2026-08-26",
-          "close": 87.82
-        },
-        {
-          "date": "2026-08-27",
-          "close": 87.93
-        },
-        {
-          "date": "2026-08-28",
-          "close": 87.52
-        },
-        {
-          "date": "2026-08-31",
-          "close": 87.32
-        },
-        {
-          "date": "2026-09-01",
-          "close": 86.71
-        },
-        {
-          "date": "2026-09-02",
-          "close": 87.16
-        },
-        {
-          "date": "2026-09-03",
-          "close": 87.97
-        },
-        {
-          "date": "2026-09-04",
-          "close": 88.41
-        },
-        {
-          "date": "2026-09-08",
-          "close": 88.08
-        },
-        {
-          "date": "2026-09-09",
-          "close": 87.41
-        },
-        {
-          "date": "2026-09-10",
+          "date": "2026-08-18",
           "close": 86.28
         },
         {
+          "date": "2026-08-19",
+          "close": 86.81
+        },
+        {
+          "date": "2026-08-20",
+          "close": 86.87
+        },
+        {
+          "date": "2026-08-21",
+          "close": 87.55
+        },
+        {
+          "date": "2026-08-24",
+          "close": 87.04
+        },
+        {
+          "date": "2026-08-25",
+          "close": 87.96
+        },
+        {
+          "date": "2026-08-26",
+          "close": 87.66
+        },
+        {
+          "date": "2026-08-27",
+          "close": 87.77
+        },
+        {
+          "date": "2026-08-28",
+          "close": 87.36
+        },
+        {
+          "date": "2026-08-31",
+          "close": 87.16
+        },
+        {
+          "date": "2026-09-01",
+          "close": 86.55
+        },
+        {
+          "date": "2026-09-02",
+          "close": 87.0
+        },
+        {
+          "date": "2026-09-03",
+          "close": 87.81
+        },
+        {
+          "date": "2026-09-04",
+          "close": 88.25
+        },
+        {
+          "date": "2026-09-08",
+          "close": 87.92
+        },
+        {
+          "date": "2026-09-09",
+          "close": 87.25
+        },
+        {
+          "date": "2026-09-10",
+          "close": 86.12
+        },
+        {
           "date": "2026-09-11",
-          "close": 87.14
+          "close": 86.98
         },
         {
           "date": "2026-09-14",
-          "close": 86.04
+          "close": 85.88
         },
         {
           "date": "2026-09-15",
-          "close": 85.69
+          "close": 85.54
         },
         {
           "date": "2026-09-16",
-          "close": 85.41
+          "close": 85.26
         },
         {
           "date": "2026-09-17",
-          "close": 86.5
+          "close": 86.34
         },
         {
           "date": "2026-09-18",
@@ -6504,7 +6504,7 @@
         }
       ],
       "volatility_pct": 17.09,
-      "sharpe_ratio": 0.92,
+      "sharpe_ratio": 0.93,
       "max_drawdown_5y_pct": -28.86,
       "beta_vs_sp500": 1.1,
       "tracking_error_pct": null,
@@ -6557,13 +6557,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.76,
-          "change_1y_pct": 48.53
+          "change_1y_pct": 50.97
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.67,
-          "change_1y_pct": 42.87
+          "change_1y_pct": 40.62
         },
         {
           "symbol": "RY",
@@ -6575,7 +6575,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.62,
-          "change_1y_pct": 23.63
+          "change_1y_pct": 22.65
         },
         {
           "symbol": "9988.HK",
@@ -6585,12 +6585,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 124.9,
-        "call_open_interest": 994,
-        "put_open_interest": 1412,
-        "put_call_oi_ratio": 1.42,
-        "expirations_available": 9
+        "nearest_expiration": "2026-09-25",
+        "atm_implied_vol_pct": 38.6,
+        "call_open_interest": 59,
+        "put_open_interest": 153,
+        "put_call_oi_ratio": 2.59,
+        "expirations_available": 8
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
@@ -6611,375 +6611,375 @@
       "currency": "USD",
       "aum": 168359133184,
       "fund_family": "Vanguard",
-      "avg_volume": 7291588,
+      "avg_volume": 7248649,
       "bid": 60.0,
       "ask": 59.99,
       "spread_pct": -0.0167,
       "price": 60.01,
-      "change_1d_pct": 0.17,
-      "change_1y_pct": 13.47,
-      "change_ytd_pct": 9.38,
-      "change_1m_pct": 0.62,
-      "change_3m_pct": -1.25,
-      "change_6m_pct": 10.83,
-      "change_3y_pct": 62.34,
-      "change_5y_pct": 40.12,
+      "change_1d_pct": 0.36,
+      "change_1y_pct": 13.69,
+      "change_ytd_pct": 9.59,
+      "change_1m_pct": 0.81,
+      "change_3m_pct": -1.06,
+      "change_6m_pct": 11.04,
+      "change_3y_pct": 62.65,
+      "change_5y_pct": 40.39,
       "history": [
         {
           "date": "2026-05-12",
-          "close": 59.32
+          "close": 59.21
         },
         {
           "date": "2026-05-13",
-          "close": 59.87
+          "close": 59.75
         },
         {
           "date": "2026-05-14",
-          "close": 59.89
+          "close": 59.77
         },
         {
           "date": "2026-05-15",
-          "close": 58.37
-        },
-        {
-          "date": "2026-05-18",
-          "close": 58.41
-        },
-        {
-          "date": "2026-05-19",
-          "close": 57.8
-        },
-        {
-          "date": "2026-05-20",
-          "close": 58.6
-        },
-        {
-          "date": "2026-05-21",
-          "close": 58.63
-        },
-        {
-          "date": "2026-05-22",
-          "close": 58.91
-        },
-        {
-          "date": "2026-05-26",
-          "close": 60.16
-        },
-        {
-          "date": "2026-05-27",
-          "close": 60.22
-        },
-        {
-          "date": "2026-05-28",
-          "close": 59.83
-        },
-        {
-          "date": "2026-05-29",
-          "close": 59.81
-        },
-        {
-          "date": "2026-06-01",
-          "close": 60.35
-        },
-        {
-          "date": "2026-06-02",
-          "close": 61.12
-        },
-        {
-          "date": "2026-06-03",
-          "close": 60.26
-        },
-        {
-          "date": "2026-06-04",
-          "close": 60.24
-        },
-        {
-          "date": "2026-06-05",
-          "close": 57.96
-        },
-        {
-          "date": "2026-06-08",
           "close": 58.26
         },
         {
-          "date": "2026-06-09",
-          "close": 58.38
+          "date": "2026-05-18",
+          "close": 58.3
         },
         {
-          "date": "2026-06-10",
-          "close": 57.65
+          "date": "2026-05-19",
+          "close": 57.69
         },
         {
-          "date": "2026-06-11",
-          "close": 59.03
+          "date": "2026-05-20",
+          "close": 58.49
         },
         {
-          "date": "2026-06-12",
-          "close": 59.48
+          "date": "2026-05-21",
+          "close": 58.52
         },
         {
-          "date": "2026-06-15",
-          "close": 60.77
-        },
-        {
-          "date": "2026-06-16",
-          "close": 60.09
-        },
-        {
-          "date": "2026-06-17",
-          "close": 59.74
-        },
-        {
-          "date": "2026-06-18",
-          "close": 60.77
-        },
-        {
-          "date": "2026-06-22",
-          "close": 61.24
-        },
-        {
-          "date": "2026-06-23",
-          "close": 59.36
-        },
-        {
-          "date": "2026-06-24",
-          "close": 58.97
-        },
-        {
-          "date": "2026-06-25",
+          "date": "2026-05-22",
           "close": 58.8
         },
         {
-          "date": "2026-06-26",
-          "close": 58.58
-        },
-        {
-          "date": "2026-06-29",
-          "close": 59.18
-        },
-        {
-          "date": "2026-06-30",
-          "close": 59.69
-        },
-        {
-          "date": "2026-07-01",
-          "close": 59.22
-        },
-        {
-          "date": "2026-07-02",
-          "close": 59.04
-        },
-        {
-          "date": "2026-07-06",
-          "close": 60.07
-        },
-        {
-          "date": "2026-07-07",
-          "close": 58.88
-        },
-        {
-          "date": "2026-07-08",
-          "close": 59.17
-        },
-        {
-          "date": "2026-07-09",
-          "close": 59.49
-        },
-        {
-          "date": "2026-07-10",
-          "close": 59.89
-        },
-        {
-          "date": "2026-07-13",
-          "close": 58.79
-        },
-        {
-          "date": "2026-07-14",
-          "close": 59.08
-        },
-        {
-          "date": "2026-07-15",
-          "close": 59.48
-        },
-        {
-          "date": "2026-07-16",
-          "close": 58.84
-        },
-        {
-          "date": "2026-07-17",
-          "close": 57.84
-        },
-        {
-          "date": "2026-07-20",
-          "close": 57.93
-        },
-        {
-          "date": "2026-07-21",
-          "close": 58.86
-        },
-        {
-          "date": "2026-07-22",
-          "close": 58.81
-        },
-        {
-          "date": "2026-07-23",
-          "close": 58.1
-        },
-        {
-          "date": "2026-07-24",
-          "close": 57.8
-        },
-        {
-          "date": "2026-07-27",
-          "close": 58.23
-        },
-        {
-          "date": "2026-07-28",
-          "close": 57.74
-        },
-        {
-          "date": "2026-07-29",
-          "close": 56.92
-        },
-        {
-          "date": "2026-07-30",
-          "close": 58.19
-        },
-        {
-          "date": "2026-07-31",
-          "close": 58.75
-        },
-        {
-          "date": "2026-08-03",
-          "close": 59.06
-        },
-        {
-          "date": "2026-08-04",
-          "close": 60.05
-        },
-        {
-          "date": "2026-08-05",
-          "close": 60.01
-        },
-        {
-          "date": "2026-08-06",
-          "close": 59.96
-        },
-        {
-          "date": "2026-08-07",
-          "close": 60.47
-        },
-        {
-          "date": "2026-08-10",
-          "close": 60.33
-        },
-        {
-          "date": "2026-08-11",
-          "close": 60.12
-        },
-        {
-          "date": "2026-08-12",
-          "close": 60.41
-        },
-        {
-          "date": "2026-08-13",
-          "close": 60.34
-        },
-        {
-          "date": "2026-08-14",
-          "close": 60.11
-        },
-        {
-          "date": "2026-08-17",
-          "close": 60.39
-        },
-        {
-          "date": "2026-08-18",
-          "close": 59.64
-        },
-        {
-          "date": "2026-08-19",
+          "date": "2026-05-26",
           "close": 60.04
         },
         {
-          "date": "2026-08-20",
-          "close": 60.02
+          "date": "2026-05-27",
+          "close": 60.1
         },
         {
-          "date": "2026-08-21",
-          "close": 60.45
+          "date": "2026-05-28",
+          "close": 59.72
         },
         {
-          "date": "2026-08-24",
+          "date": "2026-05-29",
+          "close": 59.7
+        },
+        {
+          "date": "2026-06-01",
+          "close": 60.23
+        },
+        {
+          "date": "2026-06-02",
+          "close": 61.0
+        },
+        {
+          "date": "2026-06-03",
+          "close": 60.14
+        },
+        {
+          "date": "2026-06-04",
+          "close": 60.12
+        },
+        {
+          "date": "2026-06-05",
+          "close": 57.85
+        },
+        {
+          "date": "2026-06-08",
+          "close": 58.15
+        },
+        {
+          "date": "2026-06-09",
+          "close": 58.27
+        },
+        {
+          "date": "2026-06-10",
+          "close": 57.54
+        },
+        {
+          "date": "2026-06-11",
+          "close": 58.92
+        },
+        {
+          "date": "2026-06-12",
+          "close": 59.37
+        },
+        {
+          "date": "2026-06-15",
+          "close": 60.65
+        },
+        {
+          "date": "2026-06-16",
           "close": 59.97
         },
         {
-          "date": "2026-08-25",
-          "close": 60.64
+          "date": "2026-06-17",
+          "close": 59.63
         },
         {
-          "date": "2026-08-26",
-          "close": 60.66
+          "date": "2026-06-18",
+          "close": 60.65
         },
         {
-          "date": "2026-08-27",
-          "close": 61.01
+          "date": "2026-06-22",
+          "close": 61.12
         },
         {
-          "date": "2026-08-28",
-          "close": 60.79
+          "date": "2026-06-23",
+          "close": 59.25
         },
         {
-          "date": "2026-08-31",
-          "close": 60.52
+          "date": "2026-06-24",
+          "close": 58.86
         },
         {
-          "date": "2026-09-01",
-          "close": 60.68
+          "date": "2026-06-25",
+          "close": 58.69
         },
         {
-          "date": "2026-09-02",
-          "close": 60.77
+          "date": "2026-06-26",
+          "close": 58.47
         },
         {
-          "date": "2026-09-03",
-          "close": 60.99
+          "date": "2026-06-29",
+          "close": 59.07
         },
         {
-          "date": "2026-09-04",
-          "close": 61.44
+          "date": "2026-06-30",
+          "close": 59.58
         },
         {
-          "date": "2026-09-08",
-          "close": 61.23
+          "date": "2026-07-01",
+          "close": 59.11
         },
         {
-          "date": "2026-09-09",
-          "close": 60.87
+          "date": "2026-07-02",
+          "close": 58.93
         },
         {
-          "date": "2026-09-10",
+          "date": "2026-07-06",
+          "close": 59.96
+        },
+        {
+          "date": "2026-07-07",
+          "close": 58.77
+        },
+        {
+          "date": "2026-07-08",
+          "close": 59.06
+        },
+        {
+          "date": "2026-07-09",
+          "close": 59.38
+        },
+        {
+          "date": "2026-07-10",
+          "close": 59.78
+        },
+        {
+          "date": "2026-07-13",
+          "close": 58.68
+        },
+        {
+          "date": "2026-07-14",
+          "close": 58.97
+        },
+        {
+          "date": "2026-07-15",
+          "close": 59.37
+        },
+        {
+          "date": "2026-07-16",
+          "close": 58.73
+        },
+        {
+          "date": "2026-07-17",
+          "close": 57.73
+        },
+        {
+          "date": "2026-07-20",
+          "close": 57.82
+        },
+        {
+          "date": "2026-07-21",
+          "close": 58.75
+        },
+        {
+          "date": "2026-07-22",
+          "close": 58.7
+        },
+        {
+          "date": "2026-07-23",
+          "close": 57.99
+        },
+        {
+          "date": "2026-07-24",
+          "close": 57.69
+        },
+        {
+          "date": "2026-07-27",
+          "close": 58.12
+        },
+        {
+          "date": "2026-07-28",
+          "close": 57.63
+        },
+        {
+          "date": "2026-07-29",
+          "close": 56.81
+        },
+        {
+          "date": "2026-07-30",
+          "close": 58.08
+        },
+        {
+          "date": "2026-07-31",
+          "close": 58.64
+        },
+        {
+          "date": "2026-08-03",
+          "close": 58.95
+        },
+        {
+          "date": "2026-08-04",
           "close": 59.94
         },
         {
-          "date": "2026-09-11",
+          "date": "2026-08-05",
+          "close": 59.9
+        },
+        {
+          "date": "2026-08-06",
+          "close": 59.85
+        },
+        {
+          "date": "2026-08-07",
           "close": 60.35
         },
         {
+          "date": "2026-08-10",
+          "close": 60.22
+        },
+        {
+          "date": "2026-08-11",
+          "close": 60.01
+        },
+        {
+          "date": "2026-08-12",
+          "close": 60.3
+        },
+        {
+          "date": "2026-08-13",
+          "close": 60.23
+        },
+        {
+          "date": "2026-08-14",
+          "close": 60.0
+        },
+        {
+          "date": "2026-08-17",
+          "close": 60.28
+        },
+        {
+          "date": "2026-08-18",
+          "close": 59.53
+        },
+        {
+          "date": "2026-08-19",
+          "close": 59.93
+        },
+        {
+          "date": "2026-08-20",
+          "close": 59.91
+        },
+        {
+          "date": "2026-08-21",
+          "close": 60.33
+        },
+        {
+          "date": "2026-08-24",
+          "close": 59.86
+        },
+        {
+          "date": "2026-08-25",
+          "close": 60.52
+        },
+        {
+          "date": "2026-08-26",
+          "close": 60.54
+        },
+        {
+          "date": "2026-08-27",
+          "close": 60.89
+        },
+        {
+          "date": "2026-08-28",
+          "close": 60.67
+        },
+        {
+          "date": "2026-08-31",
+          "close": 60.4
+        },
+        {
+          "date": "2026-09-01",
+          "close": 60.56
+        },
+        {
+          "date": "2026-09-02",
+          "close": 60.65
+        },
+        {
+          "date": "2026-09-03",
+          "close": 60.87
+        },
+        {
+          "date": "2026-09-04",
+          "close": 61.32
+        },
+        {
+          "date": "2026-09-08",
+          "close": 61.11
+        },
+        {
+          "date": "2026-09-09",
+          "close": 60.75
+        },
+        {
+          "date": "2026-09-10",
+          "close": 59.83
+        },
+        {
+          "date": "2026-09-11",
+          "close": 60.24
+        },
+        {
           "date": "2026-09-14",
-          "close": 59.61
+          "close": 59.5
         },
         {
           "date": "2026-09-15",
-          "close": 59.22
+          "close": 59.11
         },
         {
           "date": "2026-09-16",
-          "close": 59.18
+          "close": 59.07
         },
         {
           "date": "2026-09-17",
-          "close": 59.91
+          "close": 59.8
         },
         {
           "date": "2026-09-18",
@@ -6987,7 +6987,7 @@
         }
       ],
       "volatility_pct": 17.64,
-      "sharpe_ratio": 0.58,
+      "sharpe_ratio": 0.59,
       "max_drawdown_5y_pct": -30.2,
       "beta_vs_sp500": 1.12,
       "tracking_error_pct": null,
@@ -7052,28 +7052,28 @@
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.73,
-          "change_1y_pct": -11.69
+          "change_1y_pct": -12.93
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.68,
-          "change_1y_pct": -25.81
+          "change_1y_pct": -23.93
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.65,
-          "change_1y_pct": -4.41
+          "change_1y_pct": -5.03
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 210.8,
-        "call_open_interest": 8849,
-        "put_open_interest": 8610,
-        "put_call_oi_ratio": 0.97,
-        "expirations_available": 5
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 38.3,
+        "call_open_interest": 1558,
+        "put_open_interest": 2435,
+        "put_call_oi_ratio": 1.56,
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "2454.TW",
@@ -7094,10 +7094,10 @@
       "currency": "USD",
       "aum": 152861196288,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 9113137,
-      "bid": 401.3,
-      "ask": 401.95,
-      "spread_pct": 0.1618,
+      "avg_volume": 9121742,
+      "bid": 401.34,
+      "ask": 401.85,
+      "spread_pct": 0.127,
       "price": 401.17,
       "change_1d_pct": 0.71,
       "change_1y_pct": 19.53,
@@ -7478,12 +7478,12 @@
       "sector_weights": {},
       "top_holdings": [],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 196.9,
-        "call_open_interest": 1390083,
-        "put_open_interest": 309265,
-        "put_call_oi_ratio": 0.22,
-        "expirations_available": 25
+        "nearest_expiration": "2026-09-21",
+        "atm_implied_vol_pct": 28.2,
+        "call_open_interest": 7338,
+        "put_open_interest": 7074,
+        "put_call_oi_ratio": 0.96,
+        "expirations_available": 24
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -7494,10 +7494,10 @@
       "currency": "USD",
       "aum": 125535297536,
       "fund_family": "iShares",
-      "avg_volume": 4357114,
-      "bid": 123.26,
+      "avg_volume": 4383263,
+      "bid": 123.06,
       "ask": 123.27,
-      "spread_pct": 0.0081,
+      "spread_pct": 0.1705,
       "price": 123.25,
       "change_1d_pct": 0.59,
       "change_1y_pct": 6.61,
@@ -7951,12 +7951,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 106.4,
-        "call_open_interest": 3670,
-        "put_open_interest": 873,
-        "put_call_oi_ratio": 0.24,
-        "expirations_available": 5
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 24.2,
+        "call_open_interest": 3364,
+        "put_open_interest": 234,
+        "put_call_oi_ratio": 0.07,
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -7977,7 +7977,7 @@
       "currency": "USD",
       "aum": 124935077888,
       "fund_family": "iShares",
-      "avg_volume": 6022725,
+      "avg_volume": 6073938,
       "bid": 73.03,
       "ask": 73.11,
       "spread_pct": 0.1095,
@@ -8434,12 +8434,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 88.3,
-        "call_open_interest": 614,
-        "put_open_interest": 61,
-        "put_call_oi_ratio": 0.1,
-        "expirations_available": 4
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 25.3,
+        "call_open_interest": 393,
+        "put_open_interest": 73,
+        "put_call_oi_ratio": 0.19,
+        "expirations_available": 3
       },
       "strongest_holding": {
         "symbol": "ATI",
@@ -8460,10 +8460,10 @@
       "currency": "USD",
       "aum": 132408557568,
       "fund_family": "Vanguard",
-      "avg_volume": 1007183,
-      "bid": 236.96,
-      "ask": 238.11,
-      "spread_pct": 0.4841,
+      "avg_volume": 1005366,
+      "bid": 236.5,
+      "ask": 237.82,
+      "spread_pct": 0.5566,
       "price": 237.0,
       "change_1d_pct": -0.05,
       "change_1y_pct": 11.7,
@@ -8917,12 +8917,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 193.1,
-        "call_open_interest": 385,
-        "put_open_interest": 117,
-        "put_call_oi_ratio": 0.3,
-        "expirations_available": 5
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 13.8,
+        "call_open_interest": 48,
+        "put_open_interest": 92,
+        "put_call_oi_ratio": 1.92,
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "JNJ",
@@ -8943,10 +8943,10 @@
       "currency": "USD",
       "aum": 109249667072,
       "fund_family": "iShares",
-      "avg_volume": 3182361,
+      "avg_volume": 3212020,
       "bid": 138.85,
-      "ask": 138.86,
-      "spread_pct": 0.0072,
+      "ask": 139.34,
+      "spread_pct": 0.3523,
       "price": 138.9,
       "change_1d_pct": -0.43,
       "change_1y_pct": 16.63,
@@ -9400,12 +9400,12 @@
         }
       ],
       "options": {
-        "nearest_expiration": "2026-09-18",
-        "atm_implied_vol_pct": 120.6,
-        "call_open_interest": 1253,
-        "put_open_interest": 1799,
-        "put_call_oi_ratio": 1.44,
-        "expirations_available": 5
+        "nearest_expiration": "2026-10-16",
+        "atm_implied_vol_pct": 23.6,
+        "call_open_interest": 140,
+        "put_open_interest": 108,
+        "put_call_oi_ratio": 0.77,
+        "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "VSAT",
@@ -9472,7 +9472,7 @@
       "SPY": 1.0,
       "VTI": 1.0,
       "QQQ": 0.93,
-      "IEFA": 0.8,
+      "IEFA": 0.79,
       "VEA": 0.8,
       "VUG": 0.95,
       "BND": 0.38,
@@ -9495,7 +9495,7 @@
       "VTI": 1.0,
       "QQQ": 0.92,
       "IEFA": 0.81,
-      "VEA": 0.81,
+      "VEA": 0.82,
       "VUG": 0.94,
       "BND": 0.4,
       "SCHD": 0.32,
@@ -9535,7 +9535,7 @@
     "IEFA": {
       "VOO": 0.8,
       "IVV": 0.79,
-      "SPY": 0.8,
+      "SPY": 0.79,
       "VTI": 0.81,
       "QQQ": 0.71,
       "IEFA": 1.0,
@@ -9558,12 +9558,12 @@
       "VOO": 0.8,
       "IVV": 0.8,
       "SPY": 0.8,
-      "VTI": 0.81,
+      "VTI": 0.82,
       "QQQ": 0.77,
       "IEFA": 0.98,
       "VEA": 1.0,
       "VUG": 0.72,
-      "BND": 0.52,
+      "BND": 0.51,
       "SCHD": 0.28,
       "IEMG": 0.89,
       "AGG": 0.54,
@@ -9605,7 +9605,7 @@
       "VTI": 0.4,
       "QQQ": 0.32,
       "IEFA": 0.52,
-      "VEA": 0.52,
+      "VEA": 0.51,
       "VUG": 0.32,
       "BND": 1.0,
       "SCHD": 0.21,
