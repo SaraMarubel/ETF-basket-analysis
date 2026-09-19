@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:36:23.421761+00:00",
+  "generated_at": "2026-09-19T22:19:42.183291+00:00",
   "risk_free_rate_pct": 3.98,
   "etfs": {
     "VOO": {
@@ -2822,7 +2822,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.51,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "HSBA.L",
@@ -2876,7 +2876,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.92,
-          "change_1y_pct": 16.68
+          "change_1y_pct": 18.25
         }
       ],
       "options": {
@@ -2891,7 +2891,7 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.51,
-        "change_1y_pct": 76.99
+        "change_1y_pct": 83.31
       },
       "weakest_holding": {
         "symbol": "NESN.SW",
@@ -3317,7 +3317,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "HSBA.L",
@@ -4761,7 +4761,7 @@
       "spread_pct": 1.381,
       "price": 81.66,
       "change_1d_pct": 0.2,
-      "change_1y_pct": 27.22,
+      "change_1y_pct": 27.21,
       "change_ytd_pct": 19.3,
       "change_1m_pct": 2.55,
       "change_3m_pct": -4.64,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 76.99
+          "change_1y_pct": 83.31
         },
         {
           "symbol": "0700.HK",
