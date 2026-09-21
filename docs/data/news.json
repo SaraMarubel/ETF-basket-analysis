@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:26:26.661147+00:00",
+  "generated_at": "2026-09-21T04:53:24.724034+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "SpaceX\u2019s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nasdaq-100-weight-confirmed-141701836.html",
+        "published_at": "2026-09-19T14:17:01Z",
+        "description": "SpaceX will make up 2.82% of the Nasdaq 100 when the index\u2019s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a s..."
+      },
+      {
         "title": "QQQI\u2019s 14% Monthly Yield Masked $940 in Forgone Gains Per $10,000 Since Inception",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/etf/2026/09/18/qqqis-14-monthly-yield-masked-940-in-forgone-gains-per-10000-since-inception/",
@@ -199,13 +206,6 @@
         "url": "https://247wallst.com/investing/2026/09/18/alphabet-rises-3-meta-and-microsoft-slip-is-this-a-momentum-run-rather-than-a-tech-rally/",
         "published_at": "2026-09-18T13:54:20Z",
         "description": "Alphabet surged Friday while Meta and Microsoft both slipped into the red, leaving traders to figure out whether one mega-cap is breaking away from the pack..."
-      },
-      {
-        "title": "ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/etfs-surpass-1-5-trillion-record-flows/",
-        "published_at": "2026-09-18T11:59:12Z",
-        "description": "The ETF surge underscores a shift towards cost-effective, flexible investment vehicles, potentially reshaping global asset management dynamics.\nThe post ETFs surpass $1.5 trillion in record flows with 3.5 months remaining in 2026 appeared first on Crypto Brie\u2026"
       }
     ],
     "IEFA": [
