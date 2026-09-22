@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:26:03.144991+00:00",
+  "generated_at": "2026-09-22T04:52:52.882820+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -67,13 +67,6 @@
         "url": "https://biztoc.com/x/57b9caa59e6e194d",
         "published_at": "2026-08-24T15:55:40Z",
         "description": "For investors holding the iShares Core S&P 500 ETF (IVV), the latest round of quarterly hedge fund filings reveals a figure worth watching.\nHedge funds collectively cut their IVV positions by roughly 63% during the second quarter of 2026, dropping from about \u2026"
-      },
-      {
-        "title": "Trump Accounts will offer primarily S&P 500 ETFs to keep investing simple, Robinhood CEO says",
-        "source": "Business Insider",
-        "url": "https://www.businessinsider.com/robinhood-ceo-vlad-tenev-trump-accounts-sp500-keep-investing-simple-2026-8#article",
-        "published_at": "2026-08-20T04:52:54Z",
-        "description": "The children's investment accounts currently offer only a State Street S&P 500 ETF."
       }
     ],
     "SPY": [
@@ -358,6 +351,13 @@
     ],
     "SCHD": [
       {
+        "title": "How to Build $3,250 a Month in Dividend Income to Cover a Married Couple\u2019s Social Security Checks, Starting From Zero",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/20/how-to-build-3250-a-month-in-dividend-income-to-cover-a-married-couples-social-security-checks-starting-from-zero/",
+        "published_at": "2026-09-20T13:06:20Z",
+        "description": "Replacing a married couple's Social Security income with dividends sounds straightforward until you see how brutally the math punishes the wrong yield tier a..."
+      },
+      {
         "title": "Where You Hold SCHD and JEPI Matters More Than You Think: The Taxable vs. IRA Math",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/personal-finance/2026/09/19/where-you-hold-schd-and-jepi-matters-more-than-you-think-the-taxable-vs-ira-math/",
@@ -391,13 +391,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-hqdg/",
         "published_at": "2026-09-18T14:20:48Z",
         "description": "A brand-new actively managed dividend ETF just launched into a space dominated by funds charging a fraction of its fee, and the math it needs to overcome bef..."
-      },
-      {
-        "title": "Portfolio Fit: DIVH",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-divh/",
-        "published_at": "2026-09-18T14:00:51Z",
-        "description": "A new active dividend ETF just hit the market promising decades of dividend growth, but it enters at a moment when the risk-free competition has never been m..."
       }
     ],
     "IEMG": [
