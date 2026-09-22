@@ -1,8 +1,22 @@
 {
-  "generated_at": "2026-09-22T13:25:02.504922+00:00",
+  "generated_at": "2026-09-22T19:45:11.861244+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/120687b09bea1454",
+        "published_at": "2026-09-21T18:13:28Z",
+        "description": "The post VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account appeared first on 24/7 Wall St..\nFor parents opening a Trump Account, the choice between Vanguard S&P 500 ETF (NYSEARCA:VOO) and State Street\u2019s SPDR Portfolio S&\u2026"
+      },
+      {
+        "title": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4bf7280944199b5a",
+        "published_at": "2026-09-21T15:14:53Z",
+        "description": "History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO) in September\nWhen it comes to investing in the stock market for the long term, the most frictionless way to gain exposure is to buy an exchange-traded fund (ETF). The Van\u2026"
+      },
       {
         "title": "If You Had Invested $500 a Month in VOO Since Its 2010 Launch, You Would Have About $330,000 Today",
         "source": "Biztoc.com",
@@ -30,20 +44,6 @@
         "url": "https://biztoc.com/x/2488e3aa595a014e",
         "published_at": "2026-09-17T12:07:51Z",
         "description": "If You Invest $340 a Month in the Vanguard S&P 500 ETF, Here's What History Says It Could Be Worth in 22 Years\nIf you invested $340 a month into the Vanguard S&P 500 ETF (NYSEMKT:VOO) for 22 years, and it grew at its historical average return of 15% since its\u2026"
-      },
-      {
-        "title": "Three Stocks Are Joining the S&P 500. Will They Actually Improve VOO\u2019s Returns?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/734df9b96c138534",
-        "published_at": "2026-09-16T16:01:10Z",
-        "description": "The post Three Stocks Are Joining the S&P 500. Will They Actually Improve VOO\u2019s Returns? appeared first on 24/7 Wall St..\nBefore trading opens on September 21, 2026, the Vanguard S&P 500 ETF (NYSEARCA:VOO) will rebuild a sliver of its index exposure, accordin\u2026"
-      },
-      {
-        "title": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9ef447708a174969",
-        "published_at": "2026-09-15T21:17:15Z",
-        "description": "The post You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks appeared first on 24/7 Wall St..\nYou bought the Vanguard S&P 500 ETF (NYSEARCA:VOO) because it tracks the S&P 500. Then you added the Vanguard Total Stock Mar\u2026"
       }
     ],
     "IVV": [
@@ -159,46 +159,46 @@
     ],
     "QQQ": [
       {
+        "title": "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/21/cybersecurity-stocks-extend-gains-on-ai-safety-warnings-crowdstrike-and-okta-rise-4-palo-alto-ticks-up/",
+        "published_at": "2026-09-21T17:03:46Z",
+        "description": "AI safety warnings from the people building the models are landing inside cybersecurity revenue expectations, and the market is betting on which companies si..."
+      },
+      {
+        "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/",
+        "published_at": "2026-09-21T16:53:14Z",
+        "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip pee..."
+      },
+      {
+        "title": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/21/arm-surges-13-as-metas-muse-agent-reignites-cpu-demand-bet-intel-jumps-12-amd-climbs-9/",
+        "published_at": "2026-09-21T15:24:10Z",
+        "description": "Meta's new Muse AI agent just triggered a violent repricing across processor names, and the three companies catching the biggest moves share almost nothing i..."
+      },
+      {
+        "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/21/super-micro-rises-6-as-ai-server-bid-concentrates-in-one-name-dell-and-hewlett-packard-enterprise-tick-up/",
+        "published_at": "2026-09-21T14:28:52Z",
+        "description": "One AI server stock is outrunning its closest peers by a margin that a rising technology market alone cannot explain, and the gap raises a question about whe..."
+      },
+      {
+        "title": "Meta Spikes 7% as Wells Fargo Lifts Price Target to $796 Ahead of Connect; Alphabet Nudges Higher, Microsoft Holds Flat",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/21/meta-spikes-7-as-wells-fargo-lifts-price-target-to-796-ahead-of-connect-alphabet-nudges-higher-microsoft-holds-flat/",
+        "published_at": "2026-09-21T14:24:20Z",
+        "description": "Wells Fargo just raised its Meta price target before Connect rather than after it, which means buyers are betting on Muse usage numbers the company has not y..."
+      },
+      {
         "title": "SpaceX\u2019s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nasdaq-100-weight-confirmed-141701836.html",
         "published_at": "2026-09-19T14:17:01Z",
         "description": "SpaceX will make up 2.82% of the Nasdaq 100 when the index\u2019s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a s..."
-      },
-      {
-        "title": "QQQI\u2019s 14% Monthly Yield Masked $940 in Forgone Gains Per $10,000 Since Inception",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/qqqis-14-monthly-yield-masked-940-in-forgone-gains-per-10000-since-inception/",
-        "published_at": "2026-09-18T21:55:33Z",
-        "description": "QQQI's monthly distributions look generous on paper, but the IRS filings and total return math tell a story most holders never see before they reinvest their..."
-      },
-      {
-        "title": "Meta Platforms Just Ripped 23% in a Month: Take Profits, or Buy More?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/18/meta-platforms-just-ripped-23-in-a-month-take-profits-or-buy-more/",
-        "published_at": "2026-09-18T18:47:39Z",
-        "description": "Meta Platforms surged far past its mega-cap peers in a single month while the broader tech sector sat flat, and now shareholders face a decision that hinges..."
-      },
-      {
-        "title": "Oracle Falls 3% While Cloud Rivals Hold Their Ground; Microsoft Dips, Amazon Nudges Higher",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/18/oracle-falls-3-while-cloud-rivals-hold-their-ground-microsoft-dips-amazon-nudges-higher/",
-        "published_at": "2026-09-18T18:07:07Z",
-        "description": "Oracle is sliding hard on a day when its cloud rivals are barely flinching, and the reason behind that split tells investors something important about where..."
-      },
-      {
-        "title": "Amazon\u2019s AI Bet is Already Starting to Pay Off",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/18/amazons-ai-bet-is-already-starting-to-pay-off/",
-        "published_at": "2026-09-18T15:29:46Z",
-        "description": "AWS just posted its fastest growth in 18 quarters while Amazon is burning through capex at a rate that swung free cash flow negative. Here is why that tensio..."
-      },
-      {
-        "title": "Alphabet Rises 3%, Meta and Microsoft Slip: Is This a Momentum Run Rather Than a Tech Rally?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/18/alphabet-rises-3-meta-and-microsoft-slip-is-this-a-momentum-run-rather-than-a-tech-rally/",
-        "published_at": "2026-09-18T13:54:20Z",
-        "description": "Alphabet surged Friday while Meta and Microsoft both slipped into the red, leaving traders to figure out whether one mega-cap is breaking away from the pack..."
       }
     ],
     "IEFA": [
@@ -351,6 +351,13 @@
     ],
     "SCHD": [
       {
+        "title": "How to Build $8,150 a Month in Dividend Income Without Owning a Single Bond",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/21/how-to-build-8150-a-month-in-dividend-income-without-owning-a-single-bond/",
+        "published_at": "2026-09-21T16:01:13Z",
+        "description": "Building nearly $100,000 a year in dividend income without touching a single bond sounds like a tall order, but the real challenge is choosing which yield ti..."
+      },
+      {
         "title": "How to Build $3,250 a Month in Dividend Income to Cover a Married Couple\u2019s Social Security Checks, Starting From Zero",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/personal-finance/2026/09/20/how-to-build-3250-a-month-in-dividend-income-to-cover-a-married-couples-social-security-checks-starting-from-zero/",
@@ -384,13 +391,6 @@
         "url": "https://247wallst.com/personal-finance/2026/09/18/how-to-build-6350-a-month-in-dividend-income-without-owning-a-single-yield-trap/",
         "published_at": "2026-09-18T17:34:09Z",
         "description": "Most investors chasing high dividend yields are quietly funding their own losses without realizing it. Before you build a retirement income portfolio, there..."
-      },
-      {
-        "title": "Portfolio Fit: HQDG",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-hqdg/",
-        "published_at": "2026-09-18T14:20:48Z",
-        "description": "A brand-new actively managed dividend ETF just launched into a space dominated by funds charging a fraction of its fee, and the math it needs to overcome bef..."
       }
     ],
     "IEMG": [
