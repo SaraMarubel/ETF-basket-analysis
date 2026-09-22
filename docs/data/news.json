@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-22T19:45:11.861244+00:00",
+  "generated_at": "2026-09-22T22:57:17.603298+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: State Street Now Sells the Same 500 Stocks for a Third Less",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e9be556681d961db",
+        "published_at": "2026-09-21T21:59:33Z",
+        "description": "The post VOO\u2019s 0.03% Fee Hides the Real Cost: State Street Now Sells the Same 500 Stocks for a Third Less appeared first on 24/7 Wall St..\nVanguard markets the Vanguard S&P 500 ETF (NYSEARCA:VOO) as the fee war\u2019s final answer: three basis points, presented as\u2026"
+      },
       {
         "title": "VOO and SPYM Track the Same S&P 500, Yet Only One Is Allowed in Your Kid\u2019s Trump Account",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/06e6a74e0f18e4bb",
         "published_at": "2026-09-18T21:52:51Z",
         "description": "The post $1 Million in VOO Pays $871 a Month, and Covering the Gap Means Selling Shares the IRS Taxes appeared first on 24/7 Wall St..\nA $1 million balance in the Vanguard S&P 500 ETF (NYSEARCA:VOO) sounds like retirement\u2014until the first deposit hits your acc\u2026"
-      },
-      {
-        "title": "If You Invest $340 a Month in the Vanguard S&P 500 ETF, Here's What History Says It Could Be Worth in 22 Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2488e3aa595a014e",
-        "published_at": "2026-09-17T12:07:51Z",
-        "description": "If You Invest $340 a Month in the Vanguard S&P 500 ETF, Here's What History Says It Could Be Worth in 22 Years\nIf you invested $340 a month into the Vanguard S&P 500 ETF (NYSEMKT:VOO) for 22 years, and it grew at its historical average return of 15% since its\u2026"
       }
     ],
     "IVV": [
@@ -307,6 +307,13 @@
     ],
     "BND": [
       {
+        "title": "BlackRock\u2019s $16.6 Billion Bond Fund Pays 6% Monthly. BND Pays 4% and Made 2% Last Year",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/bb5b6d6d045793ad",
+        "published_at": "2026-09-21T21:29:22Z",
+        "description": "The post BlackRock\u2019s $16.6 Billion Bond Fund Pays 6% Monthly. BND Pays 4% and Made 2% Last Year appeared first on 24/7 Wall St..\nIf you hold the Vanguard Total Bond Market ETF (NASDAQ:BND), you own the default core bond position in American portfolios for goo\u2026"
+      },
+      {
         "title": "US bond fund inflows hit record high this year as investors chase yield",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/us-bond-fund-inflows-record-high-2026/",
@@ -340,16 +347,23 @@
         "url": "https://biztoc.com/x/596394a3e6bf9288",
         "published_at": "2026-09-17T18:24:28Z",
         "description": "The post A 1-Point Rise in Bond Yields Could Swamp BND\u2019s 4.7% Yield appeared first on 24/7 Wall St..\nThe Federal Reserve nudged its policy-rate target up by 25bps on Wednesday, and holders of Vanguard Total Bond Market ETF (NASDAQ:BND) face the same question \u2026"
-      },
-      {
-        "title": "A 1-Point Rise in Bond Yields Could Swamp BND\u2019s 4.7% Yield",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/17/a-1-point-rise-in-bond-yields-could-swamp-bnds-4-7-yield/",
-        "published_at": "2026-09-17T18:22:02Z",
-        "description": "BND markets itself as the safe half of a portfolio, but the same duration math that crushed bondholders in 2022 still sits inside the fund today. Here is wha..."
       }
     ],
     "SCHD": [
+      {
+        "title": "SCHD\u2019s 0.06% Fee Hides $413,350 in Decade-Long Underperformance on a $500,000 Position",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7f599c41a45d845e",
+        "published_at": "2026-09-21T22:29:54Z",
+        "description": "The post SCHD\u2019s 0.06% Fee Hides $413,350 in Decade-Long Underperformance on a $500,000 Position appeared first on 24/7 Wall St..\nA $500,000 position in the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) could have grown to roughly $1,688,200 over the past te\u2026"
+      },
+      {
+        "title": "The Fund That Beat SCHD by 34% Has an International Twin. It\u2019s Up 14% in a Year, With the Currency Risk Hedged Out",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d725065daa804978",
+        "published_at": "2026-09-21T21:29:43Z",
+        "description": "The post The Fund That Beat SCHD by 34% Has an International Twin. It\u2019s Up 14% in a Year, With the Currency Risk Hedged Out appeared first on 24/7 Wall St..\nSCHD\u2019s Reach and Its Ceiling\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) has become the defaul\u2026"
+      },
       {
         "title": "How to Build $8,150 a Month in Dividend Income Without Owning a Single Bond",
         "source": "24/7 Wall St.",
@@ -377,20 +391,6 @@
         "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e29d839-c95b-4411-9f8e-8cd6b9bbfb25",
         "published_at": "2026-09-19T10:43:00Z",
         "description": null
-      },
-      {
-        "title": "SCHD vs. VIG: Which Dividend ETF Should Anchor Your Retirement Income?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/84963441cd356e72",
-        "published_at": "2026-09-18T18:37:49Z",
-        "description": "The post SCHD vs. VIG: Which Dividend ETF Should Anchor Your Retirement Income? appeared first on 24/7 Wall St..\nRetirees weighing a dividend anchor keep landing on the same two funds: Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) and Vanguard Dividend Appr\u2026"
-      },
-      {
-        "title": "How to Build $6,350 a Month in Dividend Income Without Owning a Single Yield Trap",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/18/how-to-build-6350-a-month-in-dividend-income-without-owning-a-single-yield-trap/",
-        "published_at": "2026-09-18T17:34:09Z",
-        "description": "Most investors chasing high dividend yields are quietly funding their own losses without realizing it. Before you build a retirement income portfolio, there..."
       }
     ],
     "IEMG": [
