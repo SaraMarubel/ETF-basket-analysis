@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:38:24.192061+00:00",
+  "generated_at": "2026-09-23T19:41:05.759759+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -122,6 +122,13 @@
     ],
     "VTI": [
       {
+        "title": "Trump Accounts could help lower-income families most. Few have signed up.",
+        "source": "Yahoo Entertainment",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
+        "published_at": "2026-09-22T14:38:43Z",
+        "description": "Some eligible families are still uncertain whether Trump Accounts are right for their children, which keeps them from taking advantage of the account's benef..."
+      },
+      {
         "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -155,16 +162,30 @@
         "url": "https://247wallst.com/investing/etf/2026/09/17/bonds-in-the-ira-or-in-the-taxable-account-park-them-in-the-wrong-one-and-the-irs-takes-a-cut-every-year-these-3-etfs-go-where-they-belong/",
         "published_at": "2026-09-17T21:55:53Z",
         "description": "Where you park a bond fund matters just as much as which fund you pick, and most investors get the pairing backwards in ways that quietly drain returns every..."
-      },
-      {
-        "title": "Daily ETF Flows: IEI Sheds Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-iei-sheds-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-16T21:00:05Z",
-        "description": "Here are the daily ETF fund flows for September 15, 2026."
       }
     ],
     "QQQ": [
+      {
+        "title": "Binance distributes $0.75 QQQB dividends to spot wallets",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/binance-qqqb-dividend-distribution/",
+        "published_at": "2026-09-22T18:11:03Z",
+        "description": "Binance's reinvestment of dividends into tokenized assets enhances user engagement and showcases the potential of blockchain in financial services.\nThe post Binance distributes $0.75 QQQB dividends to spot wallets appeared first on Crypto Briefing."
+      },
+      {
+        "title": "No new stock highs, no problem: Options traders bet they're coming in these names",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
+        "published_at": "2026-09-22T17:22:27Z",
+        "description": "Options activity shows traders anticipate fresh highs are around the corner for a handful of names."
+      },
+      {
+        "title": "Cisco Sinks 6% While the Tech Sector Rises; Arista and Ciena Hold Flat",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/09/22/cisco-sinks-6-while-the-tech-sector-rises-arista-and-ciena-hold-flat/",
+        "published_at": "2026-09-22T17:06:44Z",
+        "description": "Cisco is sliding 6% while its closest networking rivals barely flinch and the broader tech sector actually gains ground, and no company announcement explains..."
+      },
       {
         "title": "Shopify Spikes 7%, Meta Eases as Muse Agent Gains Shop Pay Checkout; Amazon Sits Out the Rally",
         "source": "24/7 Wall St.",
@@ -180,32 +201,11 @@
         "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026"
       },
       {
-        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-21T21:00:28Z",
-        "description": "Here are the daily ETF fund flows for September 18, 2026."
-      },
-      {
-        "title": "SanDisk Falls 2% Despite Memory Rally; Micron Advances 3%, Western Digital Nudges Higher",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/sandisk-falls-2-despite-memory-rally-micron-advances-3-western-digital-nudges-higher/",
-        "published_at": "2026-09-21T19:13:34Z",
-        "description": "Every name in the memory complex is trading green Monday except one, and the stock sitting in the red happens to be the sector's biggest winner of the year...."
-      },
-      {
-        "title": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/fastly-soars-14-on-ai-firewall-launch-cloudflare-climbs-7-datadog-rises-5/",
-        "published_at": "2026-09-21T18:04:07Z",
-        "description": "Fastly launched new AI traffic controls this morning and the whole edge security category moved with it, including rivals that announced nothing at all. The..."
-      },
-      {
-        "title": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio",
+        "title": "Diesel Hits Record $6.51 a Gallon as Fuel Crisis Deepens: Commodity Strategist Warns \u2018No Handshake Can Refill\u2019 the Market",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bond-king-jeffrey-gundlach-wants-180017056.html",
-        "published_at": "2026-09-21T18:00:17Z",
-        "description": "The DoubleLine Capital founder and CEO Jeffrey Gundlach, also known as the Bond King, said he wants to be \u201cout of the epicenter\u201d of the AI race, citing widen..."
+        "url": "https://finance.yahoo.com/markets/commodities/articles/diesel-hits-record-6-51-094517833.html",
+        "published_at": "2026-09-22T09:45:17Z",
+        "description": "The national average price for diesel reached $6.51 per gallon on Monday. A commodity strategist stated the supply disruption has moved into a diesel market..."
       }
     ],
     "IEFA": [
@@ -270,6 +270,20 @@
     ],
     "VUG": [
       {
+        "title": "One of These Growth ETFs Has a 10-Year Record. The Other Is Beating It Anyway",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9ad81ff58c6bc6fb",
+        "published_at": "2026-09-22T13:58:00Z",
+        "description": "The post One of These Growth ETFs Has a 10-Year Record. The Other Is Beating It Anyway. appeared first on 24/7 Wall St..\nVanguard Growth ETF (NYSEARCA:VUG) closed at $91.02 on September 21, while Invesco NASDAQ 100 ETF (NASDAQ:QQQM) finished at $305.27. Pull \u2026"
+      },
+      {
+        "title": "One of These Growth ETFs Has a 10-Year Record. The Other Is Beating It Anyway.",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/22/one-of-these-growth-etfs-has-a-10-year-record-the-other-is-beating-it-anyway/",
+        "published_at": "2026-09-22T13:45:12Z",
+        "description": "Charting tools may show you a decade of side-by-side returns for these two growth ETFs, but one of those histories is fabricated. Strip out the phantom data..."
+      },
+      {
         "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -296,20 +310,6 @@
         "url": "https://biztoc.com/x/97258b6c5fd92470",
         "published_at": "2026-09-09T22:28:52Z",
         "description": "The post Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven appeared first on 24/7 Wall St..\nIf you hold the Vanguard Growth ETF (NYSEARCA:VUG) as your large-cap growth sleeve, 2026 has been\u2026"
-      },
-      {
-        "title": "Forget VUG. Vanguard\u2019s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/",
-        "published_at": "2026-09-09T22:15:26Z",
-        "description": "Two Vanguard funds share the same large-cap universe, the same rock-bottom fee, and the same issuer, yet one is lapping the other by a stunning margin this y..."
-      },
-      {
-        "title": "Could This Vanguard Growth ETF Be a No-Brainer Buy for Long-Term Investors?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/31ccd28b3a42c3d1",
-        "published_at": "2026-09-07T20:31:53Z",
-        "description": "Growth stocks can make ideal long-term investments to hold. They're primarily suitable for long-term investors who have the patience to hold on amid market uncertainty. The stock market has, after all, bounced back from all downturns over the years; it's batt\u2026"
       }
     ],
     "BND": [
@@ -358,6 +358,27 @@
     ],
     "SCHD": [
       {
+        "title": "The Schwab U.S. Dividend Equity ETF Is Near Its All-Time High: Is It Still a Good Buy?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/67e32845b270801e",
+        "published_at": "2026-09-22T16:46:11Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) is a go-to option for dividend investors, and rightfully so. The exchange-traded fund (ETF) has a solid mix of around 100 dividend stocks that are vetted for safety and quality. That makes the ETF an ideal op\u2026"
+      },
+      {
+        "title": "How Long Does It Take to Build $1,600 a Month in Dividend Income on $1,000 a Month in Savings?",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/22/how-long-does-it-take-to-build-1600-a-month-in-dividend-income-on-1000-a-month-in-savings/",
+        "published_at": "2026-09-22T15:01:32Z",
+        "description": "Saving $1,000 a month sounds disciplined until you realize a zero-return account takes 34 years to reach your income goal. The right portfolio blend collapse..."
+      },
+      {
+        "title": "How a 63-Year-Old Collects $2,250 a Month in Dividends, More Than the Average Social Security Check",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/personal-finance/2026/09/22/how-a-63-year-old-collects-2250-a-month-in-dividends-more-than-the-average-social-security-check/",
+        "published_at": "2026-09-22T14:05:30Z",
+        "description": "Beating the average Social Security check with a portfolio well under seven figures sounds like a fantasy, but the math behind one retiree's monthly income r..."
+      },
+      {
         "title": "Should You Invest $1,000 in SCHD Right Now?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ca06d163438e6afc",
@@ -377,27 +398,6 @@
         "url": "https://biztoc.com/x/d725065daa804978",
         "published_at": "2026-09-21T21:29:43Z",
         "description": "The post The Fund That Beat SCHD by 34% Has an International Twin. It\u2019s Up 14% in a Year, With the Currency Risk Hedged Out appeared first on 24/7 Wall St..\nSCHD\u2019s Reach and Its Ceiling\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) has become the defaul\u2026"
-      },
-      {
-        "title": "How to Build $8,150 a Month in Dividend Income Without Owning a Single Bond",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/21/how-to-build-8150-a-month-in-dividend-income-without-owning-a-single-bond/",
-        "published_at": "2026-09-21T16:01:13Z",
-        "description": "Building nearly $100,000 a year in dividend income without touching a single bond sounds like a tall order, but the real challenge is choosing which yield ti..."
-      },
-      {
-        "title": "How to Build $3,250 a Month in Dividend Income to Cover a Married Couple\u2019s Social Security Checks, Starting From Zero",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/20/how-to-build-3250-a-month-in-dividend-income-to-cover-a-married-couples-social-security-checks-starting-from-zero/",
-        "published_at": "2026-09-20T13:06:20Z",
-        "description": "Replacing a married couple's Social Security income with dividends sounds straightforward until you see how brutally the math punishes the wrong yield tier a..."
-      },
-      {
-        "title": "Where You Hold SCHD and JEPI Matters More Than You Think: The Taxable vs. IRA Math",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/personal-finance/2026/09/19/where-you-hold-schd-and-jepi-matters-more-than-you-think-the-taxable-vs-ira-math/",
-        "published_at": "2026-09-19T22:23:58Z",
-        "description": "Two investors hold the exact same dividend ETF and receive identical distributions, yet one quietly hands thousands more to the IRS each year. The account th..."
       }
     ],
     "IEMG": [
@@ -622,6 +622,20 @@
     ],
     "GLD": [
       {
+        "title": "Silver Made America\u2019s Critical Minerals List. This ETF Is the Easiest Way In",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/22/silver-made-americas-critical-minerals-list-this-etf-is-the-easiest-way-in/",
+        "published_at": "2026-09-22T17:03:20Z",
+        "description": "Washington just handed silver a designation that lithium and cobalt already carry, and the fallout for stock investors is more complicated than the headlines..."
+      },
+      {
+        "title": "Global physical gold-backed ETFs see 27.1 tonnes inflow, marking 11th straight week of gains",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/gold-etfs-11th-straight-week-inflows/",
+        "published_at": "2026-09-22T16:34:53Z",
+        "description": "Sustained gold ETF inflows could bolster gold prices, but rapid reversals may occur if safe-haven demand wanes, impacting market stability.\nThe post Global physical gold-backed ETFs see 27.1 tonnes inflow, marking 11th straight week of gains appeared first on\u2026"
+      },
+      {
         "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -648,20 +662,6 @@
         "url": "https://zycrypto.com/heavy-bitcoin-etf-hedging-could-fuel-bigger-rally-than-gold-walter-bloomberg/",
         "published_at": "2026-09-18T20:09:48Z",
         "description": "A group of JPMorgan analysts said Bitcoin could benefit more than Gold if hedging demand for exchange-traded products continues to rise, Walter Bloomberg reports."
-      },
-      {
-        "title": "New SEC, CFTC rules after CLARITY setback fuel Bitcoin rally",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/crypto/markets/sec-cftc-new-rules-after-clarity-setback-send-bitcoin-higher",
-        "published_at": "2026-09-18T19:19:24Z",
-        "description": "Fresh developments helped offset two of crypto\u2019s biggest headwinds."
-      },
-      {
-        "title": "JPMorgan says one asset class could soon beat gold",
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/crypto/markets/jpmorgan-says-one-asset-class-could-soon-beat-gold",
-        "published_at": "2026-09-18T16:18:36Z",
-        "description": "JPMorgan says stubborn investor caution could create an opportunity in a major macro trade."
       }
     ],
     "IWF": [],
