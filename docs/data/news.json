@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-09-23T19:41:05.759759+00:00",
+  "generated_at": "2026-09-23T22:57:45.656669+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO\u2019s 0.03% Fee Hides a Costlier Truth: 38% in One Sector and a Tax Bill on Dividends You Reinvested",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/04f476436d767a26",
+        "published_at": "2026-09-22T22:13:56Z",
+        "description": "The post VOO\u2019s 0.03% Fee Hides a Costlier Truth: 38% in One Sector and a Tax Bill on Dividends You Reinvested appeared first on 24/7 Wall St..\nThe fee on the Vanguard S&P 500 ETF (NYSEARCA:VOO) is 0.03%. Vanguard\u2019s own semi-annual report translates that to ~$\u2026"
+      },
       {
         "title": "VOO\u2019s 0.03% Fee Hides the Real Cost: State Street Now Sells the Same 500 Stocks for a Third Less",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/11ab7c199ce836e3",
         "published_at": "2026-09-19T16:32:40Z",
         "description": "Experienced investors know the advantages of buying and holding S&P 500 index funds like the Vanguard S&P 500 ETF (NYSEMKT: VOO) or the SPDR S&P 500 ETF Trust (NYSEMKT: SPY). Not only are they super simple, but statistically speaking, you're likely to get bet\u2026"
-      },
-      {
-        "title": "$1 Million in VOO Pays $871 a Month, and Covering the Gap Means Selling Shares the IRS Taxes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/06e6a74e0f18e4bb",
-        "published_at": "2026-09-18T21:52:51Z",
-        "description": "The post $1 Million in VOO Pays $871 a Month, and Covering the Gap Means Selling Shares the IRS Taxes appeared first on 24/7 Wall St..\nA $1 million balance in the Vanguard S&P 500 ETF (NYSEARCA:VOO) sounds like retirement\u2014until the first deposit hits your acc\u2026"
       }
     ],
     "IVV": [
@@ -78,6 +78,13 @@
     ],
     "SPY": [
       {
+        "title": "SPYx leads tokenized ETF market cap growth by $8M in seven days",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/spyx-tokenized-etf-market-cap-growth/",
+        "published_at": "2026-09-22T20:37:50Z",
+        "description": "SPYx's rapid growth highlights the potential of tokenized ETFs to revolutionize global investment access and liquidity beyond traditional markets.\nThe post SPYx leads tokenized ETF market cap growth by $8M in seven days appeared first on Crypto Briefing."
+      },
+      {
         "title": "TTD Showered Owners With Cash. The Stock Still Lagged The Market",
         "source": "Trefis",
         "url": "https://www.trefis.com/articles/615973/ttd-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-09-21",
@@ -111,16 +118,16 @@
         "url": "https://247wallst.com/investing/2026/09/16/terawulf-rallies-7-as-ai-hosting-bid-returns-core-scientific-jumps-7-iren-rises-3/",
         "published_at": "2026-09-16T17:53:18Z",
         "description": "Bitcoin miners turned AI hosts are surging together in a session with no news driving any of them, and that gap between the cohort and the broader data cente..."
-      },
-      {
-        "title": "EV Charging Stocks Climb as Small Caps Catch a Bid: Blink Charging Jumps 6%, ChargePoint Rises 4%, EVgo Ticks Up",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/16/ev-charging-stocks-climb-as-small-caps-catch-a-bid-blink-charging-jumps-6-chargepoint-rises-4-evgo-ticks-up/",
-        "published_at": "2026-09-16T15:59:23Z",
-        "description": "Three beaten-down EV charging stocks are climbing together Wednesday morning with no news, no analyst action, and no company announcement to explain the move..."
       }
     ],
     "VTI": [
+      {
+        "title": "VTI\u2019s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8d26f7abc7ea8292",
+        "published_at": "2026-09-22T22:43:45Z",
+        "description": "The post VTI\u2019s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade appeared first on 24/7 Wall St..\nSmall-Cap Drag Hiding Inside Your Total Market Fund\nIf you put $500,000 into the Vanguard Total Stock Market ETF (NYSEARCA:VTI) ten year\u2026"
+      },
       {
         "title": "Trump Accounts could help lower-income families most. Few have signed up.",
         "source": "Yahoo Entertainment",
@@ -155,13 +162,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-spmos-aum-surges?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-18T21:00:26Z",
         "description": "Here are the daily ETF fund flows for September 17, 2026."
-      },
-      {
-        "title": "Bonds in the IRA or in the Taxable Account? Park Them in the Wrong One and the IRS Takes a Cut Every Year. These 3 ETFs Go Where They Belong",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/17/bonds-in-the-ira-or-in-the-taxable-account-park-them-in-the-wrong-one-and-the-irs-takes-a-cut-every-year-these-3-etfs-go-where-they-belong/",
-        "published_at": "2026-09-17T21:55:53Z",
-        "description": "Where you park a bond fund matters just as much as which fund you pick, and most investors get the pairing backwards in ways that quietly drain returns every..."
       }
     ],
     "QQQ": [
