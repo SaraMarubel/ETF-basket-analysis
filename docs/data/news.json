@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:43:31.151999+00:00",
+  "generated_at": "2026-09-23T13:38:24.192061+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -122,6 +122,20 @@
     ],
     "VTI": [
       {
+        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for September 18, 2026."
+      },
+      {
+        "title": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/record-etf-year-takes-shape-inflows-near-15-trillion?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:17Z",
+        "description": "US-listed ETFs took in $91.9 billion last week, pushing 2026 inflows to about $1.47 trillion, nearly matching last year's record with three months to spar..."
+      },
+      {
         "title": "4 ETFs That Cover Nearly Everything Investors Need",
         "source": "Moneylion.com",
         "url": "https://moneylion.com/trending/money/etfs-cover-nearly-everything-investors",
@@ -148,64 +162,50 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-iei-sheds-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-16T21:00:05Z",
         "description": "Here are the daily ETF fund flows for September 15, 2026."
-      },
-      {
-        "title": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9ef447708a174969",
-        "published_at": "2026-09-15T21:17:15Z",
-        "description": "The post You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks appeared first on 24/7 Wall St..\nYou bought the Vanguard S&P 500 ETF (NYSEARCA:VOO) because it tracks the S&P 500. Then you added the Vanguard Total Stock Mar\u2026"
-      },
-      {
-        "title": "You Bought VOO and VTI for Diversification. About 85% of Your Money Sits in the Same Stocks",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/15/you-bought-voo-and-vti-for-diversification-about-85-of-your-money-sits-in-the-same-stocks/",
-        "published_at": "2026-09-15T21:05:12Z",
-        "description": "Buying two broad Vanguard index funds feels like spreading your risk across the market, but the holdings inside each fund tell a very different story about w..."
       }
     ],
     "QQQ": [
       {
-        "title": "Cybersecurity Stocks Extend Gains on AI Safety Warnings: CrowdStrike and Okta Rise 4%, Palo Alto Ticks Up",
+        "title": "Shopify Spikes 7%, Meta Eases as Muse Agent Gains Shop Pay Checkout; Amazon Sits Out the Rally",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/cybersecurity-stocks-extend-gains-on-ai-safety-warnings-crowdstrike-and-okta-rise-4-palo-alto-ticks-up/",
-        "published_at": "2026-09-21T17:03:46Z",
-        "description": "AI safety warnings from the people building the models are landing inside cybersecurity revenue expectations, and the market is betting on which companies si..."
+        "url": "https://247wallst.com/investing/2026/09/22/shopify-spikes-7-meta-eases-as-muse-agent-gains-shop-pay-checkout-amazon-sits-out-the-rally/",
+        "published_at": "2026-09-22T12:43:12Z",
+        "description": "Meta's Muse agent can now shop for you and check out on your behalf, but the company that quietly captured the transaction layer is not Meta. Here is why tha..."
       },
       {
-        "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/",
-        "published_at": "2026-09-21T16:53:14Z",
-        "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip pee..."
+        "title": "Newcleo begins trading on Nasdaq",
+        "source": "Thefly.com",
+        "url": "https://www.thefly.com/nwcl",
+        "published_at": "2026-09-22T12:06:41Z",
+        "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026"
       },
       {
-        "title": "Arm Surges 13% as Meta\u2019s Muse Agent Reignites CPU Demand Bet; Intel Jumps 12%, AMD Climbs 9%",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/arm-surges-13-as-metas-muse-agent-reignites-cpu-demand-bet-intel-jumps-12-amd-climbs-9/",
-        "published_at": "2026-09-21T15:24:10Z",
-        "description": "Meta's new Muse AI agent just triggered a violent repricing across processor names, and the three companies catching the biggest moves share almost nothing i..."
+        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for September 18, 2026."
       },
       {
-        "title": "Super Micro Rises 6% as AI Server Bid Concentrates in One Name; Dell and Hewlett Packard Enterprise Tick Up",
+        "title": "SanDisk Falls 2% Despite Memory Rally; Micron Advances 3%, Western Digital Nudges Higher",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/super-micro-rises-6-as-ai-server-bid-concentrates-in-one-name-dell-and-hewlett-packard-enterprise-tick-up/",
-        "published_at": "2026-09-21T14:28:52Z",
-        "description": "One AI server stock is outrunning its closest peers by a margin that a rising technology market alone cannot explain, and the gap raises a question about whe..."
+        "url": "https://247wallst.com/investing/2026/09/21/sandisk-falls-2-despite-memory-rally-micron-advances-3-western-digital-nudges-higher/",
+        "published_at": "2026-09-21T19:13:34Z",
+        "description": "Every name in the memory complex is trading green Monday except one, and the stock sitting in the red happens to be the sector's biggest winner of the year...."
       },
       {
-        "title": "Meta Spikes 7% as Wells Fargo Lifts Price Target to $796 Ahead of Connect; Alphabet Nudges Higher, Microsoft Holds Flat",
+        "title": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
         "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/21/meta-spikes-7-as-wells-fargo-lifts-price-target-to-796-ahead-of-connect-alphabet-nudges-higher-microsoft-holds-flat/",
-        "published_at": "2026-09-21T14:24:20Z",
-        "description": "Wells Fargo just raised its Meta price target before Connect rather than after it, which means buyers are betting on Muse usage numbers the company has not y..."
+        "url": "https://247wallst.com/investing/2026/09/21/fastly-soars-14-on-ai-firewall-launch-cloudflare-climbs-7-datadog-rises-5/",
+        "published_at": "2026-09-21T18:04:07Z",
+        "description": "Fastly launched new AI traffic controls this morning and the whole edge security category moved with it, including rivals that announced nothing at all. The..."
       },
       {
-        "title": "SpaceX\u2019s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+        "title": "Bond King Jeffrey Gundlach Wants Out of the AI 'Epicenter': Inside His Zero-Exposure Portfolio",
         "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nasdaq-100-weight-confirmed-141701836.html",
-        "published_at": "2026-09-19T14:17:01Z",
-        "description": "SpaceX will make up 2.82% of the Nasdaq 100 when the index\u2019s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a s..."
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bond-king-jeffrey-gundlach-wants-180017056.html",
+        "published_at": "2026-09-21T18:00:17Z",
+        "description": "The DoubleLine Capital founder and CEO Jeffrey Gundlach, also known as the Bond King, said he wants to be \u201cout of the epicenter\u201d of the AI race, citing widen..."
       }
     ],
     "IEFA": [
@@ -270,6 +270,20 @@
     ],
     "VUG": [
       {
+        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for September 18, 2026."
+      },
+      {
+        "title": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/weekly-etf-flows/record-etf-year-takes-shape-inflows-near-15-trillion?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:17Z",
+        "description": "US-listed ETFs took in $91.9 billion last week, pushing 2026 inflows to about $1.47 trillion, nearly matching last year's record with three months to spar..."
+      },
+      {
         "title": "Daily ETF Flows: IEI Sheds Assets",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-iei-sheds-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -296,20 +310,6 @@
         "url": "https://biztoc.com/x/31ccd28b3a42c3d1",
         "published_at": "2026-09-07T20:31:53Z",
         "description": "Growth stocks can make ideal long-term investments to hold. They're primarily suitable for long-term investors who have the patience to hold on amid market uncertainty. The stock market has, after all, bounced back from all downturns over the years; it's batt\u2026"
-      },
-      {
-        "title": "1 Unstoppable Vanguard Growth ETF Up 14% in 2026 to Buy and Hold for the Next 20 Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/962b94b8a88b7f82",
-        "published_at": "2026-09-07T13:01:48Z",
-        "description": "Value investing is taking its lumps, and that's been the case for a while. Yes, various styles move in and out of favor over the years, but the stark reality is that the tide has favored growth stocks for the better part of two decades now.\nThe Vanguard S&P 5\u2026"
-      },
-      {
-        "title": "SCHG Owns More Apple Than Tesla, Meta and Palantir Combined. Is That Why Growth Investors Are Falling Behind?",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/04/schg-owns-more-apple-than-tesla-meta-and-palantir-combined-is-that-why-growth-investors-are-falling-behind/",
-        "published_at": "2026-09-04T15:37:41Z",
-        "description": "SCHG markets itself as a diversified large-cap growth fund, but a closer look at its holdings reveals a much narrower bet, and that structural quirk may expl..."
       }
     ],
     "BND": [
@@ -319,6 +319,13 @@
         "url": "https://biztoc.com/x/bb5b6d6d045793ad",
         "published_at": "2026-09-21T21:29:22Z",
         "description": "The post BlackRock\u2019s $16.6 Billion Bond Fund Pays 6% Monthly. BND Pays 4% and Made 2% Last Year appeared first on 24/7 Wall St..\nIf you hold the Vanguard Total Bond Market ETF (NASDAQ:BND), you own the default core bond position in American portfolios for goo\u2026"
+      },
+      {
+        "title": "BlackRock\u2019s $16.6 Billion Bond Fund Pays 6% Monthly. BND Pays 4% and Made 2% Last Year",
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/etf/2026/09/21/blackrocks-16-6-billion-bond-fund-pays-6-monthly-bnd-pays-4-and-made-2-last-year/",
+        "published_at": "2026-09-21T21:15:00Z",
+        "description": "Your core bond fund may be paying you far less than it should while quietly losing ground in today's rate environment. A massive active ETF from BlackRock is..."
       },
       {
         "title": "US bond fund inflows hit record high this year as investors chase yield",
@@ -347,16 +354,16 @@
         "url": "https://www.mymoneyblog.com/my-bond-portfolio-allocation-explained-short-term-treasury-etf.html",
         "published_at": "2026-09-17T19:12:00Z",
         "description": "Most people worry about stock drama, but every so often, there is also bond drama. Bonds are debt, which means people worry when there\u2019s an increased chance you won\u2019t get paid back. However, the goal of my bond holdings is to have at least 5 years of expenses\u2026"
-      },
-      {
-        "title": "A 1-Point Rise in Bond Yields Could Swamp BND\u2019s 4.7% Yield",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/596394a3e6bf9288",
-        "published_at": "2026-09-17T18:24:28Z",
-        "description": "The post A 1-Point Rise in Bond Yields Could Swamp BND\u2019s 4.7% Yield appeared first on 24/7 Wall St..\nThe Federal Reserve nudged its policy-rate target up by 25bps on Wednesday, and holders of Vanguard Total Bond Market ETF (NASDAQ:BND) face the same question \u2026"
       }
     ],
     "SCHD": [
+      {
+        "title": "Should You Invest $1,000 in SCHD Right Now?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ca06d163438e6afc",
+        "published_at": "2026-09-22T10:03:35Z",
+        "description": "After three years of disappointing performance, the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) is on a tear again.\nYear to date, the fund is up 22.8% compared to an 11.8% gain for the S&P 500. That return puts it near the top of the U.S. dividend ETF cat\u2026"
+      },
       {
         "title": "SCHD\u2019s 0.06% Fee Hides $413,350 in Decade-Long Underperformance on a $500,000 Position",
         "source": "Biztoc.com",
@@ -391,13 +398,6 @@
         "url": "https://247wallst.com/personal-finance/2026/09/19/where-you-hold-schd-and-jepi-matters-more-than-you-think-the-taxable-vs-ira-math/",
         "published_at": "2026-09-19T22:23:58Z",
         "description": "Two investors hold the exact same dividend ETF and receive identical distributions, yet one quietly hands thousands more to the IRS each year. The account th..."
-      },
-      {
-        "title": "A $1,000 Monthly Investment in the Schwab U.S. Dividend Equity ETF (SCHD) Could Build Serious Passive Income Over 20 Years",
-        "source": "Yahoo Entertainment",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3e29d839-c95b-4411-9f8e-8cd6b9bbfb25",
-        "published_at": "2026-09-19T10:43:00Z",
-        "description": null
       }
     ],
     "IEMG": [
@@ -490,6 +490,13 @@
     ],
     "VTV": [
       {
+        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for September 18, 2026."
+      },
+      {
         "title": "Daily ETF Flows: SPMO's AUM Surges",
         "source": "Etf.com",
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-spmos-aum-surges?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
@@ -523,13 +530,6 @@
         "url": "https://247wallst.com/investing/etf/2026/08/26/3-value-etfs-that-pay-solid-dividends-and-keep-beating-the-market-this-year/",
         "published_at": "2026-08-26T22:15:21Z",
         "description": "Large-cap value has quietly outrun the S&P 500 in 2026, and three dividend-paying ETFs are leading the charge, but each defines value so differently that pic..."
-      },
-      {
-        "title": "Nervous About Big Tech? This Vanguard Value ETF Is Where the Money Is Rotating",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bddd5e621f619e45",
-        "published_at": "2026-08-26T19:20:00Z",
-        "description": "Nervous About Big Tech? This Vanguard Value ETF Is Where the Money Is Rotating\nThe Magnificent Seven have ruled markets for years, but cracks in the AI spending story are pushing serious investors toward a corner of the market most have ignored since the dot-\u2026"
       }
     ],
     "VXUS": [
@@ -622,6 +622,13 @@
     ],
     "GLD": [
       {
+        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
+        "source": "Etf.com",
+        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
+        "published_at": "2026-09-21T21:00:28Z",
+        "description": "Here are the daily ETF fund flows for September 18, 2026."
+      },
+      {
         "title": "A seven-year standoff over Venezuelan gold nears its end",
         "source": "TheStreet",
         "url": "https://www.thestreet.com/markets/a-seven-year-standoff-over-venezuelan-gold-nears-its-end",
@@ -655,13 +662,6 @@
         "url": "https://www.thestreet.com/crypto/markets/jpmorgan-says-one-asset-class-could-soon-beat-gold",
         "published_at": "2026-09-18T16:18:36Z",
         "description": "JPMorgan says stubborn investor caution could create an opportunity in a major macro trade."
-      },
-      {
-        "title": "JPMorgan says Bitcoin has more upside than gold, and short sellers are the reason",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/jpmorgan-bitcoin-upside-gold-short-interest/",
-        "published_at": "2026-09-17T18:33:59Z",
-        "description": "Bitcoin's potential surge, driven by ETF dynamics and short interest, could reshape investment strategies and challenge traditional safe havens.\nThe post JPMorgan says Bitcoin has more upside than gold, and short sellers are the reason appeared first on Crypt\u2026"
       }
     ],
     "IWF": [],
