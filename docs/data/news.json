@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:45:37.461292+00:00",
+  "generated_at": "2026-09-25T20:01:55.234014+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -67,13 +67,6 @@
         "url": "https://biztoc.com/x/eb22c49924dbcb09",
         "published_at": "2026-08-30T19:11:33Z",
         "description": "Index-based exchange-traded funds (ETFs) are some of the most popular investment vehicles on Wall Street. The State Street SPDR S&P 500 ETF (NYSEMKT: SPY), the iShares Core S&P 500 ETF (NYSEMKT: IVV), and the Vanguard S&P 500 ETF (NYSEMKT: VOO) are the three \u2026"
-      },
-      {
-        "title": "iShares IVV suffers surprising hedge fund drop in Q2",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/57b9caa59e6e194d",
-        "published_at": "2026-08-24T15:55:40Z",
-        "description": "For investors holding the iShares Core S&P 500 ETF (IVV), the latest round of quarterly hedge fund filings reveals a figure worth watching.\nHedge funds collectively cut their IVV positions by roughly 63% during the second quarter of 2026, dropping from about \u2026"
       }
     ],
     "SPY": [
@@ -166,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Bond liquidation wrecks small caps. Here's how bad some traders see it getting",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/09/24/bond-liquidation-wrecks-small-caps-heres-how-bad-some-traders-see-it-getting.html",
+        "published_at": "2026-09-24T18:22:51Z",
+        "description": "While the S&P 500 powers through rising bond yields and higher crude oil prices, one section of the U.S. stock market is falling behind."
+      },
+      {
         "title": "Alphabet Drops 4%, Meta Edges Higher as AI Rotation Splits Big Tech; Microsoft Holds Flat",
         "source": "24/7 Wall St.",
         "url": "https://247wallst.com/investing/2026/09/23/alphabet-drops-4-meta-edges-higher-as-ai-rotation-splits-big-tech-microsoft-holds-flat/",
@@ -199,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/23/shopify-sinks-5-meta-ticks-up-as-muse-deal-rally-unwinds-amazon-slips/",
         "published_at": "2026-09-23T15:06:16Z",
         "description": "Two counterparties to the same agentic checkout agreement are being priced in opposite directions Wednesday morning as the rally that followed the deal annou..."
-      },
-      {
-        "title": "Palantir Gains 2%, Nebius Pulls Back, Micron Barely Budges as Michael Burry Adds to Shorts in All Three",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/09/23/palantir-gains-2-nebius-pulls-back-micron-barely-budges-as-michael-burry-adds-to-shorts-in-all-three/",
-        "published_at": "2026-09-23T14:12:27Z",
-        "description": "Michael Burry just disclosed short positions in Palantir, Nebius, and Micron, but the market is not reading his trade as a single unified bet, and at least o..."
       }
     ],
     "IEFA": [
