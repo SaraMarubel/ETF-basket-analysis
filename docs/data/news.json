@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:13:50.147713+00:00",
+  "generated_at": "2026-09-26T22:48:57.870805+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -259,16 +259,16 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
         "published_at": "2026-09-15T10:15:00Z",
         "description": "The man who predicted Black Monday says the stock market's best decade may already be behind us \u2014 and the math backs him up."
-      },
-      {
-        "title": "Daily ETF Flows: GLD IBIT Pick Up Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-gld-ibit-pick-assets?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-24T21:00:28Z",
-        "description": "Here are the daily ETF fund flows for August 21, 2026."
       }
     ],
     "VUG": [
+      {
+        "title": "The Case For and Against Fidelity\u2019s Fundamental Large Cap Growth ETF",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/aba58e47b35f14f9",
+        "published_at": "2026-09-25T19:52:38Z",
+        "description": "The post The Case For and Against Fidelity\u2019s Fundamental Large Cap Growth ETF appeared first on 24/7 Wall St..\nThe Fidelity Fundamental Large Cap Growth ETF (CBOE:FFLG) has gained 14.29% in 2026 through September 24. That puts FFLG ahead of the passive Vangua\u2026"
+      },
       {
         "title": "Vanguard Announces Cash Distributions for the Vanguard ETFs",
         "source": "Financial Post",
@@ -303,13 +303,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/record-etf-year-takes-shape-inflows-near-15-trillion?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-21T21:00:17Z",
         "description": "US-listed ETFs took in $91.9 billion last week, pushing 2026 inflows to about $1.47 trillion, nearly matching last year's record with three months to spar..."
-      },
-      {
-        "title": "Daily ETF Flows: IEI Sheds Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-iei-sheds-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-16T21:00:05Z",
-        "description": "Here are the daily ETF fund flows for September 15, 2026."
       }
     ],
     "BND": [
@@ -604,20 +597,6 @@
         "url": "https://biztoc.com/x/b3fcad81b57c0aec",
         "published_at": "2026-09-01T12:57:48Z",
         "description": "The choice between iShares MSCI World ETF (NYSEMKT:URTH) and Vanguard FTSE Emerging Markets ETF (NYSEMKT:VWO) hinges on the preference for developed-market stability versus lower-cost emerging-market potential.\nThese two funds offer global equity exposure but\u2026"
-      },
-      {
-        "title": "Daily ETF Flows: TLT Gains",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-tlt-gains?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-08-25T21:00:04Z",
-        "description": "Here are the daily ETF fund flows for August 24, 2026."
-      },
-      {
-        "title": "This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d4c0dc7247a17101",
-        "published_at": "2026-08-25T10:09:00Z",
-        "description": "The post This $105 Billion Vanguard Fund Warns It Could Become a Bet on a Single Stock appeared first on 24/7 Wall St..\nThe Vanguard FTSE Emerging Markets ETF (NYSEARCA:VWO) has quietly become one of the more interesting concentration stories in passive inves\u2026"
       }
     ],
     "GLD": [
