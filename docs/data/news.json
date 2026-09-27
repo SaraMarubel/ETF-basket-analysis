@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T05:16:48.318168+00:00",
+  "generated_at": "2026-09-27T13:57:22.796310+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -601,6 +601,13 @@
     ],
     "GLD": [
       {
+        "title": "JPMorgan Sees Bitcoin Gaining More Than Gold as ETF Shorts Unwind",
+        "source": "ZyCrypto",
+        "url": "https://zycrypto.com/jpmorgan-sees-bitcoin-gaining-more-than-gold-as-etf-shorts-unwind/",
+        "published_at": "2026-09-26T12:38:40Z",
+        "description": "Bitcoin (BTC) could receive stronger support than gold if investors unwind bearish positions in spot Bitcoin exchange-traded funds, according to JPMorgan."
+      },
+      {
         "title": "Gold price today, Wednesday, September 23, 2026: Gold holds as investors weigh China, Iran relations",
         "source": "Yahoo Entertainment",
         "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-23-2026-gold-holds-as-investors-weigh-china-iran-relations-110649042.html",
@@ -634,13 +641,6 @@
         "url": "https://www.thestreet.com/markets/a-seven-year-standoff-over-venezuelan-gold-nears-its-end",
         "published_at": "2026-09-20T17:07:00Z",
         "description": "Venezuela wants custody of its 31 tons of bullion."
-      },
-      {
-        "title": "Wall Street\u2019s Favorite Safe Haven Could Be In Trouble. How Investors Should Play Gold Here.",
-        "source": "Barchart.com",
-        "url": "https://www.barchart.com/story/news/4694741/wall-streets-favorite-safe-haven-could-be-in-trouble-how-investors-should-play-gold-here",
-        "published_at": "2026-09-19T13:00:03Z",
-        "description": "Here's what I'm looking at when it comes to gold, Wall Street's favorite \"safe haven\" asset."
       }
     ],
     "IWF": [],
