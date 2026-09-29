@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T10:40:45.866322+00:00",
+  "generated_at": "2026-09-29T18:05:07.796817+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -71,6 +71,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as Oil Prices Rise",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ad50e072a6508be4",
+        "published_at": "2026-09-28T14:16:06Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr"
+      },
+      {
         "title": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
         "source": "Trefis",
         "url": "https://www.trefis.com/articles/616107/223-billion-back-to-shareholders-inside-the-msft-machine/2026-09-22",
@@ -104,13 +111,6 @@
         "url": "https://cryptobriefing.com/binance-spyb-dividend-distribution/",
         "published_at": "2026-09-18T19:50:21Z",
         "description": "Binance's tokenized dividend model could reshape investor engagement, but regulatory scrutiny remains a significant hurdle for global adoption.\nThe post Binance distributes $1.88 SPYB dividends to spot wallet holders appeared first on Crypto Briefing."
-      },
-      {
-        "title": "Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cb3ec36f6458fe81",
-        "published_at": "2026-09-18T13:20:42Z",
-        "description": "The post Bitmine Climbs 4% as Ethereum Rallies Despite CLARITY Act Failure; Sharplink Gains 3% appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is down 0.3% Friday morning, but Ethereum treasury stocks are catching a bid. Bitmine Imm\u2026"
       }
     ],
     "VTI": [
@@ -159,6 +159,13 @@
     ],
     "QQQ": [
       {
+        "title": "Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rally After Month-Long 40% Run",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/intel-shares-fall-ai-chip-selloff-profit-taking-1875997",
+        "published_at": "2026-09-28T14:48:36Z",
+        "description": "Intel shares fell 5.6% on Monday after a sharp rally, as selling across AI-linked chip stocks, profit-taking, higher oil prices and rising bond yields pressured the sector."
+      },
+      {
         "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f9b20a98a65a15b7",
@@ -192,13 +199,6 @@
         "url": "https://247wallst.com/investing/2026/09/23/rumble-sinks-5-trump-media-drops-3-is-the-diesel-export-ban-really-the-driver/",
         "published_at": "2026-09-23T15:49:40Z",
         "description": "Rumble and Trump Media are both sliding on the same morning a major diesel export ban dominates political headlines, and the temptation to connect those two..."
-      },
-      {
-        "title": "Should You Really Invest in a Tech ETF in 2026? Here's What History Says",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bc3fb91f3867c2f7",
-        "published_at": "2026-09-23T15:23:44Z",
-        "description": "Technology stocks just keep moving higher, sparking fears of a bubble amid soaring valuations.\nThe Nasdaq-100, a leading gauge of large-cap tech stocks, is now up 20% year to date. If it holds, this would mark the fourth straight year that it has returned mor\u2026"
       }
     ],
     "IEFA": [
