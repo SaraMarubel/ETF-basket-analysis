@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T05:48:58.671561+00:00",
+  "generated_at": "2026-10-01T15:26:55.691883+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -67,16 +67,16 @@
         "url": "https://biztoc.com/x/f61bb5124e4a9656",
         "published_at": "2026-09-14T21:38:25Z",
         "description": "The post VOO vs. IVV: Same S&P 500, Same Fee, So Does It Even Matter Which One You Buy? appeared first on 24/7 Wall St..\nVanguard S&P 500 ETF (NYSEARCA:VOO) and iShares Core S&P 500 ETF (NYSEARCA:IVV) track the identical index at the identical published fee o\u2026"
-      },
-      {
-        "title": "If You'd Invested $1,000 in VOO 10 Years Ago, Here's How Much You'd Have Today",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/eb22c49924dbcb09",
-        "published_at": "2026-08-30T19:11:33Z",
-        "description": "Index-based exchange-traded funds (ETFs) are some of the most popular investment vehicles on Wall Street. The State Street SPDR S&P 500 ETF (NYSEMKT: SPY), the iShares Core S&P 500 ETF (NYSEMKT: IVV), and the Vanguard S&P 500 ETF (NYSEMKT: VOO) are the three \u2026"
       }
     ],
     "SPY": [
+      {
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4a8b58d62a774090",
+        "published_at": "2026-09-30T13:49:06Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.01% and the actively t"
+      },
       {
         "title": "Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays",
         "source": "Biztoc.com",
@@ -111,13 +111,6 @@
         "url": "https://cryptobriefing.com/spyx-tokenized-etf-market-cap-growth/",
         "published_at": "2026-09-22T20:37:50Z",
         "description": "SPYx's rapid growth highlights the potential of tokenized ETFs to revolutionize global investment access and liquidity beyond traditional markets.\nThe post SPYx leads tokenized ETF market cap growth by $8M in seven days appeared first on Crypto Briefing."
-      },
-      {
-        "title": "TTD Showered Owners With Cash. The Stock Still Lagged The Market",
-        "source": "Trefis",
-        "url": "https://www.trefis.com/articles/615973/ttd-showered-owners-with-cash-the-stock-still-lagged-the-market/2026-09-21",
-        "published_at": "2026-09-21T12:56:18Z",
-        "description": "The company sent a fortune back to its owners, but the stock itself went the other way. Who really won."
       }
     ],
     "VTI": [
