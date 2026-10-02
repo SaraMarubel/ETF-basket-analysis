@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:44:04.692561+00:00",
+  "generated_at": "2026-10-02T20:43:33.078530+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -314,6 +314,13 @@
     ],
     "BND": [
       {
+        "title": "Why stocks have held up as yields surge to 24-year highs",
+        "source": "Business Insider",
+        "url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10#article",
+        "published_at": "2026-10-01T15:41:31Z",
+        "description": "Bond yields are the highest in 24 years, but stocks aren't far from all-time highs. Here's what's going on under the surface of the market."
+      },
+      {
         "title": "BND\u2019s 0.04% Fee Hides $254,720 in Taxes Over 20 Years for $500,000 Investors",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/2cee9fbdb5304b36",
@@ -347,13 +354,6 @@
         "url": "https://cryptobriefing.com/us-bond-fund-inflows-record-high-2026/",
         "published_at": "2026-09-19T12:35:19Z",
         "description": "Record bond fund inflows highlight a shift towards fixed income, reflecting investor caution and potential volatility in equity markets.\nThe post US bond fund inflows hit record high this year as investors chase yield appeared first on Crypto Briefing."
-      },
-      {
-        "title": "Your $500K Rollover Landed. Invest It All Today or Spread It Over a Year? The Math Says One Thing and Your Gut Says the Other. These 4 ETFs Are Where It Goes",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/your-500k-rollover-landed-invest-it-all-today-or-spread-it-over-a-year-the-math-says-one-thing-and-your-gut-says-the-other-these-4-etfs-are-where-it-goes/",
-        "published_at": "2026-09-18T22:05:02Z",
-        "description": "Five hundred thousand dollars just landed in your account, and the decision you make in the next few days will shape your returns for the next two decades. T..."
       }
     ],
     "SCHD": [
