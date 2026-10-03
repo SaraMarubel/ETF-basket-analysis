@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:16:04.645943+00:00",
+  "generated_at": "2026-10-03T13:23:20.049028+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -122,6 +122,13 @@
     ],
     "VTI": [
       {
+        "title": "Show HN: 9.8M product opinions collected from Reddit / HN, on 48,837 products",
+        "source": "Trustmebro.reviews",
+        "url": "https://www.trustmebro.reviews/",
+        "published_at": "2026-10-02T10:23:37Z",
+        "description": "This is something I have been making on the side.Opinions are extracted from posts and comments using a 8x 3090 box I had spare, using Gemma models, then summaries are created from the opinions. Several methods are used to exclude spam / shills.You can also b\u2026"
+      },
+      {
         "title": "The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f6522e76b151a34d",
@@ -155,13 +162,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-21T21:00:28Z",
         "description": "Here are the daily ETF fund flows for September 18, 2026."
-      },
-      {
-        "title": "A Record ETF Year Takes Shape as Inflows Near $1.5 Trillion",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/weekly-etf-flows/record-etf-year-takes-shape-inflows-near-15-trillion?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-21T21:00:17Z",
-        "description": "US-listed ETFs took in $91.9 billion last week, pushing 2026 inflows to about $1.47 trillion, nearly matching last year's record with three months to spar..."
       }
     ],
     "QQQ": [
@@ -358,6 +358,13 @@
     ],
     "SCHD": [
       {
+        "title": "Skip Individual Dividend Stocks: These 3 ETFs Cut Your Risk in Half",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5a40596f2571f1ff",
+        "published_at": "2026-10-02T11:51:46Z",
+        "description": "The post Skip Individual Dividend Stocks: These 3 ETFs Cut Your Risk in Half appeared first on 24/7 Wall St..\nQUALCOMM (NASDAQ:QCOM) is the largest position in the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), making up only about 7% of assets. Most holdin\u2026"
+      },
+      {
         "title": "SCHD\u2019s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/3692e5039ae318c2",
@@ -391,13 +398,6 @@
         "url": "https://biztoc.com/x/11c7294e3a66b851",
         "published_at": "2026-09-23T21:06:50Z",
         "description": "The post The Fed Just Hiked. Here\u2019s What It Does to JEPI, SCHD, and Your Money Market Fund appeared first on 24/7 Wall St..\nIf you hold the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), the Fed\u2019s September move matters more than the fund\u2019s steady image sug\u2026"
-      },
-      {
-        "title": "Investing $275 Monthly in SCHD Could Build Serious Passive Income Over 20 Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/330b1a9dc63f2afe",
-        "published_at": "2026-09-23T10:36:44Z",
-        "description": "Investing $275 a month into the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) could build significant passive dividend income over the next two decades. If the leading dividend ETF grows its dividend and share price at 9% compound annual rates, and you rein\u2026"
       }
     ],
     "IEMG": [

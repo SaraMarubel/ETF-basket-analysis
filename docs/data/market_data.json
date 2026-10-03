@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T05:15:37.771764+00:00",
+  "generated_at": "2026-10-03T13:22:55.667512+00:00",
   "risk_free_rate_pct": 3.99,
   "etfs": {
     "VOO": {
@@ -8,7 +8,7 @@
       "currency": "USD",
       "aum": 1756880437248,
       "fund_family": "Vanguard",
-      "avg_volume": 7124346,
+      "avg_volume": 7116267,
       "bid": 707.2,
       "ask": 707.77,
       "spread_pct": 0.0806,
@@ -491,7 +491,7 @@
       "currency": "USD",
       "aum": 883985416192,
       "fund_family": "iShares",
-      "avg_volume": 6342374,
+      "avg_volume": 6323782,
       "bid": 772.18,
       "ask": 775.0,
       "spread_pct": 0.3645,
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 811937038336,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 44177590,
+      "avg_volume": 44210853,
       "bid": 769.05,
       "ask": 769.21,
       "spread_pct": 0.0208,
@@ -1457,7 +1457,7 @@
       "currency": "USD",
       "aum": 2343736705024,
       "fund_family": "Vanguard",
-      "avg_volume": 3099623,
+      "avg_volume": 3097226,
       "bid": 378.05,
       "ask": 377.96,
       "spread_pct": -0.0238,
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 488981004288,
       "fund_family": "Invesco",
-      "avg_volume": 35421171,
+      "avg_volume": 35406264,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2423,7 +2423,7 @@
       "currency": "USD",
       "aum": 194385543168,
       "fund_family": "iShares",
-      "avg_volume": 8643579,
+      "avg_volume": 8798703,
       "bid": 93.8,
       "ask": 97.4,
       "spread_pct": 3.7657,
@@ -2822,19 +2822,19 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.51,
-          "change_1y_pct": 83.16
+          "change_1y_pct": 89.59
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 37.76
+          "change_1y_pct": 38.25
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.17,
-          "change_1y_pct": 26.51
+          "change_1y_pct": 25.32
         },
         {
           "symbol": "NOVN.SW",
@@ -2846,7 +2846,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.97,
-          "change_1y_pct": 34.44
+          "change_1y_pct": 34.72
         },
         {
           "symbol": "NESN.SW",
@@ -2864,7 +2864,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.94,
-          "change_1y_pct": -3.37
+          "change_1y_pct": -4.67
         },
         {
           "symbol": "BHP.AX",
@@ -2876,7 +2876,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.92,
-          "change_1y_pct": 15.12
+          "change_1y_pct": 16.9
         }
       ],
       "options": {
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.51,
-        "change_1y_pct": 83.16
+        "change_1y_pct": 89.59
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.94,
-        "change_1y_pct": -3.37
+        "change_1y_pct": -4.67
       }
     },
     "VEA": {
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 323821109248,
       "fund_family": "Vanguard",
-      "avg_volume": 9808565,
+      "avg_volume": 9942193,
       "bid": 71.11,
       "ask": 71.22,
       "spread_pct": 0.1546,
@@ -3317,19 +3317,19 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.96,
-          "change_1y_pct": 83.16
+          "change_1y_pct": 89.59
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.05,
-          "change_1y_pct": 37.76
+          "change_1y_pct": 38.25
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.92,
-          "change_1y_pct": 26.51
+          "change_1y_pct": 25.32
         },
         {
           "symbol": "RY",
@@ -3347,7 +3347,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.77,
-          "change_1y_pct": 34.44
+          "change_1y_pct": 34.72
         },
         {
           "symbol": "NESN.SW",
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 384533856256,
       "fund_family": "Vanguard",
-      "avg_volume": 6203019,
+      "avg_volume": 6195923,
       "bid": 91.18,
       "ask": 91.33,
       "spread_pct": 0.1644,
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 398834597888,
       "fund_family": "Vanguard",
-      "avg_volume": 8600576,
+      "avg_volume": 8683131,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4272,7 +4272,7 @@
       "currency": "USD",
       "aum": 112337240064,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 22648741,
+      "avg_volume": 22618148,
       "bid": 32.75,
       "ask": 32.76,
       "spread_pct": 0.0305,
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 160899022848,
       "fund_family": "iShares",
-      "avg_volume": 11258425,
+      "avg_volume": 11238554,
       "bid": 80.44,
       "ask": 82.31,
       "spread_pct": 2.298,
@@ -5238,7 +5238,7 @@
       "currency": "USD",
       "aum": 138317873152,
       "fund_family": "iShares",
-      "avg_volume": 9176360,
+      "avg_volume": 9258765,
       "bid": 94.0,
       "ask": 94.24,
       "spread_pct": 0.255,
@@ -5645,7 +5645,7 @@
       "currency": "USD",
       "aum": 262299090944,
       "fund_family": "Vanguard",
-      "avg_volume": 2708125,
+      "avg_volume": 2714721,
       "bid": 216.72,
       "ask": 217.5,
       "spread_pct": 0.3593,
@@ -6128,7 +6128,7 @@
       "currency": "USD",
       "aum": 665693061120,
       "fund_family": "Vanguard",
-      "avg_volume": 5169060,
+      "avg_volume": 5162267,
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 83.16
+          "change_1y_pct": 89.59
         },
         {
           "symbol": "0700.HK",
@@ -6557,13 +6557,13 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.76,
-          "change_1y_pct": 37.76
+          "change_1y_pct": 38.25
         },
         {
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.67,
-          "change_1y_pct": 26.51
+          "change_1y_pct": 25.32
         },
         {
           "symbol": "RY",
@@ -6611,7 +6611,7 @@
       "currency": "USD",
       "aum": 168359133184,
       "fund_family": "Vanguard",
-      "avg_volume": 7041565,
+      "avg_volume": 7018057,
       "bid": 59.4,
       "ask": 59.57,
       "spread_pct": 0.2858,
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 152861196288,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 9142680,
+      "avg_volume": 9142871,
       "bid": 380.51,
       "ask": 380.7,
       "spread_pct": 0.0499,
@@ -7494,7 +7494,7 @@
       "currency": "USD",
       "aum": 125535297536,
       "fund_family": "iShares",
-      "avg_volume": 3859493,
+      "avg_volume": 3856104,
       "bid": 126.79,
       "ask": 127.69,
       "spread_pct": 0.7073,
@@ -7977,7 +7977,7 @@
       "currency": "USD",
       "aum": 124935077888,
       "fund_family": "iShares",
-      "avg_volume": 6366369,
+      "avg_volume": 6411076,
       "bid": 72.92,
       "ask": 73.61,
       "spread_pct": 0.9418,
@@ -8460,7 +8460,7 @@
       "currency": "USD",
       "aum": 132408557568,
       "fund_family": "Vanguard",
-      "avg_volume": 980058,
+      "avg_volume": 985107,
       "bid": 234.62,
       "ask": 235.5,
       "spread_pct": 0.3744,
@@ -8943,7 +8943,7 @@
       "currency": "USD",
       "aum": 109249667072,
       "fund_family": "iShares",
-      "avg_volume": 3017425,
+      "avg_volume": 3029896,
       "bid": 138.0,
       "ask": 140.0,
       "spread_pct": 1.4388,
