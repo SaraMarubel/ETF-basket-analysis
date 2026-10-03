@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T13:23:20.049028+00:00",
+  "generated_at": "2026-10-03T19:13:44.220950+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -78,6 +78,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Jobs Data",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fa755c6feac912d0",
+        "published_at": "2026-10-02T14:27:11Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9% and the actively trad"
+      },
+      {
         "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/58644f47e29f0f43",
@@ -111,13 +118,6 @@
         "url": "https://biztoc.com/x/ad50e072a6508be4",
         "published_at": "2026-09-28T14:16:06Z",
         "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3% and the actively tr"
-      },
-      {
-        "title": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
-        "source": "Trefis",
-        "url": "https://www.trefis.com/articles/616107/223-billion-back-to-shareholders-inside-the-msft-machine/2026-09-22",
-        "published_at": "2026-09-22T21:51:24Z",
-        "description": "Microsoft handed shareholders one of the largest cash returns in market history, but what did that money actually buy for the owners who held on."
       }
     ],
     "VTI": [
@@ -314,6 +314,13 @@
     ],
     "BND": [
       {
+        "title": "BND Holders Are About to See a Dramatic Shift in Monthly Payouts",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3c3d8f9681db3837",
+        "published_at": "2026-10-02T16:25:13Z",
+        "description": "The post BND Holders Are About to See a Dramatic Shift in Monthly Payouts appeared first on 24/7 Wall St..\nThe Vanguard Total Bond Market ETF (NASDAQ:BND) fell to roughly $70 on Thursday, a new 52-week low. BND holds $161.8 billion, more than any other bond E\u2026"
+      },
+      {
         "title": "Why stocks have held up as yields surge to 24-year highs",
         "source": "Business Insider",
         "url": "https://www.businessinsider.com/bond-yields-spike-why-stocks-are-at-record-highs-2026-10#article",
@@ -347,13 +354,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/21/blackrocks-16-6-billion-bond-fund-pays-6-monthly-bnd-pays-4-and-made-2-last-year/",
         "published_at": "2026-09-21T21:15:00Z",
         "description": "Your core bond fund may be paying you far less than it should while quietly losing ground in today's rate environment. A massive active ETF from BlackRock is..."
-      },
-      {
-        "title": "US bond fund inflows hit record high this year as investors chase yield",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-bond-fund-inflows-record-high-2026/",
-        "published_at": "2026-09-19T12:35:19Z",
-        "description": "Record bond fund inflows highlight a shift towards fixed income, reflecting investor caution and potential volatility in equity markets.\nThe post US bond fund inflows hit record high this year as investors chase yield appeared first on Crypto Briefing."
       }
     ],
     "SCHD": [
