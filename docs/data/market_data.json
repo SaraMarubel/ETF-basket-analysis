@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T19:37:11.907554+00:00",
+  "generated_at": "2026-10-04T23:07:52.169005+00:00",
   "risk_free_rate_pct": 3.99,
   "etfs": {
     "VOO": {
@@ -2870,7 +2870,7 @@
           "symbol": "BHP.AX",
           "name": "BHP Group Ltd",
           "weight_pct": 0.93,
-          "change_1y_pct": 51.96
+          "change_1y_pct": 52.11
         },
         {
           "symbol": "SIE.DE",
@@ -3485,7 +3485,7 @@
         },
         {
           "date": "2026-06-25",
-          "close": 82.88
+          "close": 82.87
         },
         {
           "date": "2026-06-26",
