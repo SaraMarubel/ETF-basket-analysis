@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:15:54.321359+00:00",
+  "generated_at": "2026-10-06T18:20:54.939044+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -78,6 +78,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Monday as Tech Stocks Normalize",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0891f0803d42f03e",
+        "published_at": "2026-10-05T13:47:57Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1%, and the actively t"
+      },
+      {
         "title": "Is the AI Bull Market About to Crash? This Risk Indicator Is Saying Yes",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/85d061108a38f921",
@@ -111,13 +118,6 @@
         "url": "https://biztoc.com/x/d0915914e2f0ce90",
         "published_at": "2026-09-29T23:11:30Z",
         "description": "The post Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the default core holding for millions of investors, and for good reason. SPY deliv\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/35cfdfa9a6f3d809",
-        "published_at": "2026-09-29T14:12:24Z",
-        "description": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively traded Invesco QQQ Trust (QQQ) was 0.4% higher in Tuesday's premarket\u2026"
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Here\u2019s the 1 ETF I Would Put $1,000 Into This October",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/55cd9c38f6ed9ee9",
+        "published_at": "2026-10-05T11:28:32Z",
+        "description": "The post Here\u2019s the 1 ETF I Would Put $1,000 Into This October appeared first on 24/7 Wall St..\nIf I had $1,000 to put to work this October, every dollar would go into one fund: Invesco QQQ Trust (NASDAQ:QQQ). The full stake goes into a single ticker. QQQ clo\u2026"
+      },
+      {
         "title": "Is the AI Bull Market About to Crash? This Risk Indicator Is Saying Yes",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/85d061108a38f921",
@@ -199,13 +206,6 @@
         "url": "https://www.thefly.com/crauy",
         "published_at": "2026-09-29T12:19:07Z",
         "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026"
-      },
-      {
-        "title": "Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rally After Month-Long 40% Run",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/intel-shares-fall-ai-chip-selloff-profit-taking-1875997",
-        "published_at": "2026-09-28T14:48:36Z",
-        "description": "Intel shares fell 5.6% on Monday after a sharp rally, as selling across AI-linked chip stocks, profit-taking, higher oil prices and rising bond yields pressured the sector."
       }
     ],
     "IEFA": [
@@ -236,13 +236,6 @@
         "url": "http://www.etf.com/sections/weekly-etf-flows/ucbgs-25b-record-breaking-debut-leads-etf-flows?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-07T21:34:01Z",
         "description": "US-listed ETFs took in $21.3 billion last week, most of it into bonds. The standout, though, was UCBG."
-      },
-      {
-        "title": "Daily ETF Flows: UCBG On Top",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-ucbg-top?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-04T21:00:11Z",
-        "description": "Here are the daily ETF fund flows for September 3, 2026."
       }
     ],
     "VEA": [
