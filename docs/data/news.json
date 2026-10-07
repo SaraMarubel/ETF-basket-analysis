@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:56:46.656435+00:00",
+  "generated_at": "2026-10-07T15:33:24.709741+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -85,6 +85,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Lower Oil Prices",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1c36e4a2d865d637",
+        "published_at": "2026-10-06T13:25:45Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad"
+      },
+      {
         "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Monday as Tech Stocks Normalize",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/0891f0803d42f03e",
@@ -118,13 +125,6 @@
         "url": "https://biztoc.com/x/4a8b58d62a774090",
         "published_at": "2026-09-30T13:49:06Z",
         "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.01% and the actively t"
-      },
-      {
-        "title": "Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d0915914e2f0ce90",
-        "published_at": "2026-09-29T23:11:30Z",
-        "description": "The post Forget SPY\u2019s Dividend. Here Is What $100,000 in State Street\u2019s High-Dividend Version Pays appeared first on 24/7 Wall St..\nThe SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is the default core holding for millions of investors, and for good reason. SPY deliv\u2026"
       }
     ],
     "VTI": [
