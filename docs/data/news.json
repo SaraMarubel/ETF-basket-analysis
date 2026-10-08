@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:00:30.934931+00:00",
+  "generated_at": "2026-10-08T15:35:15.540931+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -85,6 +85,20 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f3f056a1e9fa22a2",
+        "published_at": "2026-10-07T14:02:17Z",
+        "description": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively traded Invesco QQQ Trust (QQQ) was 0.7% lower in Wednesday's \u2026"
+      },
+      {
+        "title": "Stocks made a record high. Two big bearish trades point to skepticism",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
+        "published_at": "2026-10-07T13:59:16Z",
+        "description": "In the State Street SPDR S&P 500 ETF Trust (SPY), about an hour after the opening bell on Tuesday, someone traded a 100,000-lot put spread."
+      },
+      {
         "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Lower Oil Prices",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/1c36e4a2d865d637",
@@ -111,20 +125,6 @@
         "url": "https://biztoc.com/x/fa755c6feac912d0",
         "published_at": "2026-10-02T14:27:11Z",
         "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9% and the actively trad"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/58644f47e29f0f43",
-        "published_at": "2026-10-01T13:35:41Z",
-        "description": "Exchange-Traded Funds, Equity Futures up Pre-Bell Thursday as Traders Assess Micron's Fiscal Q4 Results\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively traded Invesco QQQ Trust (QQQ) advanced 0.5% in recent Thu\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Inflation Data Release",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4a8b58d62a774090",
-        "published_at": "2026-09-30T13:49:06Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.01% and the actively t"
       }
     ],
     "VTI": [
@@ -173,6 +173,13 @@
     ],
     "QQQ": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f3f056a1e9fa22a2",
+        "published_at": "2026-10-07T14:02:17Z",
+        "description": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively traded Invesco QQQ Trust (QQQ) was 0.7% lower in Wednesday's \u2026"
+      },
+      {
         "title": "Worst Performing ETFs of 2026 So Far",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/15e8c70eb913c3d0",
@@ -206,13 +213,6 @@
         "url": "https://biztoc.com/x/c5c9abc4e2624906",
         "published_at": "2026-09-29T23:42:00Z",
         "description": "The post QQQM Charges 0.15% and QQQ Charges 0.18%. A Wide Spread Can Take That Back on a Single Trade appeared first on 24/7 Wall St..\nInvesco NASDAQ 100 ETF (NASDAQ:QQQM) charges 0.15% a year. Its older sibling, Invesco QQQ Trust (NASDAQ:QQQ), charges 0.18%.\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/35cfdfa9a6f3d809",
-        "published_at": "2026-09-29T14:12:24Z",
-        "description": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday as Investors Weigh Tech Rebound\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively traded Invesco QQQ Trust (QQQ) was 0.4% higher in Tuesday's premarket\u2026"
       }
     ],
     "IEFA": [
