@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:28:11.698418+00:00",
+  "generated_at": "2026-10-10T20:03:54.576200+00:00",
   "risk_free_rate_pct": 4.06,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 40.6,
+        "atm_implied_vol_pct": 41.6,
         "call_open_interest": 8207,
         "put_open_interest": 10209,
         "put_call_oi_ratio": 1.24,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 20.8,
+        "atm_implied_vol_pct": 24.4,
         "call_open_interest": 779,
         "put_open_interest": 536,
         "put_call_oi_ratio": 0.69,
@@ -1432,11 +1432,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-12",
-        "atm_implied_vol_pct": 17.1,
+        "atm_implied_vol_pct": 24.6,
         "call_open_interest": 97897,
         "put_open_interest": 147681,
         "put_call_oi_ratio": 1.51,
-        "expirations_available": 28
+        "expirations_available": 27
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -2402,7 +2402,7 @@
         "call_open_interest": 68836,
         "put_open_interest": 156277,
         "put_call_oi_ratio": 2.27,
-        "expirations_available": 28
+        "expirations_available": 27
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -3465,7 +3465,7 @@
         },
         {
           "date": "2026-06-25",
-          "close": 82.88
+          "close": 82.87
         },
         {
           "date": "2026-06-26",
@@ -4732,8 +4732,8 @@
         "nearest_expiration": "2026-10-16",
         "atm_implied_vol_pct": 86.8,
         "call_open_interest": 14916,
-        "put_open_interest": 31965,
-        "put_call_oi_ratio": 2.14,
+        "put_open_interest": 32008,
+        "put_call_oi_ratio": 2.15,
         "expirations_available": 10
       },
       "strongest_holding": {
@@ -7483,7 +7483,7 @@
         "call_open_interest": 11858,
         "put_open_interest": 3316,
         "put_call_oi_ratio": 0.28,
-        "expirations_available": 24
+        "expirations_available": 26
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": 20.65
+          "change_1y_pct": 27.56
         },
         {
           "symbol": "MTCH",
