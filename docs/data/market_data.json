@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T23:40:06.965846+00:00",
+  "generated_at": "2026-10-12T05:53:34.989286+00:00",
   "risk_free_rate_pct": 4.06,
   "etfs": {
     "VOO": {
@@ -9,9 +9,9 @@
       "aum": 1729312194560,
       "fund_family": "Vanguard",
       "avg_volume": 7076525,
-      "bid": 715.7,
-      "ask": 716.0,
-      "spread_pct": 0.0419,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 715.59,
       "change_1d_pct": 0.61,
       "change_1y_pct": 17.3,
@@ -466,11 +466,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 43.8,
-        "call_open_interest": 8207,
-        "put_open_interest": 10209,
-        "put_call_oi_ratio": 1.24,
-        "expirations_available": 14
+        "atm_implied_vol_pct": 4.0,
+        "call_open_interest": 65,
+        "put_open_interest": 548,
+        "put_call_oi_ratio": 8.43,
+        "expirations_available": 15
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -492,9 +492,9 @@
       "aum": 881268883456,
       "fund_family": "iShares",
       "avg_volume": 6404051,
-      "bid": 781.24,
-      "ask": 782.69,
-      "spread_pct": 0.1854,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 781.97,
       "change_1d_pct": 0.6,
       "change_1y_pct": 17.3,
@@ -949,11 +949,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 22.4,
-        "call_open_interest": 779,
-        "put_open_interest": 536,
-        "put_call_oi_ratio": 0.69,
-        "expirations_available": 13
+        "atm_implied_vol_pct": 1.6,
+        "call_open_interest": 0,
+        "put_open_interest": 3,
+        "put_call_oi_ratio": null,
+        "expirations_available": 14
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -975,9 +975,9 @@
       "aum": 809216114688,
       "fund_family": "State Street Investment Management",
       "avg_volume": 43478743,
-      "bid": 778.57,
-      "ask": 778.63,
-      "spread_pct": 0.0077,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 778.57,
       "change_1d_pct": 0.6,
       "change_1y_pct": 17.26,
@@ -1432,11 +1432,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-12",
-        "atm_implied_vol_pct": 20.9,
-        "call_open_interest": 97897,
-        "put_open_interest": 147681,
-        "put_call_oi_ratio": 1.51,
-        "expirations_available": 28
+        "atm_implied_vol_pct": 5.3,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
+        "expirations_available": 32
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -1458,9 +1458,9 @@
       "aum": 2322096979968,
       "fund_family": "Vanguard",
       "avg_volume": 3039787,
-      "bid": 381.74,
-      "ask": 382.0,
-      "spread_pct": 0.0681,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 381.94,
       "change_1d_pct": 0.63,
       "change_1y_pct": 16.83,
@@ -1915,10 +1915,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 43.0,
-        "call_open_interest": 7288,
-        "put_open_interest": 3228,
-        "put_call_oi_ratio": 0.44,
+        "atm_implied_vol_pct": 3.8,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 9
       },
       "strongest_holding": {
@@ -2398,11 +2398,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-12",
-        "atm_implied_vol_pct": 28.5,
-        "call_open_interest": 68836,
-        "put_open_interest": 156277,
-        "put_call_oi_ratio": 2.27,
-        "expirations_available": 28
+        "atm_implied_vol_pct": 8.7,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
+        "expirations_available": 31
       },
       "strongest_holding": {
         "symbol": "MU",
@@ -2424,9 +2424,9 @@
       "aum": 190214750208,
       "fund_family": "iShares",
       "avg_volume": 8816470,
-      "bid": 92.37,
-      "ask": 100.0,
-      "spread_pct": 7.9326,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 96.52,
       "change_1d_pct": 0.68,
       "change_1y_pct": 13.95,
@@ -2876,15 +2876,15 @@
           "symbol": "BHP.AX",
           "name": "BHP Group Ltd",
           "weight_pct": 0.85,
-          "change_1y_pct": 54.98
+          "change_1y_pct": 55.18
         }
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 35.1,
-        "call_open_interest": 235,
-        "put_open_interest": 56,
-        "put_call_oi_ratio": 0.24,
+        "atm_implied_vol_pct": 10.0,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -2907,9 +2907,9 @@
       "aum": 313543393280,
       "fund_family": "Vanguard",
       "avg_volume": 9652292,
-      "bid": 70.02,
-      "ask": 70.59,
-      "spread_pct": 0.8108,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 70.35,
       "change_1d_pct": 0.7,
       "change_1y_pct": 19.72,
@@ -3305,13 +3305,13 @@
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 2.61,
-          "change_1y_pct": 179.78
+          "change_1y_pct": 183.08
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 2.01,
-          "change_1y_pct": 293.91
+          "change_1y_pct": 306.25
         },
         {
           "symbol": "ASML.AS",
@@ -3364,17 +3364,17 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 46.2,
-        "call_open_interest": 2576,
-        "put_open_interest": 576,
-        "put_call_oi_ratio": 0.22,
+        "atm_implied_vol_pct": 7.4,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 2.01,
-        "change_1y_pct": 293.91
+        "change_1y_pct": 306.25
       },
       "weakest_holding": {
         "symbol": "NESN.SW",
@@ -3390,9 +3390,9 @@
       "aum": 392072069120,
       "fund_family": "Vanguard",
       "avg_volume": 5942032,
-      "bid": 92.0,
-      "ask": 92.2,
-      "spread_pct": 0.2172,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 91.97,
       "change_1d_pct": 0.72,
       "change_1y_pct": 13.91,
@@ -3847,10 +3847,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 49.3,
-        "call_open_interest": 4017,
-        "put_open_interest": 1064,
-        "put_call_oi_ratio": 0.26,
+        "atm_implied_vol_pct": 2.7,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 6
       },
       "strongest_holding": {
@@ -4257,10 +4257,10 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 35.8,
-        "call_open_interest": 435,
-        "put_open_interest": 87,
-        "put_call_oi_ratio": 0.2,
+        "atm_implied_vol_pct": 9.1,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": null,
@@ -4273,9 +4273,9 @@
       "aum": 107887099904,
       "fund_family": "Schwab ETFs",
       "avg_volume": 22814245,
-      "bid": 33.04,
-      "ask": 33.1,
-      "spread_pct": 0.1814,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 33.04,
       "change_1d_pct": -0.33,
       "change_1y_pct": 26.66,
@@ -4730,11 +4730,11 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 93.7,
-        "call_open_interest": 14916,
-        "put_open_interest": 31965,
-        "put_call_oi_ratio": 2.14,
-        "expirations_available": 10
+        "atm_implied_vol_pct": 8.4,
+        "call_open_interest": 0,
+        "put_open_interest": 128,
+        "put_call_oi_ratio": null,
+        "expirations_available": 11
       },
       "strongest_holding": {
         "symbol": "MRK",
@@ -4756,9 +4756,9 @@
       "aum": 160075055104,
       "fund_family": "iShares",
       "avg_volume": 10967042,
-      "bid": 81.5,
-      "ask": 82.05,
-      "spread_pct": 0.6726,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 81.4,
       "change_1d_pct": 1.12,
       "change_1y_pct": 25.34,
@@ -5154,43 +5154,43 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 13.71,
-          "change_1y_pct": 82.42
+          "change_1y_pct": 81.71
         },
         {
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 6.62,
-          "change_1y_pct": 179.78
+          "change_1y_pct": 183.08
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 5.18,
-          "change_1y_pct": 293.91
+          "change_1y_pct": 306.25
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 2.41,
-          "change_1y_pct": -36.38
+          "change_1y_pct": -32.37
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 1.63,
-          "change_1y_pct": -38.19
+          "change_1y_pct": -33.07
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.59,
-          "change_1y_pct": 260.26
+          "change_1y_pct": 260.67
         },
         {
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.83,
-          "change_1y_pct": 101.35
+          "change_1y_pct": 85.43
         },
         {
           "symbol": "005935",
@@ -5208,28 +5208,28 @@
           "symbol": "2317.TW",
           "name": "Hon Hai Precision Industry Co Ltd",
           "weight_pct": 0.69,
-          "change_1y_pct": 13.96
+          "change_1y_pct": 18.21
         }
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 50.3,
-        "call_open_interest": 415,
-        "put_open_interest": 214,
-        "put_call_oi_ratio": 0.52,
+        "atm_implied_vol_pct": 6.9,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 5.18,
-        "change_1y_pct": 293.91
+        "change_1y_pct": 306.25
       },
       "weakest_holding": {
         "symbol": "9988.HK",
         "name": "Alibaba Group Holding Ltd Ordinary Shares",
         "weight_pct": 1.63,
-        "change_1y_pct": -38.19
+        "change_1y_pct": -33.07
       }
     },
     "AGG": {
@@ -5239,9 +5239,9 @@
       "aum": 135651655680,
       "fund_family": "iShares",
       "avg_volume": 9661304,
-      "bid": 94.43,
-      "ask": 94.79,
-      "spread_pct": 0.3805,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 94.59,
       "change_1d_pct": -0.04,
       "change_1y_pct": -1.56,
@@ -5630,10 +5630,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 14.6,
-        "call_open_interest": 653,
-        "put_open_interest": 108,
-        "put_call_oi_ratio": 0.17,
+        "atm_implied_vol_pct": 8.0,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": null,
@@ -5646,9 +5646,9 @@
       "aum": 251724939264,
       "fund_family": "Vanguard",
       "avg_volume": 2722214,
-      "bid": 219.72,
-      "ask": 221.15,
-      "spread_pct": 0.6487,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 220.59,
       "change_1d_pct": 0.44,
       "change_1y_pct": 20.99,
@@ -6103,10 +6103,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 37.4,
-        "call_open_interest": 495,
-        "put_open_interest": 312,
-        "put_call_oi_ratio": 0.63,
+        "atm_implied_vol_pct": 5.4,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -6527,19 +6527,19 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 3.97,
-          "change_1y_pct": 82.42
+          "change_1y_pct": 81.71
         },
         {
           "symbol": "005930.KQ",
           "name": "Samsung Electronics Co Ltd",
           "weight_pct": 1.9,
-          "change_1y_pct": 179.78
+          "change_1y_pct": 183.08
         },
         {
           "symbol": "000660.KQ",
           "name": "SK hynix Inc",
           "weight_pct": 1.46,
-          "change_1y_pct": 293.91
+          "change_1y_pct": 306.25
         },
         {
           "symbol": "ASML.AS",
@@ -6551,7 +6551,7 @@
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 0.78,
-          "change_1y_pct": -36.38
+          "change_1y_pct": -32.37
         },
         {
           "symbol": "HSBA.L",
@@ -6581,28 +6581,28 @@
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 0.59,
-          "change_1y_pct": -38.19
+          "change_1y_pct": -33.07
         }
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 75.2,
-        "call_open_interest": 3869,
-        "put_open_interest": 3059,
-        "put_call_oi_ratio": 0.79,
+        "atm_implied_vol_pct": 20.3,
+        "call_open_interest": 14,
+        "put_open_interest": 56,
+        "put_call_oi_ratio": 4.0,
         "expirations_available": 6
       },
       "strongest_holding": {
         "symbol": "000660.KQ",
         "name": "SK hynix Inc",
         "weight_pct": 1.46,
-        "change_1y_pct": 293.91
+        "change_1y_pct": 306.25
       },
       "weakest_holding": {
         "symbol": "9988.HK",
         "name": "Alibaba Group Holding Ltd Ordinary Shares",
         "weight_pct": 0.59,
-        "change_1y_pct": -38.19
+        "change_1y_pct": -33.07
       }
     },
     "VWO": {
@@ -6612,9 +6612,9 @@
       "aum": 164656922624,
       "fund_family": "Vanguard",
       "avg_volume": 6844226,
-      "bid": 59.69,
-      "ask": 59.8,
-      "spread_pct": 0.1841,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 59.76,
       "change_1d_pct": 1.12,
       "change_1y_pct": 12.13,
@@ -7010,31 +7010,31 @@
           "symbol": "2330.TW",
           "name": "Taiwan Semiconductor Manufacturing Co Ltd",
           "weight_pct": 14.72,
-          "change_1y_pct": 82.42
+          "change_1y_pct": 81.71
         },
         {
           "symbol": "0700.HK",
           "name": "Tencent Holdings Ltd",
           "weight_pct": 2.9,
-          "change_1y_pct": -36.38
+          "change_1y_pct": -32.37
         },
         {
           "symbol": "9988.HK",
           "name": "Alibaba Group Holding Ltd Ordinary Shares",
           "weight_pct": 2.19,
-          "change_1y_pct": -38.19
+          "change_1y_pct": -33.07
         },
         {
           "symbol": "2454.TW",
           "name": "MediaTek Inc",
           "weight_pct": 1.47,
-          "change_1y_pct": 260.26
+          "change_1y_pct": 260.67
         },
         {
           "symbol": "2308.TW",
           "name": "Delta Electronics Inc",
           "weight_pct": 0.9,
-          "change_1y_pct": 101.35
+          "change_1y_pct": 85.43
         },
         {
           "symbol": "00939",
@@ -7046,46 +7046,46 @@
           "symbol": "2317.TW",
           "name": "Hon Hai Precision Industry Co Ltd",
           "weight_pct": 0.77,
-          "change_1y_pct": 13.96
+          "change_1y_pct": 18.21
         },
         {
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.73,
-          "change_1y_pct": -14.67
+          "change_1y_pct": -15.06
         },
         {
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.68,
-          "change_1y_pct": -26.42
+          "change_1y_pct": -26.64
         },
         {
           "symbol": "ICICIBANK.NS",
           "name": "ICICI Bank Ltd",
           "weight_pct": 0.65,
-          "change_1y_pct": -0.71
+          "change_1y_pct": -2.29
         }
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 48.0,
-        "call_open_interest": 4327,
-        "put_open_interest": 2499,
-        "put_call_oi_ratio": 0.58,
-        "expirations_available": 7
+        "atm_implied_vol_pct": 5.5,
+        "call_open_interest": 0,
+        "put_open_interest": 1132,
+        "put_call_oi_ratio": null,
+        "expirations_available": 8
       },
       "strongest_holding": {
         "symbol": "2454.TW",
         "name": "MediaTek Inc",
         "weight_pct": 1.47,
-        "change_1y_pct": 260.26
+        "change_1y_pct": 260.67
       },
       "weakest_holding": {
         "symbol": "9988.HK",
         "name": "Alibaba Group Holding Ltd Ordinary Shares",
         "weight_pct": 2.19,
-        "change_1y_pct": -38.19
+        "change_1y_pct": -33.07
       }
     },
     "GLD": {
@@ -7095,9 +7095,9 @@
       "aum": 141702414336,
       "fund_family": "State Street Investment Management",
       "avg_volume": 9294320,
-      "bid": 384.4,
-      "ask": 384.5,
-      "spread_pct": 0.026,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 384.58,
       "change_1d_pct": 1.57,
       "change_1y_pct": 5.24,
@@ -7479,11 +7479,11 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-10-12",
-        "atm_implied_vol_pct": 39.3,
-        "call_open_interest": 11858,
-        "put_open_interest": 3316,
-        "put_call_oi_ratio": 0.28,
-        "expirations_available": 24
+        "atm_implied_vol_pct": 20.2,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
+        "expirations_available": 29
       },
       "strongest_holding": null,
       "weakest_holding": null
@@ -7495,9 +7495,9 @@
       "aum": 127738003456,
       "fund_family": "iShares",
       "avg_volume": 3916112,
-      "bid": 127.8,
-      "ask": 128.28,
-      "spread_pct": 0.3749,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 127.91,
       "change_1d_pct": 0.63,
       "change_1y_pct": 8.2,
@@ -7952,10 +7952,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 39.1,
-        "call_open_interest": 4859,
-        "put_open_interest": 459,
-        "put_call_oi_ratio": 0.09,
+        "atm_implied_vol_pct": 2.5,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 5
       },
       "strongest_holding": {
@@ -7978,9 +7978,9 @@
       "aum": 120931426304,
       "fund_family": "iShares",
       "avg_volume": 6561621,
-      "bid": 73.16,
-      "ask": 73.69,
-      "spread_pct": 0.7218,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 73.43,
       "change_1d_pct": 0.55,
       "change_1y_pct": 14.27,
@@ -8435,10 +8435,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 39.8,
-        "call_open_interest": 575,
-        "put_open_interest": 126,
-        "put_call_oi_ratio": 0.22,
+        "atm_implied_vol_pct": 8.5,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -8461,9 +8461,9 @@
       "aum": 127597993984,
       "fund_family": "Vanguard",
       "avg_volume": 1017235,
-      "bid": 238.54,
-      "ask": 239.83,
-      "spread_pct": 0.5393,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 239.05,
       "change_1d_pct": 0.7,
       "change_1y_pct": 12.04,
@@ -8918,10 +8918,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 36.1,
-        "call_open_interest": 213,
-        "put_open_interest": 164,
-        "put_call_oi_ratio": 0.77,
+        "atm_implied_vol_pct": 2.9,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 5
       },
       "strongest_holding": {
@@ -8944,9 +8944,9 @@
       "aum": 102559449088,
       "fund_family": "iShares",
       "avg_volume": 3069131,
-      "bid": 137.15,
-      "ask": 137.91,
-      "spread_pct": 0.5526,
+      "bid": 0.0,
+      "ask": 0.0,
+      "spread_pct": null,
       "price": 137.55,
       "change_1d_pct": 0.17,
       "change_1y_pct": 18.12,
@@ -9401,10 +9401,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-16",
-        "atm_implied_vol_pct": 46.1,
-        "call_open_interest": 271,
-        "put_open_interest": 138,
-        "put_call_oi_ratio": 0.51,
+        "atm_implied_vol_pct": 12.5,
+        "call_open_interest": 0,
+        "put_open_interest": 0,
+        "put_call_oi_ratio": null,
         "expirations_available": 5
       },
       "strongest_holding": {
