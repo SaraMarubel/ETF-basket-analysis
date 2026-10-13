@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T17:53:36.349754+00:00",
+  "generated_at": "2026-10-13T02:01:28.739393+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,34 @@
     ],
     "SPY": [
       {
+        "title": "What is Copart\u2019s (CPRT) Economic Moat, and is it Widening or Narrowing?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9a80dc1030cbc544",
+        "published_at": "2026-10-12T01:56:41Z",
+        "description": "Copart, Inc. (NASDAQ:CPRT) closed at $27.32 on October 9. The stock has returned -17.8% during the last 6 months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust.\nA business this profit\u2026"
+      },
+      {
+        "title": "What is Domino\u2019s (DPZ) Economic Moat, and is it Widening or Narrowing?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/19950800d414bc3d",
+        "published_at": "2026-10-12T01:41:29Z",
+        "description": "Domino's Pizza, Inc. (NASDAQ:DPZ) closed at $309.36 on October 9. The stock has returned -16% during the last 6 months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust.\nDomino's has han\u2026"
+      },
+      {
+        "title": "What is Philip Morris\u2019 (PM) Economic Moat, and is it Widening or Narrowing?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4b67379892f10fd2",
+        "published_at": "2026-10-12T01:26:37Z",
+        "description": "Philip Morris International Inc. (NYSE:PM) closed at $201.19 on October 9. The stock has returned 25.4% during the last 6 months, compared to a 33.9% return for the Insider Monkey Billionaire Index and 18.2% for the State Street SPDR S&P 500 ETF Trust.\nThe co\u2026"
+      },
+      {
+        "title": "vs Exxon Mobil (XOM): Which Oil Major is a Better Buy?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f8423c520bca18e6",
+        "published_at": "2026-10-12T00:41:17Z",
+        "description": "BP p.l.c. (NYSE:BP) closed at $46.25 on October 9. The stock has returned -0.4% during the last six months, compared to a 33.9% return for Insider Monkey Billionaire Index and 18.2% for the State Street SPDR S&P 500 ETF Trust. Exxon Mobil Corporation (NYSE:XO\u2026"
+      },
+      {
         "title": "Exchange-Traded Funds, Equity Futures Up Pre-Bell Friday as Oil Prices Fall, Traders Assess SpaceX Spectrum Deal",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/5e487d2a2c055a0f",
@@ -104,34 +132,6 @@
         "url": "https://biztoc.com/x/fed511a3e497a6f9",
         "published_at": "2026-10-08T22:05:39Z",
         "description": "The post The S&P 500 ETF You Know Charges 0.0945%. These 2 Charge 0.03% appeared first on 24/7 Wall St..\nInvestors who buy the best-known S&P 500 fund pay the highest fee in the group. The State Street SPDR S&P 500 ETF Trust (NYSEARCA:SPY) has an expense rati\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f3f056a1e9fa22a2",
-        "published_at": "2026-10-07T14:02:17Z",
-        "description": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Wednesday as Traders Await Fed Meeting Minutes\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.4%, and the actively traded Invesco QQQ Trust (QQQ) was 0.7% lower in Wednesday's \u2026"
-      },
-      {
-        "title": "Stocks made a record high. Two big bearish trades point to skepticism",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/07/stocks-made-a-record-high-two-big-bearish-trades-point-to-skepticism.html",
-        "published_at": "2026-10-07T13:59:16Z",
-        "description": "In the State Street SPDR S&P 500 ETF Trust (SPY), about an hour after the opening bell on Tuesday, someone traded a 100,000-lot put spread."
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Lower Oil Prices",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1c36e4a2d865d637",
-        "published_at": "2026-10-06T13:25:45Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Down Pre-Bell Monday as Tech Stocks Normalize",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0891f0803d42f03e",
-        "published_at": "2026-10-05T13:47:57Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1%, and the actively t"
       }
     ],
     "VTI": [
@@ -300,6 +300,13 @@
     ],
     "BND": [
       {
+        "title": "Which Vanguard Bond ETF Is the Better Buy: Broad Market BND or Treasury-Focused VGIT?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/1a17996d7bba9be5",
+        "published_at": "2026-10-11T21:56:05Z",
+        "description": "The choice between Vanguard Total Bond Market ETF (NASDAQ:BND) and Vanguard Intermediate-Term Treasury ETF (NASDAQ:VGIT) depends on whether an investor seeks broad market exposure or targeted government bond protection.\nBoth funds serve as foundational fixed-\u2026"
+      },
+      {
         "title": "How to protect your 401(k) from an AI stock market crash... as Wall Street analyst brands Anthropic's $2 trillion debut 'the most ridiculous IPO of 2026'",
         "source": "Dailymail.com",
         "url": "https://www.dailymail.com/yourmoney/article-16193427/anthropic-wall-street-ipo-ai-boom-protect-401k.html",
@@ -333,16 +340,16 @@
         "url": "https://biztoc.com/x/2cee9fbdb5304b36",
         "published_at": "2026-09-27T21:01:32Z",
         "description": "The post BND\u2019s 0.04% Fee Hides $254,720 in Taxes Over 20 Years for $500,000 Investors appeared first on 24/7 Wall St..\nPut $500,000 into the Vanguard Total Bond Market ETF (NASDAQ:BND) and it paid you about $20,724 in cash over the past year. If you held it o\u2026"
-      },
-      {
-        "title": "Why a California Retiree Holding BND Is Paying State Tax This Muni ETF Would Skip",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/eb8c3c5095dc0ad9",
-        "published_at": "2026-09-25T10:08:34Z",
-        "description": "The post Why a California Retiree Holding BND Is Paying State Tax This Muni ETF Would Skip appeared first on 24/7 Wall St..\nBy assets under management (AUM), the Vanguard Total Bond Market ETF (BND) is the biggest bond ETF in the world with $163 billion. I\u2019ve\u2026"
       }
     ],
     "SCHD": [
+      {
+        "title": "3 Dividend ETFs to Buy at 40 and Never Sell Through Retirement",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/7674f2952b2496e2",
+        "published_at": "2026-10-11T20:10:43Z",
+        "description": "The post 3 Dividend ETFs to Buy at 40 and Never Sell Through Retirement appeared first on 24/7 Wall St..\nIf you buy a dividend fund at 40 and plan to collect from it at 80, you are making a very long commitment. Three strong candidates for that job are the Sc\u2026"
+      },
       {
         "title": "Schwab's Dividend ETF's Worst Year Since 2012 Was a 5.5% Loss. The Cost Showed Up in the Good Years",
         "source": "Biztoc.com",
@@ -377,13 +384,6 @@
         "url": "https://biztoc.com/x/7edac1a53673152a",
         "published_at": "2026-10-04T11:42:19Z",
         "description": "The post Here\u2019s the Dividend ETF I\u2019d Invest $100 a Month Into Starting in October appeared first on 24/7 Wall St..\nSay you have $100 a month and no interest in guessing where the market goes next. One fund stands out for that setup: the Schwab U.S. Dividend E\u2026"
-      },
-      {
-        "title": "VIG vs. SCHD: The Better Dividend ETF Might Be the One With the Lower Yield",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/95d83058f9789f2a",
-        "published_at": "2026-10-03T16:29:10Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD) checks all the boxes that investors would want in a dividend ETF. It screens dividend stocks for high-quality balance sheets, above-average yield, and dividend growth history. It's one of the very few funds \u2026"
       }
     ],
     "IEMG": [
