@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T18:29:31.030682+00:00",
+  "generated_at": "2026-10-17T22:17:01.110572+00:00",
   "risk_free_rate_pct": 4.07,
   "etfs": {
     "VOO": {
@@ -6103,9 +6103,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 28.8,
-        "call_open_interest": 1812,
-        "put_open_interest": 429,
+        "atm_implied_vol_pct": 30.2,
+        "call_open_interest": 1814,
+        "put_open_interest": 440,
         "put_call_oi_ratio": 0.24,
         "expirations_available": 3
       },
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 39.3,
-        "call_open_interest": 3230,
-        "put_open_interest": 150,
+        "atm_implied_vol_pct": 42.0,
+        "call_open_interest": 3246,
+        "put_open_interest": 151,
         "put_call_oi_ratio": 0.05,
         "expirations_available": 4
       },
@@ -8437,7 +8437,7 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 36.6,
         "call_open_interest": 6076,
-        "put_open_interest": 227,
+        "put_open_interest": 229,
         "put_call_oi_ratio": 0.04,
         "expirations_available": 3
       },
@@ -8920,8 +8920,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 25.0,
         "call_open_interest": 1202,
-        "put_open_interest": 76,
-        "put_call_oi_ratio": 0.06,
+        "put_open_interest": 87,
+        "put_call_oi_ratio": 0.07,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": null
+          "change_1y_pct": 27.56
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 29.0,
+        "atm_implied_vol_pct": 33.9,
         "call_open_interest": 1559,
         "put_open_interest": 2163,
         "put_call_oi_ratio": 1.39,
