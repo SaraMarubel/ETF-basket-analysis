@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:22:34.499266+00:00",
+  "generated_at": "2026-10-17T12:11:03.502062+00:00",
   "risk_free_rate_pct": 4.07,
   "etfs": {
     "VOO": {
@@ -2822,13 +2822,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.79,
-          "change_1y_pct": 67.97
+          "change_1y_pct": 69.46
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 43.75
+          "change_1y_pct": 44.44
         },
         {
           "symbol": "ROP.SW",
@@ -2840,7 +2840,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 1.09,
-          "change_1y_pct": 46.06
+          "change_1y_pct": 47.19
         },
         {
           "symbol": "NOVN.SW",
@@ -2858,13 +2858,13 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.98,
-          "change_1y_pct": 1.16
+          "change_1y_pct": -0.84
         },
         {
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 0.93,
-          "change_1y_pct": 1.41
+          "change_1y_pct": 3.11
         },
         {
           "symbol": "SIE.DE",
@@ -2891,13 +2891,13 @@
         "symbol": "ASML.AS",
         "name": "ASML Holding NV",
         "weight_pct": 2.79,
-        "change_1y_pct": 67.97
+        "change_1y_pct": 69.46
       },
       "weakest_holding": {
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.98,
-        "change_1y_pct": 1.16
+        "change_1y_pct": -0.84
       }
     },
     "VEA": {
@@ -3317,13 +3317,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.14,
-          "change_1y_pct": 67.97
+          "change_1y_pct": 69.46
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.05,
-          "change_1y_pct": 43.75
+          "change_1y_pct": 44.44
         },
         {
           "symbol": "ROP.SW",
@@ -3335,7 +3335,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.86,
-          "change_1y_pct": 46.06
+          "change_1y_pct": 47.19
         },
         {
           "symbol": "RY",
@@ -3359,7 +3359,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.75,
-          "change_1y_pct": 1.16
+          "change_1y_pct": -0.84
         }
       ],
       "options": {
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.75,
-        "change_1y_pct": 1.16
+        "change_1y_pct": -0.84
       }
     },
     "VUG": {
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.42,
-          "change_1y_pct": 67.97
+          "change_1y_pct": 69.46
         },
         {
           "symbol": "0700.HK",
@@ -6557,7 +6557,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.76,
-          "change_1y_pct": 43.75
+          "change_1y_pct": 44.44
         },
         {
           "symbol": "ROP.SW",

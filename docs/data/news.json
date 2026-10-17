@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:23:00.347779+00:00",
+  "generated_at": "2026-10-17T12:11:29.625616+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -47,6 +47,13 @@
       }
     ],
     "IVV": [
+      {
+        "title": "What iShares Core S&P 500 ETF (IVV) Bought: NVIDIA Leads on Oct. 14",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b344f2aac7ce525c",
+        "published_at": "2026-10-16T11:27:38Z",
+        "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) reported a net inflow of $499.6 million in Wednesday's session, with ETF activity showing 497 positions increased and none decreased. The fund's gross traded amount matched its net bough\u2026"
+      },
       {
         "title": "IVV ETF and other iShares funds are paying dividends today. Here's how much",
         "source": "Motley Fool Australia",
@@ -173,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Sells NVIDIA and Apple on Oct. 14",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8cf5949ea8164100",
+        "published_at": "2026-10-16T11:57:29Z",
+        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) reported a net outflow of $4.18 billion in Wednesday's session, with ETF activity showing no new positions and reductions across all 101 holdings. The fund's assets under management stand at $4\u2026"
+      },
+      {
         "title": "Cboe to expand options trading hours for major stocks and ETFs",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
@@ -206,13 +220,6 @@
         "url": "https://biztoc.com/x/5e487d2a2c055a0f",
         "published_at": "2026-10-09T13:58:12Z",
         "description": "Exchange-Traded Funds, Equity Futures Up Pre-Bell Friday as Oil Prices Fall, Traders Assess SpaceX Spectrum Deal\nThe broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.3%, and the actively traded Invesco QQQ Trust (QQQ) advanced 0.7% in F\u2026"
-      },
-      {
-        "title": "Tech stocks' resilience has puzzled investors. The options market could hold some clues",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html",
-        "published_at": "2026-10-09T13:07:30Z",
-        "description": "In the options pits, traders are the most prepared for a tech pullback since early Summer."
       }
     ],
     "IEFA": [],
@@ -322,6 +329,13 @@
     ],
     "SCHD": [
       {
+        "title": "Why SCHD\u2019s Income Is Unshakable This Year: 6 Dividend Aristocrats Doing the Heavy Lifting",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/44a0b9846c17d15d",
+        "published_at": "2026-10-16T11:56:01Z",
+        "description": "The post Why SCHD\u2019s Income Is Unshakable This Year: 6 Dividend Aristocrats Doing the Heavy Lifting appeared first on 24/7 Wall St..\nEvery stock in the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) passed a quality screen to qualify. The question for income \u2026"
+      },
+      {
         "title": "SCHD Pays $8,384 More a Year Than SCHG. Over Five Years SCHG Returned $121,800 More",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/383a49796e8df65a",
@@ -355,13 +369,6 @@
         "url": "https://biztoc.com/x/7674f2952b2496e2",
         "published_at": "2026-10-11T20:10:43Z",
         "description": "The post 3 Dividend ETFs to Buy at 40 and Never Sell Through Retirement appeared first on 24/7 Wall St..\nIf you buy a dividend fund at 40 and plan to collect from it at 80, you are making a very long commitment. Three strong candidates for that job are the Sc\u2026"
-      },
-      {
-        "title": "Schwab's Dividend ETF's Worst Year Since 2012 Was a 5.5% Loss. The Cost Showed Up in the Good Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a879d2c1d666babf",
-        "published_at": "2026-10-11T11:24:01Z",
-        "description": "Schwab's Dividend ETF's Worst Year Since 2012 Was a 5.5% Loss. The Cost Showed Up in the Good Years.\nBetween 2012 and 2025, the Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD) ended just three calendar years in the red, including the dividends it paid. And non\u2026"
       }
     ],
     "IEMG": [
@@ -523,7 +530,15 @@
         "description": "Sustained gold ETF inflows could bolster gold prices, but rapid reversals may occur if safe-haven demand wanes, impacting market stability.\nThe post Global physical gold-backed ETFs see 27.1 tonnes inflow, marking 11th straight week of gains appeared first on\u2026"
       }
     ],
-    "IWF": [],
+    "IWF": [
+      {
+        "title": "iShares Russell 1000 Growth ETF (IWF) Buys $16.2 Million More NVIDIA on Oct. 14",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/19b6a7bbbae3f985",
+        "published_at": "2026-10-16T11:57:57Z",
+        "description": "This article first appeared on GuruFocus.\nETF activity at iShares Russell 1000 Growth ETF (IWF) was entirely one-sided on Wednesday, Oct. 14, with 360 positions increased and none decreased. The fund, with $127.62 billion in assets under management, bought $1\u2026"
+      }
+    ],
     "IJH": [],
     "VIG": [
       {
