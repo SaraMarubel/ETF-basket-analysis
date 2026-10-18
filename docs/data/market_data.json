@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:17:01.110572+00:00",
+  "generated_at": "2026-10-18T04:28:52.272479+00:00",
   "risk_free_rate_pct": 4.07,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-23",
-        "atm_implied_vol_pct": 29.3,
+        "atm_implied_vol_pct": 31.4,
         "call_open_interest": 4049,
         "put_open_interest": 1253,
         "put_call_oi_ratio": 0.31,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-23",
-        "atm_implied_vol_pct": 18.1,
+        "atm_implied_vol_pct": 19.5,
         "call_open_interest": 255,
         "put_open_interest": 113,
         "put_call_oi_ratio": 0.44,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-19",
-        "atm_implied_vol_pct": 38.3,
+        "atm_implied_vol_pct": 46.9,
         "call_open_interest": 94121,
         "put_open_interest": 294919,
         "put_call_oi_ratio": 3.13,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 27.6,
+        "atm_implied_vol_pct": 28.0,
         "call_open_interest": 2225,
         "put_open_interest": 1427,
         "put_call_oi_ratio": 0.64,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-19",
-        "atm_implied_vol_pct": 33.1,
+        "atm_implied_vol_pct": 40.3,
         "call_open_interest": 89346,
         "put_open_interest": 132830,
         "put_call_oi_ratio": 1.49,
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 22.0,
+        "atm_implied_vol_pct": 22.4,
         "call_open_interest": 191,
         "put_open_interest": 13,
         "put_call_oi_ratio": 0.07,
@@ -3364,7 +3364,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 29.4,
+        "atm_implied_vol_pct": 29.8,
         "call_open_interest": 3596,
         "put_open_interest": 119,
         "put_call_oi_ratio": 0.03,
@@ -3445,7 +3445,7 @@
         },
         {
           "date": "2026-06-25",
-          "close": 82.88
+          "close": 82.87
         },
         {
           "date": "2026-06-26",
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 28.4,
+        "atm_implied_vol_pct": 28.8,
         "call_open_interest": 1818,
         "put_open_interest": 491,
         "put_call_oi_ratio": 0.27,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 11.4,
+        "atm_implied_vol_pct": 11.6,
         "call_open_interest": 286,
         "put_open_interest": 106,
         "put_call_oi_ratio": 0.37,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-23",
-        "atm_implied_vol_pct": 47.7,
+        "atm_implied_vol_pct": 50.0,
         "call_open_interest": 13506,
         "put_open_interest": 2041,
         "put_call_oi_ratio": 0.15,
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 36.3,
+        "atm_implied_vol_pct": 36.8,
         "call_open_interest": 215,
         "put_open_interest": 29,
         "put_call_oi_ratio": 0.13,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 8.6,
+        "atm_implied_vol_pct": 8.8,
         "call_open_interest": 232,
         "put_open_interest": 59,
         "put_call_oi_ratio": 0.25,
@@ -6103,7 +6103,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 30.2,
+        "atm_implied_vol_pct": 30.1,
         "call_open_interest": 1814,
         "put_open_interest": 440,
         "put_call_oi_ratio": 0.24,
@@ -6586,7 +6586,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-10-23",
-        "atm_implied_vol_pct": 39.3,
+        "atm_implied_vol_pct": 42.4,
         "call_open_interest": 209,
         "put_open_interest": 137,
         "put_call_oi_ratio": 0.66,
@@ -7069,7 +7069,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 22.5,
+        "atm_implied_vol_pct": 22.8,
         "call_open_interest": 3593,
         "put_open_interest": 1254,
         "put_call_oi_ratio": 0.35,
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-10-19",
-        "atm_implied_vol_pct": 37.6,
+        "atm_implied_vol_pct": 45.8,
         "call_open_interest": 10945,
         "put_open_interest": 3921,
         "put_call_oi_ratio": 0.36,
@@ -7952,7 +7952,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 42.0,
+        "atm_implied_vol_pct": 42.4,
         "call_open_interest": 3246,
         "put_open_interest": 151,
         "put_call_oi_ratio": 0.05,
@@ -8435,7 +8435,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 36.6,
+        "atm_implied_vol_pct": 37.2,
         "call_open_interest": 6076,
         "put_open_interest": 229,
         "put_call_oi_ratio": 0.04,
@@ -8918,7 +8918,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 25.0,
+        "atm_implied_vol_pct": 25.3,
         "call_open_interest": 1202,
         "put_open_interest": 87,
         "put_call_oi_ratio": 0.07,
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 33.9,
+        "atm_implied_vol_pct": 34.4,
         "call_open_interest": 1559,
         "put_open_interest": 2163,
         "put_call_oi_ratio": 1.39,
