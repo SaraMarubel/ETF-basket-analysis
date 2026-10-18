@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:28:52.272479+00:00",
+  "generated_at": "2026-10-18T12:36:16.644798+00:00",
   "risk_free_rate_pct": 4.07,
   "etfs": {
     "VOO": {
@@ -3445,7 +3445,7 @@
         },
         {
           "date": "2026-06-25",
-          "close": 82.87
+          "close": 82.88
         },
         {
           "date": "2026-06-26",
@@ -6103,9 +6103,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 30.1,
-        "call_open_interest": 1814,
-        "put_open_interest": 440,
+        "atm_implied_vol_pct": 28.7,
+        "call_open_interest": 1812,
+        "put_open_interest": 429,
         "put_call_oi_ratio": 0.24,
         "expirations_available": 3
       },
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 42.4,
-        "call_open_interest": 3246,
-        "put_open_interest": 151,
+        "atm_implied_vol_pct": 39.6,
+        "call_open_interest": 3230,
+        "put_open_interest": 150,
         "put_call_oi_ratio": 0.05,
         "expirations_available": 4
       },
@@ -8437,7 +8437,7 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 37.2,
         "call_open_interest": 6076,
-        "put_open_interest": 229,
+        "put_open_interest": 227,
         "put_call_oi_ratio": 0.04,
         "expirations_available": 3
       },
@@ -8920,8 +8920,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 25.3,
         "call_open_interest": 1202,
-        "put_open_interest": 87,
-        "put_call_oi_ratio": 0.07,
+        "put_open_interest": 76,
+        "put_call_oi_ratio": 0.06,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": 27.56
+          "change_1y_pct": null
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 34.4,
+        "atm_implied_vol_pct": 29.5,
         "call_open_interest": 1559,
         "put_open_interest": 2163,
         "put_call_oi_ratio": 1.39,
