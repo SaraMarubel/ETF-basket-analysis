@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T15:35:26.623571+00:00",
+  "generated_at": "2026-10-19T21:03:06.543302+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -136,6 +136,13 @@
     ],
     "VTI": [
       {
+        "title": "Show HN: CLI for your financial data (and Costco and Amazon)",
+        "source": "Github.io",
+        "url": "https://kilianc.github.io/fin/",
+        "published_at": "2026-10-18T17:11:24Z",
+        "description": "A CLI for your financial data, built for the AI era: fin connects your banks, cards and brokerages through Plaid and brings in your Amazon and Costco purchases, locally and for free."
+      },
+      {
         "title": "Show HN: 9.8M product opinions collected from Reddit / HN, on 48,837 products",
         "source": "Trustmebro.reviews",
         "url": "https://www.trustmebro.reviews/",
@@ -169,13 +176,6 @@
         "url": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
         "published_at": "2026-09-22T14:38:43Z",
         "description": "Some eligible families are still uncertain whether Trump Accounts are right for their children, which keeps them from taking advantage of the account's benef..."
-      },
-      {
-        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-21T21:00:28Z",
-        "description": "Here are the daily ETF fund flows for September 18, 2026."
       }
     ],
     "QQQ": [
@@ -371,15 +371,7 @@
         "description": "The post Forget SCHD: $100,000 in DGRO Became $168,700 Over Five Years. SCHD Reached $155,870. appeared first on 24/7 Wall St..\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) is a default holding for income investors who want dividend-paying U.S. stocks \u2026"
       }
     ],
-    "IEMG": [
-      {
-        "title": "Portfolio Fit: VEEM",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-veem/",
-        "published_at": "2026-09-18T16:40:47Z",
-        "description": "VanEck just launched an ETF that bets analyst sentiment can beat the MSCI Emerging Markets index at its own game, but with no track record and a strategy tha..."
-      }
-    ],
+    "IEMG": [],
     "AGG": [
       {
         "title": "Why Retirees Ditching Bonds for SPYI Are Missing the Real Reason to Own Bonds",
@@ -401,20 +393,6 @@
         "url": "https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html",
         "published_at": "2026-09-23T14:31:44Z",
         "description": "Don\u2019t wait until December: The bond market selloff has opened a tax-loss harvesting opportunity for investors to offset big gains from stocks."
-      },
-      {
-        "title": "Bonds in the IRA or in the Taxable Account? Park Them in the Wrong One and the IRS Takes a Cut Every Year. These 3 ETFs Go Where They Belong",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/17/bonds-in-the-ira-or-in-the-taxable-account-park-them-in-the-wrong-one-and-the-irs-takes-a-cut-every-year-these-3-etfs-go-where-they-belong/",
-        "published_at": "2026-09-17T21:55:53Z",
-        "description": "Where you park a bond fund matters just as much as which fund you pick, and most investors get the pairing backwards in ways that quietly drain returns every..."
-      },
-      {
-        "title": "The Fed Just Raised Rates for the First Time Since 2023. These Six Funds Get a Raise With It",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/29f60aae68927459",
-        "published_at": "2026-09-17T21:10:16Z",
-        "description": "The post The Fed Just Raised Rates for the First Time Since 2023. These Six Funds Get a Raise With It appeared first on 24/7 Wall St..\nIf you hold the iShares Core U.S. Aggregate Bond ETF (NYSEARCA:AGG) as your core bond position, the past week made your job \u2026"
       }
     ],
     "VTV": [
@@ -424,13 +402,6 @@
         "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
         "published_at": "2026-09-21T21:00:28Z",
         "description": "Here are the daily ETF fund flows for September 18, 2026."
-      },
-      {
-        "title": "Daily ETF Flows: SPMO's AUM Surges",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-spmos-aum-surges?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-18T21:00:26Z",
-        "description": "Here are the daily ETF fund flows for September 17, 2026."
       }
     ],
     "VXUS": [
@@ -449,15 +420,7 @@
         "description": "Five hundred thousand dollars just landed in your account, and the decision you make in the next few days will shape your returns for the next two decades. T..."
       }
     ],
-    "VWO": [
-      {
-        "title": "Portfolio Fit: VEEM",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/18/portfolio-fit-veem/",
-        "published_at": "2026-09-18T16:40:47Z",
-        "description": "VanEck just launched an ETF that bets analyst sentiment can beat the MSCI Emerging Markets index at its own game, but with no track record and a strategy tha..."
-      }
-    ],
+    "VWO": [],
     "GLD": [
       {
         "title": "Cboe to expand options trading hours for major stocks and ETFs",
