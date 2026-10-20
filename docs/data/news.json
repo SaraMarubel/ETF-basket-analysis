@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:33:47.337679+00:00",
+  "generated_at": "2026-10-20T20:00:17.390754+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "Vanguard's growth ETF turned terrible timing into $100K",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d71e604bfb0007bb",
+        "published_at": "2026-10-19T15:55:17Z",
+        "description": "The long-term data for the Vanguard Growth ETF (VUG) reward patience far more than precision. A $10,000 stake placed in VUG on Oct. 31, 2007, the eve of a 51% crash, has grown to $100,122, 24/7 Wall St reported.\nThe same amount invested in the SPDR S&P 500 ET\u2026"
+      },
+      {
+        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday as Tech Stocks Recover",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/56183b1ca1c7209c",
+        "published_at": "2026-10-19T14:10:51Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.6% and the actively trad"
+      },
+      {
         "title": "What State Street SPDR S&P 500 ETF (SPY) Sold: NVIDIA Leads on Thursday",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/9379ef7833ee1c7a",
@@ -118,23 +132,16 @@
         "url": "https://biztoc.com/x/82ca65de331f5022",
         "published_at": "2026-10-18T15:18:10Z",
         "description": "Roper Technologies, Inc. (NASDAQ:ROP) and Danaher Corporation (NYSE:DHR) have returned 4.01% and 18.97%, respectively, over the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index and 15.74% for the Stat\u2026"
-      },
-      {
-        "title": "Has Bigger Growth Ambitions. Is Duke Energy (DUK) the Better Buy?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1a9b31ccd8993b1d",
-        "published_at": "2026-10-18T15:18:09Z",
-        "description": "NextEra Energy, Inc. (NYSE:NEE) and Duke Energy Corporation (NYSE:DUK) have returned -13.29% and -6.77%, respectively, over the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index and 15.74% for the Stat\u2026"
-      },
-      {
-        "title": "Has a Long Runway. Is the Stock Worth Buying?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d28d599061f89d83",
-        "published_at": "2026-10-18T15:18:08Z",
-        "description": "Waste Management, Inc. (NYSE:WM) has returned 0.19% during the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index and 15.74% for the State Street SPDR S&P 500 ETF Trust.\nWaste Management operates in one\u2026"
       }
     ],
     "VTI": [
+      {
+        "title": "Elon Musk pledges to give one SpaceX share to every american child next year \u2014 a gift worth roughly $10.5 billion",
+        "source": "Macdailynews.com",
+        "url": "https://macdailynews.com/2026/10/19/elon-musk-pledges-to-give-one-spacex-share-to-every-american-child-next-year-a-gift-worth-roughly-10-5-billion/",
+        "published_at": "2026-10-19T14:00:06Z",
+        "description": "Elon Musk announced on X early Monday that he plans to give one of his personal SpaceX shares to every kid in America next year\u2026\nThe post Elon Musk pledges to give one SpaceX share to every american child next year \u2014 a gift worth roughly $10.5 billion appeare\u2026"
+      },
       {
         "title": "Show HN: CLI for your financial data (and Costco and Amazon)",
         "source": "Github.io",
@@ -169,13 +176,6 @@
         "url": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
         "published_at": "2026-09-22T22:35:11Z",
         "description": "The Vanguard Total Stock Market ETF promises broader diversification than the S&P 500, but a decade of returns tells a different story about what those extra..."
-      },
-      {
-        "title": "Trump Accounts could help lower-income families most. Few have signed up.",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/personal-finance/investing/article/trump-accounts-could-help-lower-income-families-most-few-have-signed-up-143843357.html",
-        "published_at": "2026-09-22T14:38:43Z",
-        "description": "Some eligible families are still uncertain whether Trump Accounts are right for their children, which keeps them from taking advantage of the account's benef..."
       }
     ],
     "QQQ": [
@@ -241,6 +241,13 @@
     ],
     "VUG": [
       {
+        "title": "Vanguard's growth ETF turned terrible timing into $100K",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d71e604bfb0007bb",
+        "published_at": "2026-10-19T15:55:17Z",
+        "description": "The long-term data for the Vanguard Growth ETF (VUG) reward patience far more than precision. A $10,000 stake placed in VUG on Oct. 31, 2007, the eve of a 51% crash, has grown to $100,122, 24/7 Wall St reported.\nThe same amount invested in the SPDR S&P 500 ET\u2026"
+      },
+      {
         "title": "VGT Returned 799.70% and VOO Returned 324.46% Over a Decade. Adding VUG Does Not Make It Diversified",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/e0232aaa03a70b3c",
@@ -274,13 +281,6 @@
         "url": "https://biztoc.com/x/aba58e47b35f14f9",
         "published_at": "2026-09-25T19:52:38Z",
         "description": "The post The Case For and Against Fidelity\u2019s Fundamental Large Cap Growth ETF appeared first on 24/7 Wall St..\nThe Fidelity Fundamental Large Cap Growth ETF (CBOE:FFLG) has gained 14.29% in 2026 through September 24. That puts FFLG ahead of the passive Vangua\u2026"
-      },
-      {
-        "title": "Vanguard Announces Cash Distributions for the Vanguard ETFs",
-        "source": "Financial Post",
-        "url": "https://financialpost.com/globe-newswire/vanguard-announces-cash-distributions-for-the-vanguard-etfs-123",
-        "published_at": "2026-09-23T17:45:26Z",
-        "description": "(VBU, VBG, VGAB, VAB, VSB, VSC, VCB, VGV, VLB, VRIF, VBAL, VCOR, VCNS, VCIP, VGRO and VVSG) TORONTO, Sept. 23, 2026 (GLOBE NEWSWIRE) \u2014 Vanguard Investments Canada Inc. today announced the final September 2026 cash distributions for certain Vanguard ETFs, list\u2026"
       }
     ],
     "BND": [
@@ -329,6 +329,13 @@
     ],
     "SCHD": [
       {
+        "title": "Schwab's dividend ETF drops 6% into a familiar zone",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ab015c6928f11c9d",
+        "published_at": "2026-10-19T17:26:29Z",
+        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) bounced back after sharp declines during the 2020 pandemic crash and the 2022 market crash.\nSCHD reached $35.31 on Aug. 24, 2026, before pulling back to $33.26, a roughly 6% retreat that mirrors past recoverable draw\u2026"
+      },
+      {
         "title": "If You Own SCHD for a 10-Year Hold, This Dividend Growth ETF Deserves a Look",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a44d40e5cb2aec05",
@@ -362,13 +369,6 @@
         "url": "https://biztoc.com/x/feb663e6800b5730",
         "published_at": "2026-10-14T14:51:53Z",
         "description": "Beating the S&P 500 is hard, but sometimes individual stocks or entire exchange-traded funds (ETFs) can do it. So far in 2026, this widely watched benchmark has been outperformed by the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD). SCHD has delivered a yea\u2026"
-      },
-      {
-        "title": "Forget SCHD: $100,000 in DGRO Became $168,700 Over Five Years. SCHD Reached $155,870",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/42080e9f055f6fc4",
-        "published_at": "2026-10-12T23:05:32Z",
-        "description": "The post Forget SCHD: $100,000 in DGRO Became $168,700 Over Five Years. SCHD Reached $155,870. appeared first on 24/7 Wall St..\nThe Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) is a default holding for income investors who want dividend-paying U.S. stocks \u2026"
       }
     ],
     "IEMG": [],
