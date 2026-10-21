@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:45:59.448190+00:00",
+  "generated_at": "2026-10-21T20:09:09.829283+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as AI Stocks Retreat, Oil Prices Rise",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/54c4233d10618054",
+        "published_at": "2026-10-20T14:03:30Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.2% and the actively tr"
+      },
+      {
         "title": "Vanguard's growth ETF turned terrible timing into $100K",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d71e604bfb0007bb",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/1c7a73a0e12d8de3",
         "published_at": "2026-10-18T15:18:22Z",
         "description": "S&P Global Inc. (NYSE:SPGI) has returned 1.41% during the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index and 15.74% for the State Street SPDR S&P 500 ETF Trust.\nS&P has an advantage that many AI com\u2026"
-      },
-      {
-        "title": "vs. Danaher (DHR): Which Is the Better Long-Term Capital Allocator?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/82ca65de331f5022",
-        "published_at": "2026-10-18T15:18:10Z",
-        "description": "Roper Technologies, Inc. (NASDAQ:ROP) and Danaher Corporation (NYSE:DHR) have returned 4.01% and 18.97%, respectively, over the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index and 15.74% for the Stat\u2026"
       }
     ],
     "VTI": [
@@ -329,6 +329,13 @@
     ],
     "SCHD": [
       {
+        "title": "3 global ETFs edge SCHD on income, but there's a twist",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2b974785f62e2c3d",
+        "published_at": "2026-10-20T14:47:46Z",
+        "description": "Retirees seeking bigger dividend checks than the Schwab U.S. Dividend Equity ETF (SCHD) now delivers have three overseas funds that have outperformed it and topped the S&P 500 over the past year.\nThe Vanguard International High Dividend Yield ETF (VYMI), iSha\u2026"
+      },
+      {
         "title": "Schwab's dividend ETF drops 6% into a familiar zone",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ab015c6928f11c9d",
@@ -362,13 +369,6 @@
         "url": "https://biztoc.com/x/86e263f0b7268525",
         "published_at": "2026-10-14T21:38:02Z",
         "description": "The post Forget SCHD\u2019s Home Bias: Schwab\u2019s International Fund Charges 0.08% and Nearly Matched It Over Five Years appeared first on 24/7 Wall St..\nMany income investors ground their portfolios with the Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD), and the \u2026"
-      },
-      {
-        "title": "This ETF Has Crushed the S&P 500 in 2026. Here's Why I Think It Still Has Room to Grow",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/feb663e6800b5730",
-        "published_at": "2026-10-14T14:51:53Z",
-        "description": "Beating the S&P 500 is hard, but sometimes individual stocks or entire exchange-traded funds (ETFs) can do it. So far in 2026, this widely watched benchmark has been outperformed by the Schwab U.S. Dividend Equity ETF (NYSEMKT: SCHD). SCHD has delivered a yea\u2026"
       }
     ],
     "IEMG": [],
