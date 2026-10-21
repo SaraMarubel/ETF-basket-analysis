@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:43:15.055605+00:00",
+  "generated_at": "2026-10-21T13:45:59.448190+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -180,6 +180,13 @@
     ],
     "QQQ": [
       {
+        "title": "Live updates: Market jitters persist as the AI selloff deepens",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+        "published_at": "2026-10-20T10:14:19Z",
+        "description": "South Korea\u2019s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country\u2019s history, with data centre company Elice tumbling around 30%."
+      },
+      {
         "title": "Adds NVIDIA and Apple on Oct. 15",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a76004852622a116",
@@ -213,13 +220,6 @@
         "url": "https://biztoc.com/x/7a2c8677e4729f46",
         "published_at": "2026-10-19T08:51:34Z",
         "description": "The post QQQ Pulled In $1.66 Billion. The Same Index Trades Under a Cheaper Ticker. appeared first on 24/7 Wall St..\nInvestors put $1.66 billion into the Invesco QQQ Trust (NASDAQ:QQQ) in an ETF flow count dated October 14, 2026. No other fund on the list too\u2026"
-      },
-      {
-        "title": "Health Care and Crude Led the Week While Tech Lost Its Grip",
-        "source": "Middletownlifemagazine.com",
-        "url": "https://lifestyle.middletownlifemagazine.com/story/763991/health-care-and-crude-led-the-week-while-tech-lost-its-grip/",
-        "published_at": "2026-10-16T14:46:03Z",
-        "description": "Health Care and Crude Led the Week While Tech Lost Its Gripmiddletownlifemagazine.com"
       }
     ],
     "IEFA": [],
