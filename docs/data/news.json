@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T13:24:25.740638+00:00",
+  "generated_at": "2026-10-23T19:57:32.374731+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Thursday Amid Jobless Claims Data Release",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ab444b169cba0574",
+        "published_at": "2026-10-22T14:28:45Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.9% and the actively tr"
+      },
+      {
         "title": "vs Oracle (ORCL): Which Is a Better Stock to Buy?",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/569f388ce6a12f5a",
@@ -125,16 +132,16 @@
         "url": "https://biztoc.com/x/d71e604bfb0007bb",
         "published_at": "2026-10-19T15:55:17Z",
         "description": "The long-term data for the Vanguard Growth ETF (VUG) reward patience far more than precision. A $10,000 stake placed in VUG on Oct. 31, 2007, the eve of a 51% crash, has grown to $100,122, 24/7 Wall St reported.\nThe same amount invested in the SPDR S&P 500 ET\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday as Tech Stocks Recover",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/56183b1ca1c7209c",
-        "published_at": "2026-10-19T14:10:51Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.6% and the actively trad"
       }
     ],
     "VTI": [
+      {
+        "title": "Social Security is helping new parents open a Trump Account for their kids",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/10/22/lifestyle/social-security-has-made-it-even-easier-for-new-parents-to-open-a-trump-account-for-kids/",
+        "published_at": "2026-10-22T15:34:45Z",
+        "description": "Social Security has added a brand new program to its lineup."
+      },
       {
         "title": "Elon Musk pledges to give one SpaceX share to every american child next year \u2014 a gift worth roughly $10.5 billion",
         "source": "Macdailynews.com",
@@ -169,13 +176,6 @@
         "url": "https://biztoc.com/x/8d26f7abc7ea8292",
         "published_at": "2026-09-22T22:43:45Z",
         "description": "The post VTI\u2019s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade appeared first on 24/7 Wall St..\nSmall-Cap Drag Hiding Inside Your Total Market Fund\nIf you put $500,000 into the Vanguard Total Stock Market ETF (NYSEARCA:VTI) ten year\u2026"
-      },
-      {
-        "title": "VTI\u2019s 3,000 Extra Stocks Cost Holders $393,400 Per $500,000 Over the Past Decade",
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/etf/2026/09/22/vtis-3000-extra-stocks-cost-holders-393400-per-500000-over-the-past-decade/",
-        "published_at": "2026-09-22T22:35:11Z",
-        "description": "The Vanguard Total Stock Market ETF promises broader diversification than the S&P 500, but a decade of returns tells a different story about what those extra..."
       }
     ],
     "QQQ": [
@@ -395,15 +395,7 @@
         "description": "Don\u2019t wait until December: The bond market selloff has opened a tax-loss harvesting opportunity for investors to offset big gains from stocks."
       }
     ],
-    "VTV": [
-      {
-        "title": "Daily ETF Flows: COWZ Gobbles Up Assets",
-        "source": "Etf.com",
-        "url": "http://www.etf.com/sections/daily-etf-flows/daily-etf-flows-cowz-gobbles-assets?utm_source=yahoo-finance&amp;utm_medium=rss&amp;utm_campaign=yahoo-finance-rss",
-        "published_at": "2026-09-21T21:00:28Z",
-        "description": "Here are the daily ETF fund flows for September 18, 2026."
-      }
-    ],
+    "VTV": [],
     "VXUS": [
       {
         "title": "Forget VXUS: VOO Returned 320.81% Over Ten Years Against VXUS\u2019s 139.56%",
