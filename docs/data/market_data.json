@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:02:16.606565+00:00",
+  "generated_at": "2026-10-25T22:32:38.960676+00:00",
   "risk_free_rate_pct": 4.03,
   "etfs": {
     "VOO": {
@@ -3425,7 +3425,7 @@
         },
         {
           "date": "2026-06-25",
-          "close": 82.88
+          "close": 82.87
         },
         {
           "date": "2026-06-26",
@@ -6103,9 +6103,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 29.2,
-        "call_open_interest": 1907,
-        "put_open_interest": 541,
+        "atm_implied_vol_pct": 28.1,
+        "call_open_interest": 1905,
+        "put_open_interest": 530,
         "put_call_oi_ratio": 0.28,
         "expirations_available": 4
       },
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 45.6,
-        "call_open_interest": 6771,
-        "put_open_interest": 533,
+        "atm_implied_vol_pct": 42.5,
+        "call_open_interest": 6755,
+        "put_open_interest": 532,
         "put_call_oi_ratio": 0.08,
         "expirations_available": 4
       },
@@ -8920,8 +8920,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 28.4,
         "call_open_interest": 1190,
-        "put_open_interest": 96,
-        "put_call_oi_ratio": 0.08,
+        "put_open_interest": 85,
+        "put_call_oi_ratio": 0.07,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": 27.56
+          "change_1y_pct": null
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 37.6,
+        "atm_implied_vol_pct": 32.6,
         "call_open_interest": 1357,
         "put_open_interest": 2168,
         "put_call_oi_ratio": 1.6,
@@ -9414,10 +9414,10 @@
         "change_1y_pct": 139.56
       },
       "weakest_holding": {
-        "symbol": "QRVO",
-        "name": "Qorvo Inc",
-        "weight_pct": 0.55,
-        "change_1y_pct": 27.56
+        "symbol": "ESI",
+        "name": "Element Solutions Inc",
+        "weight_pct": 0.48,
+        "change_1y_pct": 28.07
       }
     }
   },
