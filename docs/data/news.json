@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:06:26.046495+00:00",
+  "generated_at": "2026-10-28T21:02:43.977539+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Midterm Stock-Market Pattern Hasn't Failed Since 1950 - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f23a181d65e328b7",
+        "published_at": "2026-10-27T17:30:13Z",
+        "description": "Why have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word\u2026"
+      },
+      {
         "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday as Investors Assess Corporate Earnings",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cd961b2e084a07a2",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/8d8bcc56eba6e035",
         "published_at": "2026-10-26T18:23:35Z",
         "description": "Much of what we know about the stock market comes from a mix of theory and empirical evidence. For example, the idea that earnings drive stock prices is supported by the view that a business\u2019s value is tied to how"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Ahead of Big Tech Earnings, Fed Decision",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/547490cd4691af49",
-        "published_at": "2026-10-26T13:47:01Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad"
       }
     ],
     "VTI": [
@@ -173,6 +173,13 @@
     ],
     "QQQ": [
       {
+        "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+        "source": "Cointelegraph",
+        "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar",
+        "published_at": "2026-10-27T16:37:15Z",
+        "description": "Janus Henderson\u2019s JQQQ fund uses Centrifuge infrastructure to bring Nasdaq-100 exposure onchain, adding to Stellar\u2019s growing institutional tokenization market."
+      },
+      {
         "title": "What Few Investors Realize About QQQ\u2019s Dividend",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/3fa1ac37fd3d5b0c",
@@ -206,13 +213,6 @@
         "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
         "published_at": "2026-10-26T11:05:31Z",
         "description": "Brazilian stocks are expected to plunge at the open as President Luiz In\u00e1cio Lula da Silva unexpectedly secured a fourth term in office."
-      },
-      {
-        "title": "Safe Haven Trade: SCHD Outperforms VOO and QQQ as AI Bubble Fears Mount - Invesco QQQ Trust, Series 1\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d10ab2261b95c1e9",
-        "published_at": "2026-10-24T17:30:48Z",
-        "description": "The SCHD ETF is beating popular S&P 500 and Nasdaq 100 ETFs like VOO and QQQ as AI bubble fears continue rising."
       }
     ],
     "IEFA": [],
