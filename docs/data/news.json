@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-10-28T05:38:30.916002+00:00",
+  "generated_at": "2026-10-28T15:06:26.046495+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Just 10 Stocks Make Up Nearly 40% of the S&P 500. Here's an ETF That Can Help You Diversify",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/61f369a8ebc8faad",
+        "published_at": "2026-10-27T10:02:59Z",
+        "description": "An S&P 500 Index (SNPINDEX:^GSPC) fund, such as the Vanguard S&P 500 ETF (NYSEMKT:VOO), is widely considered one of the easiest ways to build a diversified portfolio. However, there's a catch: Just 10 stocks account for nearly 40% of the index's value. That's\u2026"
+      },
       {
         "title": "Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investors",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/9f3ede1d8ce6f2e6",
         "published_at": "2026-10-17T20:41:13Z",
         "description": "Predicting what will happen a week, a month, or a year from now is next to impossible. So many factors can change with little warning, so conditions from before can look nothing like they do now.\nThat's why buying and holding for the long term is such an effe\u2026"
-      },
-      {
-        "title": "The S&P 500 Just Hit a Record High. Here's Why History Says It's Still a Smart Time to Invest",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/468e8574425ed4ca",
-        "published_at": "2026-10-14T05:59:50Z",
-        "description": "Since 2001, throughout my adult life, I've never seen a stock market this strong. These have been excellent times for investors. In the past 10 years, the S&P 500 index (SNPINDEX: ^GSPC) has delivered average annual returns of 15.3%. That means if you investe\u2026"
       }
     ],
     "IVV": [
@@ -92,6 +92,34 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Tuesday as Investors Assess Corporate Earnings",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cd961b2e084a07a2",
+        "published_at": "2026-10-27T14:12:08Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad"
+      },
+      {
+        "title": "Midterm Stock-Market Pattern Hasn't Failed Since 1950 - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cef9494c0bc9d9e3",
+        "published_at": "2026-10-27T13:06:34Z",
+        "description": "The S&P 500 has risen in the 12 months after every midterm since 1950. Seasonax, BofA and Yardeni weigh in as the Election Day window opens."
+      },
+      {
+        "title": "China's AI Crash Raises Bubble Fears for US Stocks - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/dff00801c8e4dd55",
+        "published_at": "2026-10-27T09:45:04Z",
+        "description": "China\u2019s AI stock selloff has erased about $480 billion in under four months, fueling warnings that U.S. markets show the same bubble signs."
+      },
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/45715b1927388b12",
+        "published_at": "2026-10-27T07:26:35Z",
+        "description": "Futures edge higher as earnings, the Fed meeting and Anthropic IPO drive markets; oil falls as traders see 67% odds of an S&P 500 up open."
+      },
+      {
         "title": "5 Myths And Misunderstandings About Investing In The Stock Market - State Street SPDR S&P 500 ETF Trust\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/8d8bcc56eba6e035",
@@ -104,34 +132,6 @@
         "url": "https://biztoc.com/x/547490cd4691af49",
         "published_at": "2026-10-26T13:47:01Z",
         "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad"
-      },
-      {
-        "title": "S&P 500, VOO, and SPY Outlook: What Investors Need to Watch This Week - State Street SPDR S&P 500 ETF Trust\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6b595f3ed1a4c757",
-        "published_at": "2026-10-25T16:44:28Z",
-        "description": "Here are the top catalysts for the S&P 500 Index and its top exchange-traded funds (ETF) like VOO, SPY, and IVV this week"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid AI Spending Concerns",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3b2e6f874fa2fdc5",
-        "published_at": "2026-10-23T14:42:18Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.2% and the actively tr"
-      },
-      {
-        "title": "China Uses ETFs Against Market Rout: Will US Copy Strategy? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fc59600170095518",
-        "published_at": "2026-10-23T13:55:39Z",
-        "description": "China is buying $2.5 billion in equity ETFs daily. Investors are wondering: Could the Fed follow suit during the next stock market crash?"
-      },
-      {
-        "title": "State Street SPDR S&P 500 ETF (SPY) Sells NVIDIA and Apple on Oct. 21",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/753fc05718cd519d",
-        "published_at": "2026-10-23T11:54:57Z",
-        "description": "This article first appeared on GuruFocus.\nState Street SPDR S&P 500 ETF Trust (SPY) recorded a one-sided ETF activity on Wednesday, Oct. 21, with $267.2 million sold and no purchases. The fund increased none of its positions and decreased 500, leaving net bou\u2026"
       }
     ],
     "VTI": [
@@ -173,6 +173,27 @@
     ],
     "QQQ": [
       {
+        "title": "What Few Investors Realize About QQQ\u2019s Dividend",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3fa1ac37fd3d5b0c",
+        "published_at": "2026-10-27T12:19:59Z",
+        "description": "The post What Few Investors Realize About QQQ\u2019s Dividend appeared first on 24/7 Wall St..\nAlmost nobody buys Invesco QQQ Trust (NASDAQ:QQQ) for income. Even so, its dividend has grown about 75.0% over the past five years. Over roughly the same period, the fun\u2026"
+      },
+      {
+        "title": "Adds NVIDIA and Apple on Oct. 23",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/57e8d1e2f66a9a4d",
+        "published_at": "2026-10-27T12:07:13Z",
+        "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) recorded net buying of $668.2 million on Friday, Oct. 23, with gross ETF activity matching that figure as the fund sold no stock. All 101 positions were increased and none were decreased. The f\u2026"
+      },
+      {
+        "title": "BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/bnb-chain-tokenized-assets-q3-rwa-supply/",
+        "published_at": "2026-10-27T07:23:51Z",
+        "description": "BNB Chain's Q3 growth in tokenized assets highlights its emerging role in DeFi, though concentration risks and market volatility remain concerns.\nThe post BNB Chain tokenized assets surge in Q3 as RWA supply reaches $4.96B appeared first on Crypto Briefing."
+      },
+      {
         "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/812948d36ce6d9ac",
@@ -192,27 +213,6 @@
         "url": "https://biztoc.com/x/d10ab2261b95c1e9",
         "published_at": "2026-10-24T17:30:48Z",
         "description": "The SCHD ETF is beating popular S&P 500 and Nasdaq 100 ETFs like VOO and QQQ as AI bubble fears continue rising."
-      },
-      {
-        "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-        "published_at": "2026-10-23T10:53:09Z",
-        "description": "Previous bitcoin bear-market lows followed U.S. midterms, but this year\u2019s recovery raises the possibility that the bottom arrived months earlier."
-      },
-      {
-        "title": "James Thorne Says AI 'Restraint' Gives Boom 'More Time to Run' - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/dd4d0654b46f380a",
-        "published_at": "2026-10-23T07:32:13Z",
-        "description": "James Thorne argued Thursday that the market is misreading the AI stock slide, a pullback that may help the boom last longer."
-      },
-      {
-        "title": "Live updates: Market jitters persist as the AI selloff deepens",
-        "source": "CoinDesk",
-        "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
-        "published_at": "2026-10-20T10:14:19Z",
-        "description": "South Korea\u2019s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country\u2019s history, with data centre company Elice tumbling around 30%."
       }
     ],
     "IEFA": [],
@@ -395,6 +395,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "'Another Golden Asteroid Story': Why Lab-Made Gold Won't Crash Bullion - SPDR Gold Shares (ARCA:GLD), iShares\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/74c07f6939b4d9c6",
+        "published_at": "2026-10-27T12:35:39Z",
+        "description": "A startup claims it turned mercury into real gold using fusion neutrons, but experts urge caution on cost and scalability."
+      },
+      {
         "title": "Selling $300,000 of GLD Bought Five Years Ago Means a $162,713 Gain Taxed as a Collectible, Not a Stock",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ccb0348f9581f9c6",
@@ -456,6 +463,13 @@
     "IJH": [],
     "VIG": [
       {
+        "title": "VIG Is Built for Dividend Growth, but Its Payout Barely Grew",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4a63dc6836747f69",
+        "published_at": "2026-10-27T13:21:28Z",
+        "description": "The post VIG Is Built for Dividend Growth, but Its Payout Barely Grew appeared first on 24/7 Wall St..\nVanguard Dividend Appreciation ETF (NYSEARCA:VIG) is up about 11% over the past year. Over the same period, the cash it paid shareholders rose only about 3%\u2026"
+      },
+      {
         "title": "Retirees Who Picked VIG Over VYM in 2022 Are Still $10,000 Behind on Every $100,000",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/69e2174b64b727fe",
@@ -489,13 +503,6 @@
         "url": "https://biztoc.com/x/01347495c2c826b0",
         "published_at": "2026-10-01T23:18:40Z",
         "description": "The post Dividend Growth for the Next Decade Starts With These 3 ETFs appeared first on 24/7 Wall St..\nOver the past 12 months, the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) paid $3.65 per share while trading near $233. That small check is the design.\u2026"
-      },
-      {
-        "title": "VIG Cannot Own Meta\u2019s or Alphabet\u2019s Dividends Until 2035 at the Earliest: The 10-Year Rule Written Into Its Index",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6d281e9102607a82",
-        "published_at": "2026-09-30T22:47:02Z",
-        "description": "The post VIG Cannot Own Meta\u2019s or Alphabet\u2019s Dividends Until 2035 at the Earliest: The 10-Year Rule Written Into Its Index appeared first on 24/7 Wall St..\nYou own the Vanguard Dividend Appreciation ETF (NYSEARCA:VIG) for rising income, and you probably assum\u2026"
       }
     ],
     "IJR": [
