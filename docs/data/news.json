@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:42:05.980753+00:00",
+  "generated_at": "2026-10-28T05:38:30.916002+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -173,6 +173,13 @@
     ],
     "QQQ": [
       {
+        "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/812948d36ce6d9ac",
+        "published_at": "2026-10-26T21:10:14Z",
+        "description": "The post Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance appeared first on 24/7 Wall St..\nIf you own the Invesco QQQ Trust (NASDAQ:QQQ), you hold a fund whose appeal is easy to see. QQQ puts the Nasdaq\u2019s largest no\u2026"
+      },
+      {
         "title": "Live news: Brent Crude slides below $110 as Iran deal hopes grow and Brazil stocks sink",
         "source": "CoinDesk",
         "url": "https://www.coindesk.com/tech/2026/10/26/live-news-brent-crude-slides-below-usd110-as-iran-deal-hopes-grow-and-brazil-stocks-sink",
@@ -206,13 +213,6 @@
         "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
         "published_at": "2026-10-20T10:14:19Z",
         "description": "South Korea\u2019s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country\u2019s history, with data centre company Elice tumbling around 30%."
-      },
-      {
-        "title": "Adds NVIDIA and Apple on Oct. 15",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a76004852622a116",
-        "published_at": "2026-10-19T12:10:20Z",
-        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) was the only ETF buying on Thursday, with no funds selling, as it added to all 101 of its positions and sold none. The fund's ETF activity totaled $1.13 billion in gross purchases, all of it ne\u2026"
       }
     ],
     "IEFA": [],
@@ -428,13 +428,6 @@
         "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
         "published_at": "2026-09-29T11:28:27Z",
         "description": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm."
-      },
-      {
-        "title": "JPMorgan Sees Bitcoin Gaining More Than Gold as ETF Shorts Unwind",
-        "source": "ZyCrypto",
-        "url": "https://zycrypto.com/jpmorgan-sees-bitcoin-gaining-more-than-gold-as-etf-shorts-unwind/",
-        "published_at": "2026-09-26T12:38:40Z",
-        "description": "Bitcoin (BTC) could receive stronger support than gold if investors unwind bearish positions in spot Bitcoin exchange-traded funds, according to JPMorgan."
       }
     ],
     "IWF": [
