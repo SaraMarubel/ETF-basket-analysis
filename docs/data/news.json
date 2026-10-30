@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:07:26.606426+00:00",
+  "generated_at": "2026-10-30T05:44:31.902530+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Your ETF\u2019s Spread Looks Like Zero. Here\u2019s What That Number Doesn\u2019t Tell You",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/239e71e50fd4f84c",
+        "published_at": "2026-10-28T22:04:55Z",
+        "description": "The post Your ETF\u2019s Spread Looks Like Zero. Here\u2019s What That Number Doesn\u2019t Tell You appeared first on 24/7 Wall St..\nPull up the fund page for the SPDR S&P 500 ETF Trust (NYSEARCA:SPY), and one number looks almost too good. State Street Global Advisors lists\u2026"
+      },
+      {
         "title": "0xbeans proposes splitting tokenized stocks into two tradable tokens",
         "source": "Crypto Briefing",
         "url": "https://cryptobriefing.com/0xbeans-isolated-exposure-tokens-tokenized-stocks/",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/cd961b2e084a07a2",
         "published_at": "2026-10-27T14:12:08Z",
         "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad"
-      },
-      {
-        "title": "Midterm Stock-Market Pattern Hasn't Failed Since 1950 - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cef9494c0bc9d9e3",
-        "published_at": "2026-10-27T13:06:34Z",
-        "description": "The S&P 500 has risen in the 12 months after every midterm since 1950. Seasonax, BofA and Yardeni weigh in as the Election Day window opens."
       }
     ],
     "VTI": [
