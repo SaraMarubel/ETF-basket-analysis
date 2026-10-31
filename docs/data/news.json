@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T14:31:58.799766+00:00",
+  "generated_at": "2026-10-31T19:58:25.526458+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -173,6 +173,20 @@
     ],
     "QQQ": [
       {
+        "title": "This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/75ec54797c9ead1b",
+        "published_at": "2026-10-30T15:30:42Z",
+        "description": "The post This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia appeared first on 24/7 Wall St..\nMost people who buy Invesco QQQ Trust (NASDAQ:QQQ) want broad exposure to the NASDAQ-100. That portfolio leans heavily on a few chipmakers and tech\u2026"
+      },
+      {
+        "title": "AMD Stock Tumbles 8% as Intel's Grim PC Warning Rattles Investors Days Before Its Own Earnings Report",
+        "source": "Ibtimes.com.au",
+        "url": "https://www.ibtimes.com.au/amd-shares-fall-intel-pc-market-warning-1877634",
+        "published_at": "2026-10-30T14:55:48Z",
+        "description": "AMD shares dropped more than 8% after Intel forecast a sharp contraction in the PC market, while stronger data-centre competition and rising AI investment costs added to investor concerns."
+      },
+      {
         "title": "ETFs Bought $154.6 Million of Alphabet (GOOG) on Wednesday",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/dd4fe8a4778542a2",
@@ -199,20 +213,6 @@
         "url": "https://biztoc.com/x/949a214c25e38eef",
         "published_at": "2026-10-28T11:49:37Z",
         "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) led the move, accounting for $84.9 million of the $96.9 million in net ETF selling of Costco (COST) on Monday. Sixteen ETFs sold shares of the warehouse retailer while 20 bought, though the buy\u2026"
-      },
-      {
-        "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar",
-        "published_at": "2026-10-27T16:37:15Z",
-        "description": "Janus Henderson\u2019s JQQQ fund uses Centrifuge infrastructure to bring Nasdaq-100 exposure onchain, adding to Stellar\u2019s growing institutional tokenization market."
-      },
-      {
-        "title": "What Few Investors Realize About QQQ\u2019s Dividend",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/3fa1ac37fd3d5b0c",
-        "published_at": "2026-10-27T12:19:59Z",
-        "description": "The post What Few Investors Realize About QQQ\u2019s Dividend appeared first on 24/7 Wall St..\nAlmost nobody buys Invesco QQQ Trust (NASDAQ:QQQ) for income. Even so, its dividend has grown about 75.0% over the past five years. Over roughly the same period, the fun\u2026"
       }
     ],
     "IEFA": [],
