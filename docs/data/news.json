@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:37:05.211144+00:00",
+  "generated_at": "2026-10-31T14:31:58.799766+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday Amid Steep Tech Decline",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5aeaaeab7f52c378",
+        "published_at": "2026-10-30T13:47:56Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 1.1%, and the actively t"
+      },
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a9071552da01c2e4",
+        "published_at": "2026-10-30T07:35:38Z",
+        "description": "Will S&P 500 open higher? Polymarket odds plunge to 14% as Wall Street reacts to Alphabet's 10% drop, rising oil, and a broad tech selloff."
+      },
+      {
         "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday Amid Disappointing Alphabet Results",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/748881feec1d8cb2",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/239e71e50fd4f84c",
         "published_at": "2026-10-28T22:04:55Z",
         "description": "The post Your ETF\u2019s Spread Looks Like Zero. Here\u2019s What That Number Doesn\u2019t Tell You appeared first on 24/7 Wall St..\nPull up the fund page for the SPDR S&P 500 ETF Trust (NYSEARCA:SPY), and one number looks almost too good. State Street Global Advisors lists\u2026"
-      },
-      {
-        "title": "0xbeans proposes splitting tokenized stocks into two tradable tokens",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/0xbeans-isolated-exposure-tokens-tokenized-stocks/",
-        "published_at": "2026-10-28T14:59:33Z",
-        "description": "The proposal could reshape trading strategies by allowing targeted exposure to specific market periods, potentially enhancing liquidity and arbitrage opportunities.\nThe post 0xbeans proposes splitting tokenized stocks into two tradable tokens appeared first o\u2026"
-      },
-      {
-        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of US Fed Rate Announcement",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8dfff50ebfc26807",
-        "published_at": "2026-10-28T13:23:51Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2% and the actively trad"
       }
     ],
     "VTI": [
@@ -173,6 +173,13 @@
     ],
     "QQQ": [
       {
+        "title": "ETFs Bought $154.6 Million of Alphabet (GOOG) on Wednesday",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/dd4fe8a4778542a2",
+        "published_at": "2026-10-30T11:26:15Z",
+        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) led the buying on Wednesday, Oct. 28, adding $118.7 million of Alphabet (GOOG) as ETF activity turned positive for a second straight session. ETFs bought $154.6 million of the stock on the day,\u2026"
+      },
+      {
         "title": "Fed Holds Rates As December Hike Odds Hit 82% - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/de6bca198b5ae32b",
@@ -206,13 +213,6 @@
         "url": "https://biztoc.com/x/3fa1ac37fd3d5b0c",
         "published_at": "2026-10-27T12:19:59Z",
         "description": "The post What Few Investors Realize About QQQ\u2019s Dividend appeared first on 24/7 Wall St..\nAlmost nobody buys Invesco QQQ Trust (NASDAQ:QQQ) for income. Even so, its dividend has grown about 75.0% over the past five years. Over roughly the same period, the fun\u2026"
-      },
-      {
-        "title": "Adds NVIDIA and Apple on Oct. 23",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/57e8d1e2f66a9a4d",
-        "published_at": "2026-10-27T12:07:13Z",
-        "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) recorded net buying of $668.2 million on Friday, Oct. 23, with gross ETF activity matching that figure as the fund sold no stock. All 101 positions were increased and none were decreased. The f\u2026"
       }
     ],
     "IEFA": [],

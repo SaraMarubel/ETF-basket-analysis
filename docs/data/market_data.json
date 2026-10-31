@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T05:36:39.006043+00:00",
+  "generated_at": "2026-10-31T14:31:33.377799+00:00",
   "risk_free_rate_pct": 3.97,
   "etfs": {
     "VOO": {
@@ -8,7 +8,7 @@
       "currency": "USD",
       "aum": 1729312194560,
       "fund_family": "Vanguard",
-      "avg_volume": 7137907,
+      "avg_volume": 7128884,
       "bid": 695.6,
       "ask": 695.77,
       "spread_pct": 0.0244,
@@ -491,7 +491,7 @@
       "currency": "USD",
       "aum": 881268883456,
       "fund_family": "iShares",
-      "avg_volume": 6386709,
+      "avg_volume": 6410014,
       "bid": 759.1,
       "ask": 760.94,
       "spread_pct": 0.2421,
@@ -974,7 +974,7 @@
       "currency": "USD",
       "aum": 809216114688,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 41785341,
+      "avg_volume": 41462520,
       "bid": 756.08,
       "ask": 757.18,
       "spread_pct": 0.1454,
@@ -1457,7 +1457,7 @@
       "currency": "USD",
       "aum": 2322096979968,
       "fund_family": "Vanguard",
-      "avg_volume": 3008118,
+      "avg_volume": 3005143,
       "bid": 372.26,
       "ask": 372.71,
       "spread_pct": 0.1208,
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 498945982464,
       "fund_family": "Invesco",
-      "avg_volume": 35350664,
+      "avg_volume": 35113323,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2423,7 +2423,7 @@
       "currency": "USD",
       "aum": 190214750208,
       "fund_family": "iShares",
-      "avg_volume": 8589763,
+      "avg_volume": 8579660,
       "bid": 96.34,
       "ask": 96.75,
       "spread_pct": 0.4247,
@@ -2822,13 +2822,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.79,
-          "change_1y_pct": 61.49
+          "change_1y_pct": 51.62
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.35,
-          "change_1y_pct": 20.88
+          "change_1y_pct": 19.42
         },
         {
           "symbol": "ROP.SW",
@@ -2840,7 +2840,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 1.09,
-          "change_1y_pct": 40.11
+          "change_1y_pct": 40.06
         },
         {
           "symbol": "NOVN.SW",
@@ -2858,7 +2858,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.98,
-          "change_1y_pct": 4.05
+          "change_1y_pct": 11.29
         },
         {
           "symbol": "NESN.SW",
@@ -2870,7 +2870,7 @@
           "symbol": "SIE.DE",
           "name": "Siemens AG",
           "weight_pct": 0.9,
-          "change_1y_pct": 13.19
+          "change_1y_pct": 9.84
         },
         {
           "symbol": "BHP.AX",
@@ -2888,16 +2888,16 @@
         "expirations_available": 4
       },
       "strongest_holding": {
-        "symbol": "ASML.AS",
-        "name": "ASML Holding NV",
-        "weight_pct": 2.79,
-        "change_1y_pct": 61.49
+        "symbol": "ROP.SW",
+        "name": "Roche Holding AG Ordinary Shares new",
+        "weight_pct": 1.16,
+        "change_1y_pct": 58.86
       },
       "weakest_holding": {
-        "symbol": "AZN.L",
-        "name": "AstraZeneca PLC",
-        "weight_pct": 0.98,
-        "change_1y_pct": 4.05
+        "symbol": "SIE.DE",
+        "name": "Siemens AG",
+        "weight_pct": 0.9,
+        "change_1y_pct": 9.84
       }
     },
     "VEA": {
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 313543393280,
       "fund_family": "Vanguard",
-      "avg_volume": 9455818,
+      "avg_volume": 9443192,
       "bid": 69.39,
       "ask": 69.42,
       "spread_pct": 0.0432,
@@ -3317,13 +3317,13 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 2.14,
-          "change_1y_pct": 61.49
+          "change_1y_pct": 51.62
         },
         {
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 1.05,
-          "change_1y_pct": 20.88
+          "change_1y_pct": 19.42
         },
         {
           "symbol": "ROP.SW",
@@ -3335,7 +3335,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.86,
-          "change_1y_pct": 40.11
+          "change_1y_pct": 40.06
         },
         {
           "symbol": "RY",
@@ -3359,7 +3359,7 @@
           "symbol": "AZN.L",
           "name": "AstraZeneca PLC",
           "weight_pct": 0.75,
-          "change_1y_pct": 4.05
+          "change_1y_pct": 11.29
         }
       ],
       "options": {
@@ -3380,7 +3380,7 @@
         "symbol": "AZN.L",
         "name": "AstraZeneca PLC",
         "weight_pct": 0.75,
-        "change_1y_pct": 4.05
+        "change_1y_pct": 11.29
       }
     },
     "VUG": {
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 392072069120,
       "fund_family": "Vanguard",
-      "avg_volume": 5643220,
+      "avg_volume": 5632293,
       "bid": 85.25,
       "ask": 85.35,
       "spread_pct": 0.1172,
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 389050990592,
       "fund_family": "Vanguard",
-      "avg_volume": 10077324,
+      "avg_volume": 10135307,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4272,7 +4272,7 @@
       "currency": "USD",
       "aum": 107887099904,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 22998995,
+      "avg_volume": 22956507,
       "bid": 35.78,
       "ask": 35.78,
       "spread_pct": 0.0,
@@ -4755,7 +4755,7 @@
       "currency": "USD",
       "aum": 160075055104,
       "fund_family": "iShares",
-      "avg_volume": 11044473,
+      "avg_volume": 10957312,
       "bid": 73.83,
       "ask": 74.59,
       "spread_pct": 1.0241,
@@ -5238,7 +5238,7 @@
       "currency": "USD",
       "aum": 135651655680,
       "fund_family": "iShares",
-      "avg_volume": 10511898,
+      "avg_volume": 10503593,
       "bid": 96.35,
       "ask": 96.43,
       "spread_pct": 0.083,
@@ -5645,7 +5645,7 @@
       "currency": "USD",
       "aum": 251724939264,
       "fund_family": "Vanguard",
-      "avg_volume": 2668173,
+      "avg_volume": 2674235,
       "bid": 227.23,
       "ask": 228.05,
       "spread_pct": 0.3602,
@@ -6104,7 +6104,7 @@
       "options": {
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 26.6,
-        "call_open_interest": 1896,
+        "call_open_interest": 1894,
         "put_open_interest": 541,
         "put_call_oi_ratio": 0.29,
         "expirations_available": 4
@@ -6128,7 +6128,7 @@
       "currency": "USD",
       "aum": 649285074944,
       "fund_family": "Vanguard",
-      "avg_volume": 5286716,
+      "avg_volume": 5305146,
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
@@ -6545,7 +6545,7 @@
           "symbol": "ASML.AS",
           "name": "ASML Holding NV",
           "weight_pct": 1.55,
-          "change_1y_pct": 61.49
+          "change_1y_pct": 51.62
         },
         {
           "symbol": "0700.HK",
@@ -6557,7 +6557,7 @@
           "symbol": "HSBA.L",
           "name": "HSBC Holdings PLC",
           "weight_pct": 0.76,
-          "change_1y_pct": 20.88
+          "change_1y_pct": 19.42
         },
         {
           "symbol": "ROP.SW",
@@ -6569,7 +6569,7 @@
           "symbol": "SHEL.L",
           "name": "Shell PLC",
           "weight_pct": 0.62,
-          "change_1y_pct": 40.11
+          "change_1y_pct": 40.06
         },
         {
           "symbol": "RY",
@@ -6611,7 +6611,7 @@
       "currency": "USD",
       "aum": 164656922624,
       "fund_family": "Vanguard",
-      "avg_volume": 6935006,
+      "avg_volume": 6927764,
       "bid": 55.19,
       "ask": 55.95,
       "spread_pct": 1.3676,
@@ -7094,7 +7094,7 @@
       "currency": "USD",
       "aum": 141702414336,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 9720135,
+      "avg_volume": 9765357,
       "bid": 356.0,
       "ask": 356.1,
       "spread_pct": 0.0281,
@@ -7494,7 +7494,7 @@
       "currency": "USD",
       "aum": 127738003456,
       "fund_family": "iShares",
-      "avg_volume": 4172023,
+      "avg_volume": 4168107,
       "bid": 117.56,
       "ask": 118.14,
       "spread_pct": 0.4922,
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 50.3,
-        "call_open_interest": 6519,
-        "put_open_interest": 1713,
+        "atm_implied_vol_pct": 47.1,
+        "call_open_interest": 6503,
+        "put_open_interest": 1712,
         "put_call_oi_ratio": 0.26,
         "expirations_available": 4
       },
@@ -7977,7 +7977,7 @@
       "currency": "USD",
       "aum": 120931426304,
       "fund_family": "iShares",
-      "avg_volume": 6705146,
+      "avg_volume": 6710403,
       "bid": 73.02,
       "ask": 73.57,
       "spread_pct": 0.7504,
@@ -8460,7 +8460,7 @@
       "currency": "USD",
       "aum": 127597993984,
       "fund_family": "Vanguard",
-      "avg_volume": 1017432,
+      "avg_volume": 1018792,
       "bid": 247.8,
       "ask": 247.84,
       "spread_pct": 0.0161,
@@ -8920,8 +8920,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 21.2,
         "call_open_interest": 1151,
-        "put_open_interest": 122,
-        "put_call_oi_ratio": 0.11,
+        "put_open_interest": 111,
+        "put_call_oi_ratio": 0.1,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -8943,7 +8943,7 @@
       "currency": "USD",
       "aum": 102559449088,
       "fund_family": "iShares",
-      "avg_volume": 3121390,
+      "avg_volume": 3108575,
       "bid": 140.08,
       "ask": 140.79,
       "spread_pct": 0.5056,
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": 27.56
+          "change_1y_pct": null
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 38.2,
+        "atm_implied_vol_pct": 33.0,
         "call_open_interest": 1492,
         "put_open_interest": 1822,
         "put_call_oi_ratio": 1.22,
@@ -9414,10 +9414,10 @@
         "change_1y_pct": 169.79
       },
       "weakest_holding": {
-        "symbol": "QRVO",
-        "name": "Qorvo Inc",
-        "weight_pct": 0.55,
-        "change_1y_pct": 27.56
+        "symbol": "ESI",
+        "name": "Element Solutions Inc",
+        "weight_pct": 0.48,
+        "change_1y_pct": 29.48
       }
     }
   },
