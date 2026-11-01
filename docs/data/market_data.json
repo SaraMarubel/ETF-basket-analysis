@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:58:38.801863+00:00",
+  "generated_at": "2026-11-01T15:05:43.790709+00:00",
   "risk_free_rate_pct": 3.97,
   "etfs": {
     "VOO": {
@@ -3405,7 +3405,7 @@
       "history": [
         {
           "date": "2026-06-25",
-          "close": 82.87
+          "close": 82.88
         },
         {
           "date": "2026-06-26",
@@ -6104,7 +6104,7 @@
       "options": {
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 27.2,
-        "call_open_interest": 1896,
+        "call_open_interest": 1894,
         "put_open_interest": 541,
         "put_call_oi_ratio": 0.29,
         "expirations_available": 4
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 50.8,
-        "call_open_interest": 6519,
-        "put_open_interest": 1713,
+        "atm_implied_vol_pct": 47.5,
+        "call_open_interest": 6503,
+        "put_open_interest": 1712,
         "put_call_oi_ratio": 0.26,
         "expirations_available": 4
       },
@@ -8920,8 +8920,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 21.7,
         "call_open_interest": 1151,
-        "put_open_interest": 122,
-        "put_call_oi_ratio": 0.11,
+        "put_open_interest": 111,
+        "put_call_oi_ratio": 0.1,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": 27.56
+          "change_1y_pct": null
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 39.1,
+        "atm_implied_vol_pct": 33.8,
         "call_open_interest": 1492,
         "put_open_interest": 1822,
         "put_call_oi_ratio": 1.22,
@@ -9414,10 +9414,10 @@
         "change_1y_pct": 169.79
       },
       "weakest_holding": {
-        "symbol": "QRVO",
-        "name": "Qorvo Inc",
-        "weight_pct": 0.55,
-        "change_1y_pct": 27.56
+        "symbol": "ESI",
+        "name": "Element Solutions Inc",
+        "weight_pct": 0.48,
+        "change_1y_pct": 29.48
       }
     }
   },
