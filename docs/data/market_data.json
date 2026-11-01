@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T23:22:14.873269+00:00",
+  "generated_at": "2026-11-01T05:58:38.801863+00:00",
   "risk_free_rate_pct": 3.97,
   "etfs": {
     "VOO": {
@@ -466,7 +466,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-06",
-        "atm_implied_vol_pct": 26.4,
+        "atm_implied_vol_pct": 28.5,
         "call_open_interest": 2061,
         "put_open_interest": 1314,
         "put_call_oi_ratio": 0.64,
@@ -949,7 +949,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-06",
-        "atm_implied_vol_pct": 29.7,
+        "atm_implied_vol_pct": 32.0,
         "call_open_interest": 217,
         "put_open_interest": 34,
         "put_call_oi_ratio": 0.16,
@@ -1432,7 +1432,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-02",
-        "atm_implied_vol_pct": 25.0,
+        "atm_implied_vol_pct": 30.1,
         "call_open_interest": 68079,
         "put_open_interest": 115120,
         "put_call_oi_ratio": 1.69,
@@ -1915,7 +1915,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 30.4,
+        "atm_implied_vol_pct": 31.1,
         "call_open_interest": 5053,
         "put_open_interest": 2743,
         "put_call_oi_ratio": 0.54,
@@ -2398,7 +2398,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-02",
-        "atm_implied_vol_pct": 35.0,
+        "atm_implied_vol_pct": 42.6,
         "call_open_interest": 71310,
         "put_open_interest": 107918,
         "put_call_oi_ratio": 1.51,
@@ -2881,7 +2881,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 24.5,
+        "atm_implied_vol_pct": 25.1,
         "call_open_interest": 342,
         "put_open_interest": 88,
         "put_call_oi_ratio": 0.26,
@@ -3364,7 +3364,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 31.6,
+        "atm_implied_vol_pct": 32.4,
         "call_open_interest": 3905,
         "put_open_interest": 304,
         "put_call_oi_ratio": 0.08,
@@ -3405,7 +3405,7 @@
       "history": [
         {
           "date": "2026-06-25",
-          "close": 82.88
+          "close": 82.87
         },
         {
           "date": "2026-06-26",
@@ -3847,7 +3847,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 36.1,
+        "atm_implied_vol_pct": 37.0,
         "call_open_interest": 4022,
         "put_open_interest": 1027,
         "put_call_oi_ratio": 0.26,
@@ -4257,7 +4257,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 11.8,
+        "atm_implied_vol_pct": 12.1,
         "call_open_interest": 358,
         "put_open_interest": 179,
         "put_call_oi_ratio": 0.5,
@@ -4730,7 +4730,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-06",
-        "atm_implied_vol_pct": 60.1,
+        "atm_implied_vol_pct": 63.3,
         "call_open_interest": 2250,
         "put_open_interest": 2964,
         "put_call_oi_ratio": 1.32,
@@ -5213,7 +5213,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 43.4,
+        "atm_implied_vol_pct": 44.5,
         "call_open_interest": 444,
         "put_open_interest": 110,
         "put_call_oi_ratio": 0.25,
@@ -5630,7 +5630,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 8.6,
+        "atm_implied_vol_pct": 8.8,
         "call_open_interest": 401,
         "put_open_interest": 133,
         "put_call_oi_ratio": 0.33,
@@ -6103,8 +6103,8 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 26.6,
-        "call_open_interest": 1894,
+        "atm_implied_vol_pct": 27.2,
+        "call_open_interest": 1896,
         "put_open_interest": 541,
         "put_call_oi_ratio": 0.29,
         "expirations_available": 4
@@ -6586,7 +6586,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 29.6,
+        "atm_implied_vol_pct": 30.4,
         "call_open_interest": 1641,
         "put_open_interest": 663,
         "put_call_oi_ratio": 0.4,
@@ -7069,7 +7069,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 33.9,
+        "atm_implied_vol_pct": 34.7,
         "call_open_interest": 4212,
         "put_open_interest": 1303,
         "put_call_oi_ratio": 0.31,
@@ -7479,7 +7479,7 @@
       "top_holdings": [],
       "options": {
         "nearest_expiration": "2026-11-02",
-        "atm_implied_vol_pct": 54.9,
+        "atm_implied_vol_pct": 66.7,
         "call_open_interest": 10380,
         "put_open_interest": 4054,
         "put_call_oi_ratio": 0.39,
@@ -7952,9 +7952,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 47.1,
-        "call_open_interest": 6503,
-        "put_open_interest": 1712,
+        "atm_implied_vol_pct": 50.8,
+        "call_open_interest": 6519,
+        "put_open_interest": 1713,
         "put_call_oi_ratio": 0.26,
         "expirations_available": 4
       },
@@ -8435,7 +8435,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 39.1,
+        "atm_implied_vol_pct": 40.1,
         "call_open_interest": 5761,
         "put_open_interest": 425,
         "put_call_oi_ratio": 0.07,
@@ -8918,10 +8918,10 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 21.2,
+        "atm_implied_vol_pct": 21.7,
         "call_open_interest": 1151,
-        "put_open_interest": 111,
-        "put_call_oi_ratio": 0.1,
+        "put_open_interest": 122,
+        "put_call_oi_ratio": 0.11,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9366,7 +9366,7 @@
           "symbol": "QRVO",
           "name": "Qorvo Inc",
           "weight_pct": 0.55,
-          "change_1y_pct": null
+          "change_1y_pct": 27.56
         },
         {
           "symbol": "MTCH",
@@ -9401,7 +9401,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 33.0,
+        "atm_implied_vol_pct": 39.1,
         "call_open_interest": 1492,
         "put_open_interest": 1822,
         "put_call_oi_ratio": 1.22,
@@ -9414,10 +9414,10 @@
         "change_1y_pct": 169.79
       },
       "weakest_holding": {
-        "symbol": "ESI",
-        "name": "Element Solutions Inc",
-        "weight_pct": 0.48,
-        "change_1y_pct": 29.48
+        "symbol": "QRVO",
+        "name": "Qorvo Inc",
+        "weight_pct": 0.55,
+        "change_1y_pct": 27.56
       }
     }
   },
