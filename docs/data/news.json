@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:17:05.571099+00:00",
+  "generated_at": "2026-11-03T11:54:51.986232+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -81,16 +81,16 @@
         "url": "https://biztoc.com/x/36bf0ec5a3f50187",
         "published_at": "2026-10-05T22:34:17Z",
         "description": "The post 3 ETFs Measured From the Same 2005 Starting Line. The Plain S&P 500 Fund Turned $10,000 Into $92,435 appeared first on 24/7 Wall St..\nA $10,000 investment in iShares Core S&P 500 ETF (NYSEARCA:IVV) made on November 15, 2005, was worth $92,435 on Octo\u2026"
-      },
-      {
-        "title": "Unusually active option classes on open October 1st",
-        "source": "Thefly.com",
-        "url": "https://www.thefly.com/ivv",
-        "published_at": "2026-10-01T13:40:00Z",
-        "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026"
       }
     ],
     "SPY": [
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/2b2e166cb8bda5e6",
+        "published_at": "2026-11-02T06:28:54Z",
+        "description": "Will the S&P 500 open higher? Polymarket odds reach 76% as Wall Street weighs Apple earnings, easing oil prices, and Yardeni's market outlook."
+      },
       {
         "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday Amid Steep Tech Decline",
         "source": "Biztoc.com",
@@ -125,13 +125,6 @@
         "url": "https://biztoc.com/x/9ededc6da22ca9bc",
         "published_at": "2026-10-29T07:30:55Z",
         "description": "Will S&P 500 open higher? Polymarket odds dip to 47% as Wall Street weighs a tech selloff, Amazon earnings, PCE inflation, and cooling oil."
-      },
-      {
-        "title": "Your ETF\u2019s Spread Looks Like Zero. Here\u2019s What That Number Doesn\u2019t Tell You",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/239e71e50fd4f84c",
-        "published_at": "2026-10-28T22:04:55Z",
-        "description": "The post Your ETF\u2019s Spread Looks Like Zero. Here\u2019s What That Number Doesn\u2019t Tell You appeared first on 24/7 Wall St..\nPull up the fund page for the SPDR S&P 500 ETF Trust (NYSEARCA:SPY), and one number looks almost too good. State Street Global Advisors lists\u2026"
       }
     ],
     "VTI": [
@@ -155,23 +148,23 @@
         "url": "https://kilianc.github.io/fin/",
         "published_at": "2026-10-18T17:11:24Z",
         "description": "A CLI for your financial data, built for the AI era: fin connects your banks, cards and brokerages through Plaid and brings in your Amazon and Costco purchases, locally and for free."
-      },
-      {
-        "title": "Show HN: 9.8M product opinions collected from Reddit / HN, on 48,837 products",
-        "source": "Trustmebro.reviews",
-        "url": "https://www.trustmebro.reviews/",
-        "published_at": "2026-10-02T10:23:37Z",
-        "description": "This is something I have been making on the side.Opinions are extracted from posts and comments using a 8x 3090 box I had spare, using Gemma models, then summaries are created from the opinions. Several methods are used to exclude spam / shills.You can also b\u2026"
-      },
-      {
-        "title": "The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f6522e76b151a34d",
-        "published_at": "2026-10-02T00:48:50Z",
-        "description": "The post The Hidden Cost of Owning Every Stock: $167,050 of a $500,000 VTI Position Sits in Its Top Ten Names appeared first on 24/7 Wall St..\nPicture a $500,000 retirement account held entirely in the Vanguard Total Stock Market ETF (NYSEARCA:VTI). Based on \u2026"
       }
     ],
     "QQQ": [
+      {
+        "title": "Sells NVIDIA and Apple on Oct. 29",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a546384bd58dd305",
+        "published_at": "2026-11-02T11:37:51Z",
+        "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) posted a one-sided day of ETF activity last Thursday, selling $2.24 billion of stock and buying nothing. The fund decreased 100 positions and increased none, leaving its $463.83 billion portfol\u2026"
+      },
+      {
+        "title": "Fidelity\u2019s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8a4ab80ca81f46ea",
+        "published_at": "2026-11-02T09:17:11Z",
+        "description": "The post Fidelity\u2019s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple appeared first on 24/7 Wall St..\nMost investors who want Nasdaq exposure reach for Invesco QQQ Trust (NASDAQ:QQQ), which had $490.1 billion in net assets as of June 30, 2\u2026"
+      },
       {
         "title": "This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia",
         "source": "Biztoc.com",
@@ -199,20 +192,6 @@
         "url": "https://biztoc.com/x/de6bca198b5ae32b",
         "published_at": "2026-10-28T19:16:11Z",
         "description": "The Fed held rates steady as two officials pushed for a hike and Polymarket raised the odds of a December increase to 82%."
-      },
-      {
-        "title": "Sells $359.1 Million of NVIDIA on Oct. 26",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1d928d70319fe4ca",
-        "published_at": "2026-10-28T11:50:12Z",
-        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) was the sole fund in this report, and it moved entirely to the sell side on Monday. The ETF sold $4.37 billion of stock and bought nothing, cutting all 101 of its positions and leaving none inc\u2026"
-      },
-      {
-        "title": "Sees $96.9 Million in Net ETF Selling on Oct. 26",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/949a214c25e38eef",
-        "published_at": "2026-10-28T11:49:37Z",
-        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) led the move, accounting for $84.9 million of the $96.9 million in net ETF selling of Costco (COST) on Monday. Sixteen ETFs sold shares of the warehouse retailer while 20 bought, though the buy\u2026"
       }
     ],
     "IEFA": [],
@@ -246,20 +225,6 @@
         "url": "https://biztoc.com/x/b7bfbdcf1658ae9a",
         "published_at": "2026-10-12T14:46:33Z",
         "description": "Three of the most popular large-cap growth exchange-traded funds (ETFs) in the United States hold the same household names and charge nearly identical annual fees. \nDespite their similar growth-focused strategies, the Vanguard Growth ETF (VUG), Schwab U.S. La\u2026"
-      },
-      {
-        "title": "3 Growth ETFs to Buy Before 2027: One Charges Just 0.03%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/2b685baba64601e6",
-        "published_at": "2026-10-02T00:03:58Z",
-        "description": "The post 3 Growth ETFs to Buy Before 2027: One Charges Just 0.03% appeared first on 24/7 Wall St..\nInvestors continue to turn to growth funds as a way to drive outsized returns. Three leaders in this category include the Vanguard Growth ETF (NYSEARCA:VUG), th\u2026"
-      },
-      {
-        "title": "Prediction: Here's What a $5,000 Investment in VUG Could Be Worth in 20 Years",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4bbeafc50b9e9b8a",
-        "published_at": "2026-10-01T12:20:00Z",
-        "description": "The stock market has proven for decades that it can turn even modest investments into substantial sums of money, given enough time and an appropriate rate of return.\nThe Vanguard Growth ETF (NYSEMKT: VUG) is one of the funds that has done just that, returning\u2026"
       }
     ],
     "BND": [
@@ -308,6 +273,13 @@
     ],
     "SCHD": [
       {
+        "title": "The 1 Costly Mistake Income Investors Make When They Buy SCHD",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c16beda29e468cd1",
+        "published_at": "2026-11-02T10:51:20Z",
+        "description": "Investing in an exchange-traded fund (ETF) is one of the simplest ways to diversify a portfolio. However, not all ETFs provide the diversification investors expect.\nConsider the Schwab U.S. Dividend Equity ETF (NYSEMKT:SCHD). While it holds roughly 100 stocks\u2026"
+      },
+      {
         "title": "How To Build A $50,000 Dividend Portfolio With SCHD And October's High-Yield Picks",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/ee7d8f78843c71e1",
@@ -341,13 +313,6 @@
         "url": "https://biztoc.com/x/2b974785f62e2c3d",
         "published_at": "2026-10-20T14:47:46Z",
         "description": "Retirees seeking bigger dividend checks than the Schwab U.S. Dividend Equity ETF (SCHD) now delivers have three overseas funds that have outperformed it and topped the S&P 500 over the past year.\nThe Vanguard International High Dividend Yield ETF (VYMI), iSha\u2026"
-      },
-      {
-        "title": "Schwab's dividend ETF drops 6% into a familiar zone",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ab015c6928f11c9d",
-        "published_at": "2026-10-19T17:26:29Z",
-        "description": "The Schwab U.S. Dividend Equity ETF (SCHD) bounced back after sharp declines during the 2020 pandemic crash and the 2022 market crash.\nSCHD reached $35.31 on Aug. 24, 2026, before pulling back to $33.26, a roughly 6% retreat that mirrors past recoverable draw\u2026"
       }
     ],
     "IEMG": [
