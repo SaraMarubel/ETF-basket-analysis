@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T12:05:20.692428+00:00",
+  "generated_at": "2026-11-04T19:43:53.203288+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Tuesday Ahead of US Midterm Election Results",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/816904f4a73b9e3d",
+        "published_at": "2026-11-03T14:37:30Z",
+        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.2% and the actively tr"
+      },
+      {
         "title": "SPDR S&P 500 ETF (SPY) Adds Vylor and Apple on Friday",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a4ce234e37488f73",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/faabee6e6c154490",
         "published_at": "2026-11-02T18:04:04Z",
         "description": "Oil tumbles on renewed U.S.-Iran diplomacy, pulling Treasury yields lower and lifting the Dow, airlines and Amazon while energy stocks lag."
-      },
-      {
-        "title": "What If China\u2019s AI Crash Was A Feature, Not A Bug? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY), Invesco\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/13c0e0c926dca34f",
-        "published_at": "2026-11-02T16:45:05Z",
-        "description": "The great artificial intelligence debate of our time usually focuses on who will win the race for the most powerful model. A far more revealing question sits underneath the surface. Which country is building a"
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple\u2019s AI Agent Problem",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9ce7429eb79f13b9",
+        "published_at": "2026-11-03T17:56:16Z",
+        "description": "Election Day Crosscurrents Please click here for an enlarged chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ). Note the following: The chart shows QQQ dipped into zone 2 (support). The chart shows QQQ"
+      },
+      {
         "title": "Sells Apple and NVIDIA on Oct. 30",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/6e63d081cac6c32a",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/75ec54797c9ead1b",
         "published_at": "2026-10-30T15:30:42Z",
         "description": "The post This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia appeared first on 24/7 Wall St..\nMost people who buy Invesco QQQ Trust (NASDAQ:QQQ) want broad exposure to the NASDAQ-100. That portfolio leans heavily on a few chipmakers and tech\u2026"
-      },
-      {
-        "title": "AMD Stock Tumbles 8% as Intel's Grim PC Warning Rattles Investors Days Before Its Own Earnings Report",
-        "source": "Ibtimes.com.au",
-        "url": "https://www.ibtimes.com.au/amd-shares-fall-intel-pc-market-warning-1877634",
-        "published_at": "2026-10-30T14:55:48Z",
-        "description": "AMD shares dropped more than 8% after Intel forecast a sharp contraction in the PC market, while stronger data-centre competition and rising AI investment costs added to investor concerns."
       }
     ],
     "IEFA": [],
@@ -242,6 +242,13 @@
       }
     ],
     "BND": [
+      {
+        "title": "Creative Planning expands Bitcoin ETF holdings by 43% in Q3",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/creative-planning-bitcoin-etf-holdings-q3/",
+        "published_at": "2026-11-03T18:16:57Z",
+        "description": "Creative Planning's increased Bitcoin ETF holdings suggest a growing institutional acceptance of crypto, potentially influencing broader market trends.\nThe post Creative Planning expands Bitcoin ETF holdings by 43% in Q3 appeared first on Crypto Briefing."
+      },
       {
         "title": "Rupee down, US yields up: Is it time to add Treasuries to your portfolio?",
         "source": "Livemint",
