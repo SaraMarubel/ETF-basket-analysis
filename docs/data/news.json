@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:58:16.982395+00:00",
+  "generated_at": "2026-11-06T12:05:10.034081+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8052c191be7f86cf",
+        "published_at": "2026-11-05T06:51:51Z",
+        "description": "Will S&P 500 open higher? Polymarket odds dip to 41% as Wall Street digests post-midterm gridlock, AI regulations, and market tailwinds."
+      },
+      {
         "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Wednesday as Investors React to US Midterm Election Results",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cdf129da8315f83e",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/a4ce234e37488f73",
         "published_at": "2026-11-03T11:47:49Z",
         "description": "This article first appeared on GuruFocus.\nSPDR S&P 500 ETF Trust (SPY) recorded net buying of $5.73 billion on Friday, Oct. 30, with $5.73 billion in gross ETF activity and no shares sold. The fund increased all 503 of its positions and decreased none, leavin\u2026"
-      },
-      {
-        "title": "Tom Lee Says Investors Are Waiting Until After Midterms to Buy the Dip - State Street SPDR S&P 500 ETF Trust\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/210636ccb1d4f962",
-        "published_at": "2026-11-03T11:29:27Z",
-        "description": "Tech stocks have taken a beating, and Fundstrat\u2019s Tom Lee says investors who want to buy the dip are waiting until after the midterms."
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Buys $19.6 Million More NVIDIA on Tuesday",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8c01019029d8d3ec",
+        "published_at": "2026-11-05T11:30:43Z",
+        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) was the only ETF buying on Tuesday, with no funds selling, according to its reported daily holdings changes. QQQ added $239.6 million in ETF activity, increasing all 101 of its positions and de\u2026"
+      },
+      {
         "title": "Trump Celebrates Stock Rally Fueled by His Own Party\u2019s Midterm Defeat - Invesco QQQ Trust, Series 1\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/cc71dd9824d63201",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/a546384bd58dd305",
         "published_at": "2026-11-02T11:37:51Z",
         "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) posted a one-sided day of ETF activity last Thursday, selling $2.24 billion of stock and buying nothing. The fund decreased 100 positions and increased none, leaving its $463.83 billion portfol\u2026"
-      },
-      {
-        "title": "Fidelity\u2019s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8a4ab80ca81f46ea",
-        "published_at": "2026-11-02T09:17:11Z",
-        "description": "The post Fidelity\u2019s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple appeared first on 24/7 Wall St..\nMost investors who want Nasdaq exposure reach for Invesco QQQ Trust (NASDAQ:QQQ), which had $490.1 billion in net assets as of June 30, 2\u2026"
       }
     ],
     "IEFA": [],
@@ -287,6 +287,13 @@
     ],
     "SCHD": [
       {
+        "title": "SCHD Gets the Attention, but This Shareholder Yield ETF Measures Something Bigger",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/43be10a9449cd515",
+        "published_at": "2026-11-05T03:31:59Z",
+        "description": "The post SCHD Gets the Attention, but This Shareholder Yield ETF Measures Something Bigger appeared first on 24/7 Wall St..\nAsk a retiree to name a dividend ETF and you\u2019ll often hear Schwab U.S. Dividend Equity ETF (NYSEARCA:SCHD). It held $112.3 billion in n\u2026"
+      },
+      {
         "title": "If a Stock Market Crash Is Coming, History Says SCHD\u2019s Dividend Grew Through the Last Two Bear Markets. But Here\u2019s the Catch I'm Watching",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/d9d6ddb91f9cabc8",
@@ -320,13 +327,6 @@
         "url": "https://biztoc.com/x/d10ab2261b95c1e9",
         "published_at": "2026-10-24T17:30:48Z",
         "description": "The SCHD ETF is beating popular S&P 500 and Nasdaq 100 ETFs like VOO and QQQ as AI bubble fears continue rising."
-      },
-      {
-        "title": "Forget Stock Picking: The $100B Dividend ETF Retirees Are Buying Instead",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/23e7b1263d73339f",
-        "published_at": "2026-10-21T12:49:07Z",
-        "description": "The post Forget Stock Picking: The $100B Dividend ETF Retirees Are Buying Instead appeared first on 24/7 Wall St..\nSchwab U.S. Dividend Equity ETF (NYSEARCA:SCHD) has pulled in money so fast that net assets reached $94.9 billion by the end of May, up from $71\u2026"
       }
     ],
     "IEMG": [
@@ -447,7 +447,15 @@
         "description": "This article first appeared on GuruFocus.\nETF activity at iShares Russell 1000 Growth ETF (IWF) was entirely one-sided on Wednesday, Oct. 14, with 360 positions increased and none decreased. The fund, with $127.62 billion in assets under management, bought $1\u2026"
       }
     ],
-    "IJH": [],
+    "IJH": [
+      {
+        "title": "iShares Core S&P Mid-Cap (IJH) Adds Glaukos and TechnipFMC on Nov. 3",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c072e6b4f1343cc0",
+        "published_at": "2026-11-05T11:46:46Z",
+        "description": "This article first appeared on GuruFocus.\niShares Core S&P Mid-Cap ETF (IJH) extended its recent run of broad accumulation on Tuesday, adding to 397 positions while trimming just one. The fund's ETF activity totaled $2.35 billion in gross trades and $82.7 mil\u2026"
+      }
+    ],
     "VIG": [
       {
         "title": "Invesco\u2019s Quality Fund Beat VIG Over Five Years. 76.4% Against 65.69%",
