@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-05T20:00:41.030331+00:00",
+  "generated_at": "2026-11-06T00:58:16.982395+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0929b6ae45089753",
+        "published_at": "2026-11-05T00:30:25Z",
+        "description": "Most investors know that in the long run, the S&P 500 logs an average annual gain of about 10% per year (although some years are much better than others). But what does that mean in more tangible terms?\nLet's assume you invested $5,000 in the Vanguard S&P 500\u2026"
+      },
       {
         "title": "VOO vs. VTI: Which Vanguard Fund Is the Better Buy Right Now?",
         "source": "Biztoc.com",
@@ -37,16 +44,16 @@
         "url": "https://biztoc.com/x/61f369a8ebc8faad",
         "published_at": "2026-10-27T10:02:59Z",
         "description": "An S&P 500 Index (SNPINDEX:^GSPC) fund, such as the Vanguard S&P 500 ETF (NYSEMKT:VOO), is widely considered one of the easiest ways to build a diversified portfolio. However, there's a catch: Just 10 stocks account for nearly 40% of the index's value. That's\u2026"
-      },
-      {
-        "title": "Vanguard S&P 500 ETF Long-Term Outlook: What Historical Trends Suggest for Patient Investors",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ad019beaf3d5de75",
-        "published_at": "2026-10-26T00:10:00Z",
-        "description": "Over its decades-long history, the S&P 500 (SNPINDEX: ^GSPC) has returned roughly 10% annually with dividends reinvested. If you're looking for a baseline expectation for what stocks could return over the long-term future, this is probably a good place to sta\u2026"
       }
     ],
     "IVV": [
+      {
+        "title": "If You Own IVV, This Quality-Screened Large-Cap ETF Deserves a Look Before You Add More",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/76500131efa944fd",
+        "published_at": "2026-11-04T22:39:19Z",
+        "description": "The post If You Own IVV, This Quality-Screened Large-Cap ETF Deserves a Look Before You Add More appeared first on 24/7 Wall St..\nThe iShares Core S&P 500 ETF (NYSEARCA:IVV) is one of the most common core holdings in America, and IVV won that spot by putting \u2026"
+      },
       {
         "title": "iShares Core S&P 500 ETF (IVV) Adds Vylor and Apple on Oct. 30",
         "source": "Biztoc.com",
@@ -81,13 +88,6 @@
         "url": "https://www.fool.com.au/2026/10/09/ivv-etf-and-other-ishares-funds-are-paying-dividends-today-heres-how-much/",
         "published_at": "2026-10-08T22:36:02Z",
         "description": "Aussie investors love the IVV ETF, which tracks the US benchmark S&P 500 Index. \nThe post IVV ETF and other iShares funds are paying dividends today. Here's how much appeared first on The Motley Fool Australia."
-      },
-      {
-        "title": "3 ETFs Measured From the Same 2005 Starting Line. The Plain S&P 500 Fund Turned $10,000 Into $92,435",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/36bf0ec5a3f50187",
-        "published_at": "2026-10-05T22:34:17Z",
-        "description": "The post 3 ETFs Measured From the Same 2005 Starting Line. The Plain S&P 500 Fund Turned $10,000 Into $92,435 appeared first on 24/7 Wall St..\nA $10,000 investment in iShares Core S&P 500 ETF (NYSEARCA:IVV) made on November 15, 2005, was worth $92,435 on Octo\u2026"
       }
     ],
     "SPY": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Trump Celebrates Stock Rally Fueled by His Own Party\u2019s Midterm Defeat - Invesco QQQ Trust, Series 1\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/cc71dd9824d63201",
+        "published_at": "2026-11-04T22:08:45Z",
+        "description": "Trump claims record highs after Democrats\u2019 midterm sweep, but no major index set a record; the Dow surged 2.9% while oil fell 7%."
+      },
+      {
         "title": "AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple\u2019s AI Agent Problem",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/9ce7429eb79f13b9",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/8a4ab80ca81f46ea",
         "published_at": "2026-11-02T09:17:11Z",
         "description": "The post Fidelity\u2019s Broader Nasdaq ETF Has a Surprise for QQQ Investors: Even More Apple appeared first on 24/7 Wall St..\nMost investors who want Nasdaq exposure reach for Invesco QQQ Trust (NASDAQ:QQQ), which had $490.1 billion in net assets as of June 30, 2\u2026"
-      },
-      {
-        "title": "This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/75ec54797c9ead1b",
-        "published_at": "2026-10-30T15:30:42Z",
-        "description": "The post This Little-Known ETF Owns QQQ\u2019s Stocks Without the Big Bet on Nvidia appeared first on 24/7 Wall St..\nMost people who buy Invesco QQQ Trust (NASDAQ:QQQ) want broad exposure to the NASDAQ-100. That portfolio leans heavily on a few chipmakers and tech\u2026"
       }
     ],
     "IEFA": [],
@@ -361,7 +361,15 @@
         "description": "The post Why Retirees Ditching Bonds for SPYI Are Missing the Real Reason to Own Bonds appeared first on 24/7 Wall St..\nA $300,000 position in the NEOS S&P 500 High Income ETF (BATS:SPYI) pays about $2,935 a month. A matching amount in iShares Core U.S. Aggre\u2026"
       }
     ],
-    "VTV": [],
+    "VTV": [
+      {
+        "title": "This Little-Known ETF Lets a Computer Hunt for the Cheapest Quality Stocks",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/46034d94c43cf3e8",
+        "published_at": "2026-11-04T20:51:35Z",
+        "description": "The post This Little-Known ETF Lets a Computer Hunt for the Cheapest Quality Stocks appeared first on 24/7 Wall St..\nValue funds have rallied in 2026. Most investors get that exposure through Vanguard Value ETF (NYSEARCA:VTV), a broad, very cheap index fund. \u2026"
+      }
+    ],
     "VXUS": [
       {
         "title": "Forget VXUS: VOO Returned 320.81% Over Ten Years Against VXUS\u2019s 139.56%",
