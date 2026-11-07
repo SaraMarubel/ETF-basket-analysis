@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:22:26.583398+00:00",
+  "generated_at": "2026-11-07T00:07:06.716055+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,20 @@
     ],
     "QQQ": [
       {
+        "title": "Worst US stock rout since 2020 leaves virtually nowhere to hide as Nasdaq plunges 6.4%, Dow sheds 1,833 points",
+        "source": "BusinessLine",
+        "url": "https://www.thehindubusinessline.com/markets/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide-as-nasdaq-plunges-64-dow-sheds-1833-points/article71671756.ece",
+        "published_at": "2026-11-05T22:53:11Z",
+        "description": "Investors rushed to safer assets as mounting concerns over artificial intelligence valuations and potential policy changes triggered widespread selling across equities"
+      },
+      {
+        "title": "Invesco QQQ Trust sees record trading volume of approximately $80 billion amid tech selloff",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/invesco-qqq-record-trading-volume-selloff/",
+        "published_at": "2026-11-05T21:24:38Z",
+        "description": "The record trading volume highlights heightened market volatility and institutional fear, signaling potential instability in tech investments.\nThe post Invesco QQQ Trust sees record trading volume of approximately $80 billion amid tech selloff appeared first \u2026"
+      },
+      {
         "title": "The fund that created the most wealth in 10 years was a plain S&P 500 ETF: $263 billion",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/news/international/us/the-fund-that-created-the-most-wealth-in-10-years-was-a-plain-sp-500-etf-263-billion/articleshow/135572076.cms",
@@ -192,20 +206,6 @@
         "url": "https://biztoc.com/x/cc71dd9824d63201",
         "published_at": "2026-11-04T22:08:45Z",
         "description": "Trump claims record highs after Democrats\u2019 midterm sweep, but no major index set a record; the Dow surged 2.9% while oil fell 7%."
-      },
-      {
-        "title": "AMD Earnings To Test Whether PC Weakness Is Intel-Specific, Apple\u2019s AI Agent Problem",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/9ce7429eb79f13b9",
-        "published_at": "2026-11-03T17:56:16Z",
-        "description": "Election Day Crosscurrents Please click here for an enlarged chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ). Note the following: The chart shows QQQ dipped into zone 2 (support). The chart shows QQQ"
-      },
-      {
-        "title": "Sells Apple and NVIDIA on Oct. 30",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/6e63d081cac6c32a",
-        "published_at": "2026-11-03T11:48:14Z",
-        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) was alone in selling, with no ETFs buying, in the latest ETF activity. The $463.83 billion fund traded $448.2 million gross, all of it sales, for a net outflow of $448.2 million. It decreased a\u2026"
       }
     ],
     "IEFA": [],
