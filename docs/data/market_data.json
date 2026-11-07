@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T00:06:39.394150+00:00",
+  "generated_at": "2026-11-07T05:55:12.095558+00:00",
   "risk_free_rate_pct": 4.0,
   "etfs": {
     "VOO": {
@@ -8,10 +8,10 @@
       "currency": "USD",
       "aum": 1735726989312,
       "fund_family": "Vanguard",
-      "avg_volume": 7391262,
+      "avg_volume": 7460900,
       "bid": 676.54,
-      "ask": 677.39,
-      "spread_pct": 0.1256,
+      "ask": 677.16,
+      "spread_pct": 0.0916,
       "price": 675.99,
       "change_1d_pct": 0.3,
       "change_1y_pct": 10.96,
@@ -491,10 +491,10 @@
       "currency": "USD",
       "aum": 870018121728,
       "fund_family": "iShares",
-      "avg_volume": 6653990,
+      "avg_volume": 6659710,
       "bid": 738.81,
-      "ask": 739.71,
-      "spread_pct": 0.1217,
+      "ask": 739.7,
+      "spread_pct": 0.1204,
       "price": 738.68,
       "change_1d_pct": 0.34,
       "change_1y_pct": 10.97,
@@ -974,10 +974,10 @@
       "currency": "USD",
       "aum": 796865200128,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 42385103,
+      "avg_volume": 42646873,
       "bid": 736.0,
-      "ask": 736.28,
-      "spread_pct": 0.038,
+      "ask": 736.2,
+      "spread_pct": 0.0272,
       "price": 735.29,
       "change_1d_pct": 0.31,
       "change_1y_pct": 10.88,
@@ -1457,7 +1457,7 @@
       "currency": "USD",
       "aum": 2314518921216,
       "fund_family": "Vanguard",
-      "avg_volume": 3169948,
+      "avg_volume": 3204986,
       "bid": 362.11,
       "ask": 362.73,
       "spread_pct": 0.1711,
@@ -1940,7 +1940,7 @@
       "currency": "USD",
       "aum": 463833595904,
       "fund_family": "Invesco",
-      "avg_volume": 36867750,
+      "avg_volume": 37413024,
       "bid": 717.24,
       "ask": 717.49,
       "spread_pct": 0.0348,
@@ -2828,7 +2828,7 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 1.38,
-          "change_1y_pct": 52.22
+          "change_1y_pct": 51.68
         },
         {
           "symbol": "SHEL.L",
@@ -2840,7 +2840,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 1.19,
-          "change_1y_pct": 35.6
+          "change_1y_pct": 34.55
         },
         {
           "symbol": "HSBA.L",
@@ -2858,7 +2858,7 @@
           "symbol": "NESN.SW",
           "name": "Nestle SA",
           "weight_pct": 1.06,
-          "change_1y_pct": 15.09
+          "change_1y_pct": 13.27
         },
         {
           "symbol": "SAP.DE",
@@ -2891,7 +2891,7 @@
         "symbol": "ROP.SW",
         "name": "Roche Holding AG Ordinary Shares new",
         "weight_pct": 1.38,
-        "change_1y_pct": 52.22
+        "change_1y_pct": 51.68
       },
       "weakest_holding": {
         "symbol": "SAP.DE",
@@ -2906,7 +2906,7 @@
       "currency": "USD",
       "aum": 309073379328,
       "fund_family": "Vanguard",
-      "avg_volume": 9871304,
+      "avg_volume": 9962743,
       "bid": 67.91,
       "ask": 69.2,
       "spread_pct": 1.8817,
@@ -3329,7 +3329,7 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.9,
-          "change_1y_pct": 52.22
+          "change_1y_pct": 51.68
         },
         {
           "symbol": "SHEL.L",
@@ -3347,7 +3347,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.82,
-          "change_1y_pct": 35.6
+          "change_1y_pct": 34.55
         },
         {
           "symbol": "8306.T",
@@ -3389,7 +3389,7 @@
       "currency": "USD",
       "aum": 370541953024,
       "fund_family": "Vanguard",
-      "avg_volume": 5865028,
+      "avg_volume": 5920773,
       "bid": 82.19,
       "ask": 82.2,
       "spread_pct": 0.0122,
@@ -3872,7 +3872,7 @@
       "currency": "USD",
       "aum": 400606691328,
       "fund_family": "Vanguard",
-      "avg_volume": 10317762,
+      "avg_volume": 10390098,
       "bid": 72.44,
       "ask": 72.46,
       "spread_pct": 0.0276,
@@ -4272,7 +4272,7 @@
       "currency": "USD",
       "aum": 121091694592,
       "fund_family": "Schwab ETFs",
-      "avg_volume": 23247567,
+      "avg_volume": 23330636,
       "bid": 35.17,
       "ask": 35.2,
       "spread_pct": 0.0853,
@@ -5232,7 +5232,7 @@
       "currency": "USD",
       "aum": 139937972224,
       "fund_family": "iShares",
-      "avg_volume": 10691912,
+      "avg_volume": 10706550,
       "bid": 96.54,
       "ask": 96.72,
       "spread_pct": 0.1863,
@@ -5639,7 +5639,7 @@
       "currency": "USD",
       "aum": 266947133440,
       "fund_family": "Vanguard",
-      "avg_volume": 2757651,
+      "avg_volume": 2762650,
       "bid": 223.09,
       "ask": 223.11,
       "spread_pct": 0.009,
@@ -6122,7 +6122,7 @@
       "currency": "USD",
       "aum": 630010281984,
       "fund_family": "Vanguard",
-      "avg_volume": 5429796,
+      "avg_volume": 5492556,
       "bid": 86.43,
       "ask": 86.52,
       "spread_pct": 0.1041,
@@ -6557,7 +6557,7 @@
           "symbol": "ROP.SW",
           "name": "Roche Holding AG Ordinary Shares new",
           "weight_pct": 0.66,
-          "change_1y_pct": 52.22
+          "change_1y_pct": 51.68
         },
         {
           "symbol": "SHEL.L",
@@ -6575,7 +6575,7 @@
           "symbol": "NOVN.SW",
           "name": "Novartis AG Registered Shares",
           "weight_pct": 0.6,
-          "change_1y_pct": 35.6
+          "change_1y_pct": 34.55
         }
       ],
       "options": {
@@ -6605,7 +6605,7 @@
       "currency": "USD",
       "aum": 153782910976,
       "fund_family": "Vanguard",
-      "avg_volume": 7208701,
+      "avg_volume": 7319047,
       "bid": 55.05,
       "ask": 55.32,
       "spread_pct": 0.4893,
@@ -7088,10 +7088,10 @@
       "currency": "USD",
       "aum": 131009642496,
       "fund_family": "State Street Investment Management",
-      "avg_volume": 9801760,
-      "bid": 373.15,
-      "ask": 373.59,
-      "spread_pct": 0.1178,
+      "avg_volume": 9767432,
+      "bid": 373.18,
+      "ask": 373.55,
+      "spread_pct": 0.0991,
       "price": 372.52,
       "change_1d_pct": -0.79,
       "change_1y_pct": 1.76,
@@ -7488,7 +7488,7 @@
       "currency": "USD",
       "aum": 120289034240,
       "fund_family": "iShares",
-      "avg_volume": 4394425,
+      "avg_volume": 4438589,
       "bid": 111.78,
       "ask": 112.82,
       "spread_pct": 0.9261,
@@ -7971,7 +7971,7 @@
       "currency": "USD",
       "aum": 123204116480,
       "fund_family": "iShares",
-      "avg_volume": 6952515,
+      "avg_volume": 7006333,
       "bid": 72.12,
       "ask": 72.76,
       "spread_pct": 0.8835,
@@ -8454,7 +8454,7 @@
       "currency": "USD",
       "aum": 135700684800,
       "fund_family": "Vanguard",
-      "avg_volume": 1038989,
+      "avg_volume": 1044330,
       "bid": 243.5,
       "ask": 244.23,
       "spread_pct": 0.2993,
@@ -8937,10 +8937,10 @@
       "currency": "USD",
       "aum": 105578758144,
       "fund_family": "iShares",
-      "avg_volume": 3220306,
-      "bid": 137.11,
-      "ask": 138.09,
-      "spread_pct": 0.7122,
+      "avg_volume": 3251746,
+      "bid": 134.05,
+      "ask": 141.47,
+      "spread_pct": 5.3862,
       "price": 137.64,
       "change_1d_pct": 0.11,
       "change_1y_pct": 19.22,
