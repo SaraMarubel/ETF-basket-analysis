@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:57:32.132297+00:00",
+  "generated_at": "2026-11-08T15:09:46.760102+00:00",
   "risk_free_rate_pct": 4.0,
   "etfs": {
     "VOO": {
@@ -5202,7 +5202,7 @@
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.65,
-          "change_1y_pct": -18.62
+          "change_1y_pct": -19.05
         }
       ],
       "options": {
@@ -7046,13 +7046,13 @@
           "symbol": "HDFCBANK.NS",
           "name": "HDFC Bank Ltd",
           "weight_pct": 0.7,
-          "change_1y_pct": -18.62
+          "change_1y_pct": -19.05
         },
         {
           "symbol": "RELIANCE.NS",
           "name": "Reliance Industries Ltd",
           "weight_pct": 0.69,
-          "change_1y_pct": -11.36
+          "change_1y_pct": -11.09
         },
         {
           "symbol": "01398",
@@ -9452,7 +9452,7 @@
       "IEMG": 0.78,
       "AGG": 0.37,
       "VTV": 0.7,
-      "VXUS": 0.83,
+      "VXUS": 0.84,
       "VWO": 0.82,
       "GLD": 0.37,
       "IWF": 0.93,
@@ -9704,7 +9704,7 @@
     },
     "VXUS": {
       "VOO": 0.84,
-      "IVV": 0.83,
+      "IVV": 0.84,
       "SPY": 0.84,
       "VTI": 0.85,
       "QQQ": 0.8,
