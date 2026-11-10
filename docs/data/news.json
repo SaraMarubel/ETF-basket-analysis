@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:44:25.483306+00:00",
+  "generated_at": "2026-11-10T12:36:52.720261+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -48,6 +48,13 @@
     ],
     "IVV": [
       {
+        "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 5",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/3f5e25627a27c836",
+        "published_at": "2026-11-09T11:49:50Z",
+        "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) recorded $220.1 million in net buying last Thursday, with gross traded of $220.1 million and no sells. The ETF activity lifted 498 positions and decreased none, against $852.94 billion i\u2026"
+      },
+      {
         "title": "iShares Core S&P 500 (IVV) Buys $394.7 Million More Oracle on Nov. 4",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c57eaeb28cb36e9e",
@@ -81,16 +88,23 @@
         "url": "https://biztoc.com/x/0c6c8662a4db465a",
         "published_at": "2026-10-22T23:08:37Z",
         "description": "The post 3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500 appeared first on 24/7 Wall St..\nThree Vanguard ETFs pay trailing yields ranging from 2.9% to 3.7% based on prices as of October 21, 2026. Over the past year, only one of them beat the i\u2026"
-      },
-      {
-        "title": "iShares Core S&P 500 ETF (IVV) Sells $33.5 Million of NVIDIA on Monday",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/bd02381f75caf61d",
-        "published_at": "2026-10-21T11:51:37Z",
-        "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) extended a one-sided stretch in Monday's session, with no positions increased and 498 decreased. The fund's ETF activity totaled $421.2 million sold and nothing bought, a net outflow of \u2026"
       }
     ],
     "SPY": [
+      {
+        "title": "Democrats' Win Won't Quickly Change Economic Policy - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/07f9c9eabd24f08e",
+        "published_at": "2026-11-09T07:12:28Z",
+        "description": "Economist Mark Zandi said Democrats\u2019 midterm wins will do little for economic policy right away because any bill needs Trump\u2019s signature."
+      },
+      {
+        "title": "History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/0ea7011316d75214",
+        "published_at": "2026-11-09T06:26:10Z",
+        "description": "Fears of an AI slowdown under a Democratic Congress hit chip stocks, but history suggests last week\u2019s selloff was a buying opportunity."
+      },
       {
         "title": "Justin Wolfers Questions if New Congress Will Stop Trump - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/8052c191be7f86cf",
         "published_at": "2026-11-05T06:51:51Z",
         "description": "Will S&P 500 open higher? Polymarket odds dip to 41% as Wall Street digests post-midterm gridlock, AI regulations, and market tailwinds."
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Wednesday as Investors React to US Midterm Election Results",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/cdf129da8315f83e",
-        "published_at": "2026-11-04T15:15:12Z",
-        "description": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9% and the actively trad"
-      },
-      {
-        "title": "Midterm Elections Are Over. Here\u2019s What History Says About the Next 12 Months",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c6e2fdc75161e9e3",
-        "published_at": "2026-11-04T14:57:07Z",
-        "description": "The post Midterm Elections Are Over. Here\u2019s What History Says About the Next 12 Months appeared first on 24/7 Wall St..\nElection nights tend to rattle retirement savers, but Wall Street opened Wednesday more calmly. The SPDR S&P 500 ETF Trust (NYSEARCA:SPY), \u2026"
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "ETFs Are Net Sellers of Walmart (WMT) on Nov. 5",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/9276f891a228dc1b",
+        "published_at": "2026-11-09T11:49:58Z",
+        "description": "This article first appeared on GuruFocus.\nInvesco QQQ Trust (QQQ) led the move, cutting 489,450 shares worth $62.5 million as ETF activity turned negative on Thursday, Nov. 5. More ETFs traded the other way, with 44 buying versus 17 selling, but the sellers' \u2026"
+      },
+      {
         "title": "Eric Balchunas Calls It a \u201cFive Alarm Fire\u201d Sell-Off. Here\u2019s What Record ETF Trading Tells You",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/2661148e851ca308",
@@ -199,13 +206,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/us/the-fund-that-created-the-most-wealth-in-10-years-was-a-plain-sp-500-etf-263-billion/articleshow/135572076.cms",
         "published_at": "2026-11-05T18:59:39Z",
         "description": "The iShares Core S&P 500 ETF (IVV) generated the most shareholder value over the last 10 years. According to a Morningstar report, it created $263.1 billion in wealth for investors. Meanwhile, the Invesco QQQ Trust (QQQ) followed with $195.2 billion created f\u2026"
-      },
-      {
-        "title": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dragging down Invesco QQQ Trust",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/qqq-stock-today-falls-over-5-why-nvidia-nvda-qualcomm-qcom-intel-intc-and-marvell-mrvl-are-dragging-down-invesco-qqq-trust/articleshow/135582240.cms",
-        "published_at": "2026-11-05T17:50:08Z",
-        "description": "QQQ stock: The Invesco QQQ Trust saw a significant drop exceeding 5% following the Democrats' midterm win, resulting in apprehensions about technology and semiconductor stocks. Qualcomm's weak sales further intensified the downturn, leading to concerns over A\u2026"
       }
     ],
     "IEFA": [],
