@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T06:10:34.493373+00:00",
+  "generated_at": "2026-11-11T16:09:08.776227+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "SPY, QQQ Attract $9B as ETF Investors Shrug Off Volatility Worries - State Street SPDR S&P 500 ETF Trust\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fb0b30d7fceed676",
+        "published_at": "2026-11-10T13:31:29Z",
+        "description": "U.S. ETFs attracted $14.1B despite a sharp stock market selloff, with SPY and QQQ leading inflows as 2026 ETF investments approach $1.8T."
+      },
+      {
+        "title": "Nvidia is 7% of the S&P 500, so if you have an index fund or pension, the Jensen Huang scandal is in your portfolio too",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-is-7-of-the-sp-500-so-if-you-have-an-index-fund-or-pension-the-jensen-huang-scandal-is-in-your-portfolio-too/articleshow/135709318.cms",
+        "published_at": "2026-11-10T12:40:28Z",
+        "description": "Nvidia faces a notable stock decline following the announcement that CEO Jensen Huang is under investigation by foreign intelligence. This situation raises alarms for investors since Nvidia holds a prominent position in the S&P 500. Although the investigation\u2026"
+      },
+      {
         "title": "Democrats' Win Won't Quickly Change Economic Policy - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/07f9c9eabd24f08e",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/d7db8aac948221c6",
         "published_at": "2026-11-06T06:27:36Z",
         "description": "Will the S&P 500 open higher? Polymarket odds hit 62% as Wall Street eyes jobs data and a tech rebound."
-      },
-      {
-        "title": "Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/977f1d9b57bf5a89",
-        "published_at": "2026-11-05T16:52:27Z",
-        "description": "The post Wall Street Is Already Bracing for a 2027 Debt Ceiling Fight appeared first on 24/7 Wall St..\nStocks and long-term Treasurys both rose on November 4, 2026, after Democrats swept the midterms. The SPDR S&P 500 ETF Trust (NYSEARCA:SPY) gained 1.65% to \u2026"
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/8052c191be7f86cf",
-        "published_at": "2026-11-05T06:51:51Z",
-        "description": "Will S&P 500 open higher? Polymarket odds dip to 41% as Wall Street digests post-midterm gridlock, AI regulations, and market tailwinds."
       }
     ],
     "VTI": [
@@ -166,6 +166,20 @@
     ],
     "QQQ": [
       {
+        "title": "The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia\u2019s Help",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a95582bd974319a2",
+        "published_at": "2026-11-10T12:30:21Z",
+        "description": "The post The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia\u2019s Help appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) closed at $679.35 on November 9, 2026, up 3.54%. That was its best session since May 12, 2025. The Nasdaq-100, \u2026"
+      },
+      {
+        "title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Nov. 6",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/fbbf486c17183090",
+        "published_at": "2026-11-10T11:30:31Z",
+        "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) extended its run of one-sided ETF activity last Friday, adding $2.82 billion of stock and selling nothing. The $446.09 billion fund increased all 101 of its positions and decreased none, puttin\u2026"
+      },
+      {
         "title": "Defensive healthcare ETFs: broad funds, income options, and key caveats",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/988e4bdb24a66452",
@@ -192,20 +206,6 @@
         "url": "https://biztoc.com/x/523ac208aff896a4",
         "published_at": "2026-11-06T12:19:43Z",
         "description": "The post Tech Stocks Just Had Their Worst Day Since 2020 appeared first on 24/7 Wall St..\nInvesco QQQ Trust (NASDAQ:QQQ) closed at $647.05 on November 5, 2026, its low for the session. The fund lost $44.90, or 6.49%, while the Nasdaq-100 fell 6.36%. That was \u2026"
-      },
-      {
-        "title": "Worst US stock rout since 2020 leaves virtually nowhere to hide as Nasdaq plunges 6.4%, Dow sheds 1,833 points",
-        "source": "BusinessLine",
-        "url": "https://www.thehindubusinessline.com/markets/worst-us-stock-rout-since-2020-leaves-virtually-nowhere-to-hide-as-nasdaq-plunges-64-dow-sheds-1833-points/article71671756.ece",
-        "published_at": "2026-11-05T22:53:11Z",
-        "description": "Investors rushed to safer assets as mounting concerns over artificial intelligence valuations and potential policy changes triggered widespread selling across equities"
-      },
-      {
-        "title": "Invesco QQQ Trust sees record trading volume of approximately $80 billion amid tech selloff",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/invesco-qqq-record-trading-volume-selloff/",
-        "published_at": "2026-11-05T21:24:38Z",
-        "description": "The record trading volume highlights heightened market volatility and institutional fear, signaling potential instability in tech investments.\nThe post Invesco QQQ Trust sees record trading volume of approximately $80 billion amid tech selloff appeared first \u2026"
       }
     ],
     "IEFA": [],
