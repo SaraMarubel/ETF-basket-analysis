@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:09:08.776227+00:00",
+  "generated_at": "2026-11-11T22:41:45.155188+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Earnings Beats Ignored Like the Dot-Com Bust, BofA Says - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/4faf473fc98b0710",
+        "published_at": "2026-11-10T20:09:50Z",
+        "description": "S&P 500 beats get the smallest reward since 2001, BofA's Savita Subramanian says, as AI risk weighs on SPY despite 31% earnings growth."
+      },
+      {
         "title": "SPY, QQQ Attract $9B as ETF Investors Shrug Off Volatility Worries - State Street SPDR S&P 500 ETF Trust\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/fb0b30d7fceed676",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/ce44cd9b8fd5465f",
         "published_at": "2026-11-06T08:14:14Z",
         "description": "Economist Justin Wolfers said the midterms sent a message on the economy and will test if Congress will stop Trump, who governs without it."
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d7db8aac948221c6",
-        "published_at": "2026-11-06T06:27:36Z",
-        "description": "Will the S&P 500 open higher? Polymarket odds hit 62% as Wall Street eyes jobs data and a tech rebound."
       }
     ],
     "VTI": [
