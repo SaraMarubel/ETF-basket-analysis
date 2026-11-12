@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:06:43.948976+00:00",
+  "generated_at": "2026-11-12T16:47:53.996892+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI - State Street SPDR S&P 500 ETF Trust\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/49fc29d52fc5345c",
+        "published_at": "2026-11-11T13:15:44Z",
+        "description": "Hedge funds unwind tech and AI stocks at record pace while retail investors aggressively buy the dip in major index ETFs."
+      },
+      {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/6fc0b050be6ffbf6",
@@ -125,13 +132,6 @@
         "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-is-7-of-the-sp-500-so-if-you-have-an-index-fund-or-pension-the-jensen-huang-scandal-is-in-your-portfolio-too/articleshow/135709318.cms",
         "published_at": "2026-11-10T12:40:28Z",
         "description": "Nvidia faces a notable stock decline following the announcement that CEO Jensen Huang is under investigation by foreign intelligence. This situation raises alarms for investors since Nvidia holds a prominent position in the S&P 500. Although the investigation\u2026"
-      },
-      {
-        "title": "Democrats' Win Won't Quickly Change Economic Policy - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/07f9c9eabd24f08e",
-        "published_at": "2026-11-09T07:12:28Z",
-        "description": "Economist Mark Zandi said Democrats\u2019 midterm wins will do little for economic policy right away because any bill needs Trump\u2019s signature."
       }
     ],
     "VTI": [
