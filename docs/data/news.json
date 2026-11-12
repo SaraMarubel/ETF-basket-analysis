@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:41:45.155188+00:00",
+  "generated_at": "2026-11-12T07:06:43.948976+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/6fc0b050be6ffbf6",
+        "published_at": "2026-11-11T06:38:28Z",
+        "description": "Will S&P 500 open higher? Polymarket odds hit 83% as Wall Street rides a massive tech rally, weighs Iran diplomacy, and eyes a Fed rate hike."
+      },
+      {
+        "title": "SPY Is Still a Unit Investment Trust. Here\u2019s Why That Quirk Matters (and When It Doesn\u2019t)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/d08da54784ff2b60",
+        "published_at": "2026-11-11T01:46:15Z",
+        "description": "The post SPY Is Still a Unit Investment Trust. Here\u2019s Why That Quirk Matters (and When It Doesn\u2019t) appeared first on 24/7 Wall St..\nThe State Street SPDR S&P 500 ETF Trust (NYSEARCA:SPY) launched on January 22, 1993. According to State Street Global Advisors,\u2026"
+      },
+      {
         "title": "Earnings Beats Ignored Like the Dot-Com Bust, BofA Says - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/4faf473fc98b0710",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/07f9c9eabd24f08e",
         "published_at": "2026-11-09T07:12:28Z",
         "description": "Economist Mark Zandi said Democrats\u2019 midterm wins will do little for economic policy right away because any bill needs Trump\u2019s signature."
-      },
-      {
-        "title": "History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0ea7011316d75214",
-        "published_at": "2026-11-09T06:26:10Z",
-        "description": "Fears of an AI slowdown under a Democratic Congress hit chip stocks, but history suggests last week\u2019s selloff was a buying opportunity."
-      },
-      {
-        "title": "Justin Wolfers Questions if New Congress Will Stop Trump - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ce44cd9b8fd5465f",
-        "published_at": "2026-11-06T08:14:14Z",
-        "description": "Economist Justin Wolfers said the midterms sent a message on the economy and will test if Congress will stop Trump, who governs without it."
       }
     ],
     "VTI": [
