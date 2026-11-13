@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T01:04:13.098976+00:00",
+  "generated_at": "2026-11-13T12:10:33.027658+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -48,6 +48,13 @@
     ],
     "IVV": [
       {
+        "title": "iShares Core S&P 500 ETF (IVV) Sells $26.6 Million of Apple on Tuesday",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/ee68570ba5ea965e",
+        "published_at": "2026-11-12T11:56:16Z",
+        "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) recorded a net outflow of $337.5 million in Tuesday's session, with gross traded of $337.5 million, according to its reported daily holdings changes. The ETF activity was entirely one-si\u2026"
+      },
+      {
         "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 5",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/3f5e25627a27c836",
@@ -81,16 +88,16 @@
         "url": "https://biztoc.com/x/a6dde5d0164f3597",
         "published_at": "2026-11-03T11:48:11Z",
         "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) was buying on last Friday, with 499 positions increased and none decreased across the ETF activity. The fund's gross traded total was $2.12 billion, all of it net bought, against assets \u2026"
-      },
-      {
-        "title": "3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0c6c8662a4db465a",
-        "published_at": "2026-10-22T23:08:37Z",
-        "description": "The post 3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500 appeared first on 24/7 Wall St..\nThree Vanguard ETFs pay trailing yields ranging from 2.9% to 3.7% based on prices as of October 21, 2026. Over the past year, only one of them beat the i\u2026"
       }
     ],
     "SPY": [
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c7849272688ced30",
+        "published_at": "2026-11-12T06:17:56Z",
+        "description": "Will S&P 500 open higher? Polymarket odds dip to 33% as Wall Street digests Nvidia CEO ouster rumors, a tech futures drop, and falling oil."
+      },
       {
         "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI - State Street SPDR S&P 500 ETF Trust\u2026",
         "source": "Biztoc.com",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/fb0b30d7fceed676",
         "published_at": "2026-11-10T13:31:29Z",
         "description": "U.S. ETFs attracted $14.1B despite a sharp stock market selloff, with SPY and QQQ leading inflows as 2026 ETF investments approach $1.8T."
-      },
-      {
-        "title": "Nvidia is 7% of the S&P 500, so if you have an index fund or pension, the Jensen Huang scandal is in your portfolio too",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/nvidia-is-7-of-the-sp-500-so-if-you-have-an-index-fund-or-pension-the-jensen-huang-scandal-is-in-your-portfolio-too/articleshow/135709318.cms",
-        "published_at": "2026-11-10T12:40:28Z",
-        "description": "Nvidia faces a notable stock decline following the announcement that CEO Jensen Huang is under investigation by foreign intelligence. This situation raises alarms for investors since Nvidia holds a prominent position in the S&P 500. Although the investigation\u2026"
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "US stock market selloff: Four indicators suggest correction may not be over",
+        "source": "The Times of India",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-selloff-four-indicators-suggest-correction-may-not-be-over/articleshow/135760661.cms",
+        "published_at": "2026-11-12T07:53:35Z",
+        "description": "Four key indicators suggest the US stock market correction may not be over, despite some stabilisation in technology shares. Easing investor positioning and stock correlations offer relief, but options activity and technical signals continue to point to cauti\u2026"
+      },
+      {
         "title": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/2f0c97ae80b18ea3",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/fbbf486c17183090",
         "published_at": "2026-11-10T11:30:31Z",
         "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) extended its run of one-sided ETF activity last Friday, adding $2.82 billion of stock and selling nothing. The $446.09 billion fund increased all 101 of its positions and decreased none, puttin\u2026"
-      },
-      {
-        "title": "Defensive healthcare ETFs: broad funds, income options, and key caveats",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/988e4bdb24a66452",
-        "published_at": "2026-11-09T22:32:52Z",
-        "description": "Investing.com -- Healthcare often acts as a shelter because people keep buying medicine and care in any economy. The screener (snapshot data, which may lag live prices) points to a few broad, low-cost US funds. Nasdaq-100 funds like Invesco QQQ Trust (QQQ) fe\u2026"
       }
     ],
     "IEFA": [],
