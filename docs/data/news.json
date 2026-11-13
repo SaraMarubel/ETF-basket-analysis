@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-13T12:10:33.027658+00:00",
+  "generated_at": "2026-11-13T19:39:48.043414+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Warren Buffett Doesn't Follow His Own S&P 500 Advice. Should You?",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/98fb16ce601391c8",
+        "published_at": "2026-11-12T18:19:39Z",
+        "description": "While Warren Buffett consistently recommended low-cost S&P 500 index funds, such as the Vanguard S&P 500 ETF (NYSEMKT:VOO), for individual portfolios, Berkshire Hathaway's (NYSE:BRKA)(NYSE:BRKB) own equity holdings are significantly more concentrated.\nAccordi\u2026"
+      },
       {
         "title": "History Says 1 Month Has Been the S&P 500's Most Reliable Since 1950. It's Only Weeks Away",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/7adc788f6f6321fc",
         "published_at": "2026-11-01T20:19:01Z",
         "description": "The Vanguard S&P 500 ETF (NYSEMKT: VOO) has always been one of the best long-term investments for everyday, regular folks. But there are some legitimate questions about whether now is the right time to invest. Is it too top-heavy? Is it too concentrated in te\u2026"
-      },
-      {
-        "title": "Prediction: This Dividend Growth ETF Will Outperform the Vanguard S&P 500 ETF Over the Next 20 Years. Here's Why",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d1219e7946d2153f",
-        "published_at": "2026-10-28T17:15:32Z",
-        "description": "The S&P 500's (SNPINDEX: ^GSPC) 10 largest holdings currently comprise 40% of its value. This broad market index hasn't been this concentrated since the 1960s. The next 20 years were a weak period for the S&P 500. That doesn't bode well for the Vanguard S&P 5\u2026"
       }
     ],
     "IVV": [
@@ -92,6 +92,20 @@
     ],
     "SPY": [
       {
+        "title": "Jensen Huang Resigns As CEO of Nvidia Following Affair With Alleged Chinese Spy",
+        "source": "Hip-Hop Wired",
+        "url": "https://hiphopwired.com/3069260/jensen-huang-affair-alleged-chinese-spy-nvidia-resignation-reactions/",
+        "published_at": "2026-11-12T16:44:40Z",
+        "description": "Nvidia CEO Jensen Huang resigns after affairs surface, including one with alleged Chinese spy. Stock plunges $750B. National security concerns emerge."
+      },
+      {
+        "title": "NVIDIA\u2019s Leadership Crisis Is Dragging the S&P 500 Lower. Here\u2019s What Else Is Moving",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/73d20a21e5faa5d2",
+        "published_at": "2026-11-12T15:42:25Z",
+        "description": "The post NVIDIA\u2019s Leadership Crisis Is Dragging the S&P 500 Lower. Here\u2019s What Else Is Moving appeared first on 24/7 Wall St..\nThe sudden leadership crisis at NVIDIA (NASDAQ:NVDA) is pulling Wall Street lower in early trading. Around 10:00 a.m. ET, the SPDR S\u2026"
+      },
+      {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c7849272688ced30",
@@ -118,20 +132,6 @@
         "url": "https://biztoc.com/x/d08da54784ff2b60",
         "published_at": "2026-11-11T01:46:15Z",
         "description": "The post SPY Is Still a Unit Investment Trust. Here\u2019s Why That Quirk Matters (and When It Doesn\u2019t) appeared first on 24/7 Wall St..\nThe State Street SPDR S&P 500 ETF Trust (NYSEARCA:SPY) launched on January 22, 1993. According to State Street Global Advisors,\u2026"
-      },
-      {
-        "title": "Earnings Beats Ignored Like the Dot-Com Bust, BofA Says - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/4faf473fc98b0710",
-        "published_at": "2026-11-10T20:09:50Z",
-        "description": "S&P 500 beats get the smallest reward since 2001, BofA's Savita Subramanian says, as AI risk weighs on SPY despite 31% earnings growth."
-      },
-      {
-        "title": "SPY, QQQ Attract $9B as ETF Investors Shrug Off Volatility Worries - State Street SPDR S&P 500 ETF Trust\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fb0b30d7fceed676",
-        "published_at": "2026-11-10T13:31:29Z",
-        "description": "U.S. ETFs attracted $14.1B despite a sharp stock market selloff, with SPY and QQQ leading inflows as 2026 ETF investments approach $1.8T."
       }
     ],
     "VTI": [
@@ -354,6 +354,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Gold Stocks Dip: What's Going On? - SPDR Gold Shares (ARCA:GLD), Newmont (NYSE:NEM), Agnico Eagle Mines\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b4c554e5b1b10dff",
+        "published_at": "2026-11-12T17:47:53Z",
+        "description": "Gold shares like Agnico Eagle Mines and Newmont are falling Thursday as gold slides to a one-year low on fading Middle East peace hopes."
+      },
+      {
         "title": "Bitcoin 200 Day Moving Average Holds as 2026 Return Stays Negative",
         "source": "Dcforecasts.com",
         "url": "https://www.dcforecasts.com/analysis/bitcoin-200-day-moving-average-holds-2026/",
@@ -387,13 +394,6 @@
         "url": "https://www.prnewswire.com/news-releases/chinas-treasury-pile-is-shrinking-on-paper-the-custody-data-tell-a-different-story-302912478.html",
         "published_at": "2026-10-19T12:15:00Z",
         "description": "NEW YORK, Oct. 19, 2026 /PRNewswire/ -- American News Group News Commentary - China held $590.7 billion of U.S. Treasury securities at the end of August, down from $699.7 billion a year earlier, according to U.S. Treasury data released Friday. Fortune called \u2026"
-      },
-      {
-        "title": "Cboe to expand options trading hours for major stocks and ETFs",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html",
-        "published_at": "2026-10-15T12:01:59Z",
-        "description": "Cboe will offer trading on 24 of the most actively traded companies and five ETFs between 7:30 a.m. and 9:25 a.m. ET and 4:00 p.m. to 4:15 p.m. ET."
       }
     ],
     "IWF": [
