@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:39:48.043414+00:00",
+  "generated_at": "2026-11-14T00:53:33.996976+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
+        "published_at": "2026-11-12T21:16:37Z",
+        "description": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund."
+      },
+      {
         "title": "US stock market selloff: Four indicators suggest correction may not be over",
         "source": "The Times of India",
         "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-selloff-four-indicators-suggest-correction-may-not-be-over/articleshow/135760661.cms",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/a95582bd974319a2",
         "published_at": "2026-11-10T12:30:21Z",
         "description": "The post The Nasdaq-100 Just Had Its Best Day Since March Without Nvidia\u2019s Help appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) closed at $679.35 on November 9, 2026, up 3.54%. That was its best session since May 12, 2025. The Nasdaq-100, \u2026"
-      },
-      {
-        "title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Nov. 6",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/fbbf486c17183090",
-        "published_at": "2026-11-10T11:30:31Z",
-        "description": "This article first appeared on GuruFocus.\nINVESCO QQQ Trust (QQQ) extended its run of one-sided ETF activity last Friday, adding $2.82 billion of stock and selling nothing. The $446.09 billion fund increased all 101 of its positions and decreased none, puttin\u2026"
       }
     ],
     "IEFA": [],
@@ -427,6 +427,13 @@
       }
     ],
     "IJH": [
+      {
+        "title": "IJH Holders Booked a $116,670 Gain on $300,000, but the Promotion Rule Sells Their Best Winners",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/faba2591ce878c8c",
+        "published_at": "2026-11-12T22:50:27Z",
+        "description": "The post IJH Holders Booked a $116,670 Gain on $300,000, but the Promotion Rule Sells Their Best Winners appeared first on 24/7 Wall St..\nSay you own a growing mid-sized company through the iShares Core S&P Mid-Cap ETF (NYSEARCA:IJH). For years, the stock ris\u2026"
+      },
       {
         "title": "iShares Core S&P Mid-Cap (IJH) Adds Glaukos and TechnipFMC on Nov. 3",
         "source": "Biztoc.com",
