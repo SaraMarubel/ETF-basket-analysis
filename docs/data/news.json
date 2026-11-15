@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-15T15:39:10.581352+00:00",
+  "generated_at": "2026-11-15T21:02:09.262804+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "VOO & Chill: Inflows Stay Strong as Risk-Off Sentiment Pressures the S&P 500 - State Street SPDR S&P 500 ETF\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/573dc44aeb9ce1a0",
+        "published_at": "2026-11-14T20:56:55Z",
+        "description": "The Vanguard S&P 500 ETF continues to attract strong inflows as investors embrace the \u201cVOO & Chill\u201d phenomenon."
+      },
       {
         "title": "Vanguard Has an ETF That Chases Winning Stocks on Purpose. Most VOO Owners Have Never Heard of VFMO",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/eddf19d2a2110397",
         "published_at": "2026-11-06T17:00:46Z",
         "description": "VOO Is Down 6% From Its High. Over the Past Year It's Up 10%. Which Number Should Investors Focus On?\nThe Vanguard S&P 500 ETF (NYSEMKT: VOO) is about 6% below its October peak after a punishing post-election Thursday on Nov. 5. Over the past year, however, i\u2026"
-      },
-      {
-        "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/0929b6ae45089753",
-        "published_at": "2026-11-05T00:30:25Z",
-        "description": "Most investors know that in the long run, the S&P 500 logs an average annual gain of about 10% per year (although some years are much better than others). But what does that mean in more tangible terms?\nLet's assume you invested $5,000 in the Vanguard S&P 500\u2026"
       }
     ],
     "IVV": [
@@ -347,6 +347,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Gold Price Slips to Key Support as Fed Rate Risks and GLD ETF Outflows Build",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f4d1365d6865f1c2",
+        "published_at": "2026-11-14T15:50:53Z",
+        "description": "Gold has come under intense pressure this month and is now trading near an important support level, as the risk of Federal Reserve rate hikes and ETF outflows builds."
+      },
+      {
         "title": "Gold Stocks Dip: What's Going On? - SPDR Gold Shares (ARCA:GLD), Newmont (NYSE:NEM), Agnico Eagle Mines\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/b4c554e5b1b10dff",
@@ -380,13 +387,6 @@
         "url": "https://biztoc.com/x/cfd1c0e80e79fd2b",
         "published_at": "2026-10-19T23:00:10Z",
         "description": "The post Forget GLD. Investors Sent $500 Million to the Cheaper SPDR Gold Fund appeared first on 24/7 Wall St..\nSPDR Gold Shares (NYSEARCA:GLD) is the gold ETF most investors know first. GLD launched in November 2004, holds physical bullion, and trades with d\u2026"
-      },
-      {
-        "title": "China's Treasury Pile Is Shrinking on Paper. The Custody Data Tell a Different Story",
-        "source": "PRNewswire",
-        "url": "https://www.prnewswire.com/news-releases/chinas-treasury-pile-is-shrinking-on-paper-the-custody-data-tell-a-different-story-302912478.html",
-        "published_at": "2026-10-19T12:15:00Z",
-        "description": "NEW YORK, Oct. 19, 2026 /PRNewswire/ -- American News Group News Commentary - China held $590.7 billion of U.S. Treasury securities at the end of August, down from $699.7 billion a year earlier, according to U.S. Treasury data released Friday. Fortune called \u2026"
       }
     ],
     "IWF": [
