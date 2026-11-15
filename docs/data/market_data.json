@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:23:57.346890+00:00",
+  "generated_at": "2026-11-15T15:38:45.356872+00:00",
   "risk_free_rate_pct": 4.12,
   "etfs": {
     "VOO": {
@@ -6098,7 +6098,7 @@
       "options": {
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 27.4,
-        "call_open_interest": 2067,
+        "call_open_interest": 2069,
         "put_open_interest": 652,
         "put_call_oi_ratio": 0.32,
         "expirations_available": 4
@@ -7946,9 +7946,9 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 74.3,
-        "call_open_interest": 5956,
-        "put_open_interest": 1668,
+        "atm_implied_vol_pct": 80.3,
+        "call_open_interest": 5972,
+        "put_open_interest": 1669,
         "put_call_oi_ratio": 0.28,
         "expirations_available": 4
       },
@@ -8914,8 +8914,8 @@
         "nearest_expiration": "2026-11-20",
         "atm_implied_vol_pct": 40.2,
         "call_open_interest": 1089,
-        "put_open_interest": 129,
-        "put_call_oi_ratio": 0.12,
+        "put_open_interest": 140,
+        "put_call_oi_ratio": 0.13,
         "expirations_available": 4
       },
       "strongest_holding": {
@@ -9395,7 +9395,7 @@
       ],
       "options": {
         "nearest_expiration": "2026-11-20",
-        "atm_implied_vol_pct": 58.3,
+        "atm_implied_vol_pct": 67.7,
         "call_open_interest": 1386,
         "put_open_interest": 1008,
         "put_call_oi_ratio": 0.73,
