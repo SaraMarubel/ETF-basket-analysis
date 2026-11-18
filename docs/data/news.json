@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T23:30:49.111223+00:00",
+  "generated_at": "2026-11-18T07:23:08.903063+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -340,6 +340,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Harvard and Dartmouth Keep Bitcoin ETF Share Counts Steady as Q3 Values Rise",
+        "source": "newsBTC",
+        "url": "https://www.newsbtc.com/bitcoin-news/harvard-dartmouth-bitcoin-etf-holdings-q3-2026/",
+        "published_at": "2026-11-17T01:00:00Z",
+        "description": "Harvard and Dartmouth\u2019s latest filings show stable Bitcoin ETF share counts, with higher quarter-end valuations and different choices elsewhere."
+      },
+      {
         "title": "Goldman Sachs Says Wait With Gold Until 2027; China Isn't Listening - SPDR Gold Shares (ARCA:GLD), iShares\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a0de635a9e6b5470",
@@ -373,13 +380,6 @@
         "url": "https://www.dcforecasts.com/analysis/bitcoin-200-day-moving-average-holds-2026/",
         "published_at": "2026-11-08T15:31:24Z",
         "description": "Bitcoin is about 13% lower in 2026 after a 6.3% decline in 2025, but daily prices remain above the 200-day moving average and below the 50-day line."
-      },
-      {
-        "title": "'Another Golden Asteroid Story': Why Lab-Made Gold Won't Crash Bullion - SPDR Gold Shares (ARCA:GLD), iShares\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/74c07f6939b4d9c6",
-        "published_at": "2026-10-27T12:35:39Z",
-        "description": "A startup claims it turned mercury into real gold using fusion neutrons, but experts urge caution on cost and scalability."
       }
     ],
     "IWF": [
