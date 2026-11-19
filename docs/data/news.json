@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:14:31.944269+00:00",
+  "generated_at": "2026-11-19T01:53:08.290507+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Secretive hedge fund RenTech dodges Nvidia bloodbath that hits other big funds, NY teachers\u2019 pension",
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/11/17/business/secretive-hedge-fund-rentech-dodges-nvidia-bloodbath/",
+        "published_at": "2026-11-17T22:00:49Z",
+        "description": "Computer models triggered a massive sell-off before the AI darling cratered 31% \u2014 leaving everyday New York teachers and top hedge-fund stars bleeding on paper."
+      },
+      {
         "title": "Forget QQQ: The Company Behind It Runs the Same Index for $30 Less a Year on a $100K Balance",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/3ae7cf0a20deeedf",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/913124cedccb5a48",
         "published_at": "2026-11-13T06:12:51Z",
         "description": "Despite NVDA Rout, Investors Have Poured In $37.5B In US Stock ETFs In 5 Days \u2013 Here\u2019s Where The Money Went\n- The Vanguard S&P 500 ETF has attracted more than $16.9 billion in inflows over five trading days ending Nov. 10.\n- This was followed by the Nasdaq 10\u2026"
-      },
-      {
-        "title": "Why Nvidia stock drop isn't a big deal for many ETF, mutual fund investors",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/12/nvidia-stock-drop-etf-mutual-fund-investors.html",
-        "published_at": "2026-11-12T21:16:37Z",
-        "description": "Nvidia stock accounts for a fairly large share of many mutual funds and ETFs. But losses in the stock don't necessarily mean big losses for the overall fund."
       }
     ],
     "IEFA": [],
@@ -241,13 +241,6 @@
         "url": "https://www.livemint.com/money/personal-finance/us-treasury-yields-bonds-indian-investors-dollar-denominated-debt-rupee-depreciation-global-bond-market-11792739189215.html",
         "published_at": "2026-10-26T01:31:03Z",
         "description": "Rising US Treasury yields and a weaker rupee are drawing Indian investors toward dollar-denominated debt as a fixed-income diversifier."
-      },
-      {
-        "title": "Should You Sell BND Now, or Is It the Best Bond Buy in 3 Years?",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/ab2997da50dbe5ef",
-        "published_at": "2026-10-17T14:53:16Z",
-        "description": "The post Should You Sell BND Now, or Is It the Best Bond Buy in 3 Years? appeared first on 24/7 Wall St..\nBefore September 23, the 10-year Treasury had not closed at 5.1% or higher since July 13, 2007, and it closed there again on October 15. The Vanguard Tot\u2026"
       }
     ],
     "SCHD": [
