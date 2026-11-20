@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:03:05.709830+00:00",
+  "generated_at": "2026-11-20T07:10:47.581838+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f63a34cd882be588",
+        "published_at": "2026-11-19T06:40:59Z",
+        "description": "Will the S&P 500 open higher? Polymarket odds hit 73% as Wall Street digests Nvidia's Q3 earnings, the Anthropic IPO, and cooling oil prices."
+      },
+      {
         "title": "Apple Is the Only Magnificent Seven Stock Near a Record",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/95510d068a0833ae",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/aeabcd9744c78a4b",
         "published_at": "2026-11-13T17:17:31Z",
         "description": "The post The S&P 500 Has a \u201cPure Value\u201d Version. RPV Gives Its Cheapest Stocks the Biggest Weights appeared first on 24/7 Wall St..\nIf you own an S&P 500 index fund, your largest positions are the companies that have grown the most. In SPDR S&P 500 ETF Trust \u2026"
-      },
-      {
-        "title": "SPDR S&P 500 ETF (SPY) Buys $335.9 Million More Apple on Nov. 11",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/611b5080d103654c",
-        "published_at": "2026-11-13T11:44:58Z",
-        "description": "This article first appeared on GuruFocus.\nSPDR S&P 500 ETF Trust (SPY) recorded a net inflow of $4.25 billion in ETF activity on Wednesday, with gross purchases of $4.25 billion and no sales. SPY increased 502 positions and decreased none, against $807.14 bil\u2026"
       }
     ],
     "VTI": [
@@ -166,6 +166,13 @@
     ],
     "QQQ": [
       {
+        "title": "Invesco QQQ Is 14% Below Its October Record. Here's Where I Think It Will Be in 2030",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/c9f84af2ca0fb5da",
+        "published_at": "2026-11-18T23:22:47Z",
+        "description": "The Invesco QQQ Trust (NASDAQ:QQQ) closed at a record $759.66 on Oct. 6. Since then, the exchange-traded fund that tracks the Nasdaq-100 has fallen to roughly $654 as of this writing, about 14% below the high.\nIt's still up about 6% in 2026, but the drop has \u2026"
+      },
+      {
         "title": "What investors should know about Anthropic's unusual IPO",
         "source": "Abcnews.com",
         "url": "https://abcnews.com/US/wireStory/investors-anthropics-unusual-ipo-138254440",
@@ -199,13 +206,6 @@
         "url": "https://biztoc.com/x/d1281547f16c2506",
         "published_at": "2026-11-18T02:58:01Z",
         "description": "The post The Nasdaq-100 Is Doing Something It Did Only in 2000 and 2018. Here\u2019s What Happened Next Both Times appeared first on 24/7 Wall St..\nA retiree who had $250,000 in the Invesco QQQ Trust (NASDAQ: QQQ) at its October 6 record has about $216,199 today.\n\u2026"
-      },
-      {
-        "title": "Secretive hedge fund RenTech dodges Nvidia bloodbath that hits other big funds, NY teachers\u2019 pension",
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/11/17/business/secretive-hedge-fund-rentech-dodges-nvidia-bloodbath/",
-        "published_at": "2026-11-17T22:00:49Z",
-        "description": "Computer models triggered a massive sell-off before the AI darling cratered 31% \u2014 leaving everyday New York teachers and top hedge-fund stars bleeding on paper."
       }
     ],
     "IEFA": [],
@@ -297,6 +297,13 @@
       }
     ],
     "AGG": [
+      {
+        "title": "AGG Has a Free Twin. BKAG Tracks the Same Bond Index for 0.00%",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/b5f4a9035f004d37",
+        "published_at": "2026-11-18T23:05:09Z",
+        "description": "The post AGG Has a Free Twin. BKAG Tracks the Same Bond Index for 0.00% appeared first on 24/7 Wall St..\nIf you own the iShares Core U.S. Aggregate Bond ETF (NYSEARCA:AGG), you already pay very little for broad exposure to the bond market. A lesser-known fund\u2026"
+      },
       {
         "title": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
         "source": "CNBC",
