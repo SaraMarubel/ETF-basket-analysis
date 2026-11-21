@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-21T12:36:52.652134+00:00",
+  "generated_at": "2026-11-21T21:39:12.044806+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "Where Will VOO Be in 30 Years? Here's What History Says",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/02e373b51a17900a",
+        "published_at": "2026-11-20T15:07:18Z",
+        "description": "The Vanguard S&P 500 ETF (NYSEMKT: VOO) has been one of the simplest and cheapest ways for investors to build long-term wealth. By investing in the S&P 500, you're investing in practically the entire U.S. economic growth story.\nHistorically, the S&P 500 has d\u2026"
+      },
       {
         "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None",
         "source": "Biztoc.com",
@@ -37,16 +44,16 @@
         "url": "https://biztoc.com/x/129109d29cb4ddb4",
         "published_at": "2026-11-16T13:23:08Z",
         "description": "Ten years ago, a $10,000 investment made into the Vanguard S&P 500 ETF (NYSEMKT: VOO) might have sounded pretty boring. Instead, that exchange-traded fund (ETF) has turned into one of the best things people could have put their money into. Because that $10,00\u2026"
-      },
-      {
-        "title": "VOO & Chill: Inflows Stay Strong as Risk-Off Sentiment Pressures the S&P 500 - State Street SPDR S&P 500 ETF\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/573dc44aeb9ce1a0",
-        "published_at": "2026-11-14T20:56:55Z",
-        "description": "The Vanguard S&P 500 ETF continues to attract strong inflows as investors embrace the \u201cVOO & Chill\u201d phenomenon."
       }
     ],
     "IVV": [
+      {
+        "title": "3 most popular ASX ETFs for international investing as Aussie shares underperform",
+        "source": "Motley Fool Australia",
+        "url": "https://www.fool.com.au/2026/11/21/3-most-popular-asx-etfs-for-international-investing-as-aussie-shares-underperform/",
+        "published_at": "2026-11-20T20:30:00Z",
+        "description": "In terms of growth, the ASX 200 is underperforming its global peers by a long way in CY26. \nThe post 3 most popular ASX ETFs for international investing as Aussie shares underperform appeared first on The Motley Fool Australia."
+      },
       {
         "title": "What iShares Core S&P 500 ETF (IVV) Sold: Apple Leads on Nov. 11",
         "source": "Biztoc.com",
@@ -81,13 +88,6 @@
         "url": "https://biztoc.com/x/c57eaeb28cb36e9e",
         "published_at": "2026-11-06T12:06:21Z",
         "description": "This article first appeared on GuruFocus.\nETF activity was one-sided on Wednesday, with iShares Core S&P 500 ETF (IVV) buying across the board and selling nothing. The fund's gross purchases totaled $2.22 billion, matching its net bought figure, and it increa\u2026"
-      },
-      {
-        "title": "The fund that created the most wealth in 10 years was a plain S&P 500 ETF: $263 billion",
-        "source": "The Times of India",
-        "url": "https://economictimes.indiatimes.com/news/international/us/the-fund-that-created-the-most-wealth-in-10-years-was-a-plain-sp-500-etf-263-billion/articleshow/135572076.cms",
-        "published_at": "2026-11-05T18:59:39Z",
-        "description": "The iShares Core S&P 500 ETF (IVV) generated the most shareholder value over the last 10 years. According to a Morningstar report, it created $263.1 billion in wealth for investors. Meanwhile, the Invesco QQQ Trust (QQQ) followed with $195.2 billion created f\u2026"
       }
     ],
     "SPY": [
@@ -152,6 +152,13 @@
     ],
     "QQQ": [
       {
+        "title": "Seven in 10 Nasdaq 100 Stocks Are in a Bear Market - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/50f5929330ca3b8a",
+        "published_at": "2026-11-20T16:06:07Z",
+        "description": "Seventy-one Nasdaq 100 stocks sit 20% or more below their records as QQQ slides. Nvidia trades under 10 times earnings. Black Friday sale or value trap?"
+      },
+      {
         "title": "Invesco QQQ Is 14% Below Its October Record. Here's Where I Think It Will Be in 2030",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/c9f84af2ca0fb5da",
@@ -185,13 +192,6 @@
         "url": "https://biztoc.com/x/3ebe5ceda557debf",
         "published_at": "2026-11-18T11:47:05Z",
         "description": "The post $10,000 in QQQ in November 1999, Months Before the Dot-Com Crash, Is Now Worth $101,185 appeared first on 24/7 Wall St..\nAnyone who put $10,000 into the Invesco QQQ Trust (NASDAQ:QQQ) on November 1, 1999 bought just months before the dot-com crash. B\u2026"
-      },
-      {
-        "title": "The Nasdaq-100 Is Doing Something It Did Only in 2000 and 2018. Here\u2019s What Happened Next Both Times",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d1281547f16c2506",
-        "published_at": "2026-11-18T02:58:01Z",
-        "description": "The post The Nasdaq-100 Is Doing Something It Did Only in 2000 and 2018. Here\u2019s What Happened Next Both Times appeared first on 24/7 Wall St..\nA retiree who had $250,000 in the Invesco QQQ Trust (NASDAQ: QQQ) at its October 6 record has about $216,199 today.\n\u2026"
       }
     ],
     "IEFA": [],
@@ -313,15 +313,7 @@
         "description": "The post This Little-Known ETF Lets a Computer Hunt for the Cheapest Quality Stocks appeared first on 24/7 Wall St..\nValue funds have rallied in 2026. Most investors get that exposure through Vanguard Value ETF (NYSEARCA:VTV), a broad, very cheap index fund. \u2026"
       }
     ],
-    "VXUS": [
-      {
-        "title": "Forget VXUS: VOO Returned 320.81% Over Ten Years Against VXUS\u2019s 139.56%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1c87f4d734658840",
-        "published_at": "2026-10-19T21:44:28Z",
-        "description": "The post Forget VXUS: VOO Returned 320.81% Over Ten Years Against VXUS\u2019s 139.56% appeared first on 24/7 Wall St..\nVanguard Total International Stock ETF (NASDAQ:VXUS) is the standard way investors add non-US stocks to a portfolio, and the logic holds up. VXUS\u2026"
-      }
-    ],
+    "VXUS": [],
     "VWO": [],
     "GLD": [
       {
