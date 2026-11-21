@@ -1,8 +1,15 @@
 {
-  "generated_at": "2026-11-20T16:57:20.143202+00:00",
+  "generated_at": "2026-11-21T01:30:13.522754+00:00",
   "has_key": true,
   "news": {
     "VOO": [
+      {
+        "title": "A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/724ee4f497a4752c",
+        "published_at": "2026-11-19T23:39:25Z",
+        "description": "The post A 66-Year-Old With $600,000 in VOO Owns Nvidia Without Ever Buying a Share. SCHD Owns None. appeared first on 24/7 Wall St..\nPicture a 66-year-old retiree with $600,000 in the Vanguard S&P 500 ETF (NYSEARCA:VOO). To most holders, VOO is one simple, c\u2026"
+      },
       {
         "title": "Investors Love the S&P 500 Index. Here\u2019s Why I Don\u2019t",
         "source": "Biztoc.com",
@@ -37,13 +44,6 @@
         "url": "https://biztoc.com/x/573dc44aeb9ce1a0",
         "published_at": "2026-11-14T20:56:55Z",
         "description": "The Vanguard S&P 500 ETF continues to attract strong inflows as investors embrace the \u201cVOO & Chill\u201d phenomenon."
-      },
-      {
-        "title": "Vanguard Has an ETF That Chases Winning Stocks on Purpose. Most VOO Owners Have Never Heard of VFMO",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/616f0860c92ea542",
-        "published_at": "2026-11-13T11:43:29Z",
-        "description": "The post Vanguard Has an ETF That Chases Winning Stocks on Purpose. Most VOO Owners Have Never Heard of VFMO appeared first on 24/7 Wall St..\nIf you own the Vanguard S&P 500 ETF (NYSEARCA:VOO), you hold one of the best-known low-cost funds in the country. It \u2026"
       }
     ],
     "IVV": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Anthropic hits $2 trillion market value in IPO debut; major indexes fall",
+        "source": "Freerepublic.com",
+        "url": "https://freerepublic.com/focus/f-chat/4403659/posts",
+        "published_at": "2026-11-19T19:22:54Z",
+        "description": "Anthropic's IPO is having a blockbuster first day following the AI lab's record-setting fundraising. Shares opened more than 30% above their offering price on Thursday at $111.50 a share, conferring a $2 trillion market value -- a level exceeded by only a han\u2026"
+      },
+      {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f63a34cd882be588",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/fff5f2d5282f0a91",
         "published_at": "2026-11-15T15:29:33Z",
         "description": "The post Gilead Beat the S&P 500 by More Than 25 Points in the Past Year, but $1,000 From a Decade Ago Is Still Worth Less Than $3,500 appeared first on 24/7 Wall St..\nGilead Sciences (NASDAQ:GILD) returned 37.56% over the past year through the Nov. 13, 2026 \u2026"
-      },
-      {
-        "title": "The S&P 500 Has a \u201cPure Value\u201d Version. RPV Gives Its Cheapest Stocks the Biggest Weights",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/aeabcd9744c78a4b",
-        "published_at": "2026-11-13T17:17:31Z",
-        "description": "The post The S&P 500 Has a \u201cPure Value\u201d Version. RPV Gives Its Cheapest Stocks the Biggest Weights appeared first on 24/7 Wall St..\nIf you own an S&P 500 index fund, your largest positions are the companies that have grown the most. In SPDR S&P 500 ETF Trust \u2026"
       }
     ],
     "VTI": [
@@ -325,6 +325,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Gold Stocks Fall: What's Going On? - SPDR Gold Shares (ARCA:GLD), Newmont (NYSE:NEM), Agnico Eagle Mines\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/470e90f6148c0828",
+        "published_at": "2026-11-19T18:20:54Z",
+        "description": "SPDR Gold (NYSE: GLD) shares are falling Thursday after gold set a new low under $3,700 an ounce. Here's what you should know."
+      },
+      {
         "title": "Gold's bad year is getting worse. Why its price keeps falling",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
@@ -358,13 +365,6 @@
         "url": "https://biztoc.com/x/a0de635a9e6b5470",
         "published_at": "2026-11-16T11:19:19Z",
         "description": "China boosts gold reserves below $4,000 as Goldman Sachs trims its 2026 target and Luke Gromen warns of U.S. debt risks."
-      },
-      {
-        "title": "Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3",
-        "source": "Cointelegraph",
-        "url": "https://cointelegraph.com/news/harvard-dartmouth-bitcoin-etf-ibit-up-q3",
-        "published_at": "2026-11-16T08:27:39Z",
-        "description": "Harvard\u2019s gold ETF share count rose nearly 20-fold in Q3, while Dartmouth kept its positions in Solana and Ether staking ETFs unchanged."
       }
     ],
     "IWF": [
@@ -400,6 +400,13 @@
       }
     ],
     "VIG": [
+      {
+        "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+        "published_at": "2026-11-19T17:59:04Z",
+        "description": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments."
+      },
       {
         "title": "If You Own VIG, This Rising Dividend Fund Deserves a Look Before You Add More",
         "source": "Biztoc.com",
