@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:32:16.616085+00:00",
+  "generated_at": "2026-11-23T20:11:23.550698+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -48,6 +48,13 @@
     ],
     "IVV": [
       {
+        "title": "The S&P 500 has dropped over 11% since October. Is the IVV ETF a buy?",
+        "source": "Motley Fool Australia",
+        "url": "https://www.fool.com.au/2026/11/23/the-sp-500-has-dropped-over-11-since-october-is-the-ivv-etf-a-buy/",
+        "published_at": "2026-11-22T20:00:00Z",
+        "description": "Should Aussies turn to their attention to the US share market?\nThe post The S&P 500 has dropped over 11% since October. Is the IVV ETF a buy? appeared first on The Motley Fool Australia."
+      },
+      {
         "title": "3 most popular ASX ETFs for international investing as Aussie shares underperform",
         "source": "Motley Fool Australia",
         "url": "https://www.fool.com.au/2026/11/21/3-most-popular-asx-etfs-for-international-investing-as-aussie-shares-underperform/",
@@ -81,13 +88,6 @@
         "url": "https://biztoc.com/x/3f5e25627a27c836",
         "published_at": "2026-11-09T11:49:50Z",
         "description": "This article first appeared on GuruFocus.\niShares Core S&P 500 ETF (IVV) recorded $220.1 million in net buying last Thursday, with gross traded of $220.1 million and no sells. The ETF activity lifted 498 positions and decreased none, against $852.94 billion i\u2026"
-      },
-      {
-        "title": "iShares Core S&P 500 (IVV) Buys $394.7 Million More Oracle on Nov. 4",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/c57eaeb28cb36e9e",
-        "published_at": "2026-11-06T12:06:21Z",
-        "description": "This article first appeared on GuruFocus.\nETF activity was one-sided on Wednesday, with iShares Core S&P 500 ETF (IVV) buying across the board and selling nothing. The fund's gross purchases totaled $2.22 billion, matching its net bought figure, and it increa\u2026"
       }
     ],
     "SPY": [
@@ -317,6 +317,13 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Lost money on a gold fund this year? The tax rule most gold investors don't know, and the December 31 deadline",
+        "source": "Economictimes.com",
+        "url": "https://m.economictimes.com/news/international/us/lost-money-on-a-gold-fund-this-year-the-tax-rule-most-gold-investors-dont-know-and-the-december-31-deadline/articleshow/136075957.cms",
+        "published_at": "2026-11-22T18:44:28Z",
+        "description": "Gold ETF investors sitting on losses have until December 31 to sell and potentially offset capital gains on their 2026 tax returns. There is another rule to watch: profits from certain physically backed gold and silver ETFs held over a year can face a maximum\u2026"
+      },
+      {
         "title": "Gold Stocks Fall: What's Going On? - SPDR Gold Shares (ARCA:GLD), Newmont (NYSE:NEM), Agnico Eagle Mines\u2026",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/470e90f6148c0828",
@@ -350,13 +357,6 @@
         "url": "https://www.newsbtc.com/bitcoin-news/harvard-dartmouth-bitcoin-etf-holdings-q3-2026/",
         "published_at": "2026-11-17T01:00:00Z",
         "description": "Harvard and Dartmouth\u2019s latest filings show stable Bitcoin ETF share counts, with higher quarter-end valuations and different choices elsewhere."
-      },
-      {
-        "title": "Goldman Sachs Says Wait With Gold Until 2027; China Isn't Listening - SPDR Gold Shares (ARCA:GLD), iShares\u2026",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/a0de635a9e6b5470",
-        "published_at": "2026-11-16T11:19:19Z",
-        "description": "China boosts gold reserves below $4,000 as Goldman Sachs trims its 2026 target and Luke Gromen warns of U.S. debt risks."
       }
     ],
     "IWF": [
@@ -385,6 +385,13 @@
       }
     ],
     "VIG": [
+      {
+        "title": "Donald Trump\u2019s investment portfolio: Latest stocks disclosure shows move in Home Depot, McDonald, Nvidia, Tesla, Apple",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/money/donald-trump-s-investment-portfolio-latest-stocks-disclosure-shows-move-in-home-depot-mcdonald-nvidia-tesla-apple-11795337196628.html",
+        "published_at": "2026-11-22T09:40:02Z",
+        "description": "President Donald Trump\u2019s sprawling investment portfolio shifted into dividend-producing ETFs and government securities in September, selling blue-chip names like McDonald\u2019s Corp., Home Depot Inc., and Comcast Corp."
+      },
       {
         "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
         "source": "CNBC",
