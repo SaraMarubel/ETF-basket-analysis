@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:19:21.705226+00:00",
+  "generated_at": "2026-11-26T13:52:21.086620+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -94,6 +94,13 @@
       {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e1528c11e019ab4b",
+        "published_at": "2026-11-25T06:33:07Z",
+        "description": "Will the S&P 500 open higher? Polymarket odds drop to 38% as Wall Street weighs Nvidia probes, PCE inflation data, and sliding oil prices."
+      },
+      {
+        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
         "url": "https://biztoc.com/x/31420b9da4305076",
         "published_at": "2026-11-24T07:10:16Z",
         "description": "Will the S&P 500 open higher? Polymarket odds hit 62% as Wall Street rides Nvidia's CEO comeback rally and awaits Dell earnings."
@@ -125,13 +132,6 @@
         "url": "https://freerepublic.com/focus/f-chat/4403659/posts",
         "published_at": "2026-11-19T19:22:54Z",
         "description": "Anthropic's IPO is having a blockbuster first day following the AI lab's record-setting fundraising. Shares opened more than 30% above their offering price on Thursday at $111.50 a share, conferring a $2 trillion market value -- a level exceeded by only a han\u2026"
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/f63a34cd882be588",
-        "published_at": "2026-11-19T06:40:59Z",
-        "description": "Will the S&P 500 open higher? Polymarket odds hit 73% as Wall Street digests Nvidia's Q3 earnings, the Anthropic IPO, and cooling oil prices."
       }
     ],
     "VTI": [
