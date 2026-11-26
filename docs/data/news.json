@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:17:37.168167+00:00",
+  "generated_at": "2026-11-26T00:19:21.705226+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Nasdaq 100 Is Cheapest vs. S&P 500 in 20 Years: Jefferies - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/e5744ae11e4d596b",
+        "published_at": "2026-11-24T15:17:27Z",
+        "description": "The Nasdaq 100 is at its cheapest vs. the S&P 500 in 20 years, Jefferies says, as QQQ swings near a bear market and the bank names 35 tech picks."
+      },
+      {
         "title": "QQQ Just Had Its Biggest Opening Jump Since It Launched in 1999",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/0985fb1417ea86ab",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/61b58125c30f94f3",
         "published_at": "2026-11-23T19:45:55Z",
         "description": "Jensen Is Back Please click here for a chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ). Note the following: The chart shows a huge rally on the news of Jensen Huang returning as CEO of Nvidia"
-      },
-      {
-        "title": "Stocks surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally",
-        "source": "Yahoo Entertainment",
-        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html",
-        "published_at": "2026-11-23T18:20:39Z",
-        "description": "Stocks soared on Monday as investors cheered Nvidia's (NVDA) board reinstating Jensen Huang as CEO. It marked a major rebound on Monday as buyers stepped back in for the holiday-shortened week after a bruising sell-off.The S&P 500 (^GSPC) rose 5% following se\u2026"
       }
     ],
     "IEFA": [],
@@ -295,6 +295,20 @@
     "VWO": [],
     "GLD": [
       {
+        "title": "Gold is doing something strange. Here's one way to play it",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/5bd11d1b9d7bb251",
+        "published_at": "2026-11-24T20:07:40Z",
+        "description": "Gold has stopped trading like a haven and started trading more like a market index this year. The past week has underscored it. Fears around AI, a hawkish Fed, and a stronger dollar sent many investors rushing to raise cash, and gold was sold along with stock\u2026"
+      },
+      {
+        "title": "Gold is doing something strange. Here's one way to play it",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+        "published_at": "2026-11-24T19:25:13Z",
+        "description": "Gold is not acting like the traditional safe haven. How one trader is playing the move."
+      },
+      {
         "title": "Gold vs Bitcoin: Gold Fell to an August 2025 Low, and One BTC Buys 17 Ounces",
         "source": "Dcforecasts.com",
         "url": "https://www.dcforecasts.com/bitcoin-news/gold-vs-bitcoin-august-2025-low-btc-17-ounces/",
@@ -321,20 +335,6 @@
         "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
         "published_at": "2026-11-19T13:37:52Z",
         "description": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal."
-      },
-      {
-        "title": "Gold and Silver Stocks Drop: What's Going On? - SPDR Gold Shares (ARCA:GLD), iShares Silver Trust (ARCA:SLV)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/28a7588589565cb0",
-        "published_at": "2026-11-18T20:19:10Z",
-        "description": "SPDR Gold Shares ETF and iShares Silver Trust are falling Wednesday as both funds trade at their lowest levels since September 2025."
-      },
-      {
-        "title": "Gold Price Drop Reaches a 14-Month Low, 29% Below January\u2019s Record",
-        "source": "Dcforecasts.com",
-        "url": "https://www.dcforecasts.com/bitcoin-news/gold-price-drop-14-month-low-real-yields-bitcoin/",
-        "published_at": "2026-11-18T09:06:06Z",
-        "description": "Gold futures slid to about $3,772, their lowest since September 2025 and 29% below January's record, as U.S. real yields climbed to 2.89%. Bitcoin, by contrast, is flat since Feb. 23."
       }
     ],
     "IWF": [
