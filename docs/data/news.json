@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:34:21.192439+00:00",
+  "generated_at": "2026-11-27T13:50:10.312710+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -145,6 +145,13 @@
     ],
     "QQQ": [
       {
+        "title": "Michael Burry Is Mostly Long as US Stocks Reverse Off Wednesday's Lows - Invesco QQQ Trust, Series 1\u2026",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/93ea10e87ab64fa2",
+        "published_at": "2026-11-26T03:16:14Z",
+        "description": "Michael Burry's move to an almost entirely long portfolio was discussed on financial news as stocks reversed off their lows Wednesday."
+      },
+      {
         "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/f175c428480cb5a9",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/93b7cd9c0fda3001",
         "published_at": "2026-11-24T02:05:54Z",
         "description": "The post QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1% appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (QQQ) has increasingly become a bet on the artificial intelligence (AI) boom, or bubble, depending on your perspective, conti\u2026"
-      },
-      {
-        "title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-        "published_at": "2026-11-23T23:24:02Z",
-        "description": "Nvidia break record for single stock options volume"
       }
     ],
     "IEFA": [],
