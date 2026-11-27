@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:52:21.086620+00:00",
+  "generated_at": "2026-11-27T00:34:21.192439+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "S&P 500 Bear Market Needs 3 Triggers, Deutsche Bank Says - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/90403dbba41ee266",
+        "published_at": "2026-11-25T16:10:43Z",
+        "description": "Deutsche Bank finds every bear market in 50 years had a recession, recession fears or Fed hikes. Strong GDP and jobless claims test that rule for SPY."
+      },
+      {
         "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/e1528c11e019ab4b",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/d3ca07495bc1e344",
         "published_at": "2026-11-20T06:29:00Z",
         "description": "Will S&P 500 open higher? Polymarket odds dip to 44% as Wall Street absorbs Anthropic's record IPO debut, tech pullbacks."
-      },
-      {
-        "title": "Anthropic hits $2 trillion market value in IPO debut; major indexes fall",
-        "source": "Freerepublic.com",
-        "url": "https://freerepublic.com/focus/f-chat/4403659/posts",
-        "published_at": "2026-11-19T19:22:54Z",
-        "description": "Anthropic's IPO is having a blockbuster first day following the AI lab's record-setting fundraising. Shares opened more than 30% above their offering price on Thursday at $111.50 a share, conferring a $2 trillion market value -- a level exceeded by only a han\u2026"
       }
     ],
     "VTI": [
@@ -144,6 +144,13 @@
       }
     ],
     "QQQ": [
+      {
+        "title": "Nasdaq 100 Worst 2-Month Drop Since 2008 as AI Trade Unwinds - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/f175c428480cb5a9",
+        "published_at": "2026-11-25T17:40:17Z",
+        "description": "The Nasdaq 100 has lost about 17% since September, its worst two-month drop since 2008. Invesco QQQ (QQQ) nears bear-market territory."
+      },
       {
         "title": "Nasdaq 100 Is Cheapest vs. S&P 500 in 20 Years: Jefferies - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
         "source": "Biztoc.com",
@@ -178,13 +185,6 @@
         "url": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
         "published_at": "2026-11-23T23:24:02Z",
         "description": "Nvidia break record for single stock options volume"
-      },
-      {
-        "title": "Huang Reinstated\u2014Time To Add Positions In AI And Semi Stocks - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/61b58125c30f94f3",
-        "published_at": "2026-11-23T19:45:55Z",
-        "description": "Jensen Is Back Please click here for a chart of Invesco QQQ Trust Series 1 (NASDAQ:QQQ). Note the following: The chart shows a huge rally on the news of Jensen Huang returning as CEO of Nvidia"
       }
     ],
     "IEFA": [],
