@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:02:41.148634+00:00",
+  "generated_at": "2026-11-28T07:43:41.953084+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Howard Lutnick Says Revised GDP Beat Every Expert Estimate - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/04dd4c35a9c3ca68",
+        "published_at": "2026-11-27T05:02:52Z",
+        "description": "Commerce Secretary Howard Lutnick credited record exports and heavy investment for the strongest U.S. growth in two years."
+      },
+      {
         "title": "Stock Valuations Hit 2018 Levels: Yardeni Sees No Recession - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/a89d150d8349921b",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/cc09ebeef460b599",
         "published_at": "2026-11-23T07:05:36Z",
         "description": "Will the S&P 500 open higher? Polymarket odds hit 88% as Wall Street rebounds from a tech rout, digesting South Korea's market rescue fund."
-      },
-      {
-        "title": "The S&P 500 Is Having the Longest Losing Streak Since February 2020",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/1b0b5a185a698703",
-        "published_at": "2026-11-21T20:13:20Z",
-        "description": "The post The S&P 500 Is Having the Longest Losing Streak Since February 2020 appeared first on 24/7 Wall St..\nState Street SPDR S&P 500 ETF Trust (NYSEARCA:SPY) closed at $689.81 on Friday, November 20, 2026. That was a 3.64% drop, after the fund fell in each\u2026"
       }
     ],
     "VTI": [
@@ -144,6 +144,13 @@
       }
     ],
     "QQQ": [
+      {
+        "title": "A Retiree Who Put $100,000 in SCHD at the End of 2025 Has $127,305 and Collected $2,828 in Dividends. The Same $100,000 in QQQ Is Worth $103,939",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/8df1a71db5011c23",
+        "published_at": "2026-11-27T01:14:26Z",
+        "description": "The post A Retiree Who Put $100,000 in SCHD at the End of 2025 Has $127,305 and Collected $2,828 in Dividends. The Same $100,000 in QQQ Is Worth $103,939 appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (NASDAQ:QQQ) is an ETF that tracks the Nasdaq-100.\u2026"
+      },
       {
         "title": "Nasdaq 100 posts its wildest five-day stretch since April 2025",
         "source": "Crypto Briefing",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/0985fb1417ea86ab",
         "published_at": "2026-11-24T13:45:03Z",
         "description": "The post QQQ Just Had Its Biggest Opening Jump Since It Launched in 1999 appeared first on 24/7 Wall St..\nIf you bought the Invesco QQQ Trust (NASDAQ:QQQ) at the 9:30 a.m. ET bell on November 23, 2026, you paid $655.98 a share. By the close, that share was wo\u2026"
-      },
-      {
-        "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/57088b27fce1c0ec",
-        "published_at": "2026-11-24T02:06:01Z",
-        "description": "The post QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164 appeared first on 24/7 Wall St..\nConsider a retiree with a hypothetical $300,000 in the Invesco QQQ Trust (NASDAQ:QQQ). Over the past year, that position paid $1,\u2026"
       }
     ],
     "IEFA": [],
