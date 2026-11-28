@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:50:10.312710+00:00",
+  "generated_at": "2026-11-28T00:02:41.148634+00:00",
   "has_key": true,
   "news": {
     "VOO": [
@@ -92,6 +92,13 @@
     ],
     "SPY": [
       {
+        "title": "Stock Valuations Hit 2018 Levels: Yardeni Sees No Recession - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
+        "source": "Biztoc.com",
+        "url": "https://biztoc.com/x/a89d150d8349921b",
+        "published_at": "2026-11-26T18:10:21Z",
+        "description": "S&P 500 valuations fell to 2018 levels as investors price a recession, but GDP grew 4.3%. Ed Yardeni sees a correction, not a bear market."
+      },
+      {
         "title": "S&P 500 Bear Market Needs 3 Triggers, Deutsche Bank Says - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
         "source": "Biztoc.com",
         "url": "https://biztoc.com/x/90403dbba41ee266",
@@ -125,13 +132,6 @@
         "url": "https://biztoc.com/x/1b0b5a185a698703",
         "published_at": "2026-11-21T20:13:20Z",
         "description": "The post The S&P 500 Is Having the Longest Losing Streak Since February 2020 appeared first on 24/7 Wall St..\nState Street SPDR S&P 500 ETF Trust (NYSEARCA:SPY) closed at $689.81 on Friday, November 20, 2026. That was a 3.64% drop, after the fund fell in each\u2026"
-      },
-      {
-        "title": "Stock Market: Will S&P 500 Open Up or Down Today? - State Street SPDR S&P 500 ETF Trust (ARCA:SPY)",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/d3ca07495bc1e344",
-        "published_at": "2026-11-20T06:29:00Z",
-        "description": "Will S&P 500 open higher? Polymarket odds dip to 44% as Wall Street absorbs Anthropic's record IPO debut, tech pullbacks."
       }
     ],
     "VTI": [
@@ -144,6 +144,13 @@
       }
     ],
     "QQQ": [
+      {
+        "title": "Nasdaq 100 posts its wildest five-day stretch since April 2025",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/nasdaq-100-highest-volatility-since-april-2025/",
+        "published_at": "2026-11-26T22:53:55Z",
+        "description": "Increased volatility in the Nasdaq 100 signals potential market stress, impacting tech-heavy portfolios and raising concerns for investors.\nThe post Nasdaq 100 posts its wildest five-day stretch since April 2025 appeared first on Crypto Briefing."
+      },
       {
         "title": "Michael Burry Is Mostly Long as US Stocks Reverse Off Wednesday's Lows - Invesco QQQ Trust, Series 1\u2026",
         "source": "Biztoc.com",
@@ -178,13 +185,6 @@
         "url": "https://biztoc.com/x/57088b27fce1c0ec",
         "published_at": "2026-11-24T02:06:01Z",
         "description": "The post QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164 appeared first on 24/7 Wall St..\nConsider a retiree with a hypothetical $300,000 in the Invesco QQQ Trust (NASDAQ:QQQ). Over the past year, that position paid $1,\u2026"
-      },
-      {
-        "title": "QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1%",
-        "source": "Biztoc.com",
-        "url": "https://biztoc.com/x/93b7cd9c0fda3001",
-        "published_at": "2026-11-24T02:05:54Z",
-        "description": "The post QQQ Is Almost Half In 10 Stocks. This Nasdaq ETF Caps Every One at 1% appeared first on 24/7 Wall St..\nThe Invesco QQQ Trust (QQQ) has increasingly become a bet on the artificial intelligence (AI) boom, or bubble, depending on your perspective, conti\u2026"
       }
     ],
     "IEFA": [],
@@ -205,13 +205,6 @@
         "url": "https://cryptobriefing.com/creative-planning-bitcoin-etf-holdings-q3/",
         "published_at": "2026-11-03T18:16:57Z",
         "description": "Creative Planning's increased Bitcoin ETF holdings suggest a growing institutional acceptance of crypto, potentially influencing broader market trends.\nThe post Creative Planning expands Bitcoin ETF holdings by 43% in Q3 appeared first on Crypto Briefing."
-      },
-      {
-        "title": "Rupee down, US yields up: Is it time to add Treasuries to your portfolio?",
-        "source": "Livemint",
-        "url": "https://www.livemint.com/money/personal-finance/us-treasury-yields-bonds-indian-investors-dollar-denominated-debt-rupee-depreciation-global-bond-market-11792739189215.html",
-        "published_at": "2026-10-26T01:31:03Z",
-        "description": "Rising US Treasury yields and a weaker rupee are drawing Indian investors toward dollar-denominated debt as a fixed-income diversifier."
       }
     ],
     "SCHD": [
